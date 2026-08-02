@@ -14,7 +14,7 @@ hackernews:
     - transformer
     - agent
     - RAG
-    - fine-tun
+    - fine-tun*
     - Anthropic
     - OpenAI
     - DeepMind
