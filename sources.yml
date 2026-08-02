@@ -1,0 +1,54 @@
+hackernews:
+  min_points: 20
+  window_hours: 24
+  limit: 15
+  keywords:
+    - AI
+    - LLM
+    - GPT
+    - Claude
+    - Gemini
+    - machine learning
+    - deep learning
+    - neural
+    - transformer
+    - agent
+    - RAG
+    - fine-tun
+    - Anthropic
+    - OpenAI
+    - DeepMind
+    - Mistral
+    - Llama
+    - diffusion
+    - open-source model
+papers:
+  hf_limit: 12
+  arxiv_categories: [cs.AI, cs.LG, cs.CL]
+  arxiv_limit: 8
+models:
+  limit: 10
+newsletters:
+  window_days: 3
+  limit: 12
+  feeds:
+    - name: Import AI
+      url: https://importai.substack.com/feed
+    - name: One Useful Thing
+      url: https://www.oneusefulthing.org/feed
+    - name: Latent Space
+      url: https://www.latent.space/feed
+    - name: Interconnects
+      url: https://www.interconnects.ai/feed
+    - name: Ahead of AI
+      url: https://magazine.sebastianraschka.com/feed
+    - name: SemiAnalysis
+      url: https://semianalysis.com/feed
+    - name: ChinAI
+      url: https://chinai.substack.com/feed
+    - name: Don't Worry About the Vase
+      url: https://thezvi.substack.com/feed
+dedup_lookback_editions: 3
+site:
+  title: The Signal
+  tagline: Your daily AI briefing — Hacker News, papers, models & newsletters
