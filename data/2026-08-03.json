@@ -1,0 +1,666 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-02T22:09:41.542970+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49139102",
+        "section": "hackernews",
+        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "score": 329,
+        "score_label": "329 points",
+        "author": "foxtrot8672",
+        "published": "2026-08-01T22:25:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49139102"
+        }
+      },
+      {
+        "id": "hn-49145934",
+        "section": "hackernews",
+        "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+        "url": "https://sprocket-demo.spikonado.com",
+        "score": 117,
+        "score_label": "117 points",
+        "author": "amronos",
+        "published": "2026-08-02T16:26:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49145934"
+        }
+      },
+      {
+        "id": "hn-49147622",
+        "section": "hackernews",
+        "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "url": "https://frogs.vaguespac.es/",
+        "score": 57,
+        "score_label": "57 points",
+        "author": "thebigship",
+        "published": "2026-08-02T19:42:08+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49147622"
+        }
+      },
+      {
+        "id": "hn-49139325",
+        "section": "hackernews",
+        "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+        "score": 54,
+        "score_label": "54 points",
+        "author": "tcp_handshaker",
+        "published": "2026-08-01T22:50:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49139325"
+        }
+      },
+      {
+        "id": "hn-49143688",
+        "section": "hackernews",
+        "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+        "score": 46,
+        "score_label": "46 points",
+        "author": "wa5ina",
+        "published": "2026-08-02T12:01:37+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49143688"
+        }
+      },
+      {
+        "id": "hn-49147606",
+        "section": "hackernews",
+        "title": "EU rules on AI models become enforceable. What's going to change?",
+        "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "devonnull",
+        "published": "2026-08-02T19:40:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49147606"
+        }
+      },
+      {
+        "id": "hn-49143630",
+        "section": "hackernews",
+        "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "url": "https://website-auditor.io/ai-visibility-index",
+        "score": 40,
+        "score_label": "40 points",
+        "author": "SpikeyCoder",
+        "published": "2026-08-02T11:53:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49143630"
+        }
+      },
+      {
+        "id": "hn-49148159",
+        "section": "hackernews",
+        "title": "AI Mania: From Tulips to Tokens",
+        "url": "https://seanhelvey.com/tools-and-their-tools/",
+        "score": 38,
+        "score_label": "38 points",
+        "author": "Lambda11",
+        "published": "2026-08-02T20:48:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49148159"
+        }
+      },
+      {
+        "id": "hn-49143289",
+        "section": "hackernews",
+        "title": "Generative AI floods and dilutes the market for books",
+        "url": "https://arxiv.org/abs/2607.20349",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "theanonymousone",
+        "published": "2026-08-02T11:06:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49143289"
+        }
+      },
+      {
+        "id": "hn-49141008",
+        "section": "hackernews",
+        "title": "Don't credit the LLM",
+        "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+        "score": 34,
+        "score_label": "34 points",
+        "author": "isaacsu",
+        "published": "2026-08-02T04:07:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49141008"
+        }
+      },
+      {
+        "id": "hn-49140869",
+        "section": "hackernews",
+        "title": "OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+        "url": "https://philarchive.org/archive/NIEWTCv17",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "muglug",
+        "published": "2026-08-02T03:41:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49140869"
+        }
+      },
+      {
+        "id": "hn-49139232",
+        "section": "hackernews",
+        "title": "AI opens new era in cognitive studies of wild primates",
+        "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "hhs",
+        "published": "2026-08-01T22:40:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49139232"
+        }
+      },
+      {
+        "id": "hn-49140340",
+        "section": "hackernews",
+        "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "url": "https://costperprompt.com/",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "ahmed_hassan7",
+        "published": "2026-08-02T01:56:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49140340"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2607.28618",
+        "section": "papers",
+        "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+        "url": "https://huggingface.co/papers/2607.28618",
+        "score": 292,
+        "score_label": "292 upvotes",
+        "author": "Bing Yan, Gregory Wolfe, Stefano Martiniani et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and A…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28618"
+        }
+      },
+      {
+        "id": "paper-2607.28227",
+        "section": "papers",
+        "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
+        "url": "https://huggingface.co/papers/2607.28227",
+        "score": 283,
+        "score_label": "283 upvotes",
+        "author": "Hanzhang Zhou, Panrong Tong, Xu Zhang et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execute workflows across…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28227"
+        }
+      },
+      {
+        "id": "paper-2607.26760",
+        "section": "papers",
+        "title": "Metis: Memory Foundation Model",
+        "url": "https://huggingface.co/papers/2607.26760",
+        "score": 256,
+        "score_label": "256 upvotes",
+        "author": "Zeyu Zhang, Ziliang Guo, Yihang Sun et al.",
+        "published": "2026-07-28T20:00:00.000Z",
+        "snippet": "Recent advances in AI agents have increasingly internalized native capabilities into their underlying foundation models, giving rise to multimodal foundation models and large reasoning models. However, agent memory is s…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.26760"
+        }
+      },
+      {
+        "id": "paper-2607.28568",
+        "section": "papers",
+        "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
+        "url": "https://huggingface.co/papers/2607.28568",
+        "score": 168,
+        "score_label": "168 upvotes",
+        "author": "Junlin Yang, Che Jiang, Yu Fu et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbed for studying this capability. We intro…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28568"
+        }
+      },
+      {
+        "id": "paper-2607.28624",
+        "section": "papers",
+        "title": "PhiZero: A World Model Built Around Physical Language",
+        "url": "https://huggingface.co/papers/2607.28624",
+        "score": 159,
+        "score_label": "159 upvotes",
+        "author": "Shuyao Shang, Yuqi Wang, Ruopeng Gao et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "We introduce PhiZero, a physical world model built around physical language, a compact discrete representation of world-state transitions. Existing physical world models typically predict future videos directly in pixel…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28624"
+        }
+      },
+      {
+        "id": "paper-2607.26811",
+        "section": "papers",
+        "title": "DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation",
+        "url": "https://huggingface.co/papers/2607.26811",
+        "score": 89,
+        "score_label": "89 upvotes",
+        "author": "Jiaxing Li, Kai Zou, Cindy Zhou et al.",
+        "published": "2026-07-28T20:00:00.000Z",
+        "snippet": "Existing autoregressive video distillation methods commonly adopt a Distribution Matching Distillation (DMD)-based multi-stage pipeline. However, they typically decouple the initialization and DMD stages -- which then p…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.26811"
+        }
+      },
+      {
+        "id": "paper-2607.27380",
+        "section": "papers",
+        "title": "VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System",
+        "url": "https://huggingface.co/papers/2607.27380",
+        "score": 64,
+        "score_label": "64 upvotes",
+        "author": "Haodong Li, Tianfei Ren, Xiaoxiao Ma et al.",
+        "published": "2026-07-28T20:00:00.000Z",
+        "snippet": "Text-to-video models have achieved remarkable visual quality, yet they still struggle to generate physically consistent dynamics because the temporal evolution of a scene must be inferred implicitly from a highly compre…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.27380"
+        }
+      },
+      {
+        "id": "paper-2607.27919",
+        "section": "papers",
+        "title": "Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory",
+        "url": "https://huggingface.co/papers/2607.27919",
+        "score": 49,
+        "score_label": "49 upvotes",
+        "author": "Rubin Wei, Jiaqi Cao, Jiarui Wang et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "Decoder-only language models entangle long-term memory and reasoning in a single parameter set, making it difficult to scale memory capacity independently. Memory Decoder introduces a parametric long-term memory module…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.27919"
+        }
+      },
+      {
+        "id": "paper-2607.28595",
+        "section": "papers",
+        "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+        "url": "https://huggingface.co/papers/2607.28595",
+        "score": 47,
+        "score_label": "47 upvotes",
+        "author": "Qixun Wang, Yang Shi, Letian Cheng et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "The fundamental goal of agentic visual reasoning is to improve the success rate of multimodal large language models (MLLMs) on complex tasks, rather than merely equipping them with a sophisticated yet inefficient reason…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28595"
+        }
+      },
+      {
+        "id": "paper-2607.26497",
+        "section": "papers",
+        "title": "BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms",
+        "url": "https://huggingface.co/papers/2607.26497",
+        "score": 46,
+        "score_label": "46 upvotes",
+        "author": "Pengyu Wang, Benfeng Xu, Shaohan Wang et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "Retrieval-augmented generation (RAG) spans lexical and dense retrieval, graph-based indexing, and agentic search, but these paradigms are usually evaluated on different benchmarks at one corpus size, leaving their accur…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.26497"
+        }
+      },
+      {
+        "id": "paper-2607.25294",
+        "section": "papers",
+        "title": "CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition",
+        "url": "https://huggingface.co/papers/2607.25294",
+        "score": 44,
+        "score_label": "44 upvotes",
+        "author": "Lai Wei, Chengqi Li, Jiapeng Li et al.",
+        "published": "2026-07-27T20:00:00.000Z",
+        "snippet": "Real-world tasks often require models to learn from task-specific context rather than relying only on pre-trained knowledge. While recent work has highlighted this capability as context learning, existing evaluations ma…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.25294"
+        }
+      },
+      {
+        "id": "paper-2607.28022",
+        "section": "papers",
+        "title": "Flux-OPD: On-Policy Distillation with Evolving Contexts",
+        "url": "https://huggingface.co/papers/2607.28022",
+        "score": 40,
+        "score_label": "40 upvotes",
+        "author": "Yuran Wang, Zekun Wang, Bohan Zeng et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "Large language model training in open-ended domains lacks verifiable rewards, making task preferences difficult to formalize as effective supervision. Contexts can convey such preferences, yet provide little additional…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28022"
+        }
+      },
+      {
+        "id": "paper-2607.28628",
+        "section": "papers",
+        "title": "Learning to Trace Seiberg Dualities",
+        "url": "https://arxiv.org/abs/2607.28628",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jonathan J. Heckman, Shani Meynet, Alessandro Mininno et al.",
+        "published": "2026-07-30T17:59:56Z",
+        "snippet": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two system…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2607.28623",
+        "section": "papers",
+        "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+        "url": "https://arxiv.org/abs/2607.28623",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Lizhi Yang, Junheng Li, Aaron D. Ames",
+        "published": "2026-07-30T17:59:35Z",
+        "snippet": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as segmenta…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2607.28617",
+        "section": "papers",
+        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+        "url": "https://arxiv.org/abs/2607.28617",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Xiangning Lin, Shenzhe Zhu, Shu Yang et al.",
+        "published": "2026-07-30T17:58:58Z",
+        "snippet": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regula…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2607.28609",
+        "section": "papers",
+        "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+        "url": "https://arxiv.org/abs/2607.28609",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Qiushi Sun, Kanzhi Cheng, Yian Wang et al.",
+        "published": "2026-07-30T17:57:41Z",
+        "snippet": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA eva…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2607.28608",
+        "section": "papers",
+        "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+        "url": "https://arxiv.org/abs/2607.28608",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Sparsh Roy, Samuel Girmachew, Nishita Chavan",
+        "published": "2026-07-30T17:57:18Z",
+        "snippet": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but their components are r…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2607.28607",
+        "section": "papers",
+        "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+        "url": "https://arxiv.org/abs/2607.28607",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Junsol Kim, Winnie Street, Roberta Rocca et al.",
+        "published": "2026-07-30T17:57:10Z",
+        "snippet": "Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human beliefs and values. We demonstrate that s…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2607.28591",
+        "section": "papers",
+        "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+        "url": "https://arxiv.org/abs/2607.28591",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Haomin Qi, Xingliang Wang, Xuanqi Gao et al.",
+        "published": "2026-07-30T17:44:31Z",
+        "snippet": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, development tools, and…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2607.28590",
+        "section": "papers",
+        "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+        "url": "https://arxiv.org/abs/2607.28590",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Kangning Zhang, Yixing Li, Shuai Shao et al.",
+        "published": "2026-07-30T17:43:46Z",
+        "snippet": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-mixed, combining vi…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 9625,
+        "score_label": "9,625 likes · 837,202 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 1681,
+        "score_label": "1,681 likes · 156,173 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1333,
+        "score_label": "1,333 likes · 1,372,285 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-baidu/Unlimited-OCR",
+        "section": "models",
+        "title": "baidu/Unlimited-OCR",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "score": 3775,
+        "score_label": "3,775 likes · 2,536,284 downloads",
+        "author": "baidu",
+        "published": "2026-06-19T09:40:33.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "section": "models",
+        "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "score": 333,
+        "score_label": "333 likes · 48,707 downloads",
+        "author": "unsloth",
+        "published": "2026-07-31T12:24:24.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Kimi-K3-GGUF",
+        "section": "models",
+        "title": "unsloth/Kimi-K3-GGUF",
+        "url": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+        "score": 248,
+        "score_label": "248 likes · 88,481 downloads",
+        "author": "unsloth",
+        "published": "2026-07-27T17:24:30.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.2",
+        "section": "models",
+        "title": "zai-org/GLM-5.2",
+        "url": "https://huggingface.co/zai-org/GLM-5.2",
+        "score": 4751,
+        "score_label": "4,751 likes · 2,050,533 downloads",
+        "author": "zai-org",
+        "published": "2026-06-16T07:39:20.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-thinkingmachines/Inkling-Small",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-Small",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+        "score": 223,
+        "score_label": "223 likes · 6,839 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-07-27T22:33:44.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Kwaipilot/KAT-Coder-V2.5-Dev",
+        "section": "models",
+        "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+        "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+        "score": 401,
+        "score_label": "401 likes · 13,164 downloads",
+        "author": "Kwaipilot",
+        "published": "2026-07-23T09:54:08.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-owensong/Inflect-Micro-v2",
+        "section": "models",
+        "title": "owensong/Inflect-Micro-v2",
+        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "score": 371,
+        "score_label": "371 likes · 1,825 downloads",
+        "author": "owensong",
+        "published": "2026-06-25T17:36:22.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://thezvi.substack.com/p/further-developments-about-internal",
+        "section": "newsletters",
+        "title": "Further Developments About Internal AI Models Hacking Things",
+        "url": "https://thezvi.substack.com/p/further-developments-about-internal",
+        "score": null,
+        "score_label": "Don't Worry About the Vase",
+        "author": "Don't Worry About the Vase",
+        "published": "2026-08-02T15:01:56+00:00",
+        "snippet": "If I had a nickel for every major leading AI lab that sheepishly admitted that the model it thought was sandboxed had, during a cybersecurity evaluation with its safeguards lowered, successfully hacked outside companies…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+        "section": "newsletters",
+        "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+        "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-02T13:01:40+00:00",
+        "snippet": "Capacity to train strong models is proliferating.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-038",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-01T01:38:09+00:00",
+        "snippet": "apart from DeepSeek V4-Flash 0731, a quiet day.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
+        "section": "newsletters",
+        "title": "AI #179 Part 2: Hearing The Fire Alarm",
+        "url": "https://thezvi.substack.com/p/ai-179-part-2-hearing-the-fire-alarm",
+        "score": null,
+        "score_label": "Don't Worry About the Vase",
+        "author": "Don't Worry About the Vase",
+        "published": "2026-07-31T12:50:50+00:00",
+        "snippet": "This is a continuation of Part 1 from yesterday.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+        "section": "newsletters",
+        "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+        "url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-07-31T04:40:54+00:00",
+        "snippet": "Distillation is all you need!",
+        "extra_link": null
+      }
+    ]
+  }
+}
