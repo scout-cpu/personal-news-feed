@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}{{ site.title }} — {{ day.date }}{% endblock %}
+{% block content %}
+<div class="edition-head">
+  <h1>{{ day.date | pretty_date }}</h1>
+  <nav class="edition-nav">
+    {% if prev_date %}<a href="{{ base }}editions/{{ prev_date }}/index.html">← {{ prev_date }}</a>{% endif %}
+    {% if next_date %}<a href="{{ base }}editions/{{ next_date }}/index.html">{{ next_date }} →</a>{% endif %}
+  </nav>
+</div>
+{% for key, heading in section_meta %}
+<section class="feed-section">
+  <h2>{{ heading }}</h2>
+  {% if key in day.errors %}
+    <p class="note">This source was unavailable today.</p>
+  {% elif not day.sections.get(key) %}
+    <p class="note">Nothing new today.</p>
+  {% else %}
+  <ol class="items">
+    {% for item in day.sections[key] %}
+    <li class="item">
+      <a class="item-title" href="{{ item.url }}">{{ item.title }}</a>
+      <div class="item-meta">
+        {% if item.score_label %}<span class="score">{{ item.score_label }}</span>{% endif %}
+        {% if item.author and item.author != item.score_label %}<span>{{ item.author }}</span>{% endif %}
+        {% if item.extra_link %}<a href="{{ item.extra_link.url }}">{{ item.extra_link.label }}</a>{% endif %}
+      </div>
+      {% if item.snippet %}<p class="snippet">{{ item.snippet }}</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+</section>
+{% endfor %}
+{% endblock %}

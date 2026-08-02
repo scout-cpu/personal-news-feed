@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}{{ site.title }} — Archive{% endblock %}
+{% block content %}
+<h1>Archive</h1>
+<ol class="items archive-list">
+  {% for day in days %}
+  <li class="item">
+    <a class="item-title" href="{{ base }}editions/{{ day.date }}/index.html">{{ day.date | pretty_date }}</a>
+    <div class="item-meta"><span>{{ day.sections.values() | map('length') | sum }} items</span></div>
+  </li>
+  {% endfor %}
+</ol>
+{% endblock %}

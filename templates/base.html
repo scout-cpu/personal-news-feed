@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.title }}{% endblock %}</title>
+<link rel="stylesheet" href="{{ base }}static/style.css">
+<script src="{{ base }}static/theme.js" defer></script>
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <a class="brand" href="{{ base }}index.html">{{ site.title }}</a>
+    <p class="tagline">{{ site.tagline }}</p>
+    <nav class="topnav">
+      <a href="{{ base }}archive/index.html">Archive</a>
+      <button id="theme-toggle" aria-label="Toggle theme">◐</button>
+    </nav>
+  </div>
+</header>
+<main>{% block content %}{% endblock %}</main>
+<footer>
+  <p>Generated automatically · <a href="{{ base }}archive/index.html">All editions</a></p>
+</footer>
+</body>
+</html>
