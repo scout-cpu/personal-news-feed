@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-02T22:37:00.823901+00:00",
+  "generated_at": "2026-08-02T22:47:37.389230+00:00",
   "errors": [],
   "sections": {
     "hackernews": [
@@ -24,8 +24,8 @@
         "section": "hackernews",
         "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
         "url": "https://frogs.vaguespac.es/",
-        "score": 63,
-        "score_label": "63 points",
+        "score": 71,
+        "score_label": "71 points",
         "author": "thebigship",
         "published": "2026-08-02T19:42:08+00:00",
         "snippet": "",
@@ -69,8 +69,8 @@
         "section": "hackernews",
         "title": "AI Mania: From Tulips to Tokens",
         "url": "https://seanhelvey.com/tools-and-their-tools/",
-        "score": 44,
-        "score_label": "44 points",
+        "score": 45,
+        "score_label": "45 points",
         "author": "Lambda11",
         "published": "2026-08-02T20:48:28+00:00",
         "snippet": "",
@@ -84,8 +84,8 @@
         "section": "hackernews",
         "title": "EU rules on AI models become enforceable. What's going to change?",
         "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-        "score": 42,
-        "score_label": "42 points",
+        "score": 44,
+        "score_label": "44 points",
         "author": "devonnull",
         "published": "2026-08-02T19:40:19+00:00",
         "snippet": "",
@@ -152,21 +152,6 @@
         "extra_link": {
           "label": "HN discussion",
           "url": "https://news.ycombinator.com/item?id=49140869"
-        }
-      },
-      {
-        "id": "hn-49139232",
-        "section": "hackernews",
-        "title": "AI opens new era in cognitive studies of wild primates",
-        "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-        "score": 30,
-        "score_label": "30 points",
-        "author": "hhs",
-        "published": "2026-08-01T22:40:22+00:00",
-        "snippet": "",
-        "extra_link": {
-          "label": "HN discussion",
-          "url": "https://news.ycombinator.com/item?id=49139232"
         }
       },
       {
