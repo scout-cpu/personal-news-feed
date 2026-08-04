@@ -1,0 +1,579 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T11:06:36.124202+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49161518",
+        "section": "hackernews",
+        "title": "LLMs reward expertise",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "score": 995,
+        "score_label": "995 points",
+        "author": "MaxMussio",
+        "published": "2026-08-03T21:13:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49161518"
+        }
+      },
+      {
+        "id": "hn-49154332",
+        "section": "hackernews",
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "score": 713,
+        "score_label": "713 points",
+        "author": "ymir_e",
+        "published": "2026-08-03T11:28:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49154332"
+        }
+      },
+      {
+        "id": "hn-49160699",
+        "section": "hackernews",
+        "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+        "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+        "score": 130,
+        "score_label": "130 points",
+        "author": "mapping365",
+        "published": "2026-08-03T20:02:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49160699"
+        }
+      },
+      {
+        "id": "hn-49157786",
+        "section": "hackernews",
+        "title": "What's the largest software project AI can complete on its own?",
+        "url": "https://epoch.ai/MirrorCode",
+        "score": 92,
+        "score_label": "92 points",
+        "author": "yusufozkan",
+        "published": "2026-08-03T16:16:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49157786"
+        }
+      },
+      {
+        "id": "hn-49157997",
+        "section": "hackernews",
+        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+        "url": "https://hoplite.sh",
+        "score": 73,
+        "score_label": "73 points",
+        "author": "BenceRed",
+        "published": "2026-08-03T16:32:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49157997"
+        }
+      },
+      {
+        "id": "hn-49159018",
+        "section": "hackernews",
+        "title": "Show HN: Hacker News with AI stories filtered out",
+        "url": "https://hcker.news/?view=frontpage&ai=exclude",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "postalcoder",
+        "published": "2026-08-03T17:39:56+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49159018"
+        }
+      },
+      {
+        "id": "hn-49157807",
+        "section": "hackernews",
+        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "url": "https://armature.tech/",
+        "score": 40,
+        "score_label": "40 points",
+        "author": "screm",
+        "published": "2026-08-03T16:17:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49157807"
+        }
+      },
+      {
+        "id": "hn-49159902",
+        "section": "hackernews",
+        "title": "The AI Bailout Could Be Baked into the AI Bubble",
+        "url": "https://prospect.org/2026/08/03/ai-bailout-could-be-baked-into-bubble-private-equity-life-insurers-loans/",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "Ambolia",
+        "published": "2026-08-03T18:51:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49159902"
+        }
+      },
+      {
+        "id": "hn-49162105",
+        "section": "hackernews",
+        "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+        "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "sbulaev",
+        "published": "2026-08-03T22:07:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49162105"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.02023",
+        "section": "papers",
+        "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+        "url": "https://huggingface.co/papers/2608.02023",
+        "score": 98,
+        "score_label": "98 upvotes",
+        "author": "Yu Zhang, Ruiqi Li, Changhao Pan et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Speech and audio generation is often needed in animation dubbing, audio drama, movies, advertising, games, podcasts, and short-video production. In these scenarios, creators may need to design voices without reference r…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.02023"
+        }
+      },
+      {
+        "id": "paper-2608.01964",
+        "section": "papers",
+        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+        "url": "https://huggingface.co/papers/2608.01964",
+        "score": 96,
+        "score_label": "96 upvotes",
+        "author": "Ziyu Ma, Hailang Huang, Shun Zou et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task exec…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.01964"
+        }
+      },
+      {
+        "id": "paper-2607.27201",
+        "section": "papers",
+        "title": "Mental World Modeling",
+        "url": "https://huggingface.co/papers/2607.27201",
+        "score": 89,
+        "score_label": "89 upvotes",
+        "author": "Hao Fei, Yiran Zhao",
+        "published": "2026-07-28T20:00:00.000Z",
+        "snippet": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is driven by hidden men…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.27201"
+        }
+      },
+      {
+        "id": "paper-2607.26246",
+        "section": "papers",
+        "title": "Weak-to-Strong On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2607.26246",
+        "score": 48,
+        "score_label": "48 upvotes",
+        "author": "Fangxu Yu, Zinan Lin, Xiaodong Liu et al.",
+        "published": "2026-07-27T20:00:00.000Z",
+        "snippet": "On-policy distillation (OPD), which aligns a student with the teacher's token-level distribution on the student's own rollouts, is an effective paradigm for transferring capabilities across LLMs. Prevailing approaches a…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.26246"
+        }
+      },
+      {
+        "id": "paper-2607.28590",
+        "section": "papers",
+        "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2607.28590",
+        "score": 41,
+        "score_label": "41 upvotes",
+        "author": "Kangning Zhang, Yixing Li, Shuai Shao et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "Multimodal on-policy distillation (OPD) transfers fine-grained visual knowledge by supervising student-generated trajectories with a privileged-view teacher. Yet its next-token corrections are source-mixed, combining vi…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28590"
+        }
+      },
+      {
+        "id": "paper-2608.01678",
+        "section": "papers",
+        "title": "Progressive Agent Skill Generation via Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2608.01678",
+        "score": 39,
+        "score_label": "39 upvotes",
+        "author": "Junhao Shen, Zhanqiu Zhang, Yiwen Guo et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Existing skill generation methods largely rely on heuristics or pipeline-style consolidation, which must be specially designed for different evidence sources. In contrast, learning-based approaches offer a more unified…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.01678"
+        }
+      },
+      {
+        "id": "paper-2607.23783",
+        "section": "papers",
+        "title": "N_0-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation",
+        "url": "https://huggingface.co/papers/2607.23783",
+        "score": 31,
+        "score_label": "31 upvotes",
+        "author": "NeoteAI Team, Fudan TEAI Team",
+        "published": "2026-07-25T20:00:00.000Z",
+        "snippet": "We present N_0-TWAM, a tactile-native world-action model for contact-rich manipulation that predicts both future vision and future contact. To our knowledge, it is the first tactile world-action model trained at large s…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.23783"
+        }
+      },
+      {
+        "id": "paper-2607.29679",
+        "section": "papers",
+        "title": "Scaling Properties of Text Conditioning in Visual Generation",
+        "url": "https://huggingface.co/papers/2607.29679",
+        "score": 31,
+        "score_label": "31 upvotes",
+        "author": "Zilong Chen, Chaorui Deng, Kunchang Li et al.",
+        "published": "2026-07-30T20:00:00.000Z",
+        "snippet": "We study empirical scaling properties for text conditioning in visual generation. Such properties have rarely been measured because diffusion loss does not scale with the number of tokens in natural-language prompts. Su…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.29679"
+        }
+      },
+      {
+        "id": "paper-2608.02583",
+        "section": "papers",
+        "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+        "url": "https://huggingface.co/papers/2608.02583",
+        "score": 28,
+        "score_label": "28 upvotes",
+        "author": "Tingyu Song, Mingxin Li, Yanzhao Zhang et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matching toward richer semant…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.02583"
+        }
+      },
+      {
+        "id": "paper-2607.29209",
+        "section": "papers",
+        "title": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation",
+        "url": "https://huggingface.co/papers/2607.29209",
+        "score": 28,
+        "score_label": "28 upvotes",
+        "author": "Yifan Ding, Xincheng Wei, Yoshua Y. Li et al.",
+        "published": "2026-07-30T20:00:00.000Z",
+        "snippet": "Reinforcement learning with verifiable rewards (RLVR) broadcasts a single response-level reward to every token, while on-policy distillation (OPD) scores each token against a stronger teacher for a dense advantage but c…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.29209"
+        }
+      },
+      {
+        "id": "paper-2608.02603",
+        "section": "papers",
+        "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+        "url": "https://huggingface.co/papers/2608.02603",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "Yuxue Yang, Shuyao Shang, Jiahe Wang et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Controllable video generation models are increasingly being developed as world models. Accordingly, evaluating them in this role extends beyond the apparent appearance of generated videos to the inherent reactivity of t…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.02603"
+        }
+      },
+      {
+        "id": "paper-2608.02602",
+        "section": "papers",
+        "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+        "url": "https://arxiv.org/abs/2608.02602",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jiajun Liang, Yucheng Liao, Yukang Cao et al.",
+        "published": "2026-08-03T17:59:50Z",
+        "snippet": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. Existing continuous…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.02599",
+        "section": "papers",
+        "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+        "url": "https://arxiv.org/abs/2608.02599",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Junjie Yin, Buxin She, Xinyu Feng et al.",
+        "published": "2026-08-03T17:59:09Z",
+        "snippet": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.02595",
+        "section": "papers",
+        "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+        "url": "https://arxiv.org/abs/2608.02595",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Brandon Wang, Andrei S. Tyrin, Daniil A. Boiko",
+        "published": "2026-08-03T17:58:27Z",
+        "snippet": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.02588",
+        "section": "papers",
+        "title": "The Condition-Number Barrier in Sparse Least Squares",
+        "url": "https://arxiv.org/abs/2608.02588",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Honghao Lin, Vahab Mirrokni, David P. Woodruff",
+        "published": "2026-08-03T17:57:01Z",
+        "snippet": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establish their conjectured…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.02578",
+        "section": "papers",
+        "title": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
+        "url": "https://arxiv.org/abs/2608.02578",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shuaijun Liu, Qifu Wen, Shuyang Hao et al.",
+        "published": "2026-08-03T17:51:58Z",
+        "snippet": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute. We present CoWAM, a se…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.02576",
+        "section": "papers",
+        "title": "Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration",
+        "url": "https://arxiv.org/abs/2608.02576",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shashwat Kumar, Arafat Rahman, Anuj Srivastava et al.",
+        "published": "2026-08-03T17:51:40Z",
+        "snippet": "We consider optimization problems defined on product spaces of simplices. Examples of this class of problems include learning low-rank discrete multivariate probability distributions via simplex constrained tensor decom…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.02575",
+        "section": "papers",
+        "title": "Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality",
+        "url": "https://arxiv.org/abs/2608.02575",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shengzhi Deng, Chenqi Ye, Yanze Guo",
+        "published": "2026-08-03T17:50:54Z",
+        "snippet": "Diffusion models rely on stochastic inputs, yet on finite-precision hardware, the \"randomness\" they consume is realized as deterministic numerical orbits generated by pseudorandom rules. Accessible orbit structure can b…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.02569",
+        "section": "papers",
+        "title": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
+        "url": "https://arxiv.org/abs/2608.02569",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Qiushi Lin, Chaojie Zhang, Íñigo Goiri et al.",
+        "published": "2026-08-03T17:45:58Z",
+        "snippet": "The efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependent, and prototyping a s…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 9939,
+        "score_label": "9,939 likes · 1,125,935 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 2174,
+        "score_label": "2,174 likes · 433,284 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 1724,
+        "score_label": "1,724 likes · 0 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1476,
+        "score_label": "1,476 likes · 1,633,405 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 513,
+        "score_label": "513 likes · 2 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "section": "models",
+        "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "score": 450,
+        "score_label": "450 likes · 111,678 downloads",
+        "author": "unsloth",
+        "published": "2026-07-31T12:24:24.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-baidu/Unlimited-OCR",
+        "section": "models",
+        "title": "baidu/Unlimited-OCR",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "score": 3863,
+        "score_label": "3,863 likes · 2,703,366 downloads",
+        "author": "baidu",
+        "published": "2026-06-19T09:40:33.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-thinkingmachines/Inkling-Small",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-Small",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+        "score": 275,
+        "score_label": "275 likes · 15,500 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-07-27T22:33:44.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Kimi-K3-GGUF",
+        "section": "models",
+        "title": "unsloth/Kimi-K3-GGUF",
+        "url": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+        "score": 296,
+        "score_label": "296 likes · 170,055 downloads",
+        "author": "unsloth",
+        "published": "2026-07-27T17:24:30.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Audio8/Audio8-TTS-Preview-0.6b",
+        "section": "models",
+        "title": "Audio8/Audio8-TTS-Preview-0.6b",
+        "url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+        "score": 228,
+        "score_label": "228 likes · 11,276 downloads",
+        "author": "Audio8",
+        "published": "2026-07-28T07:53:00.000Z",
+        "snippet": "text-to-speech · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+        "section": "newsletters",
+        "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+        "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-04T03:49:14+00:00",
+        "snippet": "Qwen is so back!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/inference-eng",
+        "section": "newsletters",
+        "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
+        "url": "https://www.latent.space/p/inference-eng",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-03T21:44:03+00:00",
+        "snippet": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+        "section": "newsletters",
+        "title": "Introducing our Artifacts Hub and Adoption Dashboard",
+        "url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-03T14:03:08+00:00",
+        "snippet": "Scaling our curation and measurement of the open ecosystem.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+        "section": "newsletters",
+        "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+        "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-02T13:01:40+00:00",
+        "snippet": "Capacity to train strong models is proliferating.",
+        "extra_link": null
+      }
+    ]
+  }
+}
