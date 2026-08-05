@@ -1,0 +1,678 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T11:01:35.318826+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49167113",
+        "section": "hackernews",
+        "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+        "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+        "score": 764,
+        "score_label": "764 points",
+        "author": "meysamazad",
+        "published": "2026-08-04T11:30:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49167113"
+        }
+      },
+      {
+        "id": "hn-49171268",
+        "section": "hackernews",
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "url": "https://mistral.ai/news/shieldstral/",
+        "score": 433,
+        "score_label": "433 points",
+        "author": "riadsila",
+        "published": "2026-08-04T16:36:05+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49171268"
+        }
+      },
+      {
+        "id": "hn-49170479",
+        "section": "hackernews",
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "score": 368,
+        "score_label": "368 points",
+        "author": "thewebguyd",
+        "published": "2026-08-04T15:37:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49170479"
+        }
+      },
+      {
+        "id": "hn-49175826",
+        "section": "hackernews",
+        "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+        "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+        "score": 251,
+        "score_label": "251 points",
+        "author": "bookofjoe",
+        "published": "2026-08-04T22:01:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49175826"
+        }
+      },
+      {
+        "id": "hn-49166984",
+        "section": "hackernews",
+        "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+        "url": "https://github.com/MakazhanAlpamys/Soup",
+        "score": 128,
+        "score_label": "128 points",
+        "author": "MakazhanAlpamys",
+        "published": "2026-08-04T11:17:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49166984"
+        }
+      },
+      {
+        "id": "hn-49170648",
+        "section": "hackernews",
+        "title": "The AI Demand Bubble",
+        "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+        "score": 106,
+        "score_label": "106 points",
+        "author": "7777777phil",
+        "published": "2026-08-04T15:51:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49170648"
+        }
+      },
+      {
+        "id": "hn-49171766",
+        "section": "hackernews",
+        "title": "The Warp Agent CLI",
+        "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+        "score": 101,
+        "score_label": "101 points",
+        "author": "emschwartz",
+        "published": "2026-08-04T17:08:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49171766"
+        }
+      },
+      {
+        "id": "hn-49170915",
+        "section": "hackernews",
+        "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+        "url": "https://arxiv.org/abs/2602.16763",
+        "score": 99,
+        "score_label": "99 points",
+        "author": "doppp",
+        "published": "2026-08-04T16:10:39+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49170915"
+        }
+      },
+      {
+        "id": "hn-49169227",
+        "section": "hackernews",
+        "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+        "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+        "score": 89,
+        "score_label": "89 points",
+        "author": "speckx",
+        "published": "2026-08-04T14:07:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49169227"
+        }
+      },
+      {
+        "id": "hn-49169640",
+        "section": "hackernews",
+        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+        "url": "https://github.com/tikalk/adlc-team-skills",
+        "score": 75,
+        "score_label": "75 points",
+        "author": "kanfilior",
+        "published": "2026-08-04T14:38:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49169640"
+        }
+      },
+      {
+        "id": "hn-49179039",
+        "section": "hackernews",
+        "title": "Rust-lang/rust is adopting an LLM policy",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+        "score": 70,
+        "score_label": "70 points",
+        "author": "afdbcreid",
+        "published": "2026-08-05T05:52:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49179039"
+        }
+      },
+      {
+        "id": "hn-49172433",
+        "section": "hackernews",
+        "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+        "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+        "score": 67,
+        "score_label": "67 points",
+        "author": "01-_-",
+        "published": "2026-08-04T17:57:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49172433"
+        }
+      },
+      {
+        "id": "hn-49175717",
+        "section": "hackernews",
+        "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+        "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+        "score": 58,
+        "score_label": "58 points",
+        "author": "_pdp_",
+        "published": "2026-08-04T21:52:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49175717"
+        }
+      },
+      {
+        "id": "hn-49175248",
+        "section": "hackernews",
+        "title": "Third-party cyber evaluations involving OpenAI models",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "glub",
+        "published": "2026-08-04T21:14:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49175248"
+        }
+      },
+      {
+        "id": "hn-49178608",
+        "section": "hackernews",
+        "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+        "url": "https://arxiv.org/abs/2607.29377",
+        "score": 50,
+        "score_label": "50 points",
+        "author": "theanonymousone",
+        "published": "2026-08-05T04:36:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49178608"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2607.28956",
+        "section": "papers",
+        "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+        "url": "https://huggingface.co/papers/2607.28956",
+        "score": 73,
+        "score_label": "73 upvotes",
+        "author": "Qiming Shi, Yulong Tao, Linbo Jin et al.",
+        "published": "2026-07-30T20:00:00.000Z",
+        "snippet": "Large language model agents are increasingly evaluated as autonomous tool users, yet most benchmarks focus on bounded tasks with immediate success criteria. Real-world deployments often require Long-Term Coherence, the…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28956"
+        }
+      },
+      {
+        "id": "paper-2608.01735",
+        "section": "papers",
+        "title": "DAPD: Dual-Anchored Policy Distillation",
+        "url": "https://huggingface.co/papers/2608.01735",
+        "score": 73,
+        "score_label": "73 upvotes",
+        "author": "Jianyu Wu, Yizhou Wang, Encheng Su et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "On-policy (self) distillation (OPSD) is increasingly adopted for language-model post-training. It strengthens the teacher with privileged information but can induce a privilege illusion: the student learns privilege-dep…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.01735"
+        }
+      },
+      {
+        "id": "paper-2608.03974",
+        "section": "papers",
+        "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+        "url": "https://huggingface.co/papers/2608.03974",
+        "score": 70,
+        "score_label": "70 upvotes",
+        "author": "Yicheng Xiao, Wenxun Dai, Xinran Qin et al.",
+        "published": "2026-08-03T20:00:00.000Z",
+        "snippet": "Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autor…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.03974"
+        }
+      },
+      {
+        "id": "paper-2608.02711",
+        "section": "papers",
+        "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
+        "url": "https://huggingface.co/papers/2608.02711",
+        "score": 65,
+        "score_label": "65 upvotes",
+        "author": "Junliang Ye, Kenkun Liu, Guocun Wang et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Recent advances in image generation have demonstrated the potential of unified multimodal models that integrate understanding, generation, and editing. However, unified 3D modeling remains constrained by scarce multimod…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.02711"
+        }
+      },
+      {
+        "id": "paper-2608.02437",
+        "section": "papers",
+        "title": "InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis",
+        "url": "https://huggingface.co/papers/2608.02437",
+        "score": 50,
+        "score_label": "50 upvotes",
+        "author": "Jiawei Wang, Hao Yu, Yongzhen Hu et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Single-image feed-forward 3D Gaussian Splatting (3DGS) aims to directly generate a renderable 3D scene representation from one input image, avoiding the cost of multi-view capture and per-scene optimization. However, ex…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.02437"
+        }
+      },
+      {
+        "id": "paper-2608.03979",
+        "section": "papers",
+        "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+        "url": "https://huggingface.co/papers/2608.03979",
+        "score": 42,
+        "score_label": "42 upvotes",
+        "author": "Zhen Fang, Yu Zeng, Wenxuan Huang et al.",
+        "published": "2026-08-03T20:00:00.000Z",
+        "snippet": "We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web exploration. Preliminar…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.03979"
+        }
+      },
+      {
+        "id": "paper-2608.02738",
+        "section": "papers",
+        "title": "Knowledge-Geometry Decoupling: Refreshable Pretrained Transfer for Streaming Recommendation",
+        "url": "https://huggingface.co/papers/2608.02738",
+        "score": 36,
+        "score_label": "36 upvotes",
+        "author": "Zixuan Wang, Yuhong Chen, Yuxuan Zhu et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Industrial recommenders increasingly adopt the pretrain-then-transfer paradigm, yet behavioral distribution drift raises two questions: what to learn from behavior sequences, and how to transfer the learned knowledge wh…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.02738"
+        }
+      },
+      {
+        "id": "paper-2608.01837",
+        "section": "papers",
+        "title": "PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2608.01837",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Chunji Lv, Yangguang Wei, Junlin Liu et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Large language model agents have shown strong potential in complex interactive tasks, yet their reinforcement learning (RL) is often hindered by sparse rewards, as a long multi-turn trajectory may receive only a single…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.01837"
+        }
+      },
+      {
+        "id": "paper-2608.02713",
+        "section": "papers",
+        "title": "Quo Vadis, World Modeling?",
+        "url": "https://huggingface.co/papers/2608.02713",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "Yu Yang, Xuemeng Yang, Licheng Wen et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Continually improving agents require dynamic interaction feedback beyond static supervision, yet direct real-environment interaction is costly, slow, unsafe, and hard to parallelize. World modeling offers a natural inte…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.02713"
+        }
+      },
+      {
+        "id": "paper-2608.04003",
+        "section": "papers",
+        "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
+        "url": "https://huggingface.co/papers/2608.04003",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Shuhan Xue, Zixin Ding, Yichen Shen et al.",
+        "published": "2026-08-03T20:00:00.000Z",
+        "snippet": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histo…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.04003"
+        }
+      },
+      {
+        "id": "paper-2608.04010",
+        "section": "papers",
+        "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+        "url": "https://arxiv.org/abs/2608.04010",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yang Yang, Qinyu Zhao, Mouxiang Chen et al.",
+        "published": "2026-08-04T17:59:58Z",
+        "snippet": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly,…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.04009",
+        "section": "papers",
+        "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
+        "url": "https://arxiv.org/abs/2608.04009",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zhenran Wang, Zhonghan Bian, Jinsong Li et al.",
+        "published": "2026-08-04T17:59:56Z",
+        "snippet": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how w…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.04008",
+        "section": "papers",
+        "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
+        "url": "https://arxiv.org/abs/2608.04008",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zhenran Wang, Zhonghan Bian, Jinsong Li et al.",
+        "published": "2026-08-04T17:59:55Z",
+        "snippet": "Benchmarks that measure the forecasting ability of large language models are almost always retrospective: the event has happened, the answer is somewhere on the Web, and the evaluation must defend itself against memoris…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.04001",
+        "section": "papers",
+        "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
+        "url": "https://arxiv.org/abs/2608.04001",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Mohsen Hariri, Weicong Chen, Nahal Shahini et al.",
+        "published": "2026-08-04T17:57:20Z",
+        "snippet": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a s…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.03999",
+        "section": "papers",
+        "title": "Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation",
+        "url": "https://arxiv.org/abs/2608.03999",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Junhao Chen, Mingjin Chen, Jingjia Mao et al.",
+        "published": "2026-08-04T17:56:49Z",
+        "snippet": "Text-to-music language models begin with a choice usually made by default: how to tokenize music. Normally entangled with backbone, data, and recipe, its effect has never been measured in isolation. We fix pretrained Qw…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.03994",
+        "section": "papers",
+        "title": "When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings",
+        "url": "https://arxiv.org/abs/2608.03994",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Christopher Schröder, Lukas Gienapp, Ferdinand Schlatt et al.",
+        "published": "2026-08-04T17:54:01Z",
+        "snippet": "We identify a previously overlooked failure mode of ALiBi positional encoding: its linear bias scaling underflows floating-point precision, which zeroes out a large fraction of attention weights and renders the affected…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.03990",
+        "section": "papers",
+        "title": "Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation",
+        "url": "https://arxiv.org/abs/2608.03990",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Seyed Kahaki, Shijie Li, Weijie Chen et al.",
+        "published": "2026-08-04T17:51:40Z",
+        "snippet": "Synthetic histopathology image generation has emerged as an approach that may address data scarcity in computational pathology, yet current evaluation methodologies may not fully assess synthetic data quality for medica…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.03984",
+        "section": "papers",
+        "title": "string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms",
+        "url": "https://arxiv.org/abs/2608.03984",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Mirac Suzgun, James Zou, Stuart M. Shieber et al.",
+        "published": "2026-08-04T17:48:15Z",
+        "snippet": "We present string2string Studio, an interactive in-browser platform for string-to-string analysis across natural language processing, computational biology, and the digital humanities. The system integrates six main mod…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 2313,
+        "score_label": "2,313 likes · 0 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 2406,
+        "score_label": "2,406 likes · 433,284 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 10056,
+        "score_label": "10,056 likes · 1,125,935 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 685,
+        "score_label": "685 likes · 2 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1550,
+        "score_label": "1,550 likes · 1,633,405 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "section": "models",
+        "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "score": 486,
+        "score_label": "486 likes · 111,678 downloads",
+        "author": "unsloth",
+        "published": "2026-07-31T12:24:24.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-baidu/Unlimited-OCR",
+        "section": "models",
+        "title": "baidu/Unlimited-OCR",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "score": 3893,
+        "score_label": "3,893 likes · 2,703,366 downloads",
+        "author": "baidu",
+        "published": "2026-06-19T09:40:33.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-thinkingmachines/Inkling-Small",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-Small",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+        "score": 299,
+        "score_label": "299 likes · 15,500 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-07-27T22:33:44.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "section": "models",
+        "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "score": 228,
+        "score_label": "228 likes · 0 downloads",
+        "author": "ethanfel",
+        "published": "2026-08-03T09:25:01.000Z",
+        "snippet": "image-text-to-text · comfyui",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-2.6B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-2.6B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 215,
+        "score_label": "215 likes · 47,393 downloads",
+        "author": "LiquidAI",
+        "published": "2026-07-28T22:14:32.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+        "section": "newsletters",
+        "title": "[AINews] Megakernels are so dead and so back",
+        "url": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-05T01:21:47+00:00",
+        "snippet": "A quiet day lets us highlight a Cursor launch and an engineering debate",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/unpacking-chatgpt-work",
+        "section": "newsletters",
+        "title": "Unpacking ChatGPT Work: the Agent for a Billion Users",
+        "url": "https://www.latent.space/p/unpacking-chatgpt-work",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-04T18:20:14+00:00",
+        "snippet": "An external reconstruction of how Memory, Proactivity, Scheduling, Browser Use, Plugins, Skills and Tools work in the new ChatGPT Work.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+        "section": "newsletters",
+        "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
+        "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-04T03:49:14+00:00",
+        "snippet": "Qwen is so back!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/inference-eng",
+        "section": "newsletters",
+        "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
+        "url": "https://www.latent.space/p/inference-eng",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-03T21:44:03+00:00",
+        "snippet": "Baseten just raised a $13B Series F and is now one of the leading kings of inference engineering. We go into everything you need to know for autoregressive and diffusion engineering.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+        "section": "newsletters",
+        "title": "Introducing our Artifacts Hub and Adoption Dashboard",
+        "url": "https://www.interconnects.ai/p/introducing-our-artifacts-hub-and",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-03T14:03:08+00:00",
+        "snippet": "Scaling our curation and measurement of the open ecosystem.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+        "section": "newsletters",
+        "title": "Latest open artifacts (#23): Laguna S2.1, Inkling, & Kimi K3 show the utility of open models on the Pareto frontier",
+        "url": "https://www.interconnects.ai/p/latest-open-artifacts-23-laguna-s21",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-02T13:01:40+00:00",
+        "snippet": "Capacity to train strong models is proliferating.",
+        "extra_link": null
+      }
+    ]
+  }
+}
