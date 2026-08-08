@@ -1,0 +1,411 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T04:39:57.036065+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49213754",
+        "section": "hackernews",
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "score": 420,
+        "score_label": "420 points",
+        "author": "delduca",
+        "published": "2026-08-07T17:36:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49213754"
+        }
+      },
+      {
+        "id": "hn-49214468",
+        "section": "hackernews",
+        "title": "Managing AI Coding Costs at Scale",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "score": 193,
+        "score_label": "193 points",
+        "author": "moonikakiss",
+        "published": "2026-08-07T18:25:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49214468"
+        }
+      },
+      {
+        "id": "hn-49208393",
+        "section": "hackernews",
+        "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+        "url": "https://blog.cloudflare.com/kitesurf/",
+        "score": 175,
+        "score_label": "175 points",
+        "author": "m3h",
+        "published": "2026-08-07T10:42:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49208393"
+        }
+      },
+      {
+        "id": "hn-49210077",
+        "section": "hackernews",
+        "title": "AI psychosis is the new leadership blind spot",
+        "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+        "score": 163,
+        "score_label": "163 points",
+        "author": "rwmj",
+        "published": "2026-08-07T13:27:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49210077"
+        }
+      },
+      {
+        "id": "hn-49207146",
+        "section": "hackernews",
+        "title": "I won't read LLM authored fiction",
+        "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+        "score": 71,
+        "score_label": "71 points",
+        "author": "chr15m",
+        "published": "2026-08-07T07:45:56+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49207146"
+        }
+      },
+      {
+        "id": "hn-49213985",
+        "section": "hackernews",
+        "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+        "url": "https://theclaudyssey.com/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "spinchange",
+        "published": "2026-08-07T17:55:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49213985"
+        }
+      },
+      {
+        "id": "hn-49217629",
+        "section": "hackernews",
+        "title": "Should AI labs be treated like the owners of dangerous animals?",
+        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "score": 40,
+        "score_label": "40 points",
+        "author": "reasonableklout",
+        "published": "2026-08-08T00:03:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49217629"
+        }
+      },
+      {
+        "id": "hn-49215786",
+        "section": "hackernews",
+        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "ilamont",
+        "published": "2026-08-07T20:25:04+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49215786"
+        }
+      },
+      {
+        "id": "hn-49207770",
+        "section": "hackernews",
+        "title": "Generative \"AI\": The Guitar Hero of Creativity",
+        "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+        "score": 33,
+        "score_label": "33 points",
+        "author": "cheeaun",
+        "published": "2026-08-07T09:07:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49207770"
+        }
+      },
+      {
+        "id": "hn-49212928",
+        "section": "hackernews",
+        "title": "The AI Billboards Are Killing SF",
+        "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "danorama",
+        "published": "2026-08-07T16:32:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49212928"
+        }
+      },
+      {
+        "id": "hn-49213016",
+        "section": "hackernews",
+        "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+        "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "swolpers",
+        "published": "2026-08-07T16:38:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49213016"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2607.28609",
+        "section": "papers",
+        "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+        "url": "https://huggingface.co/papers/2607.28609",
+        "score": 60,
+        "score_label": "60 upvotes",
+        "author": "Qiushi Sun, Kanzhi Cheng, Yian Wang et al.",
+        "published": "2026-07-29T20:00:00.000Z",
+        "snippet": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA eva…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2607.28609"
+        }
+      },
+      {
+        "id": "paper-2608.01481",
+        "section": "papers",
+        "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
+        "url": "https://huggingface.co/papers/2608.01481",
+        "score": 52,
+        "score_label": "52 upvotes",
+        "author": "Ilia Semenkov, Daria Kleeva, Ivan Dakhtin et al.",
+        "published": "2026-08-01T20:00:00.000Z",
+        "snippet": "Short segments of perceived speech can be retrieved from non-invasive magnetoencephalographic (MEG) recordings by deep networks trained with a CLIP-style objective against wav2vec 2.0 audio embeddings. Yet their weights…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.01481"
+        }
+      },
+      {
+        "id": "paper-2608.05747",
+        "section": "papers",
+        "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
+        "url": "https://huggingface.co/papers/2608.05747",
+        "score": 35,
+        "score_label": "35 upvotes",
+        "author": "Qifeng Zhang, Kaixiang Huang, Heng Dong et al.",
+        "published": "2026-08-05T20:00:00.000Z",
+        "snippet": "Spatial intelligence is fundamental to embodied agents, yet existing benchmarks focus on local spatial perception from single or few viewpoints, overlooking global spatial awareness over continuous, long-horizon visual…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.05747"
+        }
+      },
+      {
+        "id": "paper-2608.06020",
+        "section": "papers",
+        "title": "From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models",
+        "url": "https://huggingface.co/papers/2608.06020",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "Jiale Han, Xiang Li, Jing Qian et al.",
+        "published": "2026-08-05T20:00:00.000Z",
+        "snippet": "Economic World Models (EWMs) are generative economic models that simulate how economies evolve from within by modeling heterogeneous agents, their beliefs and actions, and the market and institutional mechanisms through…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.06020"
+        }
+      },
+      {
+        "id": "paper-2608.06301",
+        "section": "papers",
+        "title": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+        "url": "https://huggingface.co/papers/2608.06301",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "Varun Ursekar, Apaar Shanker, Yash Maurya et al.",
+        "published": "2026-08-05T20:00:00.000Z",
+        "snippet": "As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the model weights but also on the harness: the prompts, tools, control flow, memory, and orchestration code surrounding the…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.06301"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 2980,
+        "score_label": "2,980 likes · 18,112 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 2761,
+        "score_label": "2,761 likes · 702,709 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 951,
+        "score_label": "951 likes · 3,139,920 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 10292,
+        "score_label": "10,292 likes · 1,308,186 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1718,
+        "score_label": "1,718 likes · 2,217,339 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-larryvrh/MiniMax-H3-Turbo-Lora",
+        "section": "models",
+        "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "score": 430,
+        "score_label": "430 likes · 0 downloads",
+        "author": "larryvrh",
+        "published": "2026-08-05T21:58:56.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-2.6B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-2.6B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 386,
+        "score_label": "386 likes · 77,973 downloads",
+        "author": "LiquidAI",
+        "published": "2026-07-28T22:14:32.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "section": "models",
+        "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "score": 385,
+        "score_label": "385 likes · 0 downloads",
+        "author": "ethanfel",
+        "published": "2026-08-03T09:25:01.000Z",
+        "snippet": "image-text-to-text · comfyui",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "section": "models",
+        "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "score": 591,
+        "score_label": "591 likes · 161,253 downloads",
+        "author": "unsloth",
+        "published": "2026-07-31T12:24:24.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepgrove/maple-preview",
+        "section": "models",
+        "title": "deepgrove/maple-preview",
+        "url": "https://huggingface.co/deepgrove/maple-preview",
+        "score": 233,
+        "score_label": "233 likes · 686 downloads",
+        "author": "deepgrove",
+        "published": "2026-08-04T20:50:54.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "section": "newsletters",
+        "title": "[AINews] Zawinski's Law of MultiAgents",
+        "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-08T01:12:07+00:00",
+        "snippet": "a quiet day lets us find some connections among recent themes",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-amd-buys-taalas",
+        "section": "newsletters",
+        "title": "[AINews] AMD buys Taalas",
+        "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-07T05:13:46+00:00",
+        "snippet": "The Inference Inflection is HEATING up.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+        "section": "newsletters",
+        "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+        "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-06T04:34:11+00:00",
+        "snippet": "The end of an era.",
+        "extra_link": null
+      }
+    ]
+  }
+}
