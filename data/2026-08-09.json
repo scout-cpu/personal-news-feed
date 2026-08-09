@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T05:19:01.921269+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49220126",
+        "section": "hackernews",
+        "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "score": 403,
+        "score_label": "403 points",
+        "author": "bhavansig",
+        "published": "2026-08-08T09:18:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49220126"
+        }
+      },
+      {
+        "id": "hn-49220609",
+        "section": "hackernews",
+        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+        "score": 379,
+        "score_label": "379 points",
+        "author": "882542F3884314B",
+        "published": "2026-08-08T10:57:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49220609"
+        }
+      },
+      {
+        "id": "hn-49221864",
+        "section": "hackernews",
+        "title": "Gentoo bugzilla closed due AI bot scraper overload",
+        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+        "score": 158,
+        "score_label": "158 points",
+        "author": "happosai",
+        "published": "2026-08-08T13:55:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49221864"
+        }
+      },
+      {
+        "id": "hn-49222824",
+        "section": "hackernews",
+        "title": "Message your other Claude Code sessions",
+        "url": "https://code.claude.com/docs/en/cross-session-messaging",
+        "score": 94,
+        "score_label": "94 points",
+        "author": "mfiguiere",
+        "published": "2026-08-08T15:34:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49222824"
+        }
+      },
+      {
+        "id": "hn-49220378",
+        "section": "hackernews",
+        "title": "Making an AI bid writer refuse to lie",
+        "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
+        "score": 50,
+        "score_label": "50 points",
+        "author": "Lucius-AI",
+        "published": "2026-08-08T10:13:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49220378"
+        }
+      },
+      {
+        "id": "hn-49227521",
+        "section": "hackernews",
+        "title": "The AI Apocalypse Is Here",
+        "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
+        "score": 39,
+        "score_label": "39 points",
+        "author": "reasonableklout",
+        "published": "2026-08-09T01:28:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49227521"
+        }
+      },
+      {
+        "id": "hn-49222865",
+        "section": "hackernews",
+        "title": "OpenAI Trained Models While They Were Coordinating Exploits via Message Boards",
+        "url": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
+        "score": 26,
+        "score_label": "26 points",
+        "author": "yurivish",
+        "published": "2026-08-08T15:39:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49222865"
+        }
+      },
+      {
+        "id": "hn-49225764",
+        "section": "hackernews",
+        "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
+        "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "guilamu",
+        "published": "2026-08-08T20:47:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49225764"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 3127,
+        "score_label": "3,127 likes · 26,693 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 2866,
+        "score_label": "2,866 likes · 785,771 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 1013,
+        "score_label": "1,013 likes · 3,943,176 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 10347,
+        "score_label": "10,347 likes · 1,388,105 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-larryvrh/MiniMax-H3-Turbo-Lora",
+        "section": "models",
+        "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "score": 494,
+        "score_label": "494 likes · 0 downloads",
+        "author": "larryvrh",
+        "published": "2026-08-05T21:58:56.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1768,
+        "score_label": "1,768 likes · 2,345,190 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-2.6B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-2.6B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 419,
+        "score_label": "419 likes · 81,522 downloads",
+        "author": "LiquidAI",
+        "published": "2026-07-28T22:14:32.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "section": "models",
+        "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "score": 406,
+        "score_label": "406 likes · 0 downloads",
+        "author": "ethanfel",
+        "published": "2026-08-03T09:25:01.000Z",
+        "snippet": "image-text-to-text · comfyui",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "section": "models",
+        "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+        "score": 609,
+        "score_label": "609 likes · 175,093 downloads",
+        "author": "unsloth",
+        "published": "2026-07-31T12:24:24.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepgrove/maple-preview",
+        "section": "models",
+        "title": "deepgrove/maple-preview",
+        "url": "https://huggingface.co/deepgrove/maple-preview",
+        "score": 261,
+        "score_label": "261 likes · 896 downloads",
+        "author": "deepgrove",
+        "published": "2026-08-04T20:50:54.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "section": "newsletters",
+        "title": "[AINews] Zawinski's Law of MultiAgents",
+        "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-08T01:12:07+00:00",
+        "snippet": "a quiet day lets us find some connections among recent themes",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-amd-buys-taalas",
+        "section": "newsletters",
+        "title": "[AINews] AMD buys Taalas",
+        "url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-07T05:13:46+00:00",
+        "snippet": "The Inference Inflection is HEATING up.",
+        "extra_link": null
+      }
+    ]
+  }
+}
