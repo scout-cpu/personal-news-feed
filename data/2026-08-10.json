@@ -1,0 +1,465 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T06:02:54.932483+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49234675",
+        "section": "hackernews",
+        "title": "How I use LLMs to learn complex topics",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "score": 560,
+        "score_label": "560 points",
+        "author": "laurentiurad",
+        "published": "2026-08-09T19:16:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49234675"
+        }
+      },
+      {
+        "id": "hn-49239021",
+        "section": "hackernews",
+        "title": "Auto mode is now the default in Claude Code",
+        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "score": 104,
+        "score_label": "104 points",
+        "author": "sbehere",
+        "published": "2026-08-10T03:50:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49239021"
+        }
+      },
+      {
+        "id": "hn-49235011",
+        "section": "hackernews",
+        "title": "The tragedy of the commons, AI edition",
+        "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+        "score": 104,
+        "score_label": "104 points",
+        "author": "simonpure",
+        "published": "2026-08-09T19:43:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49235011"
+        }
+      },
+      {
+        "id": "hn-49229412",
+        "section": "hackernews",
+        "title": "SAP stops most travel and hiring because of AI's soaring cost",
+        "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+        "score": 97,
+        "score_label": "97 points",
+        "author": "theanonymousone",
+        "published": "2026-08-09T08:00:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49229412"
+        }
+      },
+      {
+        "id": "hn-49230605",
+        "section": "hackernews",
+        "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+        "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+        "score": 72,
+        "score_label": "72 points",
+        "author": "johnbarron",
+        "published": "2026-08-09T11:56:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49230605"
+        }
+      },
+      {
+        "id": "hn-49230954",
+        "section": "hackernews",
+        "title": "Amazon circumvents Gilroy community vote for AI data center",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "mikhael",
+        "published": "2026-08-09T12:52:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49230954"
+        }
+      },
+      {
+        "id": "hn-49236439",
+        "section": "hackernews",
+        "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+        "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+        "score": 59,
+        "score_label": "59 points",
+        "author": "stared",
+        "published": "2026-08-09T21:52:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49236439"
+        }
+      },
+      {
+        "id": "hn-49232778",
+        "section": "hackernews",
+        "title": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+        "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power/",
+        "score": 59,
+        "score_label": "59 points",
+        "author": "ashurandi",
+        "published": "2026-08-09T16:18:39+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49232778"
+        }
+      },
+      {
+        "id": "hn-49231022",
+        "section": "hackernews",
+        "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+        "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "cramer4next",
+        "published": "2026-08-09T13:03:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49231022"
+        }
+      },
+      {
+        "id": "hn-49235836",
+        "section": "hackernews",
+        "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+        "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "severine",
+        "published": "2026-08-09T21:01:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49235836"
+        }
+      },
+      {
+        "id": "hn-49232300",
+        "section": "hackernews",
+        "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "url": "https://github.com/eighttrigrams/us-vs-them",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "eighttrigrams",
+        "published": "2026-08-09T15:25:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49232300"
+        }
+      },
+      {
+        "id": "hn-49238851",
+        "section": "hackernews",
+        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "url": "https://www.whodunnitai.com/",
+        "score": 42,
+        "score_label": "42 points",
+        "author": "MrRowTheBoat",
+        "published": "2026-08-10T03:18:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49238851"
+        }
+      },
+      {
+        "id": "hn-49232012",
+        "section": "hackernews",
+        "title": "Why Normal People Aren't Using AI Agents",
+        "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "elo2000",
+        "published": "2026-08-09T14:58:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49232012"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.03451",
+        "section": "papers",
+        "title": "DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces",
+        "url": "https://huggingface.co/papers/2608.03451",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Boyan Li, Zhuowen Liang, Yupeng Xie et al.",
+        "published": "2026-08-03T20:00:00.000Z",
+        "snippet": "Data agents enable natural-language analytics over organizational workspaces, where relevant evidence may be scattered across databases, structured files, long documents, and multimedia. Existing benchmarks largely isol…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.03451"
+        }
+      },
+      {
+        "id": "paper-2608.07463",
+        "section": "papers",
+        "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
+        "url": "https://arxiv.org/abs/2608.07463",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Youjun Zhao, Alex Warren, Gary K. L. Tam et al.",
+        "published": "2026-08-07T17:58:10Z",
+        "snippet": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain consistent with the…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.07460",
+        "section": "papers",
+        "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+        "url": "https://arxiv.org/abs/2608.07460",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Ananya Sahu, Mohit Bansal, Elias Stengel-Eskin",
+        "published": "2026-08-07T17:55:48Z",
+        "snippet": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story genera…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.07458",
+        "section": "papers",
+        "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+        "url": "https://arxiv.org/abs/2608.07458",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Gyuwan Kim, Cheoneum Park, Tao Yang",
+        "published": "2026-08-07T17:51:49Z",
+        "snippet": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant information redundancy a…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.07457",
+        "section": "papers",
+        "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
+        "url": "https://arxiv.org/abs/2608.07457",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Bella Xinrui Li, Frank Yingjie Huo, Neil F Johnson",
+        "published": "2026-08-07T17:49:55Z",
+        "snippet": "What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics. When a boss AI directs a s…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.07454",
+        "section": "papers",
+        "title": "Strategy-first synthesis planning for complex natural products",
+        "url": "https://arxiv.org/abs/2608.07454",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu et al.",
+        "published": "2026-08-07T17:47:39Z",
+        "snippet": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks into an intricate t…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.07449",
+        "section": "papers",
+        "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+        "url": "https://arxiv.org/abs/2608.07449",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al.",
+        "published": "2026-08-07T17:40:33Z",
+        "snippet": "LLM agents increasingly adapt to recurring tasks by accumulating procedural knowledge in skills. These skills are lightweight, reusable textual artifacts that are loaded into the agent's context without weight updates.…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.07446",
+        "section": "papers",
+        "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+        "url": "https://arxiv.org/abs/2608.07446",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Afreen Alam, Evgenija Popchanovska, Ana Gjorgjevikj et al.",
+        "published": "2026-08-07T17:33:09Z",
+        "snippet": "Rapid adoption of large language models (LLMs) in enterprise settings has introduced operational, security, and governance risks. As generative AI applications move from pilot to production, manual harm identification a…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.07444",
+        "section": "papers",
+        "title": "RIS-Aided mmWave Localization Under Cross-Link Interference via Beam-Domain ML Fingerprinting",
+        "url": "https://arxiv.org/abs/2608.07444",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Md Tarek Hassan, Dmitry Zelenchuk, Muhammad Ali Babar Abbasi",
+        "published": "2026-08-07T17:28:33Z",
+        "snippet": "Accurate user equipment (UE) localization is critical for beam management in reconfigurable intelligent surface (RIS)-assisted millimeter-wave (mmWave) based sixth-generation (6G) networks, especially if the direct base…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 3291,
+        "score_label": "3,291 likes · 35,295 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 2966,
+        "score_label": "2,966 likes · 868,576 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 1093,
+        "score_label": "1,093 likes · 4,947,943 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 10411,
+        "score_label": "10,411 likes · 1,456,459 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-larryvrh/MiniMax-H3-Turbo-Lora",
+        "section": "models",
+        "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "score": 556,
+        "score_label": "556 likes · 0 downloads",
+        "author": "larryvrh",
+        "published": "2026-08-05T21:58:56.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-2.6B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-2.6B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 460,
+        "score_label": "460 likes · 85,651 downloads",
+        "author": "LiquidAI",
+        "published": "2026-07-28T22:14:32.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "section": "models",
+        "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "score": 423,
+        "score_label": "423 likes · 0 downloads",
+        "author": "ethanfel",
+        "published": "2026-08-03T09:25:01.000Z",
+        "snippet": "image-text-to-text · comfyui",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1814,
+        "score_label": "1,814 likes · 2,390,692 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepgrove/maple-preview",
+        "section": "models",
+        "title": "deepgrove/maple-preview",
+        "url": "https://huggingface.co/deepgrove/maple-preview",
+        "score": 291,
+        "score_label": "291 likes · 1,089 downloads",
+        "author": "deepgrove",
+        "published": "2026-08-04T20:50:54.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+        "section": "models",
+        "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+        "score": 267,
+        "score_label": "267 likes · 543 downloads",
+        "author": "nvidia",
+        "published": "2026-07-29T17:46:48.000Z",
+        "snippet": "",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "section": "newsletters",
+        "title": "Lessons from the hacks",
+        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-09T14:57:11+00:00",
+        "snippet": "Musings on model alignment, what determines safety, and where we go from here.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "section": "newsletters",
+        "title": "[AINews] Zawinski's Law of MultiAgents",
+        "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-08T01:12:07+00:00",
+        "snippet": "a quiet day lets us find some connections among recent themes",
+        "extra_link": null
+      }
+    ]
+  }
+}
