@@ -1,0 +1,397 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T05:35:13.762709+00:00",
+  "errors": [
+    "papers"
+  ],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49241679",
+        "section": "hackernews",
+        "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "score": 1081,
+        "score_label": "1081 points",
+        "author": "riordan",
+        "published": "2026-08-10T10:10:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49241679"
+        }
+      },
+      {
+        "id": "hn-49239751",
+        "section": "hackernews",
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "url": "https://www.docker.com/products/docker-sandboxes/",
+        "score": 644,
+        "score_label": "644 points",
+        "author": "etoxin",
+        "published": "2026-08-10T06:02:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49239751"
+        }
+      },
+      {
+        "id": "hn-49243880",
+        "section": "hackernews",
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "score": 445,
+        "score_label": "445 points",
+        "author": "root-parent",
+        "published": "2026-08-10T14:06:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49243880"
+        }
+      },
+      {
+        "id": "hn-49246804",
+        "section": "hackernews",
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "score": 256,
+        "score_label": "256 points",
+        "author": "HenryNdubuaku",
+        "published": "2026-08-10T17:22:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49246804"
+        }
+      },
+      {
+        "id": "hn-49243397",
+        "section": "hackernews",
+        "title": "Mistral Patent for “Code implemented tool calls”",
+        "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+        "score": 215,
+        "score_label": "215 points",
+        "author": "theanonymousone",
+        "published": "2026-08-10T13:29:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49243397"
+        }
+      },
+      {
+        "id": "hn-49243474",
+        "section": "hackernews",
+        "title": "Humanising LLM Outputs Is Dumb",
+        "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+        "score": 188,
+        "score_label": "188 points",
+        "author": "kuberwastaken",
+        "published": "2026-08-10T13:35:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49243474"
+        }
+      },
+      {
+        "id": "hn-49247070",
+        "section": "hackernews",
+        "title": "Learning more about Claude's mathematical capabilities",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "score": 178,
+        "score_label": "178 points",
+        "author": "tosh",
+        "published": "2026-08-10T17:41:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49247070"
+        }
+      },
+      {
+        "id": "hn-49244569",
+        "section": "hackernews",
+        "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+        "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+        "score": 149,
+        "score_label": "149 points",
+        "author": "kotaKat",
+        "published": "2026-08-10T14:56:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49244569"
+        }
+      },
+      {
+        "id": "hn-49244085",
+        "section": "hackernews",
+        "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+        "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+        "score": 134,
+        "score_label": "134 points",
+        "author": "sshh12",
+        "published": "2026-08-10T14:20:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49244085"
+        }
+      },
+      {
+        "id": "hn-49245437",
+        "section": "hackernews",
+        "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+        "url": "https://github.com/AntigmaLabs/ante",
+        "score": 124,
+        "score_label": "124 points",
+        "author": "ubermon",
+        "published": "2026-08-10T15:59:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49245437"
+        }
+      },
+      {
+        "id": "hn-49245936",
+        "section": "hackernews",
+        "title": "What's the best programming language for coding agents?",
+        "url": "http://danluu.com/pl-tokens/",
+        "score": 117,
+        "score_label": "117 points",
+        "author": "chaychoong",
+        "published": "2026-08-10T16:28:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49245936"
+        }
+      },
+      {
+        "id": "hn-49244308",
+        "section": "hackernews",
+        "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+        "score": 106,
+        "score_label": "106 points",
+        "author": "hackerBanana",
+        "published": "2026-08-10T14:38:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49244308"
+        }
+      },
+      {
+        "id": "hn-49246704",
+        "section": "hackernews",
+        "title": "GPT 5.6 Cyber",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+        "score": 99,
+        "score_label": "99 points",
+        "author": "gizmodo59",
+        "published": "2026-08-10T17:14:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49246704"
+        }
+      },
+      {
+        "id": "hn-49250109",
+        "section": "hackernews",
+        "title": "How Claude marks AI-generated content",
+        "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+        "score": 95,
+        "score_label": "95 points",
+        "author": "mfiguiere",
+        "published": "2026-08-10T21:36:56+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49250109"
+        }
+      },
+      {
+        "id": "hn-49246057",
+        "section": "hackernews",
+        "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+        "url": "https://www.stoaexchange.com",
+        "score": 74,
+        "score_label": "74 points",
+        "author": "erenberke",
+        "published": "2026-08-10T16:35:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49246057"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 3455,
+        "score_label": "3,455 likes · 47,468 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Glimmer-30B",
+        "section": "models",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "score": 811,
+        "score_label": "811 likes · 0 downloads",
+        "author": "meta-models",
+        "published": "2026-08-09T17:51:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 3078,
+        "score_label": "3,078 likes · 954,441 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 1159,
+        "score_label": "1,159 likes · 6,009,639 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-larryvrh/MiniMax-H3-Turbo-Lora",
+        "section": "models",
+        "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "score": 606,
+        "score_label": "606 likes · 0 downloads",
+        "author": "larryvrh",
+        "published": "2026-08-05T21:58:56.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-2.6B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-2.6B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 494,
+        "score_label": "494 likes · 89,680 downloads",
+        "author": "LiquidAI",
+        "published": "2026-07-28T22:14:32.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 10477,
+        "score_label": "10,477 likes · 1,510,032 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1867,
+        "score_label": "1,867 likes · 2,439,083 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "section": "models",
+        "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+        "score": 443,
+        "score_label": "443 likes · 0 downloads",
+        "author": "ethanfel",
+        "published": "2026-08-03T09:25:01.000Z",
+        "snippet": "image-text-to-text · comfyui",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepgrove/maple-preview",
+        "section": "models",
+        "title": "deepgrove/maple-preview",
+        "url": "https://huggingface.co/deepgrove/maple-preview",
+        "score": 316,
+        "score_label": "316 likes · 1,344 downloads",
+        "author": "deepgrove",
+        "published": "2026-08-04T20:50:54.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+        "section": "newsletters",
+        "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+        "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-11T05:16:41+00:00",
+        "snippet": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+        "section": "newsletters",
+        "title": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
+        "url": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-10T13:02:42+00:00",
+        "snippet": "After a few long years of finding time to document my lessons from training open models, my post-training book is done!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "section": "newsletters",
+        "title": "Lessons from the hacks",
+        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-09T14:57:11+00:00",
+        "snippet": "Musings on model alignment, what determines safety, and where we go from here.",
+        "extra_link": null
+      }
+    ]
+  }
+}
