@@ -1,0 +1,684 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T06:06:02.744066+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49257876",
+        "section": "hackernews",
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "url": "https://stolen-thoughts.com/",
+        "score": 579,
+        "score_label": "579 points",
+        "author": "quantumgarbage",
+        "published": "2026-08-11T13:22:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49257876"
+        }
+      },
+      {
+        "id": "hn-49257160",
+        "section": "hackernews",
+        "title": "OpenAI’s head of ethics leaves less than a year after joining",
+        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+        "score": 364,
+        "score_label": "364 points",
+        "author": "ilamont",
+        "published": "2026-08-11T12:23:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49257160"
+        }
+      },
+      {
+        "id": "hn-49261133",
+        "section": "hackernews",
+        "title": "Go is an ideal language for AI-assisted software engineering",
+        "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+        "score": 327,
+        "score_label": "327 points",
+        "author": "0xedb",
+        "published": "2026-08-11T16:57:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49261133"
+        }
+      },
+      {
+        "id": "hn-49259339",
+        "section": "hackernews",
+        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+        "score": 289,
+        "score_label": "289 points",
+        "author": "frabonacci",
+        "published": "2026-08-11T14:50:33+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49259339"
+        }
+      },
+      {
+        "id": "hn-49267057",
+        "section": "hackernews",
+        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+        "score": 124,
+        "score_label": "124 points",
+        "author": "Anon84",
+        "published": "2026-08-12T02:05:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49267057"
+        }
+      },
+      {
+        "id": "hn-49258581",
+        "section": "hackernews",
+        "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
+        "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+        "score": 86,
+        "score_label": "86 points",
+        "author": "ashurandi",
+        "published": "2026-08-11T14:03:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49258581"
+        }
+      },
+      {
+        "id": "hn-49264755",
+        "section": "hackernews",
+        "title": "Suzanne: AI tool for designing and manufacturing physical products",
+        "url": "https://www.suzanne3d.com/",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "Samanthajeanneb",
+        "published": "2026-08-11T21:28:26+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49264755"
+        }
+      },
+      {
+        "id": "hn-49265135",
+        "section": "hackernews",
+        "title": "OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
+        "url": "https://twitter.com/_can1357/status/2087228354399265125",
+        "score": 48,
+        "score_label": "48 points",
+        "author": "himata4113",
+        "published": "2026-08-11T22:06:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49265135"
+        }
+      },
+      {
+        "id": "hn-49254351",
+        "section": "hackernews",
+        "title": "The Water Footprint of AI",
+        "url": "https://doi.org/10.1016/j.watres.2026.125866",
+        "score": 45,
+        "score_label": "45 points",
+        "author": "MASNeo",
+        "published": "2026-08-11T07:00:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49254351"
+        }
+      },
+      {
+        "id": "hn-49264334",
+        "section": "hackernews",
+        "title": "OpenAI launches ChatGPT desktop app for Linux",
+        "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+        "score": 43,
+        "score_label": "43 points",
+        "author": "ashurandi",
+        "published": "2026-08-11T20:54:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49264334"
+        }
+      },
+      {
+        "id": "hn-49258881",
+        "section": "hackernews",
+        "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
+        "url": "https://github.com/anthropics/claude-code/issues/78431",
+        "score": 38,
+        "score_label": "38 points",
+        "author": "matada_",
+        "published": "2026-08-11T14:21:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49258881"
+        }
+      },
+      {
+        "id": "hn-49256258",
+        "section": "hackernews",
+        "title": "How to organize Claude Code for product work",
+        "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "adamfaik",
+        "published": "2026-08-11T11:02:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49256258"
+        }
+      },
+      {
+        "id": "hn-49255069",
+        "section": "hackernews",
+        "title": "I was accused of using AI in my dissertation but I wrote it all myself",
+        "url": "https://www.bbc.com/news/articles/crelev8gw5xo",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "tcp_handshaker",
+        "published": "2026-08-11T08:46:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49255069"
+        }
+      },
+      {
+        "id": "hn-49254999",
+        "section": "hackernews",
+        "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
+        "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "jakozaur",
+        "published": "2026-08-11T08:34:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49254999"
+        }
+      },
+      {
+        "id": "hn-49267928",
+        "section": "hackernews",
+        "title": "llama.cpp",
+        "url": "https://llama.app",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "kristianpaul",
+        "published": "2026-08-12T04:51:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49267928"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.09819",
+        "section": "papers",
+        "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
+        "url": "https://huggingface.co/papers/2608.09819",
+        "score": 301,
+        "score_label": "301 upvotes",
+        "author": "Mind Lab, Vin Bo, Asher Cai et al.",
+        "published": "2026-08-09T20:00:00.000Z",
+        "snippet": "Macaron-V1 is an open agent-model family for experiential intelligence: learning from experience in real environments and continuing to learn after deployment. It is organized around two system goals. Adaptation is purs…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.09819"
+        }
+      },
+      {
+        "id": "paper-2608.09888",
+        "section": "papers",
+        "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+        "url": "https://huggingface.co/papers/2608.09888",
+        "score": 271,
+        "score_label": "271 upvotes",
+        "author": "Björn Engdahl, Adrian Kosowski, Jan Chorowski et al.",
+        "published": "2026-08-09T20:00:00.000Z",
+        "snippet": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a quer…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.09888"
+        }
+      },
+      {
+        "id": "paper-2608.06296",
+        "section": "papers",
+        "title": "On-Policy Self-Distillation without Any Supervision",
+        "url": "https://huggingface.co/papers/2608.06296",
+        "score": 137,
+        "score_label": "137 upvotes",
+        "author": "Yijiang Li, Bingyang Wang, Yijun Liang et al.",
+        "published": "2026-08-08T20:00:00.000Z",
+        "snippet": "On-policy (Self-)Distillation (OPD / OPSD) has shown strong potential for post-training large language models (LLMs). However, existing methods still rely heavily on external supervision, including ground-truth signals,…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.06296"
+        }
+      },
+      {
+        "id": "paper-2608.09802",
+        "section": "papers",
+        "title": "SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring",
+        "url": "https://huggingface.co/papers/2608.09802",
+        "score": 122,
+        "score_label": "122 upvotes",
+        "author": "Yuling Shi, Jinghan Xu, Kelin Fu et al.",
+        "published": "2026-08-09T20:00:00.000Z",
+        "snippet": "As AI coding agents take on increasingly complex, long-horizon software engineering tasks, existing benchmarks are rapidly saturating and their evaluation quality has come under serious scrutiny: a recent audit found th…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.09802"
+        }
+      },
+      {
+        "id": "paper-2608.08311",
+        "section": "papers",
+        "title": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+        "url": "https://huggingface.co/papers/2608.08311",
+        "score": 69,
+        "score_label": "69 upvotes",
+        "author": "Anton Razzhigaev, Andrei Gritsaev, Andrei Kaznacheev et al.",
+        "published": "2026-08-07T20:00:00.000Z",
+        "snippet": "We present Ouroboros, a self-developing agent harness whose tools, prompts, context assembly, and core implementation improve through reviewed commits that become the runtime for later work. Core evolution proceeds in t…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.08311"
+        }
+      },
+      {
+        "id": "paper-2608.09867",
+        "section": "papers",
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "url": "https://huggingface.co/papers/2608.09867",
+        "score": 57,
+        "score_label": "57 upvotes",
+        "author": "Alexander Panfilov, David Schmotz, Ilia Shumailov et al.",
+        "published": "2026-08-09T20:00:00.000Z",
+        "snippet": "Leading large language model providers now conceal their models' step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side,…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.09867"
+        }
+      },
+      {
+        "id": "paper-2608.10915",
+        "section": "papers",
+        "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+        "url": "https://huggingface.co/papers/2608.10915",
+        "score": 41,
+        "score_label": "41 upvotes",
+        "author": "Qianggang Ding, Xingyao Wang, Rui Feng et al.",
+        "published": "2026-08-10T20:00:00.000Z",
+        "snippet": "After an older adult misses a medication dose, a software agent can send another reminder and an embodied agent can bring the medication. Yet neither explains whether the person forgot, is confused, has side effects, or…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.10915"
+        }
+      },
+      {
+        "id": "paper-2608.07169",
+        "section": "papers",
+        "title": "Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory",
+        "url": "https://huggingface.co/papers/2608.07169",
+        "score": 40,
+        "score_label": "40 upvotes",
+        "author": "Taeil Kim, Kangsan Kim, Sung Ju Hwang",
+        "published": "2026-08-06T20:00:00.000Z",
+        "snippet": "Memory systems have shown promise for improving agent performance, but their potential remains largely unexplored for small language models, which struggle to generate sufficient successful trajectories on their own. We…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.07169"
+        }
+      },
+      {
+        "id": "paper-2608.07565",
+        "section": "papers",
+        "title": "What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems",
+        "url": "https://huggingface.co/papers/2608.07565",
+        "score": 26,
+        "score_label": "26 upvotes",
+        "author": "Zhijing Zhang, Jinpeng Yu, Xin Song et al.",
+        "published": "2026-08-02T20:00:00.000Z",
+        "snippet": "Conversational assistants increasingly recommend follow-up edits to help users continue a task. Existing systems primarily target text-only interactions, leaving image-creation conversations underexplored. In image-crea…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.07565"
+        }
+      },
+      {
+        "id": "paper-2608.10299",
+        "section": "papers",
+        "title": "Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design",
+        "url": "https://huggingface.co/papers/2608.10299",
+        "score": 24,
+        "score_label": "24 upvotes",
+        "author": "Qing Zong, Jiayu Liu, Junhao Shen et al.",
+        "published": "2026-08-09T20:00:00.000Z",
+        "snippet": "Agentic systems are increasingly expected to improve after deployment, yet single-entity self-evolution is often bounded by a static learning context, such as fixed tasks and feedback. This survey focuses on co-evolutio…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.10299"
+        }
+      },
+      {
+        "id": "paper-2608.08097",
+        "section": "papers",
+        "title": "OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching",
+        "url": "https://huggingface.co/papers/2608.08097",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Can Xiao, Sukmin Cho, Junbong We et al.",
+        "published": "2026-08-07T20:00:00.000Z",
+        "snippet": "Large language model (LLM) inference serving is increasingly constrained by memory rather than compute. As long-context and long-form reasoning workloads become more prevalent, the key-value (KV) cache dominates both me…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.08097"
+        }
+      },
+      {
+        "id": "paper-2608.07594",
+        "section": "papers",
+        "title": "Scaling Inherently Interpretable Language Models",
+        "url": "https://huggingface.co/papers/2608.07594",
+        "score": 17,
+        "score_label": "17 upvotes",
+        "author": "Guide Labs Team, Andreas Madsen, Aya Abdelsalam Ismail et al.",
+        "published": "2026-08-05T20:00:00.000Z",
+        "snippet": "Interpretability is often treated as a tax on capability: language models are trained as opaque systems, then explained after the fact, with methods whose reliability is difficult to establish. In this work, we challeng…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.07594"
+        }
+      },
+      {
+        "id": "paper-2608.11204",
+        "section": "papers",
+        "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+        "url": "https://arxiv.org/abs/2608.11204",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Wenrui Bao, Tianyun Jiang, Zhiben Chen et al.",
+        "published": "2026-08-11T17:59:13Z",
+        "snippet": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.11200",
+        "section": "papers",
+        "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
+        "url": "https://arxiv.org/abs/2608.11200",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Chen Lyu, Xingwei Tan, Simon Cullen et al.",
+        "published": "2026-08-11T17:57:34Z",
+        "snippet": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats a…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.11197",
+        "section": "papers",
+        "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+        "url": "https://arxiv.org/abs/2608.11197",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Nikolai Bolik, Lennart Stöpler, Artur Andrzejak",
+        "published": "2026-08-11T17:55:59Z",
+        "snippet": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representat…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.11195",
+        "section": "papers",
+        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+        "url": "https://arxiv.org/abs/2608.11195",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Alan Li, Rahul Saha, Anton Xue et al.",
+        "published": "2026-08-11T17:53:48Z",
+        "snippet": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck con…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.11191",
+        "section": "papers",
+        "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+        "url": "https://arxiv.org/abs/2608.11191",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shiyu Xuan, Zechao Li",
+        "published": "2026-08-11T17:50:25Z",
+        "snippet": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attempt…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.11181",
+        "section": "papers",
+        "title": "How to Verify Consistency of Probabilistic Claims",
+        "url": "https://arxiv.org/abs/2608.11181",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Orr Paradise, Oliver Richardson, Yoshua Bengio et al.",
+        "published": "2026-08-11T17:41:39Z",
+        "snippet": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is deriv…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.11173",
+        "section": "papers",
+        "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
+        "url": "https://arxiv.org/abs/2608.11173",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Eric A. F. Reinhardt, Adam J. Hauser",
+        "published": "2026-08-11T17:32:30Z",
+        "snippet": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all out…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.11171",
+        "section": "papers",
+        "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
+        "url": "https://arxiv.org/abs/2608.11171",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Rahul Gupta, Abhinav Mohanty, Anaelia Ovalle et al.",
+        "published": "2026-08-11T17:30:16Z",
+        "snippet": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition from…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 3612,
+        "score_label": "3,612 likes · 59,368 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Glimmer-30B",
+        "section": "models",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "score": 1133,
+        "score_label": "1,133 likes · 0 downloads",
+        "author": "meta-models",
+        "published": "2026-08-09T17:51:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 3173,
+        "score_label": "3,173 likes · 1,048,685 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-larryvrh/MiniMax-H3-Turbo-Lora",
+        "section": "models",
+        "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "score": 661,
+        "score_label": "661 likes · 0 downloads",
+        "author": "larryvrh",
+        "published": "2026-08-05T21:58:56.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 1222,
+        "score_label": "1,222 likes · 6,798,796 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "score": 10535,
+        "score_label": "10,535 likes · 1,565,484 downloads",
+        "author": "moonshotai",
+        "published": "2026-06-13T06:42:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-2.6B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-2.6B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 557,
+        "score_label": "557 likes · 93,668 downloads",
+        "author": "LiquidAI",
+        "published": "2026-07-28T22:14:32.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-lightx2v/Minimax-h3-Turbo",
+        "section": "models",
+        "title": "lightx2v/Minimax-h3-Turbo",
+        "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+        "score": 359,
+        "score_label": "359 likes · 20,376 downloads",
+        "author": "lightx2v",
+        "published": "2026-08-07T12:59:07.000Z",
+        "snippet": "image-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+        "score": 1911,
+        "score_label": "1,911 likes · 2,521,093 downloads",
+        "author": "DavidAU",
+        "published": "2026-07-17T00:27:17.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Muse-Glimmer-30B-GGUF",
+        "section": "models",
+        "title": "unsloth/Muse-Glimmer-30B-GGUF",
+        "url": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+        "score": 316,
+        "score_label": "316 likes · 0 downloads",
+        "author": "unsloth",
+        "published": "2026-08-10T09:11:29.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/chai-discovery",
+        "section": "newsletters",
+        "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
+        "url": "https://www.latent.space/p/chai-discovery",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-11T21:03:50+00:00",
+        "snippet": "Pharma is suddenly paying for Bio &#215; AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+        "section": "newsletters",
+        "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+        "url": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-11T05:16:41+00:00",
+        "snippet": "a small win for american open models - Glimmer runs on a fits on a single RTX 3090!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+        "section": "newsletters",
+        "title": "5 useful things you'll learn in my new post-training textbook (shipping now!)",
+        "url": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-10T13:02:42+00:00",
+        "snippet": "After a few long years of finding time to document my lessons from training open models, my post-training book is done!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "section": "newsletters",
+        "title": "Lessons from the hacks",
+        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-09T14:57:11+00:00",
+        "snippet": "Musings on model alignment, what determines safety, and where we go from here.",
+        "extra_link": null
+      }
+    ]
+  }
+}
