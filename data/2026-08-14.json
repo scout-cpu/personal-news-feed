@@ -1,0 +1,621 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T06:05:42.465747+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49289112",
+        "section": "hackernews",
+        "title": "Gemini 3.7 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "score": 741,
+        "score_label": "741 points",
+        "author": "thisisauserid",
+        "published": "2026-08-13T17:23:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49289112"
+        }
+      },
+      {
+        "id": "hn-49289844",
+        "section": "hackernews",
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "score": 524,
+        "score_label": "524 points",
+        "author": "pr337h4m",
+        "published": "2026-08-13T18:10:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49289844"
+        }
+      },
+      {
+        "id": "hn-49288889",
+        "section": "hackernews",
+        "title": "Mistral OCR 4.1",
+        "url": "https://docs.mistral.ai/models/ocr-4-1",
+        "score": 294,
+        "score_label": "294 points",
+        "author": "spelk",
+        "published": "2026-08-13T17:05:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49288889"
+        }
+      },
+      {
+        "id": "hn-49285327",
+        "section": "hackernews",
+        "title": "Choosing an AI model: one prompt, 11 models, different results",
+        "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+        "score": 193,
+        "score_label": "193 points",
+        "author": "toddmorey",
+        "published": "2026-08-13T13:05:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49285327"
+        }
+      },
+      {
+        "id": "hn-49285604",
+        "section": "hackernews",
+        "title": "AI agents lie, cheat and steal. That is putting off users",
+        "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+        "score": 158,
+        "score_label": "158 points",
+        "author": "andsoitis",
+        "published": "2026-08-13T13:28:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49285604"
+        }
+      },
+      {
+        "id": "hn-49288293",
+        "section": "hackernews",
+        "title": "AI At Home Part 1: A Box Of Scraps",
+        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+        "score": 113,
+        "score_label": "113 points",
+        "author": "timmmmmmay",
+        "published": "2026-08-13T16:22:05+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49288293"
+        }
+      },
+      {
+        "id": "hn-49287153",
+        "section": "hackernews",
+        "title": "Text AI watermarks will always be trivial to remove",
+        "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+        "score": 113,
+        "score_label": "113 points",
+        "author": "pseudolus",
+        "published": "2026-08-13T15:07:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49287153"
+        }
+      },
+      {
+        "id": "hn-49292932",
+        "section": "hackernews",
+        "title": "How AI text watermarking works",
+        "url": "https://declaude.org/watermarking/",
+        "score": 105,
+        "score_label": "105 points",
+        "author": "padolsey",
+        "published": "2026-08-13T23:16:55+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49292932"
+        }
+      },
+      {
+        "id": "hn-49283063",
+        "section": "hackernews",
+        "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+        "url": "https://www.codewithbullet.com",
+        "score": 93,
+        "score_label": "93 points",
+        "author": "adi1",
+        "published": "2026-08-13T08:14:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49283063"
+        }
+      },
+      {
+        "id": "hn-49290768",
+        "section": "hackernews",
+        "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+        "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+        "score": 92,
+        "score_label": "92 points",
+        "author": "malshe",
+        "published": "2026-08-13T19:25:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49290768"
+        }
+      },
+      {
+        "id": "hn-49283563",
+        "section": "hackernews",
+        "title": "Can I use my Outputs to train an AI model?",
+        "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+        "score": 88,
+        "score_label": "88 points",
+        "author": "DarenWatson",
+        "published": "2026-08-13T09:34:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49283563"
+        }
+      },
+      {
+        "id": "hn-49283891",
+        "section": "hackernews",
+        "title": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "score": 62,
+        "score_label": "62 points",
+        "author": "ashurandi",
+        "published": "2026-08-13T10:23:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49283891"
+        }
+      },
+      {
+        "id": "hn-49286073",
+        "section": "hackernews",
+        "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+        "url": "https://github.com/fellowgeek/mcp-memory",
+        "score": 58,
+        "score_label": "58 points",
+        "author": "pcbmaker20",
+        "published": "2026-08-13T13:57:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49286073"
+        }
+      },
+      {
+        "id": "hn-49290062",
+        "section": "hackernews",
+        "title": "AI Is Threatening Natural Resources for Billions",
+        "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+        "score": 53,
+        "score_label": "53 points",
+        "author": "quaintdev",
+        "published": "2026-08-13T18:28:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49290062"
+        }
+      },
+      {
+        "id": "hn-49290521",
+        "section": "hackernews",
+        "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+        "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+        "score": 50,
+        "score_label": "50 points",
+        "author": "hampelm",
+        "published": "2026-08-13T19:04:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49290521"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.12036",
+        "section": "papers",
+        "title": "Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence",
+        "url": "https://huggingface.co/papers/2608.12036",
+        "score": 79,
+        "score_label": "79 upvotes",
+        "author": "Mengru Wang, Junfeng Fang, Shuofei Qiao et al.",
+        "published": "2026-08-11T20:00:00.000Z",
+        "snippet": "AI models have achieved remarkable success across diverse domains, yet the mechanisms underlying their capabilities and the risks they may pose remain poorly understood. As AI development becomes faster and increasingly…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.12036"
+        }
+      },
+      {
+        "id": "paper-2608.05604",
+        "section": "papers",
+        "title": "SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries",
+        "url": "https://huggingface.co/papers/2608.05604",
+        "score": 73,
+        "score_label": "73 upvotes",
+        "author": "Xingyu Tan, Xiaoyang Wang, Qing Liu et al.",
+        "published": "2026-08-05T20:00:00.000Z",
+        "snippet": "Large Language Models (LLMs) increasingly act as agents whose procedural knowledge is stored in reusable skill packages and loaded at inference time. As skill libraries grow, a central challenge is to expose the smalles…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.05604"
+        }
+      },
+      {
+        "id": "paper-2608.13489",
+        "section": "papers",
+        "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation",
+        "url": "https://huggingface.co/papers/2608.13489",
+        "score": 59,
+        "score_label": "59 upvotes",
+        "author": "DreamX Team, Rui Chen, Xiangxiang Chu et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "We present DreamX-Phi 1.0, an action-conditioned video world model for robotic manipulation that, given an observed frame, a language instruction, and a prescribed action sequence comprising end-effector poses and gripp…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.13489"
+        }
+      },
+      {
+        "id": "paper-2608.06867",
+        "section": "papers",
+        "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+        "url": "https://huggingface.co/papers/2608.06867",
+        "score": 48,
+        "score_label": "48 upvotes",
+        "author": "Tao Feng, Fangxu Yu, Haozhen Zhang et al.",
+        "published": "2026-08-06T20:00:00.000Z",
+        "snippet": "No single large language model (LLM) is optimal across all queries and budget constraints, making model routing essential for cost-effective deployment. Existing routers adopt diverse formulations and implementations, m…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.06867"
+        }
+      },
+      {
+        "id": "paper-2608.13505",
+        "section": "papers",
+        "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+        "url": "https://huggingface.co/papers/2608.13505",
+        "score": 32,
+        "score_label": "32 upvotes",
+        "author": "Lei Bai, Jiaqi Cao, Chiyu Chen et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "Scientific discovery increasingly requires AI systems that can reason over scientific evidence of heterogeneous modalities, interact with scientific tools and environments, and sustain progress across long task horizons…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.13505"
+        }
+      },
+      {
+        "id": "paper-2608.07545",
+        "section": "papers",
+        "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
+        "url": "https://huggingface.co/papers/2608.07545",
+        "score": 26,
+        "score_label": "26 upvotes",
+        "author": "Yifan Zhang, Yutong Dai, Juntao Tan et al.",
+        "published": "2026-07-30T20:00:00.000Z",
+        "snippet": "An LLM agent's capability depends not only on model weights but on its harness: prompts, tools, skills, and control flow. Self-improvement loops already edit harnesses, yet single-lineage search is path-dependent and lo…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.07545"
+        }
+      },
+      {
+        "id": "paper-2608.13560",
+        "section": "papers",
+        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+        "url": "https://huggingface.co/papers/2608.13560",
+        "score": 23,
+        "score_label": "23 upvotes",
+        "author": "Yaxin Luo, Haobin Jiang, Jialv Zou et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.13560"
+        }
+      },
+      {
+        "id": "paper-2608.13555",
+        "section": "papers",
+        "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+        "url": "https://arxiv.org/abs/2608.13555",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Dairu Liu, Zekun Qi, Jiayu Zeng et al.",
+        "published": "2026-08-13T17:59:40Z",
+        "snippet": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physica…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.13554",
+        "section": "papers",
+        "title": "Defensive Boosting for Online Probabilistic Forecasting",
+        "url": "https://arxiv.org/abs/2608.13554",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Georgy Noarov, Aaron Roth",
+        "published": "2026-08-13T17:59:35Z",
+        "snippet": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain two incomparable guar…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.13549",
+        "section": "papers",
+        "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+        "url": "https://arxiv.org/abs/2608.13549",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Mingyuan Zhang",
+        "published": "2026-08-13T17:59:17Z",
+        "snippet": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Under the convention…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.13547",
+        "section": "papers",
+        "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+        "url": "https://arxiv.org/abs/2608.13547",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shangao Li, Yao Zhang, Volker Tresp et al.",
+        "published": "2026-08-13T17:57:20Z",
+        "snippet": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after gen…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.13545",
+        "section": "papers",
+        "title": "LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure",
+        "url": "https://arxiv.org/abs/2608.13545",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Fanfei Li, Jana Zeller, Manuel Prada-Corral et al.",
+        "published": "2026-08-13T17:56:12Z",
+        "snippet": "Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address t…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.13538",
+        "section": "papers",
+        "title": "SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization",
+        "url": "https://arxiv.org/abs/2608.13538",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Weihan Meng, Hongzhu Guo, Yi Jing et al.",
+        "published": "2026-08-13T17:54:11Z",
+        "snippet": "Sparse autoencoders (SAEs) are proposed to extract numerous features from large language model (LLM) representations, yet explaining these features still relies primarily on external observation. This reliance leads to…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.13524",
+        "section": "papers",
+        "title": "DARTree: Speculative Diffusion Decoding with Autoregressive Draft Trees",
+        "url": "https://arxiv.org/abs/2608.13524",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Tianyi Li, Yaxin Luo, Xinyi Shang et al.",
+        "published": "2026-08-13T17:43:44Z",
+        "snippet": "Speculative decoding losslessly accelerates autoregressive language models by verifying multiple draft tokens in parallel. Diffusion-based drafters further reduce proposal latency by predicting an entire token block in…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.13522",
+        "section": "papers",
+        "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+        "url": "https://arxiv.org/abs/2608.13522",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zhe Ye, Hantao Lou, Yuechun Sun et al.",
+        "published": "2026-08-13T17:41:27Z",
+        "snippet": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked p…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-meta-models/Muse-Glimmer-30B",
+        "section": "models",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "score": 1439,
+        "score_label": "1,439 likes · 121,042 downloads",
+        "author": "meta-models",
+        "published": "2026-08-09T17:51:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 3846,
+        "score_label": "3,846 likes · 1,605,940 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-2.4T-A95B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "score": 812,
+        "score_label": "812 likes · 1,012 downloads",
+        "author": "Qwen",
+        "published": "2026-08-08T01:50:52.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 748,
+        "score_label": "748 likes · 57,287 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 3336,
+        "score_label": "3,336 likes · 1,431,587 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-lightx2v/Minimax-h3-Turbo",
+        "section": "models",
+        "title": "lightx2v/Minimax-h3-Turbo",
+        "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+        "score": 468,
+        "score_label": "468 likes · 91,455 downloads",
+        "author": "lightx2v",
+        "published": "2026-08-07T12:59:07.000Z",
+        "snippet": "image-to-video · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-Music3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "score": 427,
+        "score_label": "427 likes · 25 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-08-07T12:23:29.000Z",
+        "snippet": "text-to-audio · sglang-omni",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Muse-Glimmer-30B-GGUF",
+        "section": "models",
+        "title": "unsloth/Muse-Glimmer-30B-GGUF",
+        "url": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+        "score": 394,
+        "score_label": "394 likes · 352,023 downloads",
+        "author": "unsloth",
+        "published": "2026-08-10T09:11:29.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+        "score": 1297,
+        "score_label": "1,297 likes · 10,365,210 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-07-30T22:36:12.000Z",
+        "snippet": "diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-larryvrh/MiniMax-H3-Turbo-Lora",
+        "section": "models",
+        "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+        "url": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+        "score": 726,
+        "score_label": "726 likes · 0 downloads",
+        "author": "larryvrh",
+        "published": "2026-08-05T21:58:56.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+        "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-14T05:30:39+00:00",
+        "snippet": "Down, but not out!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+        "section": "newsletters",
+        "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
+        "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-13T01:53:47+00:00",
+        "snippet": "AI teammate category just had its most significant new entrant yet",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+        "section": "newsletters",
+        "title": "I wrote an AI textbook — how long until AI can do it better?",
+        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-12T13:01:16+00:00",
+        "snippet": "Reflections on AI's writing ability and how AI models get more capable.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+        "section": "newsletters",
+        "title": "[AINews] How to steal a Reasoning Trace",
+        "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-12T07:11:08+00:00",
+        "snippet": "Speculative Decoding by any other name would distil as sweet",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/chai-discovery",
+        "section": "newsletters",
+        "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
+        "url": "https://www.latent.space/p/chai-discovery",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-11T21:03:50+00:00",
+        "snippet": "Pharma is suddenly paying for Bio &#215; AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why.",
+        "extra_link": null
+      }
+    ]
+  }
+}
