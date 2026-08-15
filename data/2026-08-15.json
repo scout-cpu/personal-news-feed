@@ -1,0 +1,435 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T03:25:35.615391+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49300314",
+        "section": "hackernews",
+        "title": "Google is making private AI practical with homomorphic encryption",
+        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "score": 300,
+        "score_label": "300 points",
+        "author": "u1hcw9nx",
+        "published": "2026-08-14T15:43:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49300314"
+        }
+      },
+      {
+        "id": "hn-49300568",
+        "section": "hackernews",
+        "title": "AI by Hand",
+        "url": "https://www.byhand.ai/",
+        "score": 224,
+        "score_label": "224 points",
+        "author": "sans_souse",
+        "published": "2026-08-14T15:58:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49300568"
+        }
+      },
+      {
+        "id": "hn-49299282",
+        "section": "hackernews",
+        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "score": 170,
+        "score_label": "170 points",
+        "author": "gmays",
+        "published": "2026-08-14T14:34:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49299282"
+        }
+      },
+      {
+        "id": "hn-49300800",
+        "section": "hackernews",
+        "title": "Maximizing the value of your Claude Code sessions",
+        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+        "score": 144,
+        "score_label": "144 points",
+        "author": "twapi",
+        "published": "2026-08-14T16:15:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49300800"
+        }
+      },
+      {
+        "id": "hn-49303046",
+        "section": "hackernews",
+        "title": "Show HN: Mole – Deep research agent for your terminal",
+        "url": "https://github.com/lajosdeme/mole",
+        "score": 54,
+        "score_label": "54 points",
+        "author": "lajosdeme",
+        "published": "2026-08-14T18:52:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49303046"
+        }
+      },
+      {
+        "id": "hn-49299102",
+        "section": "hackernews",
+        "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+        "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+        "score": 54,
+        "score_label": "54 points",
+        "author": "bj-rn",
+        "published": "2026-08-14T14:22:39+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49299102"
+        }
+      },
+      {
+        "id": "hn-49303540",
+        "section": "hackernews",
+        "title": "Anthropic Risk August 2026 [pdf]",
+        "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+        "score": 52,
+        "score_label": "52 points",
+        "author": "artninja1988",
+        "published": "2026-08-14T19:32:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49303540"
+        }
+      },
+      {
+        "id": "hn-49298088",
+        "section": "hackernews",
+        "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+        "url": "https://hashagent.pages.dev/",
+        "score": 48,
+        "score_label": "48 points",
+        "author": "masonhsu",
+        "published": "2026-08-14T12:57:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49298088"
+        }
+      },
+      {
+        "id": "hn-49303350",
+        "section": "hackernews",
+        "title": "How Claude's text watermarking works",
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "surprisetalk",
+        "published": "2026-08-14T19:15:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49303350"
+        }
+      },
+      {
+        "id": "hn-49299985",
+        "section": "hackernews",
+        "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
+        "url": "https://github.com/NanoNets/Graft",
+        "score": 38,
+        "score_label": "38 points",
+        "author": "shrishdwi",
+        "published": "2026-08-14T15:22:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49299985"
+        }
+      },
+      {
+        "id": "hn-49301417",
+        "section": "hackernews",
+        "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+        "url": "https://arxiv.org/abs/2608.12700",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "Jimmc414",
+        "published": "2026-08-14T16:57:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49301417"
+        }
+      },
+      {
+        "id": "hn-49303433",
+        "section": "hackernews",
+        "title": "Z.ai Security Disclosure",
+        "url": "https://cvd.z.ai",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "Alifatisk",
+        "published": "2026-08-14T19:22:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49303433"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.13546",
+        "section": "papers",
+        "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+        "url": "https://huggingface.co/papers/2608.13546",
+        "score": 82,
+        "score_label": "82 upvotes",
+        "author": "Yuanyang Yin, Gongxuan Wang, Yifan Zhan et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "Interactive world models must support persistent memory, responsive interaction, and long-horizon generation, yet these requirements place conflicting demands on the model. Maintaining history in the denoiser context or…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.13546"
+        }
+      },
+      {
+        "id": "paper-2608.08975",
+        "section": "papers",
+        "title": "How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review",
+        "url": "https://huggingface.co/papers/2608.08975",
+        "score": 39,
+        "score_label": "39 upvotes",
+        "author": "Ming Li, Chenguang Wang, Xirui Li et al.",
+        "published": "2026-08-09T20:00:00.000Z",
+        "snippet": "As large language models increasingly participate in scientific evaluation, we investigate a potential form of reward hacking: how rhetorical choices shape AI-review judgments when reported scientific content is preserv…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.08975"
+        }
+      },
+      {
+        "id": "paper-2608.13552",
+        "section": "papers",
+        "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+        "url": "https://huggingface.co/papers/2608.13552",
+        "score": 33,
+        "score_label": "33 upvotes",
+        "author": "Kaixin Ding, Xi Chen, Minghong Cai et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long sequences. However, fair…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.13552"
+        }
+      },
+      {
+        "id": "paper-2608.12743",
+        "section": "papers",
+        "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
+        "url": "https://huggingface.co/papers/2608.12743",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Haokai Zhang, Yuhang Ding, Yunshu Zhou et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "Spatial intelligence is becoming a foundation for embodied agents, robotic planning, and multimodal assistants. To improve the spatial reasoning ability of VLM agents, existing work has mainly followed two lines. One li…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.12743"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 9138,
+        "score_label": "9,138 likes · 2 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Glimmer-30B",
+        "section": "models",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "score": 1522,
+        "score_label": "1,522 likes · 165,300 downloads",
+        "author": "meta-models",
+        "published": "2026-08-09T17:51:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-2.4T-A95B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "score": 926,
+        "score_label": "926 likes · 3,832 downloads",
+        "author": "Qwen",
+        "published": "2026-08-08T01:50:52.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 865,
+        "score_label": "865 likes · 0 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 3925,
+        "score_label": "3,925 likes · 1,997,541 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 863,
+        "score_label": "863 likes · 207,830 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-Music3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "score": 664,
+        "score_label": "664 likes · 63 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-08-07T12:23:29.000Z",
+        "snippet": "text-to-audio · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 3389,
+        "score_label": "3,389 likes · 1,606,491 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Pro-0813",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "score": 440,
+        "score_label": "440 likes · 245 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-08-13T03:05:06.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Muse-Glimmer-30B-GGUF",
+        "section": "models",
+        "title": "unsloth/Muse-Glimmer-30B-GGUF",
+        "url": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+        "score": 417,
+        "score_label": "417 likes · 596,774 downloads",
+        "author": "unsloth",
+        "published": "2026-08-10T09:11:29.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+        "section": "newsletters",
+        "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
+        "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-14T21:23:35+00:00",
+        "snippet": "Hint: It&#8217;s really not a distillation story.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+        "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-14T05:30:39+00:00",
+        "snippet": "Down, but not out!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+        "section": "newsletters",
+        "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
+        "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-13T01:53:47+00:00",
+        "snippet": "AI teammate category just had its most significant new entrant yet",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+        "section": "newsletters",
+        "title": "I wrote an AI textbook — how long until AI can do it better?",
+        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-12T13:01:16+00:00",
+        "snippet": "Reflections on AI's writing ability and how AI models get more capable.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+        "section": "newsletters",
+        "title": "[AINews] How to steal a Reasoning Trace",
+        "url": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-12T07:11:08+00:00",
+        "snippet": "Speculative Decoding by any other name would distil as sweet",
+        "extra_link": null
+      }
+    ]
+  }
+}
