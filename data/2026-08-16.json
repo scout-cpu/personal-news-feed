@@ -1,0 +1,407 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T04:02:43.353065+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49312845",
+        "section": "hackernews",
+        "title": "AI has access to a vastly larger working memory than the human brain",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "score": 443,
+        "score_label": "443 points",
+        "author": "rzk",
+        "published": "2026-08-15T18:13:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49312845"
+        }
+      },
+      {
+        "id": "hn-49309451",
+        "section": "hackernews",
+        "title": "Working with AI feels more like leadership than coding",
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "score": 283,
+        "score_label": "283 points",
+        "author": "allenb",
+        "published": "2026-08-15T10:39:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49309451"
+        }
+      },
+      {
+        "id": "hn-49307700",
+        "section": "hackernews",
+        "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "url": "https://chenxiachan.github.io/thoughtdag/",
+        "score": 114,
+        "score_label": "114 points",
+        "author": "chatchan",
+        "published": "2026-08-15T04:42:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49307700"
+        }
+      },
+      {
+        "id": "hn-49313367",
+        "section": "hackernews",
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "score": 113,
+        "score_label": "113 points",
+        "author": "AnodicElegy",
+        "published": "2026-08-15T19:12:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49313367"
+        }
+      },
+      {
+        "id": "hn-49310719",
+        "section": "hackernews",
+        "title": "Cloudflare's AI Psychosis",
+        "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+        "score": 106,
+        "score_label": "106 points",
+        "author": "gregzeng95",
+        "published": "2026-08-15T14:08:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49310719"
+        }
+      },
+      {
+        "id": "hn-49308553",
+        "section": "hackernews",
+        "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+        "score": 76,
+        "score_label": "76 points",
+        "author": "jnord",
+        "published": "2026-08-15T07:31:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49308553"
+        }
+      },
+      {
+        "id": "hn-49310725",
+        "section": "hackernews",
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "score": 66,
+        "score_label": "66 points",
+        "author": "m-i-l",
+        "published": "2026-08-15T14:08:55+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49310725"
+        }
+      },
+      {
+        "id": "hn-49309050",
+        "section": "hackernews",
+        "title": "Debian has begun voting on the future of AI/LLM contributions",
+        "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+        "score": 66,
+        "score_label": "66 points",
+        "author": "matheusmoreira",
+        "published": "2026-08-15T09:20:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49309050"
+        }
+      },
+      {
+        "id": "hn-49311445",
+        "section": "hackernews",
+        "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "url": "https://spectrum.ieee.org/ai-designed-virus",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "pseudolus",
+        "published": "2026-08-15T15:32:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49311445"
+        }
+      },
+      {
+        "id": "hn-49310495",
+        "section": "hackernews",
+        "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+        "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+        "score": 58,
+        "score_label": "58 points",
+        "author": "scresswell",
+        "published": "2026-08-15T13:43:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49310495"
+        }
+      },
+      {
+        "id": "hn-49310755",
+        "section": "hackernews",
+        "title": "The AI Situation in Software Development",
+        "url": "https://srikanth.ch/posts/the-ai-situation/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "srikanthdotch",
+        "published": "2026-08-15T14:12:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49310755"
+        }
+      },
+      {
+        "id": "hn-49310177",
+        "section": "hackernews",
+        "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+        "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "Anon84",
+        "published": "2026-08-15T12:56:56+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49310177"
+        }
+      },
+      {
+        "id": "hn-49311379",
+        "section": "hackernews",
+        "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+        "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+        "score": 26,
+        "score_label": "26 points",
+        "author": "pseudolus",
+        "published": "2026-08-15T15:25:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49311379"
+        }
+      },
+      {
+        "id": "hn-49309509",
+        "section": "hackernews",
+        "title": "OpenAI rolling out ads for Europe later this month",
+        "url": "https://openai.com/policies/eu-privacy-policy-preview/",
+        "score": 24,
+        "score_label": "24 points",
+        "author": "notenlish",
+        "published": "2026-08-15T10:52:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49309509"
+        }
+      },
+      {
+        "id": "hn-49311888",
+        "section": "hackernews",
+        "title": "US to tell partners they must pick sides in AI race with China",
+        "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "jonbaer",
+        "published": "2026-08-15T16:25:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49311888"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 9856,
+        "score_label": "9,856 likes · 91,917 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Glimmer-30B",
+        "section": "models",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "score": 1588,
+        "score_label": "1,588 likes · 246,454 downloads",
+        "author": "meta-models",
+        "published": "2026-08-09T17:51:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 1259,
+        "score_label": "1,259 likes · 867,963 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-2.4T-A95B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "score": 975,
+        "score_label": "975 likes · 6,381 downloads",
+        "author": "Qwen",
+        "published": "2026-08-08T01:50:52.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 952,
+        "score_label": "952 likes · 378,439 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-Music3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "score": 776,
+        "score_label": "776 likes · 5,079 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-08-07T12:23:29.000Z",
+        "snippet": "text-to-audio · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 3984,
+        "score_label": "3,984 likes · 2,212,155 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Pro-0813",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "score": 497,
+        "score_label": "497 likes · 19,945 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-08-13T03:05:06.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-0731",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "score": 3426,
+        "score_label": "3,426 likes · 1,798,247 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-07-31T07:30:24.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Muse-Glimmer-30B-GGUF",
+        "section": "models",
+        "title": "unsloth/Muse-Glimmer-30B-GGUF",
+        "url": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+        "score": 439,
+        "score_label": "439 likes · 682,188 downloads",
+        "author": "unsloth",
+        "published": "2026-08-10T09:11:29.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/flue-2",
+        "section": "newsletters",
+        "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
+        "url": "https://www.latent.space/p/flue-2",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-15T15:46:22+00:00",
+        "snippet": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+        "section": "newsletters",
+        "title": "Building an AI Text Detector From Scratch",
+        "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-08-15T11:54:24+00:00",
+        "snippet": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+        "section": "newsletters",
+        "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
+        "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-14T21:23:35+00:00",
+        "snippet": "Hint: It&#8217;s really not a distillation story.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+        "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-14T05:30:39+00:00",
+        "snippet": "Down, but not out!",
+        "extra_link": null
+      }
+    ]
+  }
+}
