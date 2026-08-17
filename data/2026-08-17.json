@@ -1,0 +1,534 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T04:07:29.878923+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49319556",
+        "section": "hackernews",
+        "title": "Claude: System Prompts",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "score": 575,
+        "score_label": "575 points",
+        "author": "tosh",
+        "published": "2026-08-16T12:48:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49319556"
+        }
+      },
+      {
+        "id": "hn-49320611",
+        "section": "hackernews",
+        "title": "The AI Credit Resale Economy",
+        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "score": 245,
+        "score_label": "245 points",
+        "author": "mlenhard",
+        "published": "2026-08-16T14:44:55+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49320611"
+        }
+      },
+      {
+        "id": "hn-49317760",
+        "section": "hackernews",
+        "title": "What happens when an LLM never sees material beyond fifth grade?",
+        "url": "https://littlelearner-ll.github.io/",
+        "score": 237,
+        "score_label": "237 points",
+        "author": "porridgeraisin",
+        "published": "2026-08-16T07:37:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49317760"
+        }
+      },
+      {
+        "id": "hn-49323381",
+        "section": "hackernews",
+        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "score": 234,
+        "score_label": "234 points",
+        "author": "zacharyozer",
+        "published": "2026-08-16T20:31:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49323381"
+        }
+      },
+      {
+        "id": "hn-49324087",
+        "section": "hackernews",
+        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "score": 163,
+        "score_label": "163 points",
+        "author": "ropbear",
+        "published": "2026-08-16T21:53:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49324087"
+        }
+      },
+      {
+        "id": "hn-49323686",
+        "section": "hackernews",
+        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+        "score": 146,
+        "score_label": "146 points",
+        "author": "root-parent",
+        "published": "2026-08-16T21:07:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49323686"
+        }
+      },
+      {
+        "id": "hn-49323932",
+        "section": "hackernews",
+        "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+        "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+        "score": 101,
+        "score_label": "101 points",
+        "author": "healsdata",
+        "published": "2026-08-16T21:34:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49323932"
+        }
+      },
+      {
+        "id": "hn-49318735",
+        "section": "hackernews",
+        "title": "AI Coding Without the Vibes",
+        "url": "https://peterbloem.nl/blog/craft-coding",
+        "score": 81,
+        "score_label": "81 points",
+        "author": "riskone",
+        "published": "2026-08-16T10:31:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49318735"
+        }
+      },
+      {
+        "id": "hn-49322330",
+        "section": "hackernews",
+        "title": "MathCode, Mathematical Coding Agent",
+        "url": "https://math-ai-org.github.io/mathcode/",
+        "score": 75,
+        "score_label": "75 points",
+        "author": "homarp",
+        "published": "2026-08-16T18:17:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49322330"
+        }
+      },
+      {
+        "id": "hn-49319814",
+        "section": "hackernews",
+        "title": "Show HN: A public AI whose memory is shared across all users",
+        "url": "https://wildstatic.com/",
+        "score": 69,
+        "score_label": "69 points",
+        "author": "adjohu",
+        "published": "2026-08-16T13:21:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49319814"
+        }
+      },
+      {
+        "id": "hn-49324078",
+        "section": "hackernews",
+        "title": "Claude Seems Down",
+        "url": "https://news.ycombinator.com/item?id=49324078",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "zhan_eg",
+        "published": "2026-08-16T21:52:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49324078"
+        }
+      },
+      {
+        "id": "hn-49323620",
+        "section": "hackernews",
+        "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+        "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "root-parent",
+        "published": "2026-08-16T21:00:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49323620"
+        }
+      },
+      {
+        "id": "hn-49320144",
+        "section": "hackernews",
+        "title": "Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+        "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "AnodicElegy",
+        "published": "2026-08-16T13:58:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49320144"
+        }
+      },
+      {
+        "id": "hn-49324068",
+        "section": "hackernews",
+        "title": "Claude Is Down",
+        "url": "https://claude.ai/new",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "nabeards",
+        "published": "2026-08-16T21:51:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49324068"
+        }
+      },
+      {
+        "id": "hn-49318128",
+        "section": "hackernews",
+        "title": "Show HN: Grafana agent observability for Hermes Agent",
+        "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+        "score": 27,
+        "score_label": "27 points",
+        "author": "eventuallyacat",
+        "published": "2026-08-16T08:40:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49318128"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.12149",
+        "section": "papers",
+        "title": "Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus",
+        "url": "https://huggingface.co/papers/2608.12149",
+        "score": 28,
+        "score_label": "28 upvotes",
+        "author": "Zunhai Su, Bohan Sun, Xialie Zhuang et al.",
+        "published": "2026-08-11T20:00:00.000Z",
+        "snippet": "We present the first systematic study of Massive activations (MAs) in layer-interleaved HLA LLMs and uncover two architecture-aligned morphologies: MAs consistently spike immediately before full attention layers, formin…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.12149"
+        }
+      },
+      {
+        "id": "paper-2608.11745",
+        "section": "papers",
+        "title": "LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time",
+        "url": "https://huggingface.co/papers/2608.11745",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Yuxuan Zhang, Haozhong Xiong, Yubo Huang et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "Pose-driven human animation synthesizes a video of a target person from a single reference image and a driving pose stream. Real-time generation is essential for interactive applications such as live streaming, telepres…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.11745"
+        }
+      },
+      {
+        "id": "paper-2608.14539",
+        "section": "papers",
+        "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+        "url": "https://arxiv.org/abs/2608.14539",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Karel Becerra, Boris Mederos, Dean Snow et al.",
+        "published": "2026-08-14T17:51:30Z",
+        "snippet": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.14528",
+        "section": "papers",
+        "title": "Handover of In-Context Learning State Across Session Boundaries",
+        "url": "https://arxiv.org/abs/2608.14528",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Masahiro Kato, Taka Kato",
+        "published": "2026-08-14T17:47:13Z",
+        "snippet": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches the model's input l…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.14522",
+        "section": "papers",
+        "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
+        "url": "https://arxiv.org/abs/2608.14522",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Taenyun Kim, Edyta Bogucka, Daniele Quercia",
+        "published": "2026-08-14T17:43:16Z",
+        "snippet": "As AI systems make more morally loaded decisions across society, one response has been moral preference elicitation. In this approach, researchers poll participants on hypothetical dilemmas and use the aggregated votes…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.14511",
+        "section": "papers",
+        "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
+        "url": "https://arxiv.org/abs/2608.14511",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yubo Zhang, Yiyao Liu, Xiaodong Wang",
+        "published": "2026-08-14T17:29:07Z",
+        "snippet": "High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable soft information for channel decoding. This paper develops a learning-to-t…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.14509",
+        "section": "papers",
+        "title": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
+        "url": "https://arxiv.org/abs/2608.14509",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zhelun Wu",
+        "published": "2026-08-14T17:24:55Z",
+        "snippet": "Systems that ask a language model to reach a conclusion from many sources usually concatenate them into one prompt. This conflates two operations with different requirements. Interpreting a source rewards capacity and c…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.14505",
+        "section": "papers",
+        "title": "RecipeNet: A Hierarchical Transformer for Recipe Data",
+        "url": "https://arxiv.org/abs/2608.14505",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Pin-Yen Huang, Sachin Chhabra, Prasanth Sai Gouripeddi et al.",
+        "published": "2026-08-14T17:18:36Z",
+        "snippet": "Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represented as ordered sequences of steps containing heterogeneous structured fie…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.14502",
+        "section": "papers",
+        "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
+        "url": "https://arxiv.org/abs/2608.14502",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Juno Nam, Bowen Deng, Xiaochen Du et al.",
+        "published": "2026-08-14T17:16:27Z",
+        "snippet": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We introduce the thermody…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.14498",
+        "section": "papers",
+        "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
+        "url": "https://arxiv.org/abs/2608.14498",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Hanfeng Lu, Tianyu Feng, Suyi Li et al.",
+        "published": "2026-08-14T17:13:34Z",
+        "snippet": "Vision-language models (VLMs) enable embodied agents to reason and act from visual observations and language instructions. Reinforcement learning (RL) post-training enhances these capabilities using task feedback, but c…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 10351,
+        "score_label": "10,351 likes · 267,725 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Glimmer-30B",
+        "section": "models",
+        "title": "meta-models/Muse-Glimmer-30B",
+        "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+        "score": 1635,
+        "score_label": "1,635 likes · 292,973 downloads",
+        "author": "meta-models",
+        "published": "2026-08-09T17:51:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 1490,
+        "score_label": "1,490 likes · 1,945,635 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-2.4T-A95B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-2.4T-A95B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "score": 1015,
+        "score_label": "1,015 likes · 7,932 downloads",
+        "author": "Qwen",
+        "published": "2026-08-08T01:50:52.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 1037,
+        "score_label": "1,037 likes · 424,099 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-Music3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "score": 852,
+        "score_label": "852 likes · 8,639 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-08-07T12:23:29.000Z",
+        "snippet": "text-to-audio · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 4037,
+        "score_label": "4,037 likes · 2,307,541 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Pro-0813",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "score": 542,
+        "score_label": "542 likes · 21,873 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-08-13T03:05:06.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B-FP8",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B-FP8",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "score": 492,
+        "score_label": "492 likes · 352,971 downloads",
+        "author": "Qwen",
+        "published": "2026-08-13T08:01:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Muse-Glimmer-30B-GGUF",
+        "section": "models",
+        "title": "unsloth/Muse-Glimmer-30B-GGUF",
+        "url": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+        "score": 459,
+        "score_label": "459 likes · 718,178 downloads",
+        "author": "unsloth",
+        "published": "2026-08-10T09:11:29.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/flue-2",
+        "section": "newsletters",
+        "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
+        "url": "https://www.latent.space/p/flue-2",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-15T15:46:22+00:00",
+        "snippet": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+        "section": "newsletters",
+        "title": "Building an AI Text Detector From Scratch",
+        "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-08-15T11:54:24+00:00",
+        "snippet": "An End-to-End Project With Dataset Construction, Model Training, Local Deployment, and RLVR",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+        "section": "newsletters",
+        "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
+        "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-08-14T21:23:35+00:00",
+        "snippet": "Hint: It&#8217;s really not a distillation story.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+        "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-14T05:30:39+00:00",
+        "snippet": "Down, but not out!",
+        "extra_link": null
+      }
+    ]
+  }
+}
