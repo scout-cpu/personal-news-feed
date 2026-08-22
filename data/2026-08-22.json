@@ -1,0 +1,420 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T03:30:11.923008+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49385994",
+        "section": "hackernews",
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "url": "https://annas-archive.pk/blog/physical-destruction.html",
+        "score": 702,
+        "score_label": "702 points",
+        "author": "darccio",
+        "published": "2026-08-21T10:05:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49385994"
+        }
+      },
+      {
+        "id": "hn-49386699",
+        "section": "hackernews",
+        "title": "I'm becoming AI-blind",
+        "url": "https://cymerys.com/w/im-becoming-ai-blind",
+        "score": 288,
+        "score_label": "288 points",
+        "author": "rcymerys",
+        "published": "2026-08-21T11:48:05+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49386699"
+        }
+      },
+      {
+        "id": "hn-49388752",
+        "section": "hackernews",
+        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+        "score": 215,
+        "score_label": "215 points",
+        "author": "aakil",
+        "published": "2026-08-21T14:31:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49388752"
+        }
+      },
+      {
+        "id": "hn-49389565",
+        "section": "hackernews",
+        "title": "AI boosted homework scores, then exam scores dropped: Study",
+        "url": "https://canews24.online/?p=71",
+        "score": 165,
+        "score_label": "165 points",
+        "author": "Edymilson",
+        "published": "2026-08-21T15:25:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49389565"
+        }
+      },
+      {
+        "id": "hn-49393051",
+        "section": "hackernews",
+        "title": "Quick impressions: A week of using Codex more than Claude",
+        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+        "score": 81,
+        "score_label": "81 points",
+        "author": "speckx",
+        "published": "2026-08-21T19:51:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49393051"
+        }
+      },
+      {
+        "id": "hn-49384113",
+        "section": "hackernews",
+        "title": "Seed: Minimal, self-modifying agent harness",
+        "url": "https://github.com/vivekhaldar/seed",
+        "score": 54,
+        "score_label": "54 points",
+        "author": "gandalfgeek",
+        "published": "2026-08-21T05:20:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49384113"
+        }
+      },
+      {
+        "id": "hn-49394827",
+        "section": "hackernews",
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "url": "https://ozbrain.com",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "dariusmonsef",
+        "published": "2026-08-21T23:09:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49394827"
+        }
+      },
+      {
+        "id": "hn-49392331",
+        "section": "hackernews",
+        "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "score": 44,
+        "score_label": "44 points",
+        "author": "garo-pro",
+        "published": "2026-08-21T18:48:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49392331"
+        }
+      },
+      {
+        "id": "hn-49390066",
+        "section": "hackernews",
+        "title": "LLMs are proof that Unix won",
+        "url": "https://bastian.rieck.me/blog/2026/unix/",
+        "score": 39,
+        "score_label": "39 points",
+        "author": "Pseudomanifold",
+        "published": "2026-08-21T15:59:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49390066"
+        }
+      },
+      {
+        "id": "hn-49390739",
+        "section": "hackernews",
+        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "url": "https://github.com/proliferate-ai/proliferate",
+        "score": 37,
+        "score_label": "37 points",
+        "author": "pablo24602",
+        "published": "2026-08-21T16:47:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49390739"
+        }
+      },
+      {
+        "id": "hn-49384642",
+        "section": "hackernews",
+        "title": "Young Americans increasingly fear AI will take their jobs",
+        "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+        "score": 28,
+        "score_label": "28 points",
+        "author": "01-_-",
+        "published": "2026-08-21T06:49:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49384642"
+        }
+      },
+      {
+        "id": "hn-49395638",
+        "section": "hackernews",
+        "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+        "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "joshuawright11",
+        "published": "2026-08-22T01:09:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49395638"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.19799",
+        "section": "papers",
+        "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+        "url": "https://huggingface.co/papers/2608.19799",
+        "score": 57,
+        "score_label": "57 upvotes",
+        "author": "Zhipeng Xu, Jiahao Lu, Yining Zheng et al.",
+        "published": "2026-08-19T20:00:00.000Z",
+        "snippet": "Software increasingly functions as part of the scientific instrument itself, making failures in scientific code capable of compromising not only program behavior but also the evidence underlying scientific conclusions.…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.19799"
+        }
+      },
+      {
+        "id": "paper-2608.20336",
+        "section": "papers",
+        "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+        "url": "https://huggingface.co/papers/2608.20336",
+        "score": 38,
+        "score_label": "38 upvotes",
+        "author": "Hengyuan Xu, Qixun Wang, Yiji Cheng et al.",
+        "published": "2026-08-19T20:00:00.000Z",
+        "snippet": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, the model must bind every reference to a distinct person and location…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.20336"
+        }
+      },
+      {
+        "id": "paper-2608.20202",
+        "section": "papers",
+        "title": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+        "url": "https://huggingface.co/papers/2608.20202",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Mengru Wang, Haozhe Luo, Zhenqian Xu et al.",
+        "published": "2026-08-19T20:00:00.000Z",
+        "snippet": "Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether information is correctly…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.20202"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 11983,
+        "score_label": "11,983 likes · 1,726,651 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 2520,
+        "score_label": "2,520 likes · 5,804,917 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "section": "models",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "score": 837,
+        "score_label": "837 likes · 107,520 downloads",
+        "author": "orcarouter",
+        "published": "2026-08-15T05:45:04.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "section": "models",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "score": 826,
+        "score_label": "826 likes · 18,193 downloads",
+        "author": "orcarouter",
+        "published": "2026-08-17T14:10:50.000Z",
+        "snippet": "image-text-to-text · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "section": "models",
+        "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "score": 573,
+        "score_label": "573 likes · 1,126,222 downloads",
+        "author": "JonathanColetti",
+        "published": "2026-08-14T03:43:36.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-Music3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "score": 1165,
+        "score_label": "1,165 likes · 15,678 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-08-07T12:23:29.000Z",
+        "snippet": "text-to-audio · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 1499,
+        "score_label": "1,499 likes · 654,175 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "section": "models",
+        "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "score": 453,
+        "score_label": "453 likes · 123,956 downloads",
+        "author": "OBLITERATUS",
+        "published": "2026-08-19T14:53:08.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "section": "models",
+        "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "score": 426,
+        "score_label": "426 likes · 357,225 downloads",
+        "author": "HauhauCS",
+        "published": "2026-08-17T15:15:19.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+        "score": 4297,
+        "score_label": "4,297 likes · 3,614,443 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-07-28T10:45:18.000Z",
+        "snippet": "image-text-to-video · minimax-h3",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/simile",
+        "section": "newsletters",
+        "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+        "url": "https://www.latent.space/p/simile",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-21T23:37:38+00:00",
+        "snippet": "Simile&#8217;s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it&#8217;s gone from fun exploration to very serious business.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+        "section": "newsletters",
+        "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+        "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-21T05:45:21+00:00",
+        "snippet": "Yes, we&#8217;re confused too.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/wayfinder-skill",
+        "section": "newsletters",
+        "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
+        "url": "https://www.latent.space/p/wayfinder-skill",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-20T20:59:09+00:00",
+        "snippet": "Matt Pocock tells us about his /wayfinder skill, for greenfield projects or for when the way forward is unclear.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+        "section": "newsletters",
+        "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+        "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-20T05:17:12+00:00",
+        "snippet": "Every lab CEO is on X now",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+        "section": "newsletters",
+        "title": "[AINews] Memory prices up 500% in 12 months",
+        "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-19T08:44:52+00:00",
+        "snippet": "the Memory crunch continues - Moore&#8217;s Law reversed to 2007 levels",
+        "extra_link": null
+      }
+    ]
+  }
+}
