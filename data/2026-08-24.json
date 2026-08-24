@@ -1,0 +1,351 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T04:11:36.593723+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49407785",
+        "section": "hackernews",
+        "title": "'AI refuser' quit her dream job, and hopes others follow",
+        "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+        "score": 34,
+        "score_label": "34 points",
+        "author": "mcapodici",
+        "published": "2026-08-23T10:54:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49407785"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.13120",
+        "section": "papers",
+        "title": "SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback",
+        "url": "https://huggingface.co/papers/2608.13120",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Qianxi Yan, Chunrong Chen, Jiuzhou Zhao et al.",
+        "published": "2026-08-12T20:00:00.000Z",
+        "snippet": "Agent Skills are today either hand-authored or produced in a single LLM generation pass, and consequently possess no closed loop through which they might improve from the interaction failures they actually cause. Recent…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.13120"
+        }
+      },
+      {
+        "id": "paper-2608.14022",
+        "section": "papers",
+        "title": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+        "url": "https://huggingface.co/papers/2608.14022",
+        "score": 22,
+        "score_label": "22 upvotes",
+        "author": "Xinye Li, Lingshuai Lin, Lei Wang et al.",
+        "published": "2026-08-14T03:13:34.000Z",
+        "snippet": "Action-conditioned video world models require low-latency causal generation and reliable responses to game-native controls. Although causal distillation enables one- or few-step video synthesis, extending it to interact…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.14022"
+        }
+      },
+      {
+        "id": "paper-2608.19854",
+        "section": "papers",
+        "title": "Repo0: Design-Driven Zero-to-All Code Generation",
+        "url": "https://huggingface.co/papers/2608.19854",
+        "score": 17,
+        "score_label": "17 upvotes",
+        "author": "Silin Chen, Haoyi Teng, Xiaodong Gu et al.",
+        "published": "2026-08-19T20:00:00.000Z",
+        "snippet": "Large language model agents have made substantial progress in code generation, yet most existing systems assume a predefined repository architecture. This assumption does not hold in zero-to-all code generation, where a…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.19854"
+        }
+      },
+      {
+        "id": "paper-2608.21359",
+        "section": "papers",
+        "title": "Primal Acceleration of Newton's Method",
+        "url": "https://arxiv.org/abs/2608.21359",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Nikita Doikov",
+        "published": "2026-08-21T17:59:37Z",
+        "snippet": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simp…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.21357",
+        "section": "papers",
+        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+        "url": "https://arxiv.org/abs/2608.21357",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Elaine Lau, Thanuka Udumulla, Lee Izhaki-Tavor et al.",
+        "published": "2026-08-21T17:59:26Z",
+        "snippet": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform research decisions. We int…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.21356",
+        "section": "papers",
+        "title": "AI with Authority, from Application to Silicon",
+        "url": "https://arxiv.org/abs/2608.21356",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jason Hickey",
+        "published": "2026-08-21T17:59:16Z",
+        "snippet": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verification is not only…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.21349",
+        "section": "papers",
+        "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+        "url": "https://arxiv.org/abs/2608.21349",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yoshitaka Inoue, Minoh Jeong, Alfred Hero et al.",
+        "published": "2026-08-21T17:54:48Z",
+        "snippet": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, without explicitly modeli…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.21348",
+        "section": "papers",
+        "title": "Truthful Calibration Measures for Sequential Prediction",
+        "url": "https://arxiv.org/abs/2608.21348",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Anagha Gokul, Jason Hartline, Lunjia Hu et al.",
+        "published": "2026-08-21T17:54:05Z",
+        "snippet": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab et al. (2024) propos…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.21345",
+        "section": "papers",
+        "title": "Asymmetric Capacity Allocation in Self-Refinement Pipelines",
+        "url": "https://arxiv.org/abs/2608.21345",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zhuoyi Yang, Ian G. Harris, Salar Hashemitaheri et al.",
+        "published": "2026-08-21T17:52:17Z",
+        "snippet": "Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the three stages involve di…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.21343",
+        "section": "papers",
+        "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+        "url": "https://arxiv.org/abs/2608.21343",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Vladimir Bataev, Lilit Grigoryan, Andrei Andrusenko et al.",
+        "published": "2026-08-21T17:50:00Z",
+        "snippet": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many context-biasing methods…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2608.21334",
+        "section": "papers",
+        "title": "Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories",
+        "url": "https://arxiv.org/abs/2608.21334",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Pedro Cadahia Delgado",
+        "published": "2026-08-21T17:40:31Z",
+        "snippet": "Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in a synthetic data-ge…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 12345,
+        "score_label": "12,345 likes · 2,358,347 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 2746,
+        "score_label": "2,746 likes · 6,674,515 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "section": "models",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "score": 967,
+        "score_label": "967 likes · 47,098 downloads",
+        "author": "orcarouter",
+        "published": "2026-08-17T14:10:50.000Z",
+        "snippet": "image-text-to-text · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "section": "models",
+        "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "score": 646,
+        "score_label": "646 likes · 244,834 downloads",
+        "author": "OBLITERATUS",
+        "published": "2026-08-19T14:53:08.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "section": "models",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "score": 1052,
+        "score_label": "1,052 likes · 190,062 downloads",
+        "author": "orcarouter",
+        "published": "2026-08-15T05:45:04.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "section": "models",
+        "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+        "score": 542,
+        "score_label": "542 likes · 676,697 downloads",
+        "author": "HauhauCS",
+        "published": "2026-08-17T15:15:19.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 1648,
+        "score_label": "1,648 likes · 738,345 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "section": "models",
+        "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+        "score": 654,
+        "score_label": "654 likes · 1,334,820 downloads",
+        "author": "JonathanColetti",
+        "published": "2026-08-14T03:43:36.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-ornith-ai/Ornith-1.5-35B-A3B",
+        "section": "models",
+        "title": "ornith-ai/Ornith-1.5-35B-A3B",
+        "url": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+        "score": 369,
+        "score_label": "369 likes · 23,516 downloads",
+        "author": "ornith-ai",
+        "published": "2026-08-18T06:24:38.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-Music3",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-Music3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+        "score": 1209,
+        "score_label": "1,209 likes · 17,421 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-08-07T12:23:29.000Z",
+        "snippet": "text-to-audio · diffusers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/claude-watermarking",
+        "section": "newsletters",
+        "title": "How Claude Watermarks AI-Generated Text",
+        "url": "https://magazine.sebastianraschka.com/p/claude-watermarking",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-08-22T11:11:39+00:00",
+        "snippet": "A 48-minute video walkthrough of token sampling, watermark detection, and removal",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+        "section": "newsletters",
+        "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+        "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-22T07:36:00+00:00",
+        "snippet": "Did you think RSI stopped at model training?",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/attention-interface",
+        "section": "newsletters",
+        "title": "The Evolution of the Agent Harness",
+        "url": "https://www.latent.space/p/attention-interface",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-22T07:30:52+00:00",
+        "snippet": "Models keep absorbing the harness into their weights &#8212; soon, it will be a harness for human attention rather than for the model.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/simile",
+        "section": "newsletters",
+        "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+        "url": "https://www.latent.space/p/simile",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-21T23:37:38+00:00",
+        "snippet": "Simile&#8217;s CEO about his journey from the viral Generative Agents to creating 8 Billion Digital Twins of every living human... and why it&#8217;s gone from fun exploration to very serious business.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+        "section": "newsletters",
+        "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+        "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-21T05:45:21+00:00",
+        "snippet": "Yes, we&#8217;re confused too.",
+        "extra_link": null
+      }
+    ]
+  }
+}
