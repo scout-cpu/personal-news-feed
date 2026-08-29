@@ -1,0 +1,447 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T01:30:46.283861+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49475079",
+        "section": "hackernews",
+        "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+        "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+        "score": 443,
+        "score_label": "443 points",
+        "author": "miniBill",
+        "published": "2026-08-28T06:33:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49475079"
+        }
+      },
+      {
+        "id": "hn-49477055",
+        "section": "hackernews",
+        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+        "score": 322,
+        "score_label": "322 points",
+        "author": "softwaredoug",
+        "published": "2026-08-28T11:25:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49477055"
+        }
+      },
+      {
+        "id": "hn-49481455",
+        "section": "hackernews",
+        "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+        "url": "https://arxiv.org/abs/2608.23691",
+        "score": 79,
+        "score_label": "79 points",
+        "author": "stephenchung",
+        "published": "2026-08-28T17:01:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49481455"
+        }
+      },
+      {
+        "id": "hn-49473629",
+        "section": "hackernews",
+        "title": "Alphabet stock sheds $700B as AI bills climb",
+        "url": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "andsoitis",
+        "published": "2026-08-28T02:23:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49473629"
+        }
+      },
+      {
+        "id": "hn-49482925",
+        "section": "hackernews",
+        "title": "The Analytical AI Handbook",
+        "url": "https://handbook.sutro.sh",
+        "score": 45,
+        "score_label": "45 points",
+        "author": "sethkim",
+        "published": "2026-08-28T19:01:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49482925"
+        }
+      },
+      {
+        "id": "hn-49480449",
+        "section": "hackernews",
+        "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
+        "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
+        "score": 44,
+        "score_label": "44 points",
+        "author": "root-parent",
+        "published": "2026-08-28T15:57:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49480449"
+        }
+      },
+      {
+        "id": "hn-49477311",
+        "section": "hackernews",
+        "title": "AI Agent Has Root",
+        "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
+        "score": 38,
+        "score_label": "38 points",
+        "author": "lowcache",
+        "published": "2026-08-28T12:03:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49477311"
+        }
+      },
+      {
+        "id": "hn-49484925",
+        "section": "hackernews",
+        "title": "Identifying fake cosmetics using AI",
+        "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "wgrover",
+        "published": "2026-08-28T22:18:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49484925"
+        }
+      },
+      {
+        "id": "hn-49476140",
+        "section": "hackernews",
+        "title": "Your AGENTS.md file doesn't do anything",
+        "url": "https://pivot-to-ai.com/2026/08/27/your-agents-md-file-doesnt-actually-do-anything/",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "latexr",
+        "published": "2026-08-28T09:00:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49476140"
+        }
+      },
+      {
+        "id": "hn-49481689",
+        "section": "hackernews",
+        "title": "How I Design with AI",
+        "url": "https://ref.tools/blog/how-i-design-with-ai",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "reactiverobot",
+        "published": "2026-08-28T17:18:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49481689"
+        }
+      },
+      {
+        "id": "hn-49476802",
+        "section": "hackernews",
+        "title": "LLM Cliché Highlighter",
+        "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "rzk",
+        "published": "2026-08-28T10:44:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49476802"
+        }
+      },
+      {
+        "id": "hn-49474619",
+        "section": "hackernews",
+        "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk",
+        "url": "https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "magoghm",
+        "published": "2026-08-28T05:16:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49474619"
+        }
+      },
+      {
+        "id": "hn-49483173",
+        "section": "hackernews",
+        "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "url": "https://github.com/sseshachala/conductai",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "sudhendra1",
+        "published": "2026-08-28T19:29:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49483173"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.25518",
+        "section": "papers",
+        "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
+        "url": "https://huggingface.co/papers/2608.25518",
+        "score": 120,
+        "score_label": "120 upvotes",
+        "author": "Pengfei Zhou, Hexin Wang, Zhengfeiyang Zhang et al.",
+        "published": "2026-08-25T20:00:00.000Z",
+        "snippet": "A common strategy for scaling world models is to train on more crawled video with more compute. We argue that this strategy is inefficient: scaling world models also requires a recursive data engine that offers grounded…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.25518"
+        }
+      },
+      {
+        "id": "paper-2608.26872",
+        "section": "papers",
+        "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
+        "url": "https://huggingface.co/papers/2608.26872",
+        "score": 56,
+        "score_label": "56 upvotes",
+        "author": "Shiyi Zhang, Mushui Liu, Yunze Tong et al.",
+        "published": "2026-08-26T20:00:00.000Z",
+        "snippet": "On-policy distillation (OPD), which leverages a pre-trained, specialized teacher model to provide dense supervisory signals, has achieved significant success in Large Language Models (LLMs) and has recently been adapted…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.26872"
+        }
+      },
+      {
+        "id": "paper-2608.26200",
+        "section": "papers",
+        "title": "GameWAM: A World Action Model for Video Games",
+        "url": "https://huggingface.co/papers/2608.26200",
+        "score": 37,
+        "score_label": "37 upvotes",
+        "author": "Yuncheng Guo, Zhanqiu Zhang, Yiwen Guo et al.",
+        "published": "2026-08-24T20:00:00.000Z",
+        "snippet": "Modern video games combine first-person perception, rapid visual changes, persistent world state, and heterogeneous native controls. Existing game agents map visual and task context directly to actions but lack explicit…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.26200"
+        }
+      },
+      {
+        "id": "paper-2608.27421",
+        "section": "papers",
+        "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
+        "url": "https://arxiv.org/abs/2608.27421",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Kevin Zhu, Ryan Zhang, Baraa Abed et al.",
+        "published": "2026-08-27T17:46:21Z",
+        "snippet": "Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care. No altern…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-Qwen/Qwen3.8-Flash-Next",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-Flash-Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "score": 4163,
+        "score_label": "4,163 likes · 4,810 downloads",
+        "author": "Qwen",
+        "published": "2026-08-24T08:24:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3-Flash",
+        "section": "models",
+        "title": "zai-org/GLM-5.3-Flash",
+        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "score": 1509,
+        "score_label": "1,509 likes · 34 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:43:14.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3",
+        "section": "models",
+        "title": "zai-org/GLM-5.3",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "score": 1113,
+        "score_label": "1,113 likes · 0 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:42:50.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 13146,
+        "score_label": "13,146 likes · 3,457,687 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3146,
+        "score_label": "3,146 likes · 7,758,790 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-Flash-Next-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+        "score": 520,
+        "score_label": "520 likes · 4,354 downloads",
+        "author": "unsloth",
+        "published": "2026-08-26T12:29:32.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "section": "models",
+        "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "score": 880,
+        "score_label": "880 likes · 509,270 downloads",
+        "author": "OBLITERATUS",
+        "published": "2026-08-19T14:53:08.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 2015,
+        "score_label": "2,015 likes · 912,729 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "section": "models",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+        "score": 1230,
+        "score_label": "1,230 likes · 273,577 downloads",
+        "author": "orcarouter",
+        "published": "2026-08-15T05:45:04.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "section": "models",
+        "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+        "score": 1185,
+        "score_label": "1,185 likes · 83,352 downloads",
+        "author": "orcarouter",
+        "published": "2026-08-17T14:10:50.000Z",
+        "snippet": "image-text-to-text · mlx",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+        "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-28T07:12:10+00:00",
+        "snippet": "It&#8217;s Time. We&#8217;re in the Endgame now.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+        "section": "newsletters",
+        "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+        "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-27T01:50:54+00:00",
+        "snippet": "Open Source wins!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+        "section": "newsletters",
+        "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+        "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-27T01:31:22+00:00",
+        "snippet": "The conference with hot chips and even hotter companies",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/lovable-future-of-saas",
+        "section": "newsletters",
+        "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+        "url": "https://www.latent.space/p/lovable-future-of-saas",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-26T16:16:25+00:00",
+        "snippet": "Lovable is branching out from AI-powered web app creation and into MCP-powered &#8216;capabilities&#8217;. We talk to CTO Fabian Hedin.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/anima",
+        "section": "newsletters",
+        "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
+        "url": "https://www.latent.space/p/anima",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-26T15:15:39+00:00",
+        "snippet": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
+        "extra_link": null
+      }
+    ]
+  }
+}
