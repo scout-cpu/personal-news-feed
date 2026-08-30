@@ -1,0 +1,332 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T01:30:56.989492+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49489982",
+        "section": "hackernews",
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://lwn.net/Articles/1091231/",
+        "score": 470,
+        "score_label": "470 points",
+        "author": "pluc",
+        "published": "2026-08-29T14:02:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49489982"
+        }
+      },
+      {
+        "id": "hn-49491568",
+        "section": "hackernews",
+        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "score": 247,
+        "score_label": "247 points",
+        "author": "gpi",
+        "published": "2026-08-29T17:19:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49491568"
+        }
+      },
+      {
+        "id": "hn-49491113",
+        "section": "hackernews",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "jruohonen",
+        "published": "2026-08-29T16:16:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49491113"
+        }
+      },
+      {
+        "id": "hn-49492432",
+        "section": "hackernews",
+        "title": "Warp builds self-improving agents on Claude",
+        "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+        "score": 55,
+        "score_label": "55 points",
+        "author": "shenli3514",
+        "published": "2026-08-29T19:09:33+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49492432"
+        }
+      },
+      {
+        "id": "hn-49492184",
+        "section": "hackernews",
+        "title": "LLMs are making me lose my savviness",
+        "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "me2too",
+        "published": "2026-08-29T18:38:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49492184"
+        }
+      },
+      {
+        "id": "hn-49492584",
+        "section": "hackernews",
+        "title": "Domain-Driven Agents",
+        "url": "https://coldtake.dev/blog/domain-driven-agents",
+        "score": 50,
+        "score_label": "50 points",
+        "author": "AlarQ",
+        "published": "2026-08-29T19:28:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49492584"
+        }
+      },
+      {
+        "id": "hn-49486494",
+        "section": "hackernews",
+        "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+        "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+        "score": 39,
+        "score_label": "39 points",
+        "author": "9woc",
+        "published": "2026-08-29T02:58:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49486494"
+        }
+      },
+      {
+        "id": "hn-49486188",
+        "section": "hackernews",
+        "title": "OpenAI and Anthropic are ruining San Francisco",
+        "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8&fbclid=IwY2xjawT_Fs1wZG9mA2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDzQwOTk2MjYyMzA4NTYwOQABHvfPHyGSByYNR7Cmkzc-oVqd31kuJy3YUIMwJB5LlB84Hi71zSB_6e5NVbld_aem_L8Ysu4gjQinZHOeaZObNKA",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "catchmeifyoucan",
+        "published": "2026-08-29T01:50:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49486188"
+        }
+      },
+      {
+        "id": "hn-49491282",
+        "section": "hackernews",
+        "title": "Claude permanently raising weekly limits by 25%",
+        "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+        "score": 25,
+        "score_label": "25 points",
+        "author": "someone4958923",
+        "published": "2026-08-29T16:37:05+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49491282"
+        }
+      },
+      {
+        "id": "hn-49491631",
+        "section": "hackernews",
+        "title": "Claude Code is going reduce limits by 25% from September 14",
+        "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+        "score": 24,
+        "score_label": "24 points",
+        "author": "myselfpraying",
+        "published": "2026-08-29T17:27:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49491631"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-Qwen/Qwen3.8-Flash-Next",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-Flash-Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "score": 4289,
+        "score_label": "4,289 likes · 52,341 downloads",
+        "author": "Qwen",
+        "published": "2026-08-24T08:24:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3-Flash",
+        "section": "models",
+        "title": "zai-org/GLM-5.3-Flash",
+        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "score": 1620,
+        "score_label": "1,620 likes · 189,793 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:43:14.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3",
+        "section": "models",
+        "title": "zai-org/GLM-5.3",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "score": 1269,
+        "score_label": "1,269 likes · 8,804 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:42:50.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 13255,
+        "score_label": "13,255 likes · 4,028,839 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-Flash-Next-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+        "score": 566,
+        "score_label": "566 likes · 188,061 downloads",
+        "author": "unsloth",
+        "published": "2026-08-26T12:29:32.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3187,
+        "score_label": "3,187 likes · 8,363,481 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 2132,
+        "score_label": "2,132 likes · 1,044,661 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "section": "models",
+        "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+        "score": 918,
+        "score_label": "918 likes · 645,554 downloads",
+        "author": "OBLITERATUS",
+        "published": "2026-08-19T14:53:08.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-tencent/Hy4-preview",
+        "section": "models",
+        "title": "tencent/Hy4-preview",
+        "url": "https://huggingface.co/tencent/Hy4-preview",
+        "score": 283,
+        "score_label": "283 likes · 1,394 downloads",
+        "author": "tencent",
+        "published": "2026-08-27T08:52:40.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/GLM-5.3-Flash-GGUF",
+        "section": "models",
+        "title": "unsloth/GLM-5.3-Flash-GGUF",
+        "url": "https://huggingface.co/unsloth/GLM-5.3-Flash-GGUF",
+        "score": 271,
+        "score_label": "271 likes · 27,288 downloads",
+        "author": "unsloth",
+        "published": "2026-08-26T14:21:15.000Z",
+        "snippet": "text-generation",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI shuts off Cursor",
+        "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-29T05:11:52+00:00",
+        "snippet": "Elon v Altman has a real consequence.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+        "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-28T07:12:10+00:00",
+        "snippet": "It&#8217;s Time. We&#8217;re in the Endgame now.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+        "section": "newsletters",
+        "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+        "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-27T01:50:54+00:00",
+        "snippet": "Open Source wins!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+        "section": "newsletters",
+        "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+        "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-08-27T01:31:22+00:00",
+        "snippet": "The conference with hot chips and even hotter companies",
+        "extra_link": null
+      }
+    ]
+  }
+}
