@@ -13,6 +13,7 @@
     <a class="brand" href="{{ base }}index.html">{{ site.title }}</a>
     <p class="tagline">{{ site.tagline }}</p>
     <nav class="topnav">
+      {% if has_startups %}<a href="{{ base }}startups.html">Startups</a>{% endif %}
       <a href="{{ base }}archive/index.html">Archive</a>
       <button id="theme-toggle" aria-label="Toggle theme">◐</button>
     </nav>

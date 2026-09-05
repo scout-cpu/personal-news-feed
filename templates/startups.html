@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en" data-theme="dark" data-layout="horizontal">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Signal — Startup Timeline</title>
+<meta name="description" content="A timeline of startup funding, sourced from Startups Gallery.">
+<link rel="icon" href="static/startups/chrono-mark.png">
+<link rel="stylesheet" href="static/startups/timeline.css">
+<script src="static/startups/timeline.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#timeline">Skip to funding timeline</a>
+<header class="header">
+<a class="wordmark" href="index.html" aria-label="The Signal daily briefing"><img src="static/startups/chrono-mark.png" alt=""><span>SIGNAL</span></a>
+<button id="theme" class="theme" aria-label="Switch to light theme" aria-pressed="false"><span><img src="static/startups/icons/moon.svg" alt=""></span></button>
+</header>
+<h1 class="sr-only">Startup funding timeline</h1>
+<main id="timeline" class="timeline" tabindex="0" aria-label="Startup funding timeline. Scroll or use arrow keys to explore.">
+<div class="track" id="track">
+{% for item in snapshot['items'] %}
+<article class="event" data-id="{{ item.id }}" data-round="{{ item.round }}">
+<span class="node" aria-hidden="true"></span>
+<a class="card" href="{{ item.source_url }}" target="_blank" rel="noopener noreferrer" data-id="{{ item.id }}">
+{% if item.image %}<div class="art {{ item.image_kind }}"><img src="{{ item.image }}" alt="{{ item.company }}" loading="{{ 'eager' if loop.index <= 4 else 'lazy' }}" decoding="async" width="1200" height="675"></div>{% endif %}
+<div class="card-copy"><p class="date"><time datetime="{{ item.date }}">{{ item.date[5:]|replace('-', '/') }}</time><span class="age"></span></p>
+<h2>{{ item.company }} raises {{ item.amount }} {{ item.round }}{% if item.investor %} led by {{ item.investor }}{% endif %}</h2></div>
+</a>
+</article>
+{% endfor %}
+</div>
+<p id="empty" class="empty" hidden>No funding rounds match.<br><button id="reset">Reset filters</button></p>
+</main>
+<div class="bottom-fade" aria-hidden="true"></div>
+<div class="floating">
+<button id="intro" class="intro" aria-haspopup="dialog"><img class="intro-art" src="static/startups/timeline.jpg" alt=""><span><strong>The startup timeline</strong><span>Follow the funding. Discover what comes next.</span></span><span class="intro-arrow"><img src="static/startups/icons/chevron.svg" alt=""></span></button>
+<div class="dock">
+<button id="topics-toggle" class="round-button" aria-label="Funding stages and timeline" aria-expanded="false" aria-controls="topics"><img src="static/startups/icons/topics.svg" alt=""></button>
+<div class="search-wrap"><img src="static/startups/icons/search.svg" alt=""><input id="search" type="search" placeholder="Search startups, investors, funding…" aria-label="Search startups, investors, funding" autocomplete="off"><button id="clear-search" aria-label="Clear search" hidden>Clear</button></div>
+<button id="saved" class="round-button" aria-label="Show saved rounds" aria-pressed="false"><img src="static/startups/icons/account.svg" alt=""></button>
+</div>
+</div>
+<section id="topics" class="topics" aria-label="Filter funding stages" hidden>
+<div class="panel-heading"><span>STARTUPS</span><span id="count">{{ snapshot['items']|length }} ROUNDS</span></div>
+<div class="chips"><button data-stage="All" aria-pressed="true">All rounds</button>{% for stage in stages %}<button data-stage="{{ stage }}" aria-pressed="false">{{ stage }}</button>{% endfor %}</div>
+<p id="filter-status" aria-live="polite"></p>
+<footer><a href="index.html">Daily briefing</a><a href="https://startups.gallery/news" target="_blank" rel="noopener noreferrer">Startups Gallery</a><button id="about">About this timeline</button></footer>
+</section>
+<div class="layout-switch" aria-label="Timeline layout"><button data-layout="horizontal" aria-label="Horizontal timeline" aria-pressed="true"><img src="static/startups/icons/horizontal.svg" alt=""></button><button data-layout="vertical" aria-label="Vertical timeline" aria-pressed="false"><img src="static/startups/icons/vertical.svg" alt=""></button></div>
+<dialog id="detail" aria-labelledby="detail-title"><button id="close-detail" class="close">Close</button><div id="detail-content"></div></dialog>
+<dialog id="about-dialog" aria-labelledby="about-title"><button id="close-about" class="close">Close</button><img class="about-art" src="static/startups/timeline.jpg" alt="A black hole bending light"><div class="about-copy"><p class="date">THE SIGNAL · STARTUPS</p><h2 id="about-title">Follow the funding.</h2><p>A timeline of startup funding rounds, curated by <a href="https://startups.gallery/news" target="_blank" rel="noopener noreferrer">Startups Gallery</a>.</p><p>Search a company or investor, filter by funding stage, and open a round to explore its source. Save interesting rounds to return to them on this device.</p><p class="snapshot-date">Source checked <time datetime="{{ snapshot.fetched_at }}">{{ snapshot.fetched_at[:10] }}</time>. {{ snapshot['items']|length }} rounds in this snapshot.</p><p class="credits">Layout and control artwork adapted from <a href="https://chrono.news/" target="_blank" rel="noopener noreferrer">Chrono</a>. Company artwork from Startups Gallery. The Signal is an independent project.</p></div></dialog>
+<p id="announcement" class="sr-only" role="status" aria-live="polite"></p>
+<script type="application/json" id="funding-data">{{ snapshot|tojson }}</script>
+<noscript><p class="no-js">JavaScript enables search, saved rounds and layout controls. All funding cards link directly to their sources.</p></noscript>
+</body></html>

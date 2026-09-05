@@ -34,7 +34,9 @@ def run(data_dir: str | Path = "data", out_dir: str | Path = "site",
     if not days:
         raise SystemExit("no data files to build")
 
+    startup_data = data_dir / "startups" / "latest.json"
     env = _env()
+    env.globals["has_startups"] = startup_data.exists()
     edition_tpl = env.get_template("edition.html")
     archive_tpl = env.get_template("archive.html")
 
@@ -60,6 +62,12 @@ def run(data_dir: str | Path = "data", out_dir: str | Path = "site",
         site=site, day=latest, section_meta=SECTION_META,
         prev_date=days[-2]["date"] if len(days) > 1 else None,
         next_date=None, base="", is_root=True))
+
+    if startup_data.exists():
+        snapshot = json.loads(startup_data.read_text())
+        stages = sorted({item["round"] for item in snapshot["items"]})
+        (out_dir / "startups.html").write_text(env.get_template("startups.html").render(
+            snapshot=snapshot, stages=stages))
 
     archive_dir = out_dir / "archive"
     archive_dir.mkdir()
