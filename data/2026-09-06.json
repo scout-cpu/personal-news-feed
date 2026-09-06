@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-05T19:27:29.876395+00:00",
+  "generated_at": "2026-09-06T06:05:39.404152+00:00",
   "errors": [],
   "sections": {
     "hackernews": [
@@ -9,8 +9,8 @@
         "section": "hackernews",
         "title": "AI handles incidents, engineers lose touch with their systems",
         "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "score": 318,
-        "score_label": "318 points",
+        "score": 373,
+        "score_label": "373 points",
         "author": "sylvainkalache",
         "published": "2026-09-05T07:52:50+00:00",
         "snippet": "",
@@ -20,18 +20,33 @@
         }
       },
       {
-        "id": "hn-49572875",
+        "id": "hn-49580164",
         "section": "hackernews",
-        "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-        "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-        "score": 69,
-        "score_label": "69 points",
-        "author": "cebert",
-        "published": "2026-09-05T03:38:56+00:00",
+        "title": "LLMs as a Cognitive Virus",
+        "url": "https://arxiv.org/abs/2609.03344",
+        "score": 241,
+        "score_label": "241 points",
+        "author": "canjobear",
+        "published": "2026-09-05T20:02:35+00:00",
         "snippet": "",
         "extra_link": {
           "label": "HN discussion",
-          "url": "https://news.ycombinator.com/item?id=49572875"
+          "url": "https://news.ycombinator.com/item?id=49580164"
+        }
+      },
+      {
+        "id": "hn-49582582",
+        "section": "hackernews",
+        "title": "GPT-6 Astra on robot arms",
+        "url": "https://openai.robocurve.org/gpt-6-astra/",
+        "score": 131,
+        "score_label": "131 points",
+        "author": "Anon84",
+        "published": "2026-09-06T01:52:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49582582"
         }
       },
       {
@@ -39,8 +54,8 @@
         "section": "hackernews",
         "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
         "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "score": 63,
-        "score_label": "63 points",
+        "score": 68,
+        "score_label": "68 points",
         "author": "Bluestein",
         "published": "2026-09-05T10:32:09+00:00",
         "snippet": "",
@@ -50,12 +65,42 @@
         }
       },
       {
+        "id": "hn-49581240",
+        "section": "hackernews",
+        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+        "url": "https://github.com/okf-memory/okf-agent-memory",
+        "score": 58,
+        "score_label": "58 points",
+        "author": "okf_memory",
+        "published": "2026-09-05T22:15:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49581240"
+        }
+      },
+      {
+        "id": "hn-49580980",
+        "section": "hackernews",
+        "title": "America's two largest school districts impose AI moratoriums",
+        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+        "score": 57,
+        "score_label": "57 points",
+        "author": "cdrnsf",
+        "published": "2026-09-05T21:43:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49580980"
+        }
+      },
+      {
         "id": "hn-49578727",
         "section": "hackernews",
         "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
         "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-        "score": 34,
-        "score_label": "34 points",
+        "score": 35,
+        "score_label": "35 points",
         "author": "arnav__1",
         "published": "2026-09-05T17:32:20+00:00",
         "snippet": "",
@@ -65,18 +110,33 @@
         }
       },
       {
-        "id": "hn-49571131",
+        "id": "hn-49573677",
         "section": "hackernews",
-        "title": "Claude Code skills for advanced context engineering techniques and patterns",
-        "url": "https://github.com/NeoLabHQ/context-engineering-kit",
-        "score": 32,
-        "score_label": "32 points",
-        "author": "leovs09",
-        "published": "2026-09-04T22:52:14+00:00",
+        "title": "Anthropic & friends caught paying religious NGO's 3.3M for propaganda",
+        "url": "https://www.effort.news/revelation",
+        "score": 33,
+        "score_label": "33 points",
+        "author": "nullbio",
+        "published": "2026-09-05T06:31:31+00:00",
         "snippet": "",
         "extra_link": {
           "label": "HN discussion",
-          "url": "https://news.ycombinator.com/item?id=49571131"
+          "url": "https://news.ycombinator.com/item?id=49573677"
+        }
+      },
+      {
+        "id": "hn-49580687",
+        "section": "hackernews",
+        "title": "How AI is breaking the British state",
+        "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "tchalla",
+        "published": "2026-09-05T21:05:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49580687"
         }
       },
       {
@@ -84,8 +144,8 @@
         "section": "hackernews",
         "title": "Poetry book that Anthropic tried to censor",
         "url": "https://kk.org/cooltools/the-1930-poetry-book-that-anthropic-tried-to-censor/",
-        "score": 29,
-        "score_label": "29 points",
+        "score": 31,
+        "score_label": "31 points",
         "author": "cainxinth",
         "published": "2026-09-05T15:04:50+00:00",
         "snippet": "",
@@ -95,27 +155,12 @@
         }
       },
       {
-        "id": "hn-49571537",
-        "section": "hackernews",
-        "title": "Show HN: Moadim.io – A scheduler for agents",
-        "url": "https://moadim.io/",
-        "score": 29,
-        "score_label": "29 points",
-        "author": "tupe12334",
-        "published": "2026-09-04T23:50:29+00:00",
-        "snippet": "",
-        "extra_link": {
-          "label": "HN discussion",
-          "url": "https://news.ycombinator.com/item?id=49571537"
-        }
-      },
-      {
         "id": "hn-49576187",
         "section": "hackernews",
         "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
         "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-        "score": 24,
-        "score_label": "24 points",
+        "score": 29,
+        "score_label": "29 points",
         "author": "Levitating",
         "published": "2026-09-05T13:09:53+00:00",
         "snippet": "",
@@ -131,8 +176,8 @@
         "section": "papers",
         "title": "RoboTok: An Internet-Scale Data Engine for Human Demonstration Retrieval and Dexterous Manipulation Learning",
         "url": "https://huggingface.co/papers/2609.03199",
-        "score": 60,
-        "score_label": "60 upvotes",
+        "score": 95,
+        "score_label": "95 upvotes",
         "author": "Howard Qian, Yiting Chen, Yunfei Xie et al.",
         "published": "2026-09-01T20:00:00.000Z",
         "snippet": "Robot learning increasingly depends on broad and diverse demonstrations, yet collecting robot data remains expensive and poorly suited to covering the long tail of real-world tasks. To address this bottleneck, we introd…",
@@ -148,8 +193,8 @@
         "section": "models",
         "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-        "score": 665,
-        "score_label": "665 likes · 184,542 downloads",
+        "score": 689,
+        "score_label": "689 likes · 184,542 downloads",
         "author": "deepseek-ai",
         "published": "2026-08-31T06:16:18.000Z",
         "snippet": "image-text-to-text · transformers",
@@ -160,8 +205,8 @@
         "section": "models",
         "title": "Qwen/Qwen3.8-27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-        "score": 14023,
-        "score_label": "14,023 likes · 6,024,467 downloads",
+        "score": 14050,
+        "score_label": "14,050 likes · 6,024,467 downloads",
         "author": "Qwen",
         "published": "2026-08-05T08:22:59.000Z",
         "snippet": "image-text-to-text · transformers",
@@ -172,8 +217,8 @@
         "section": "models",
         "title": "Qwen/Qwen3.8-Flash-Next",
         "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-        "score": 4909,
-        "score_label": "4,909 likes · 401,327 downloads",
+        "score": 4921,
+        "score_label": "4,921 likes · 401,327 downloads",
         "author": "Qwen",
         "published": "2026-08-24T08:24:59.000Z",
         "snippet": "image-text-to-text · transformers",
@@ -184,23 +229,11 @@
         "section": "models",
         "title": "XHToken/Spark-X2.5-4B",
         "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-        "score": 527,
-        "score_label": "527 likes · 4,755 downloads",
+        "score": 556,
+        "score_label": "556 likes · 4,755 downloads",
         "author": "XHToken",
         "published": "2026-08-24T06:34:34.000Z",
         "snippet": "text-generation · transformers",
-        "extra_link": null
-      },
-      {
-        "id": "model-zai-org/GLM-5.3-Flash",
-        "section": "models",
-        "title": "zai-org/GLM-5.3-Flash",
-        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-        "score": 2077,
-        "score_label": "2,077 likes · 727,610 downloads",
-        "author": "zai-org",
-        "published": "2026-08-25T06:43:14.000Z",
-        "snippet": "image-text-to-text · transformers",
         "extra_link": null
       },
       {
@@ -208,11 +241,23 @@
         "section": "models",
         "title": "google/timesfm-3.0-pytorch",
         "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
-        "score": 448,
-        "score_label": "448 likes · 123,025 downloads",
+        "score": 464,
+        "score_label": "464 likes · 123,025 downloads",
         "author": "google",
         "published": "2026-08-24T22:05:51.000Z",
         "snippet": "time-series-forecasting",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3-Flash",
+        "section": "models",
+        "title": "zai-org/GLM-5.3-Flash",
+        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "score": 2082,
+        "score_label": "2,082 likes · 727,610 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:43:14.000Z",
+        "snippet": "image-text-to-text · transformers",
         "extra_link": null
       },
       {
@@ -220,23 +265,11 @@
         "section": "models",
         "title": "Lightricks/LTX-2.5",
         "url": "https://huggingface.co/Lightricks/LTX-2.5",
-        "score": 2862,
-        "score_label": "2,862 likes · 1,484,329 downloads",
+        "score": 2902,
+        "score_label": "2,902 likes · 1,484,329 downloads",
         "author": "Lightricks",
         "published": "2026-07-23T07:55:24.000Z",
         "snippet": "image-to-video · diffusion-single-file",
-        "extra_link": null
-      },
-      {
-        "id": "model-zai-org/GLM-5.3",
-        "section": "models",
-        "title": "zai-org/GLM-5.3",
-        "url": "https://huggingface.co/zai-org/GLM-5.3",
-        "score": 1716,
-        "score_label": "1,716 likes · 370,417 downloads",
-        "author": "zai-org",
-        "published": "2026-08-25T06:42:50.000Z",
-        "snippet": "text-generation · transformers",
         "extra_link": null
       },
       {
@@ -244,11 +277,23 @@
         "section": "models",
         "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
         "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-        "score": 389,
-        "score_label": "389 likes · 297,493 downloads",
+        "score": 423,
+        "score_label": "423 likes · 297,493 downloads",
         "author": "ISTA-DASLab",
         "published": "2026-08-28T18:38:03.000Z",
         "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3",
+        "section": "models",
+        "title": "zai-org/GLM-5.3",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "score": 1721,
+        "score_label": "1,721 likes · 370,417 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:42:50.000Z",
+        "snippet": "text-generation · transformers",
         "extra_link": null
       },
       {
@@ -256,8 +301,8 @@
         "section": "models",
         "title": "unsloth/Qwen3.8-27B-GGUF",
         "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-        "score": 3535,
-        "score_label": "3,535 likes · 10,157,510 downloads",
+        "score": 3551,
+        "score_label": "3,551 likes · 10,157,510 downloads",
         "author": "unsloth",
         "published": "2026-08-13T08:28:40.000Z",
         "snippet": "",
@@ -299,18 +344,6 @@
         "author": "Latent Space",
         "published": "2026-09-03T21:09:41+00:00",
         "snippet": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here&#8217;s our learnings.",
-        "extra_link": null
-      },
-      {
-        "id": "nl-https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-        "section": "newsletters",
-        "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
-        "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-        "score": null,
-        "score_label": "Latent Space",
-        "author": "Latent Space",
-        "published": "2026-09-03T04:38:33+00:00",
-        "snippet": "an epic comeback story for Meta",
         "extra_link": null
       }
     ]
