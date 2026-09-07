@@ -1,0 +1,318 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T06:12:56.685512+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49585644",
+        "section": "hackernews",
+        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "score": 626,
+        "score_label": "626 points",
+        "author": "cyb0rg0",
+        "published": "2026-09-06T11:56:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49585644"
+        }
+      },
+      {
+        "id": "hn-49587128",
+        "section": "hackernews",
+        "title": "How I feel about AI",
+        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+        "score": 152,
+        "score_label": "152 points",
+        "author": "qznc",
+        "published": "2026-09-06T15:00:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49587128"
+        }
+      },
+      {
+        "id": "hn-49587217",
+        "section": "hackernews",
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "score": 149,
+        "score_label": "149 points",
+        "author": "iamsyr",
+        "published": "2026-09-06T15:08:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49587217"
+        }
+      },
+      {
+        "id": "hn-49588214",
+        "section": "hackernews",
+        "title": "How we monitor internal coding agents for misalignment",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "lukaspetersson",
+        "published": "2026-09-06T16:37:55+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49588214"
+        }
+      },
+      {
+        "id": "hn-49591782",
+        "section": "hackernews",
+        "title": "GOP issues stark warning to AI companies",
+        "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "cdrnsf",
+        "published": "2026-09-06T22:59:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49591782"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.05415",
+        "section": "papers",
+        "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
+        "url": "https://arxiv.org/abs/2609.05415",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Linzhan Mou, Jiahui Lei, Zhiyang Dou et al.",
+        "published": "2026-09-04T17:59:00Z",
+        "snippet": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on catego…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.05405",
+        "section": "papers",
+        "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+        "url": "https://arxiv.org/abs/2609.05405",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Ji Soo Lee, Xilun Chen, Pierce Chuang et al.",
+        "published": "2026-09-04T17:52:37Z",
+        "snippet": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable re…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.05404",
+        "section": "papers",
+        "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+        "url": "https://arxiv.org/abs/2609.05404",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Sihwa Park",
+        "published": "2026-09-04T17:51:48Z",
+        "snippet": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.05403",
+        "section": "papers",
+        "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+        "url": "https://arxiv.org/abs/2609.05403",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Quoc H. Nguyen, Ali Lafzi, Abhijeet Phatak et al.",
+        "published": "2026-09-04T17:50:10Z",
+        "snippet": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and mo…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.05401",
+        "section": "papers",
+        "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+        "url": "https://arxiv.org/abs/2609.05401",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Wonje Jeung, Sangyeon Yoon, Hyesoo Hong et al.",
+        "published": "2026-09-04T17:47:58Z",
+        "snippet": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.05396",
+        "section": "papers",
+        "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
+        "url": "https://arxiv.org/abs/2609.05396",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yuxiao Li, Keke Hu, Santiago Mazuelas et al.",
+        "published": "2026-09-04T17:44:54Z",
+        "snippet": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant me…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.05395",
+        "section": "papers",
+        "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
+        "url": "https://arxiv.org/abs/2609.05395",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Dain Kim, Eungi Cho, Kyumin Kim et al.",
+        "published": "2026-09-04T17:44:52Z",
+        "snippet": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently und…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.05385",
+        "section": "papers",
+        "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+        "url": "https://arxiv.org/abs/2609.05385",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Urja Pawar, Rajitha Ramanayake, Nabeel Kemal et al.",
+        "published": "2026-09-04T17:37:17Z",
+        "snippet": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose e…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "score": 762,
+        "score_label": "762 likes · 209,191 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-08-31T06:16:18.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 14160,
+        "score_label": "14,160 likes · 6,190,807 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.5-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "score": 628,
+        "score_label": "628 likes · 5,477 downloads",
+        "author": "XHToken",
+        "published": "2026-08-24T06:34:34.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-google/timesfm-3.0-pytorch",
+        "section": "models",
+        "title": "google/timesfm-3.0-pytorch",
+        "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+        "score": 518,
+        "score_label": "518 likes · 144,455 downloads",
+        "author": "google",
+        "published": "2026-08-24T22:05:51.000Z",
+        "snippet": "time-series-forecasting",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-Flash-Next",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-Flash-Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "score": 4951,
+        "score_label": "4,951 likes · 432,966 downloads",
+        "author": "Qwen",
+        "published": "2026-08-24T08:24:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 472,
+        "score_label": "472 likes · 348,389 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 2991,
+        "score_label": "2,991 likes · 1,526,928 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3-Flash",
+        "section": "models",
+        "title": "zai-org/GLM-5.3-Flash",
+        "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+        "score": 2106,
+        "score_label": "2,106 likes · 761,364 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:43:14.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3607,
+        "score_label": "3,607 likes · 10,311,462 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-zai-org/GLM-5.3",
+        "section": "models",
+        "title": "zai-org/GLM-5.3",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "score": 1740,
+        "score_label": "1,740 likes · 410,074 downloads",
+        "author": "zai-org",
+        "published": "2026-08-25T06:42:50.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/grok-bot",
+        "section": "newsletters",
+        "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+        "url": "https://www.latent.space/p/grok-bot",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-05T15:01:02+00:00",
+        "snippet": "SpaceXAI&#8217;s Grok Bot has the same level of programming power as OpenClaw, but it&#8217;s programmable at a different level of abstraction.",
+        "extra_link": null
+      }
+    ]
+  }
+}
