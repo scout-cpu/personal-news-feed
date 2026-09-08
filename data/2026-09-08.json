@@ -1,0 +1,411 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T06:02:56.937848+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49600233",
+        "section": "hackernews",
+        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "url": "https://news.ycombinator.com/item?id=49600233",
+        "score": 124,
+        "score_label": "124 points",
+        "author": "spwa4",
+        "published": "2026-09-07T16:40:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49600233"
+        }
+      },
+      {
+        "id": "hn-49601338",
+        "section": "hackernews",
+        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "score": 98,
+        "score_label": "98 points",
+        "author": "Areibman",
+        "published": "2026-09-07T18:24:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49601338"
+        }
+      },
+      {
+        "id": "hn-49596610",
+        "section": "hackernews",
+        "title": "Initial effects of AI technology on employment look positive",
+        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+        "score": 76,
+        "score_label": "76 points",
+        "author": "MrBuddyCasino",
+        "published": "2026-09-07T10:38:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49596610"
+        }
+      },
+      {
+        "id": "hn-49601810",
+        "section": "hackernews",
+        "title": "AI Cold Showers",
+        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+        "score": 73,
+        "score_label": "73 points",
+        "author": "mooreds",
+        "published": "2026-09-07T19:05:39+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49601810"
+        }
+      },
+      {
+        "id": "hn-49605246",
+        "section": "hackernews",
+        "title": "How well do agents use test/verification techniques?",
+        "url": "https://danluu.com/agentic-testing/",
+        "score": 45,
+        "score_label": "45 points",
+        "author": "vinhnx",
+        "published": "2026-09-08T02:58:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49605246"
+        }
+      },
+      {
+        "id": "hn-49602258",
+        "section": "hackernews",
+        "title": "El Yayster – a resident LLM that inhabits Emacs",
+        "url": "https://github.com/yayster/yayster.el",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "dTal",
+        "published": "2026-09-07T19:50:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49602258"
+        }
+      },
+      {
+        "id": "hn-49597206",
+        "section": "hackernews",
+        "title": "Trump homeland security chief says ICE agents could be sent to polling places",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling",
+        "score": 28,
+        "score_label": "28 points",
+        "author": "throw0101a",
+        "published": "2026-09-07T11:48:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49597206"
+        }
+      },
+      {
+        "id": "hn-49603011",
+        "section": "hackernews",
+        "title": "The smallest edge AI device for local LLMs",
+        "url": "https://tiiny.ai/",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "alex-moon",
+        "published": "2026-09-07T21:09:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49603011"
+        }
+      },
+      {
+        "id": "hn-49605767",
+        "section": "hackernews",
+        "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "kuberwastaken",
+        "published": "2026-09-08T05:06:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49605767"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.04199",
+        "section": "papers",
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "url": "https://huggingface.co/papers/2609.04199",
+        "score": 376,
+        "score_label": "376 upvotes",
+        "author": "Yuntian Deng, Pengyu Nie, Stuart Shieber",
+        "published": "2026-09-02T20:00:00.000Z",
+        "snippet": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present co…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.04199"
+        }
+      },
+      {
+        "id": "paper-2609.02750",
+        "section": "papers",
+        "title": "Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems",
+        "url": "https://huggingface.co/papers/2609.02750",
+        "score": 104,
+        "score_label": "104 upvotes",
+        "author": "Yihang Chen, Yuxiang Chen, Yuxuan Huang et al.",
+        "published": "2026-09-01T20:00:00.000Z",
+        "snippet": "Multi-agent LLM systems commonly use an orchestrator to decompose a task for a team of workers and then improve through textual reflection. Despite strong empirical results, these systems lack a unified account of coord…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.02750"
+        }
+      },
+      {
+        "id": "paper-2609.00365",
+        "section": "papers",
+        "title": "Dr. Claw: An AI Scientist Workspace for Vibe Research",
+        "url": "https://huggingface.co/papers/2609.00365",
+        "score": 77,
+        "score_label": "77 upvotes",
+        "author": "Dingjie Song, Hanrong Zhang, Dawei Liu et al.",
+        "published": "2026-08-30T20:00:00.000Z",
+        "snippet": "Command-line coding agents (e.g., Claude Code, Gemini CLI) can already read and write files and sustain long sessions, yet end-to-end research still fragments across chat tools, IDEs, terminals, and writing environments…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.00365"
+        }
+      },
+      {
+        "id": "paper-2609.04304",
+        "section": "papers",
+        "title": "Iris: Climbing to the Search Frontier",
+        "url": "https://huggingface.co/papers/2609.04304",
+        "score": 51,
+        "score_label": "51 upvotes",
+        "author": "Ziyuan Liu, Hengqi Liu, Zichuan Wang et al.",
+        "published": "2026-09-02T20:00:00.000Z",
+        "snippet": "We present Iris-mini and Iris-pro, two search agents trained at the 35B-A3B and 397B-A17B scales, together with the data pipeline and training recipe behind them. Tasks are reverse-constructed from the hyperlink structu…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.04304"
+        }
+      },
+      {
+        "id": "paper-2609.04250",
+        "section": "papers",
+        "title": "Motion-Omni: End-to-End Joint Speech and Full-Body Motion for Spoken Dialogue",
+        "url": "https://huggingface.co/papers/2609.04250",
+        "score": 38,
+        "score_label": "38 upvotes",
+        "author": "Chengqian Ma, Wei Tao, Haoyu Zhang et al.",
+        "published": "2026-08-27T20:00:00.000Z",
+        "snippet": "An avatar that holds a conversation should decide what to say and to move while saying it, yet these abilities live in separate model families: spoken dialogue models produce speech without motion, and co-speech motion…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.04250"
+        }
+      },
+      {
+        "id": "paper-2609.04173",
+        "section": "papers",
+        "title": "Last Translation Benchmark",
+        "url": "https://huggingface.co/papers/2609.04173",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Vilém Zouhar, Niyati Bafna, Mukund Choudhary et al.",
+        "published": "2026-09-02T20:00:00.000Z",
+        "snippet": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.04173"
+        }
+      },
+      {
+        "id": "paper-2609.04131",
+        "section": "papers",
+        "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+        "url": "https://huggingface.co/papers/2609.04131",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Hongyu Qu, Guangming Yao, Ling Xing et al.",
+        "published": "2026-09-02T20:00:00.000Z",
+        "snippet": "Streaming video understanding requires multimodal large language models (MLLMs) to process continuous visual inputs and respond to user queries under strict causality and bounded memory. Existing approaches typically co…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.04131"
+        }
+      },
+      {
+        "id": "paper-2609.05382",
+        "section": "papers",
+        "title": "Reflection-aware Generative Novel View Synthesis",
+        "url": "https://arxiv.org/abs/2609.05382",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "GeonU Kim, Shin Dong-Yeon, Tae-Hyun Oh",
+        "published": "2026-09-04T17:33:45Z",
+        "snippet": "We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-XHToken/Spark-X2.5-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "score": 760,
+        "score_label": "760 likes · 7,216 downloads",
+        "author": "XHToken",
+        "published": "2026-08-24T06:34:34.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 14295,
+        "score_label": "14,295 likes · 6,416,358 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 581,
+        "score_label": "581 likes · 403,292 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-google/timesfm-3.0-pytorch",
+        "section": "models",
+        "title": "google/timesfm-3.0-pytorch",
+        "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+        "score": 588,
+        "score_label": "588 likes · 271,713 downloads",
+        "author": "google",
+        "published": "2026-08-24T22:05:51.000Z",
+        "snippet": "time-series-forecasting",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 3095,
+        "score_label": "3,095 likes · 1,584,382 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM5-2B",
+        "section": "models",
+        "title": "openbmb/MiniCPM5-2B",
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "score": 390,
+        "score_label": "390 likes · 13 downloads",
+        "author": "openbmb",
+        "published": "2026-09-06T11:12:19.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-Flash-Next",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-Flash-Next",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+        "score": 4984,
+        "score_label": "4,984 likes · 474,693 downloads",
+        "author": "Qwen",
+        "published": "2026-08-24T08:24:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+        "score": 803,
+        "score_label": "803 likes · 251,611 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-08-31T06:16:18.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 307,
+        "score_label": "307 likes · 258,896 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3652,
+        "score_label": "3,652 likes · 10,479,045 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/aeo",
+        "section": "newsletters",
+        "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+        "url": "https://www.latent.space/p/aeo",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-07T21:32:37+00:00",
+        "snippet": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/grok-bot",
+        "section": "newsletters",
+        "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+        "url": "https://www.latent.space/p/grok-bot",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-05T15:01:02+00:00",
+        "snippet": "SpaceXAI&#8217;s Grok Bot has the same level of programming power as OpenClaw, but it&#8217;s programmable at a different level of abstraction.",
+        "extra_link": null
+      }
+    ]
+  }
+}
