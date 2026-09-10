@@ -1,0 +1,678 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T06:06:52.647037+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49623754",
+        "section": "hackernews",
+        "title": "Claude, change the “Add to Cart” button to blue",
+        "url": "https://opusfived.dev/",
+        "score": 1091,
+        "score_label": "1091 points",
+        "author": "matthieu_bl",
+        "published": "2026-09-09T09:39:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49623754"
+        }
+      },
+      {
+        "id": "hn-49627370",
+        "section": "hackernews",
+        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "score": 388,
+        "score_label": "388 points",
+        "author": "ModelForge",
+        "published": "2026-09-09T14:37:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49627370"
+        }
+      },
+      {
+        "id": "hn-49628704",
+        "section": "hackernews",
+        "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+        "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+        "score": 288,
+        "score_label": "288 points",
+        "author": "dn2k",
+        "published": "2026-09-09T16:01:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49628704"
+        }
+      },
+      {
+        "id": "hn-49624163",
+        "section": "hackernews",
+        "title": "How An AI math breakthrough ignited a controversy",
+        "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+        "score": 213,
+        "score_label": "213 points",
+        "author": "pseudolus",
+        "published": "2026-09-09T10:25:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49624163"
+        }
+      },
+      {
+        "id": "hn-49630026",
+        "section": "hackernews",
+        "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+        "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+        "score": 200,
+        "score_label": "200 points",
+        "author": "wsxiaoys",
+        "published": "2026-09-09T17:24:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49630026"
+        }
+      },
+      {
+        "id": "hn-49636345",
+        "section": "hackernews",
+        "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+        "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+        "score": 174,
+        "score_label": "174 points",
+        "author": "_djo_",
+        "published": "2026-09-09T23:57:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49636345"
+        }
+      },
+      {
+        "id": "hn-49622561",
+        "section": "hackernews",
+        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+        "score": 145,
+        "score_label": "145 points",
+        "author": "theanonymousone",
+        "published": "2026-09-09T07:22:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49622561"
+        }
+      },
+      {
+        "id": "hn-49623306",
+        "section": "hackernews",
+        "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+        "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+        "score": 81,
+        "score_label": "81 points",
+        "author": "taubek",
+        "published": "2026-09-09T08:43:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49623306"
+        }
+      },
+      {
+        "id": "hn-49636906",
+        "section": "hackernews",
+        "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+        "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+        "score": 72,
+        "score_label": "72 points",
+        "author": "jryb",
+        "published": "2026-09-10T01:02:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49636906"
+        }
+      },
+      {
+        "id": "hn-49629802",
+        "section": "hackernews",
+        "title": "Is OpenAI Taking Everyone for Fools?",
+        "url": "https://read.misalignedmag.com/is-openai-taking-everyone-for-fools-2481fa851544",
+        "score": 68,
+        "score_label": "68 points",
+        "author": "lcubw",
+        "published": "2026-09-09T17:09:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49629802"
+        }
+      },
+      {
+        "id": "hn-49638353",
+        "section": "hackernews",
+        "title": "OpenAI might have stolen another major proof",
+        "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
+        "score": 65,
+        "score_label": "65 points",
+        "author": "tamnd",
+        "published": "2026-09-10T04:19:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49638353"
+        }
+      },
+      {
+        "id": "hn-49628880",
+        "section": "hackernews",
+        "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+        "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "euthymiclabs",
+        "published": "2026-09-09T16:13:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49628880"
+        }
+      },
+      {
+        "id": "hn-49624157",
+        "section": "hackernews",
+        "title": "I resigned from Anthropic today (Jacob Coxon)",
+        "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843?s=20",
+        "score": 56,
+        "score_label": "56 points",
+        "author": "wrongful1520",
+        "published": "2026-09-09T10:25:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49624157"
+        }
+      },
+      {
+        "id": "hn-49629868",
+        "section": "hackernews",
+        "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+        "url": "https://arxiv.org/abs/2609.09153",
+        "score": 53,
+        "score_label": "53 points",
+        "author": "omarsar",
+        "published": "2026-09-09T17:13:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49629868"
+        }
+      },
+      {
+        "id": "hn-49629242",
+        "section": "hackernews",
+        "title": "OpenAI's rogue agents used at least 10 more sites",
+        "url": "https://www.reuters.com/world/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-2026-09-09/",
+        "score": 50,
+        "score_label": "50 points",
+        "author": "Betelbuddy",
+        "published": "2026-09-09T16:35:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49629242"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.08936",
+        "section": "papers",
+        "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+        "url": "https://huggingface.co/papers/2609.08936",
+        "score": 183,
+        "score_label": "183 upvotes",
+        "author": "Ziyang Ma, Zhikang Niu, Wenming Tu et al.",
+        "published": "2026-09-07T20:00:00.000Z",
+        "snippet": "We introduce AuK, an open-source foundational model that unifies speech generation and editing through a common interface of natural-language instructions and audio context. To support this broad capability set, we cons…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.08936"
+        }
+      },
+      {
+        "id": "paper-2609.07398",
+        "section": "papers",
+        "title": "OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining",
+        "url": "https://huggingface.co/papers/2609.07398",
+        "score": 56,
+        "score_label": "56 upvotes",
+        "author": "Yuran Wang, Siqiao Huang, Mingleyang Li et al.",
+        "published": "2026-09-06T20:00:00.000Z",
+        "snippet": "World-Action Models inherit world knowledge from video-generative priors, and channel it into executable control signals through embodied experience. Existing systems, however, are monolithic: the generative backbone, v…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.07398"
+        }
+      },
+      {
+        "id": "paper-2609.08084",
+        "section": "papers",
+        "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
+        "url": "https://huggingface.co/papers/2609.08084",
+        "score": 46,
+        "score_label": "46 upvotes",
+        "author": "Igor Pavlovic, Thiemo Wandel, Anton Obukhov et al.",
+        "published": "2026-09-07T20:00:00.000Z",
+        "snippet": "Monocular depth estimation is a ubiquitous yet highly ill-posed computer vision task, with downstream applications in scene reconstruction, computational photography, and robotics, among others. Despite the field's matu…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.08084"
+        }
+      },
+      {
+        "id": "paper-2609.09123",
+        "section": "papers",
+        "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+        "url": "https://huggingface.co/papers/2609.09123",
+        "score": 43,
+        "score_label": "43 upvotes",
+        "author": "Zhuoran Zhao, Shengju Qian, Tongtong Liang et al.",
+        "published": "2026-09-07T20:00:00.000Z",
+        "snippet": "Autoregressive (AR) video diffusion models have shown great potential in real-time video generation. Recent methods distill pretrained bidirectional video diffusion models into causal AR students through Distribution Ma…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.09123"
+        }
+      },
+      {
+        "id": "paper-2609.10522",
+        "section": "papers",
+        "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+        "url": "https://huggingface.co/papers/2609.10522",
+        "score": 34,
+        "score_label": "34 upvotes",
+        "author": "Yanzhe Chen, Zechen Bai, Zhijun Cao et al.",
+        "published": "2026-09-08T20:00:00.000Z",
+        "snippet": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VL…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.10522"
+        }
+      },
+      {
+        "id": "paper-2609.04971",
+        "section": "papers",
+        "title": "BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
+        "url": "https://huggingface.co/papers/2609.04971",
+        "score": 32,
+        "score_label": "32 upvotes",
+        "author": "Janghyeon Kim, Minsoo Kim, Kyuhong Shim et al.",
+        "published": "2026-09-03T20:00:00.000Z",
+        "snippet": "Large Reasoning Models (LRMs) achieve superior problem-solving through extended Chain-of-Thought (CoT) generation, but the resulting key-value (KV) cache grows linearly with sequence length and creates severe memory bot…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.04971"
+        }
+      },
+      {
+        "id": "paper-2609.06746",
+        "section": "papers",
+        "title": "Reason Through the Latent! Making Latent Visual Reasoning Necessary",
+        "url": "https://huggingface.co/papers/2609.06746",
+        "score": 31,
+        "score_label": "31 upvotes",
+        "author": "Suhyeong Park, Junha Jung, Jaewoo Kang",
+        "published": "2026-09-05T20:00:00.000Z",
+        "snippet": "Latent visual reasoning aims to perform multimodal reasoning through hidden-state computation rather than explicit textual chains of thought. However, visual information being present in a latent state does not imply th…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.06746"
+        }
+      },
+      {
+        "id": "paper-2609.06245",
+        "section": "papers",
+        "title": "VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification",
+        "url": "https://huggingface.co/papers/2609.06245",
+        "score": 28,
+        "score_label": "28 upvotes",
+        "author": "Yixin Wan, Tianle Zheng, Kai-Wei Chang",
+        "published": "2026-09-04T20:00:00.000Z",
+        "snippet": "Multimodal Large Language Models (MLLMs) perform strongly on general visual understanding tasks such as visual question answering, yet they often struggle with a basic comparative skill: identifying what has changed bet…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.06245"
+        }
+      },
+      {
+        "id": "paper-2609.06289",
+        "section": "papers",
+        "title": "Steering Geometry: Validating Human Value Geometry in LLM Steering Space",
+        "url": "https://huggingface.co/papers/2609.06289",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "Mohammad Mahdi Abootorabi, Armin Saghafian, Ali Bazshoushtari et al.",
+        "published": "2026-09-04T20:00:00.000Z",
+        "snippet": "As large language models (LLMs) are increasingly deployed in alignment-sensitive contexts, activation steering has emerged as a lightweight, inference-time alternative to fine-tuning methods (e.g., RLHF, DPO) for behavi…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.06289"
+        }
+      },
+      {
+        "id": "paper-2609.10540",
+        "section": "papers",
+        "title": "Programmable World Model",
+        "url": "https://huggingface.co/papers/2609.10540",
+        "score": 26,
+        "score_label": "26 upvotes",
+        "author": "Zheng-Hui Huang, Guixu Lin, Jiacheng Lin et al.",
+        "published": "2026-09-08T20:00:00.000Z",
+        "snippet": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over extended interactio…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.10540"
+        }
+      },
+      {
+        "id": "paper-2609.10539",
+        "section": "papers",
+        "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+        "url": "https://arxiv.org/abs/2609.10539",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yiling Ma, Yilun Zhao, Sihong Wu et al.",
+        "published": "2026-09-09T17:59:04Z",
+        "snippet": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of implementation-facing…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.10534",
+        "section": "papers",
+        "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+        "url": "https://arxiv.org/abs/2609.10534",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Phil Assheton",
+        "published": "2026-09-09T17:58:15Z",
+        "snippet": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.10529",
+        "section": "papers",
+        "title": "A positive resolution of the gap-entropy conjecture",
+        "url": "https://arxiv.org/abs/2609.10529",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "P. M. Aronow, Nathan Kallus, Patrick Lopatto",
+        "published": "2026-09-09T17:57:11Z",
+        "snippet": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ b…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.10525",
+        "section": "papers",
+        "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+        "url": "https://arxiv.org/abs/2609.10525",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Xiaoyu Li, Andi Han, Jiaojiao Jiang et al.",
+        "published": "2026-09-09T17:54:30Z",
+        "snippet": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Ge…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.10514",
+        "section": "papers",
+        "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+        "url": "https://arxiv.org/abs/2609.10514",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Ashwin Nayak, Xingyu Zhou",
+        "published": "2026-09-09T17:48:41Z",
+        "snippet": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.10505",
+        "section": "papers",
+        "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
+        "url": "https://arxiv.org/abs/2609.10505",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Menachem Finkelstein, Diana Legziel Levy, Zohar Yakhini et al.",
+        "published": "2026-09-09T17:41:27Z",
+        "snippet": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produ…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.10495",
+        "section": "papers",
+        "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
+        "url": "https://arxiv.org/abs/2609.10495",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Siddharth Gupta, Jitin Singla",
+        "published": "2026-09-09T17:32:43Z",
+        "snippet": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring a…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.10494",
+        "section": "papers",
+        "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+        "url": "https://arxiv.org/abs/2609.10494",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Blake Stenstrom, Charangan Vasantharajan, Brian Sathianathan",
+        "published": "2026-09-09T17:31:29Z",
+        "snippet": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We tre…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-openbmb/MiniCPM5-2B",
+        "section": "models",
+        "title": "openbmb/MiniCPM5-2B",
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "score": 984,
+        "score_label": "984 likes · 2,879 downloads",
+        "author": "openbmb",
+        "published": "2026-09-06T11:12:19.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.5-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "score": 1019,
+        "score_label": "1,019 likes · 10,661 downloads",
+        "author": "XHToken",
+        "published": "2026-08-24T06:34:34.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 745,
+        "score_label": "745 likes · 479,597 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 14538,
+        "score_label": "14,538 likes · 6,712,160 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-google/timesfm-3.0-pytorch",
+        "section": "models",
+        "title": "google/timesfm-3.0-pytorch",
+        "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+        "score": 697,
+        "score_label": "697 likes · 444,052 downloads",
+        "author": "google",
+        "published": "2026-08-24T22:05:51.000Z",
+        "snippet": "time-series-forecasting",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 3287,
+        "score_label": "3,287 likes · 1,644,796 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3797,
+        "score_label": "3,797 likes · 10,675,683 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-sentence-transformers/all-MiniLM-L6-v2",
+        "section": "models",
+        "title": "sentence-transformers/all-MiniLM-L6-v2",
+        "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+        "score": 5724,
+        "score_label": "5,724 likes · 253,331,994 downloads",
+        "author": "sentence-transformers",
+        "published": "2022-03-02T23:29:05.000Z",
+        "snippet": "sentence-similarity · sentence-transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-openai-community/gpt2",
+        "section": "models",
+        "title": "openai-community/gpt2",
+        "url": "https://huggingface.co/openai-community/gpt2",
+        "score": 3866,
+        "score_label": "3,866 likes · 14,770,863 downloads",
+        "author": "openai-community",
+        "published": "2022-03-02T23:29:04.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 420,
+        "score_label": "420 likes · 348,753 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-10T03:33:12+00:00",
+        "snippet": "a quiet day",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "section": "newsletters",
+        "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-09-09T11:14:25+00:00",
+        "snippet": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+        "section": "newsletters",
+        "title": "When will average people feel AI’s impact?",
+        "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-09T11:01:23+00:00",
+        "snippet": "We&#8217;re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+        "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-09T05:04:51+00:00",
+        "snippet": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+        "section": "newsletters",
+        "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+        "url": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-08T14:15:25+00:00",
+        "snippet": "The open model ecosystem continues to expand in its breadth",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/aeo",
+        "section": "newsletters",
+        "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+        "url": "https://www.latent.space/p/aeo",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-07T21:32:37+00:00",
+        "snippet": "Our first Astra project dives into AEO trends, a top asked topic from founders and DX leaders we talk to.",
+        "extra_link": null
+      }
+    ]
+  }
+}
