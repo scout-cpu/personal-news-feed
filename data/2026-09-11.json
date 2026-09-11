@@ -1,0 +1,663 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T06:09:05.885043+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49639408",
+        "section": "hackernews",
+        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+        "score": 770,
+        "score_label": "770 points",
+        "author": "pred_",
+        "published": "2026-09-10T06:49:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49639408"
+        }
+      },
+      {
+        "id": "hn-49643556",
+        "section": "hackernews",
+        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+        "url": "https://news.ycombinator.com/item?id=49643556",
+        "score": 443,
+        "score_label": "443 points",
+        "author": "jacquesm",
+        "published": "2026-09-10T13:39:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49643556"
+        }
+      },
+      {
+        "id": "hn-49645443",
+        "section": "hackernews",
+        "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+        "url": "https://cognition.com/blog/swe-2",
+        "score": 396,
+        "score_label": "396 points",
+        "author": "seelos",
+        "published": "2026-09-10T15:29:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49645443"
+        }
+      },
+      {
+        "id": "hn-49643112",
+        "section": "hackernews",
+        "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+        "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+        "score": 256,
+        "score_label": "256 points",
+        "author": "ColinWright",
+        "published": "2026-09-10T13:07:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49643112"
+        }
+      },
+      {
+        "id": "hn-49649213",
+        "section": "hackernews",
+        "title": "OpenAI Agents API",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "score": 209,
+        "score_label": "209 points",
+        "author": "aquir",
+        "published": "2026-09-10T19:43:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49649213"
+        }
+      },
+      {
+        "id": "hn-49650326",
+        "section": "hackernews",
+        "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+        "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+        "score": 154,
+        "score_label": "154 points",
+        "author": "ibobev",
+        "published": "2026-09-10T21:22:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49650326"
+        }
+      },
+      {
+        "id": "hn-49647300",
+        "section": "hackernews",
+        "title": "Detecting and countering misuse of AI: September 2026",
+        "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "score": 110,
+        "score_label": "110 points",
+        "author": "garo-pro",
+        "published": "2026-09-10T17:23:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49647300"
+        }
+      },
+      {
+        "id": "hn-49644179",
+        "section": "hackernews",
+        "title": "AI Is Breaking This Thing We Call Trust",
+        "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+        "score": 77,
+        "score_label": "77 points",
+        "author": "matheusml",
+        "published": "2026-09-10T14:21:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49644179"
+        }
+      },
+      {
+        "id": "hn-49651372",
+        "section": "hackernews",
+        "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+        "url": "https://system76.com/workstations/thelio-mira-ai",
+        "score": 76,
+        "score_label": "76 points",
+        "author": "jonifico",
+        "published": "2026-09-10T23:10:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49651372"
+        }
+      },
+      {
+        "id": "hn-49641792",
+        "section": "hackernews",
+        "title": "Mathematicians want proof OpenAI didn't use their work",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+        "score": 76,
+        "score_label": "76 points",
+        "author": "kevcampb",
+        "published": "2026-09-10T11:18:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49641792"
+        }
+      },
+      {
+        "id": "hn-49646988",
+        "section": "hackernews",
+        "title": "Anthropic says it blocked possible efforts to build biological weapons",
+        "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+        "score": 66,
+        "score_label": "66 points",
+        "author": "jbegley",
+        "published": "2026-09-10T17:04:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49646988"
+        }
+      },
+      {
+        "id": "hn-49644294",
+        "section": "hackernews",
+        "title": "AI 2027 (2025)",
+        "url": "https://ai-2027.com",
+        "score": 56,
+        "score_label": "56 points",
+        "author": "gafferongames",
+        "published": "2026-09-10T14:27:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49644294"
+        }
+      },
+      {
+        "id": "hn-49646123",
+        "section": "hackernews",
+        "title": "One resignation turned the embers of AI fear into a wildfire",
+        "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "score": 42,
+        "score_label": "42 points",
+        "author": "pretext",
+        "published": "2026-09-10T16:09:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49646123"
+        }
+      },
+      {
+        "id": "hn-49652475",
+        "section": "hackernews",
+        "title": "How My Students Think About AI",
+        "url": "https://www.lesswrong.com/posts/ySXuvJcqRindQwAk7/how-my-students-think-about-ai",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "paulpauper",
+        "published": "2026-09-11T01:33:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49652475"
+        }
+      },
+      {
+        "id": "hn-49651084",
+        "section": "hackernews",
+        "title": "Anthropic CEOs wife once asked Epstein to fund porn venture – now steers Claude",
+        "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "jitbit",
+        "published": "2026-09-10T22:38:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49651084"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2608.12564",
+        "section": "papers",
+        "title": "Scaling Automatic Research Agents via World Models",
+        "url": "https://huggingface.co/papers/2608.12564",
+        "score": 431,
+        "score_label": "431 upvotes",
+        "author": "Xiyuan Yang, Sheikh Sarwar, Jingru Cheng et al.",
+        "published": "2026-08-28T20:00:00.000Z",
+        "snippet": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently implement solutions and…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2608.12564"
+        }
+      },
+      {
+        "id": "paper-2609.10715",
+        "section": "papers",
+        "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+        "url": "https://huggingface.co/papers/2609.10715",
+        "score": 94,
+        "score_label": "94 upvotes",
+        "author": "NCP Team, Jiaqi Cao, Chiyu Chen et al.",
+        "published": "2026-09-08T20:00:00.000Z",
+        "snippet": "We introduce NCP-ArchPreview, a latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction (NTP). Alongside NTP, the model learns through Next Concept Prediction (NCP) to pr…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.10715"
+        }
+      },
+      {
+        "id": "paper-2609.08572",
+        "section": "papers",
+        "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
+        "url": "https://huggingface.co/papers/2609.08572",
+        "score": 88,
+        "score_label": "88 upvotes",
+        "author": "Jaewon Chu, Jinwoo Seo, Jaewon Cho et al.",
+        "published": "2026-09-07T20:00:00.000Z",
+        "snippet": "Large language model (LLM)-based multi-agent systems (MAS) achieve strong performance by employing specialized multiple agents, yet their performance depends on the prompt design of each agent. For MAS prompt optimizati…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.08572"
+        }
+      },
+      {
+        "id": "paper-2609.11929",
+        "section": "papers",
+        "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+        "url": "https://huggingface.co/papers/2609.11929",
+        "score": 56,
+        "score_label": "56 upvotes",
+        "author": "Haiwen Diao, Jiahao Wang, Chenjing Ding et al.",
+        "published": "2026-09-09T20:00:00.000Z",
+        "snippet": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its visual interface thro…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.11929"
+        }
+      },
+      {
+        "id": "paper-2609.05903",
+        "section": "papers",
+        "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+        "url": "https://huggingface.co/papers/2609.05903",
+        "score": 31,
+        "score_label": "31 upvotes",
+        "author": "Nanxi Li, Yingzi Ma, Yulong Cao et al.",
+        "published": "2026-09-04T20:00:00.000Z",
+        "snippet": "Large Language Model (LLM) agents are turning language into real-world effects, making safety necessary against both indirect prompt injections and direct harmful requests. System-level safety harnesses add an enforceme…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.05903"
+        }
+      },
+      {
+        "id": "paper-2609.11042",
+        "section": "papers",
+        "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+        "url": "https://huggingface.co/papers/2609.11042",
+        "score": 29,
+        "score_label": "29 upvotes",
+        "author": "Junyao Yang, Yucheng Shi, Zhongzhi Li et al.",
+        "published": "2026-09-09T20:00:00.000Z",
+        "snippet": "Agent usage is shifting toward long-horizon tasks such as coding and scientific discovery, among which terminal tasks are especially important. We introduce T1, a Mixture-of-Experts model of 122B total trained with rein…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.11042"
+        }
+      },
+      {
+        "id": "paper-2609.05405",
+        "section": "papers",
+        "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+        "url": "https://huggingface.co/papers/2609.05405",
+        "score": 29,
+        "score_label": "29 upvotes",
+        "author": "Ji Soo Lee, Xilun Chen, Pierce Chuang et al.",
+        "published": "2026-09-03T20:00:00.000Z",
+        "snippet": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longitudinal wearable re…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.05405"
+        }
+      },
+      {
+        "id": "paper-2609.07064",
+        "section": "papers",
+        "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
+        "url": "https://huggingface.co/papers/2609.07064",
+        "score": 26,
+        "score_label": "26 upvotes",
+        "author": "Soohyun Ryu, Sohee Kim, Eunho Yang",
+        "published": "2026-09-06T20:00:00.000Z",
+        "snippet": "Large Vision-Language Models (LVLMs) have achieved strong performance on diverse visual tasks, yet their ability to reconstruct and reason about the 3D structure of the scene depicted in 2D images -- referred to as spat…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.07064"
+        }
+      },
+      {
+        "id": "paper-2609.08149",
+        "section": "papers",
+        "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+        "url": "https://huggingface.co/papers/2609.08149",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Pujun Zheng, Zixin Shang, Shufan Jiang et al.",
+        "published": "2026-09-07T20:00:00.000Z",
+        "snippet": "SWE-Bench Pro has emerged as a standard benchmark for evaluating software engineering agents on challenging repository-level tasks. However, our analysis work show that its evaluation is undermined by two sources of unr…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.08149"
+        }
+      },
+      {
+        "id": "paper-2609.11923",
+        "section": "papers",
+        "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+        "url": "https://arxiv.org/abs/2609.11923",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Boning Li, Longbo Huang",
+        "published": "2026-09-10T17:58:14Z",
+        "snippet": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, int…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.11918",
+        "section": "papers",
+        "title": "General Quantification of Covariate and Concept Shifts",
+        "url": "https://arxiv.org/abs/2609.11918",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Hongbo Chen, Li Charlie Xia",
+        "published": "2026-09-10T17:57:52Z",
+        "snippet": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper,…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.11917",
+        "section": "papers",
+        "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+        "url": "https://arxiv.org/abs/2609.11917",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Atindra Jha, Margaret Li, Jure Leskovec et al.",
+        "published": "2026-09-10T17:57:33Z",
+        "snippet": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of dat…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.11916",
+        "section": "papers",
+        "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+        "url": "https://arxiv.org/abs/2609.11916",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "William Zhou, Mayukha Siripuram, Xiao Yan et al.",
+        "published": "2026-09-10T17:57:32Z",
+        "snippet": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evalua…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.11915",
+        "section": "papers",
+        "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+        "url": "https://arxiv.org/abs/2609.11915",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Masahiro Kato, Daiki Honma, Taka Kato",
+        "published": "2026-09-10T17:57:28Z",
+        "snippet": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Mode…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.11913",
+        "section": "papers",
+        "title": "Distance generalization in transformers: why bother with positional encoding?",
+        "url": "https://arxiv.org/abs/2609.11913",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Daniel Henrik Nevermann, Claudius Gros",
+        "published": "2026-09-10T17:57:19Z",
+        "snippet": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance whe…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.11911",
+        "section": "papers",
+        "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+        "url": "https://arxiv.org/abs/2609.11911",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yakov Pyotr Shkolnikov",
+        "published": "2026-09-10T17:56:41Z",
+        "snippet": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely s…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.11910",
+        "section": "papers",
+        "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
+        "url": "https://arxiv.org/abs/2609.11910",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Nitesh V. Chawla, Paulo Benanti",
+        "published": "2026-09-10T17:56:36Z",
+        "snippet": "Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once deployed, AI becomes an…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "score": 1486,
+        "score_label": "1,486 likes · 6 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-09-10T02:17:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM5-2B",
+        "section": "models",
+        "title": "openbmb/MiniCPM5-2B",
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "score": 1132,
+        "score_label": "1,132 likes · 42,289 downloads",
+        "author": "openbmb",
+        "published": "2026-09-06T11:12:19.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.5-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "score": 1072,
+        "score_label": "1,072 likes · 15,930 downloads",
+        "author": "XHToken",
+        "published": "2026-08-24T06:34:34.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 14669,
+        "score_label": "14,669 likes · 7,322,476 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 806,
+        "score_label": "806 likes · 614,850 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-mini",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-mini",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+        "score": 662,
+        "score_label": "662 likes · 2,444 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T05:08:43.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-Pro",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-Pro",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "score": 584,
+        "score_label": "584 likes · 3 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T11:01:41.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 3400,
+        "score_label": "3,400 likes · 1,740,572 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3855,
+        "score_label": "3,855 likes · 11,127,203 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-google/timesfm-3.0-pytorch",
+        "section": "models",
+        "title": "google/timesfm-3.0-pytorch",
+        "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+        "score": 718,
+        "score_label": "718 likes · 483,787 downloads",
+        "author": "google",
+        "published": "2026-08-24T22:05:51.000Z",
+        "snippet": "time-series-forecasting",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "section": "newsletters",
+        "title": "One resignation turned the embers of AI fear into a wildfire",
+        "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-10T15:28:52+00:00",
+        "snippet": "Some quick notes on a truly weird week.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-10T03:33:12+00:00",
+        "snippet": "a quiet day",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "section": "newsletters",
+        "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-09-09T11:14:25+00:00",
+        "snippet": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+        "section": "newsletters",
+        "title": "When will average people feel AI’s impact?",
+        "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-09T11:01:23+00:00",
+        "snippet": "We&#8217;re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+        "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-09T05:04:51+00:00",
+        "snippet": "Overshadowing Cognition's $48B Series E, Mistral's $24B Series D, Meta's Muse agent, and GPT Image 2.5. The most jam packed, feel the AGI day in the history of AI.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+        "section": "newsletters",
+        "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
+        "url": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-08T14:15:25+00:00",
+        "snippet": "The open model ecosystem continues to expand in its breadth",
+        "extra_link": null
+      }
+    ]
+  }
+}

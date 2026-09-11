@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-10T06:06:57.993646+00:00",
+  "fetched_at": "2026-09-11T06:09:12.188296+00:00",
   "items": [
+    {
+      "id": "aca36ba417c397ff",
+      "company": "Positron",
+      "company_url": "https://startups.gallery/companies/positron",
+      "amount": "$875M",
+      "round": "Series C",
+      "date": "2026-09-10",
+      "investor": "NEA",
+      "investor_url": "https://startups.gallery/investors/new-enterprise-associates",
+      "source_url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+      "logo_url": "https://framerusercontent.com/images/l0yozcOpPbVUYqCEvFrVxrtUOWM.webp?width=200&height=200",
+      "logo": "static/startups/images/bd8d263d5cec5c4a54bc.webp",
+      "description": "Positron: Energy-efficient AI chips. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/62de7acb55c71f40fd50.webp",
+      "image_url": "https://framerusercontent.com/images/09B6OzPen3ZiRNro4FwiB1iyw.webp?width=1800&height=963",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "a4b53344cb929c7b",
+      "company": "Highstock",
+      "company_url": "https://startups.gallery/companies/highstock",
+      "amount": "$30M",
+      "round": "Series A",
+      "date": "2026-09-10",
+      "investor": "a16z",
+      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
+      "source_url": "https://wwd.com/beauty-industry-news/beauty-features/highstock-b2b-marketplace-surplus-inventory-raises-30m-a16z-1239204407/",
+      "logo_url": "https://framerusercontent.com/images/C2JnLjRHQlbj9VgFlOs6ZJhVzGc.jpeg?width=200&height=200",
+      "logo": "static/startups/images/817cca34bc87aa4a7e6f.jpg",
+      "description": "Highstock: AI-native B2B marketplace. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/4ada0d0ce39e46c7fd84.webp",
+      "image_url": "https://framerusercontent.com/images/X1Z1NCDHvj437jOAhmYSxrD9UU.webp?width=1200&height=800",
+      "image_kind": "company artwork"
+    },
     {
       "id": "eb44344d2b5720fd",
       "company": "System",
@@ -13,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/patron",
       "source_url": "https://www.prnewswire.com/news-releases/system-raises-20m-in-funding-to-become-the-trusted-peptide-native-platform-for-a-new-era-302873360.html",
       "logo_url": "https://framerusercontent.com/images/1gwoUgJrnYFG7ULZ1Plwme2iimI.jpeg?width=200&height=200",
-      "logo": "static/startups/images/28761f48972cb66992ea.jpg",
-      "description": "System: Vertically integrated peptide platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/ee0bccc426a08bf69917.png",
       "image_url": "https://framerusercontent.com/images/NS0rg2Bjy55nguVEHP7uib080rw.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "System: Vertically integrated peptide platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/28761f48972cb66992ea.jpg"
     },
     {
       "id": "9e54cc53326a1b0a",
@@ -30,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/halo-fund",
       "source_url": "https://www.savvywealth.com/series-c",
       "logo_url": "https://framerusercontent.com/images/NZVBHrFVmlHQBGmVe71Nv9DXwLY.png?width=400&height=400",
-      "logo": "static/startups/images/c4eda761c3bd3fb6dac3.png",
-      "description": "Savvy Wealth: Digital-first wealth management. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/17f296e744a055cabe76.jpg",
       "image_url": "https://framerusercontent.com/images/MBcuSY8yZfcaAFosxDBucMyA.jpeg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Savvy Wealth: Digital-first wealth management. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/c4eda761c3bd3fb6dac3.png"
     },
     {
       "id": "5ba958501701201f",
@@ -47,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://www.upstartsmedia.com/p/ai-sales-startup-lightfield-raises-47m",
       "logo_url": "https://framerusercontent.com/images/4SlvY0Ep1HsGdLholZjtroE7rt8.webp?width=200&height=200",
-      "logo": "static/startups/images/d6bdd5479f1803888822.webp",
-      "description": "Lightfield: CRM engineered for the future. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/83f7ccdf07da39761e4f.webp",
       "image_url": "https://framerusercontent.com/images/I5Umy16g0L9DFlVMXNJJQGN3VE.webp?width=1920&height=1080",
-      "image_kind": "company artwork"
+      "description": "Lightfield: CRM engineered for the future. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/d6bdd5479f1803888822.webp"
     },
     {
       "id": "d0244f39e3088f90",
@@ -64,11 +98,11 @@
       "investor_url": "https://startups.gallery/investors/wellington",
       "source_url": "https://x.com/clay/status/2097668628359401675?s=20",
       "logo_url": "https://framerusercontent.com/images/PWAkSmFlbqMLkX6kku2mBtJ8nw.webp?width=200&height=200",
-      "logo": "static/startups/images/e798fec6d7bd09141577.webp",
-      "description": "Clay: Go to market with unique data. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/d24ad08fef0468de1c59.png",
       "image_url": "https://framerusercontent.com/images/Bz2ZMDbRAtLiKqBMsAz5CC5mps.png?width=1000&height=525",
-      "image_kind": "company artwork"
+      "description": "Clay: Go to market with unique data. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/e798fec6d7bd09141577.webp"
     },
     {
       "id": "c48f7201bbdcf272",
@@ -800,40 +834,6 @@
       "description": "Onyx Security: The secure control plane for AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/2276a193cdc759b3351f.jpg"
-    },
-    {
-      "id": "c75f525156438eb8",
-      "company": "Henry",
-      "company_url": "https://startups.gallery/companies/henry-ai",
-      "amount": "$16.5M",
-      "round": "Series A",
-      "date": "2026-07-29",
-      "investor": "FirstMark",
-      "investor_url": "https://startups.gallery/investors/firstmark",
-      "source_url": "https://www.upstartsmedia.com/p/startup-henry-ai-real-estate-series-a",
-      "logo_url": "https://framerusercontent.com/images/Kq6yJQmAtTlN45mYWMniKIw09c.jpeg?width=200&height=200",
-      "image": "static/startups/images/0665d5270d0ba04c48fa.png",
-      "image_url": "https://framerusercontent.com/images/UmoHpWFHdjCod3qgkxt0mLxTqo.png?width=2100&height=1103",
-      "description": "Henry:  AI-powered deal assistant. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/75f79f5d62fb8f75b53e.jpg"
-    },
-    {
-      "id": "45fba399a77f19b6",
-      "company": "Town",
-      "company_url": "https://startups.gallery/companies/town",
-      "amount": "$55M",
-      "round": "Series A",
-      "date": "2026-07-29",
-      "investor": "a16z",
-      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
-      "source_url": "https://fundraiseinsider.com/blog/town-raises-55m-series-a-for-personalized-ai-assistant/",
-      "logo_url": "https://framerusercontent.com/images/wDb56WkLikmqQn0gkCMcFRLuC8Q.webp?width=200&height=200",
-      "image": "static/startups/images/947ab121af617e7b2ced.jpg",
-      "image_url": "https://framerusercontent.com/images/wxhYQCeaiDnl8kwsB71hDFUnuk.jpeg?width=1500&height=500",
-      "description": "Town: The unusually helpful AI assistant. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/762e0ab6d2d89f9ff4bb.webp"
     }
   ]
 }
