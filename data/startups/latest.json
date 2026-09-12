@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-11T06:09:12.188296+00:00",
+  "fetched_at": "2026-09-12T05:56:49.057806+00:00",
   "items": [
     {
       "id": "aca36ba417c397ff",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/new-enterprise-associates",
       "source_url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
       "logo_url": "https://framerusercontent.com/images/l0yozcOpPbVUYqCEvFrVxrtUOWM.webp?width=200&height=200",
-      "logo": "static/startups/images/bd8d263d5cec5c4a54bc.webp",
-      "description": "Positron: Energy-efficient AI chips. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/62de7acb55c71f40fd50.webp",
       "image_url": "https://framerusercontent.com/images/09B6OzPen3ZiRNro4FwiB1iyw.webp?width=1800&height=963",
-      "image_kind": "company artwork"
+      "description": "Positron: Energy-efficient AI chips. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/bd8d263d5cec5c4a54bc.webp"
     },
     {
       "id": "a4b53344cb929c7b",
@@ -30,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://wwd.com/beauty-industry-news/beauty-features/highstock-b2b-marketplace-surplus-inventory-raises-30m-a16z-1239204407/",
       "logo_url": "https://framerusercontent.com/images/C2JnLjRHQlbj9VgFlOs6ZJhVzGc.jpeg?width=200&height=200",
-      "logo": "static/startups/images/817cca34bc87aa4a7e6f.jpg",
-      "description": "Highstock: AI-native B2B marketplace. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/4ada0d0ce39e46c7fd84.webp",
       "image_url": "https://framerusercontent.com/images/X1Z1NCDHvj437jOAhmYSxrD9UU.webp?width=1200&height=800",
-      "image_kind": "company artwork"
+      "description": "Highstock: AI-native B2B marketplace. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/817cca34bc87aa4a7e6f.jpg"
     },
     {
       "id": "eb44344d2b5720fd",

@@ -1,0 +1,465 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T05:56:44.536076+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49662371",
+        "section": "hackernews",
+        "title": "A misalignment of AI in mathematics",
+        "url": "https://mathandai.org/",
+        "score": 799,
+        "score_label": "799 points",
+        "author": "meredydd",
+        "published": "2026-09-11T17:45:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49662371"
+        }
+      },
+      {
+        "id": "hn-49657850",
+        "section": "hackernews",
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "url": "https://news.ycombinator.com/item?id=49657850",
+        "score": 770,
+        "score_label": "770 points",
+        "author": "cromka",
+        "published": "2026-09-11T13:11:04+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49657850"
+        }
+      },
+      {
+        "id": "hn-49656225",
+        "section": "hackernews",
+        "title": "Claude is only available to people over 18 years",
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "score": 615,
+        "score_label": "615 points",
+        "author": "Muhammad523",
+        "published": "2026-09-11T10:48:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49656225"
+        }
+      },
+      {
+        "id": "hn-49666735",
+        "section": "hackernews",
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "url": "https://www.rubyhack.ai/",
+        "score": 549,
+        "score_label": "549 points",
+        "author": "chao-",
+        "published": "2026-09-11T23:17:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49666735"
+        }
+      },
+      {
+        "id": "hn-49656496",
+        "section": "hackernews",
+        "title": "The Waymo effect: how AI is quietly making research less collaborative",
+        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "score": 322,
+        "score_label": "322 points",
+        "author": "JohnHammersley",
+        "published": "2026-09-11T11:17:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49656496"
+        }
+      },
+      {
+        "id": "hn-49660783",
+        "section": "hackernews",
+        "title": "Show HN: Hacker News, Without AI",
+        "url": "https://www.unslop.news/",
+        "score": 180,
+        "score_label": "180 points",
+        "author": "otherayden",
+        "published": "2026-09-11T16:08:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49660783"
+        }
+      },
+      {
+        "id": "hn-49659647",
+        "section": "hackernews",
+        "title": "Show HN: Hacker News, without AI",
+        "url": "https://hcker.news/?ai=exclude",
+        "score": 180,
+        "score_label": "180 points",
+        "author": "postalcoder",
+        "published": "2026-09-11T15:01:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49659647"
+        }
+      },
+      {
+        "id": "hn-49661506",
+        "section": "hackernews",
+        "title": "Feeling Sad about AI",
+        "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+        "score": 170,
+        "score_label": "170 points",
+        "author": "encyclopedism",
+        "published": "2026-09-11T16:50:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49661506"
+        }
+      },
+      {
+        "id": "hn-49662116",
+        "section": "hackernews",
+        "title": "A Misalignment of AI in Mathematics",
+        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+        "score": 145,
+        "score_label": "145 points",
+        "author": "Iuz",
+        "published": "2026-09-11T17:30:26+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49662116"
+        }
+      },
+      {
+        "id": "hn-49660482",
+        "section": "hackernews",
+        "title": "Hacker News with reduced priority for AI driven content",
+        "url": "https://sprinklz.io/public/pdwt4dve5uai",
+        "score": 113,
+        "score_label": "113 points",
+        "author": "sammy0910",
+        "published": "2026-09-11T15:52:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49660482"
+        }
+      },
+      {
+        "id": "hn-49662698",
+        "section": "hackernews",
+        "title": "Top mathematicians are outraged by OpenAI's methods",
+        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+        "score": 91,
+        "score_label": "91 points",
+        "author": "sbulaev",
+        "published": "2026-09-11T18:07:08+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49662698"
+        }
+      },
+      {
+        "id": "hn-49665711",
+        "section": "hackernews",
+        "title": "AI researchers debate how close we are to recursive self-improvement",
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "score": 85,
+        "score_label": "85 points",
+        "author": "artninja1988",
+        "published": "2026-09-11T21:35:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49665711"
+        }
+      },
+      {
+        "id": "hn-49656033",
+        "section": "hackernews",
+        "title": "Resist \"AI\"",
+        "url": "https://ronjeffries.com/articles/-v026/x/t/",
+        "score": 65,
+        "score_label": "65 points",
+        "author": "mborch",
+        "published": "2026-09-11T10:19:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49656033"
+        }
+      },
+      {
+        "id": "hn-49656698",
+        "section": "hackernews",
+        "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+        "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "MrBuddyCasino",
+        "published": "2026-09-11T11:36:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49656698"
+        }
+      },
+      {
+        "id": "hn-49667253",
+        "section": "hackernews",
+        "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+        "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+        "score": 39,
+        "score_label": "39 points",
+        "author": "bilsbie",
+        "published": "2026-09-12T00:24:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49667253"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.11317",
+        "section": "papers",
+        "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
+        "url": "https://huggingface.co/papers/2609.11317",
+        "score": 32,
+        "score_label": "32 upvotes",
+        "author": "Jiayin Chen, Yicheng Xu, Muting Wang",
+        "published": "2026-09-09T20:00:00.000Z",
+        "snippet": "Iterative reference-conditioned image editing can introduce grid-like and granular textures, commonly described as digital ripple. We present Mi-Ripple, a diagnosis-guided restoration workflow that suppresses this digit…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.11317"
+        }
+      },
+      {
+        "id": "paper-2609.11412",
+        "section": "papers",
+        "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+        "url": "https://huggingface.co/papers/2609.11412",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Haojun Zhang, Yi Zou, Min Chen et al.",
+        "published": "2026-09-09T20:00:00.000Z",
+        "snippet": "Reducing audio-encoder depth lowers the inference cost of speech large language models, but removing complete blocks perturbs the embeddings consumed by the decoder and can cause deletion and premature end-of-sequence e…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.11412"
+        }
+      },
+      {
+        "id": "paper-2609.11561",
+        "section": "papers",
+        "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+        "url": "https://huggingface.co/papers/2609.11561",
+        "score": 19,
+        "score_label": "19 upvotes",
+        "author": "Sizhe Zhao, Haozhe Xie, Weiyu Zhao et al.",
+        "published": "2026-09-09T20:00:00.000Z",
+        "snippet": "Mainstream robotic policies often adopt a Markovian formulation, but many complex real-world manipulation tasks are inherently non-Markovian, requiring long-horizon memory beyond the current observation. Existing memory…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.11561"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "score": 1832,
+        "score_label": "1,832 likes · 75,774 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-09-10T02:17:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM5-2B",
+        "section": "models",
+        "title": "openbmb/MiniCPM5-2B",
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "score": 1208,
+        "score_label": "1,208 likes · 67,550 downloads",
+        "author": "openbmb",
+        "published": "2026-09-06T11:12:19.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.5-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "score": 1118,
+        "score_label": "1,118 likes · 17,712 downloads",
+        "author": "XHToken",
+        "published": "2026-08-24T06:34:34.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-mini",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-mini",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+        "score": 700,
+        "score_label": "700 likes · 3,121 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T05:08:43.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 14781,
+        "score_label": "14,781 likes · 7,563,763 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 849,
+        "score_label": "849 likes · 682,187 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-Pro",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-Pro",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "score": 604,
+        "score_label": "604 likes · 12,260 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T11:01:41.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 3523,
+        "score_label": "3,523 likes · 1,669,564 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3913,
+        "score_label": "3,913 likes · 11,339,637 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-WarmBloodAban/Minimax-h3_Singularity",
+        "section": "models",
+        "title": "WarmBloodAban/Minimax-h3_Singularity",
+        "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+        "score": 312,
+        "score_label": "312 likes · 103,178 downloads",
+        "author": "WarmBloodAban",
+        "published": "2026-09-05T18:51:01.000Z",
+        "snippet": "image-to-video · minimax-h3",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "section": "newsletters",
+        "title": "Open-Source AI & Open Models Reading List",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-11T12:36:25+00:00",
+        "snippet": "How to get up to speed on open models and their implications.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "section": "newsletters",
+        "title": "One resignation turned the embers of AI fear into a wildfire",
+        "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-10T15:28:52+00:00",
+        "snippet": "Some quick notes on a truly weird week.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-10T03:33:12+00:00",
+        "snippet": "a quiet day",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "section": "newsletters",
+        "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-09-09T11:14:25+00:00",
+        "snippet": "A Look at Recurrent Depth, Hidden Chains of Thought, and Recent Research on Looping Transformer Blocks",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+        "section": "newsletters",
+        "title": "When will average people feel AI’s impact?",
+        "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-09T11:01:23+00:00",
+        "snippet": "We&#8217;re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this.",
+        "extra_link": null
+      }
+    ]
+  }
+}
