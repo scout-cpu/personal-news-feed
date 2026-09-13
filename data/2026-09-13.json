@@ -1,0 +1,409 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T06:20:49.208445+00:00",
+  "errors": [
+    "papers"
+  ],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49673098",
+        "section": "hackernews",
+        "title": "Nvidia is the central bank of AI",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "score": 445,
+        "score_label": "445 points",
+        "author": "tolugenius",
+        "published": "2026-09-12T15:08:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49673098"
+        }
+      },
+      {
+        "id": "hn-49678683",
+        "section": "hackernews",
+        "title": "Everyone should slow down AI development except for me",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "score": 342,
+        "score_label": "342 points",
+        "author": "xena",
+        "published": "2026-09-13T00:30:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49678683"
+        }
+      },
+      {
+        "id": "hn-49670032",
+        "section": "hackernews",
+        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "url": "https://eiln.github.io/posts/ane.html",
+        "score": 226,
+        "score_label": "226 points",
+        "author": "zdw",
+        "published": "2026-09-12T07:54:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49670032"
+        }
+      },
+      {
+        "id": "hn-49676820",
+        "section": "hackernews",
+        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "score": 198,
+        "score_label": "198 points",
+        "author": "theanonymousone",
+        "published": "2026-09-12T20:25:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49676820"
+        }
+      },
+      {
+        "id": "hn-49671159",
+        "section": "hackernews",
+        "title": "The worst spam emails: iLands AI agent hustle",
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+        "score": 111,
+        "score_label": "111 points",
+        "author": "ColinWright",
+        "published": "2026-09-12T11:13:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49671159"
+        }
+      },
+      {
+        "id": "hn-49672365",
+        "section": "hackernews",
+        "title": "A Mathematical Framework for Transformer Circuits (2021)",
+        "url": "https://transformer-circuits.pub/2021/framework/index.html",
+        "score": 95,
+        "score_label": "95 points",
+        "author": "Bluestein",
+        "published": "2026-09-12T13:56:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49672365"
+        }
+      },
+      {
+        "id": "hn-49676849",
+        "section": "hackernews",
+        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "score": 81,
+        "score_label": "81 points",
+        "author": "humanlion87",
+        "published": "2026-09-12T20:28:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49676849"
+        }
+      },
+      {
+        "id": "hn-49678969",
+        "section": "hackernews",
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "score": 72,
+        "score_label": "72 points",
+        "author": "jonifico",
+        "published": "2026-09-13T01:22:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49678969"
+        }
+      },
+      {
+        "id": "hn-49672281",
+        "section": "hackernews",
+        "title": "LLMs are real, AI is fake",
+        "url": "https://pluralistic.net/2026/09/12/god-in-the-box/",
+        "score": 69,
+        "score_label": "69 points",
+        "author": "danaris",
+        "published": "2026-09-12T13:47:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49672281"
+        }
+      },
+      {
+        "id": "hn-49674395",
+        "section": "hackernews",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "champagnepapi",
+        "published": "2026-09-12T16:56:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49674395"
+        }
+      },
+      {
+        "id": "hn-49675247",
+        "section": "hackernews",
+        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "sbulaev",
+        "published": "2026-09-12T18:07:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49675247"
+        }
+      },
+      {
+        "id": "hn-49678435",
+        "section": "hackernews",
+        "title": "AgentsDock: An IDE designed for agentic AI research",
+        "url": "https://agentsdock.net/",
+        "score": 34,
+        "score_label": "34 points",
+        "author": "ZihuiGeorgia",
+        "published": "2026-09-12T23:45:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49678435"
+        }
+      },
+      {
+        "id": "hn-49678783",
+        "section": "hackernews",
+        "title": "Align AI and Mathematics–To Something Else",
+        "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "nitrogenpuddle",
+        "published": "2026-09-13T00:47:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49678783"
+        }
+      },
+      {
+        "id": "hn-49671274",
+        "section": "hackernews",
+        "title": "Altman tells staff OpenAI is open to slowing AI development",
+        "url": "https://www.reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11/",
+        "score": 26,
+        "score_label": "26 points",
+        "author": "signa11",
+        "published": "2026-09-12T11:33:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49671274"
+        }
+      },
+      {
+        "id": "hn-49678878",
+        "section": "hackernews",
+        "title": "Apple wants to train AI on your private personal data",
+        "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+        "score": 24,
+        "score_label": "24 points",
+        "author": "croes",
+        "published": "2026-09-13T01:06:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49678878"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "score": 2051,
+        "score_label": "2,051 likes · 140,636 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-09-10T02:17:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM5-2B",
+        "section": "models",
+        "title": "openbmb/MiniCPM5-2B",
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "score": 1273,
+        "score_label": "1,273 likes · 102,334 downloads",
+        "author": "openbmb",
+        "published": "2026-09-06T11:12:19.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-mini",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-mini",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+        "score": 745,
+        "score_label": "745 likes · 3,581 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T05:08:43.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Edge0/Edge0-35B-A3B-preview",
+        "section": "models",
+        "title": "Edge0/Edge0-35B-A3B-preview",
+        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+        "score": 580,
+        "score_label": "580 likes · 1,596 downloads",
+        "author": "Edge0",
+        "published": "2026-09-08T13:56:18.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 14889,
+        "score_label": "14,889 likes · 7,726,687 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.5-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "score": 1144,
+        "score_label": "1,144 likes · 19,733 downloads",
+        "author": "XHToken",
+        "published": "2026-08-24T06:34:34.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-Pro",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-Pro",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "score": 619,
+        "score_label": "619 likes · 30,081 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T11:01:41.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 912,
+        "score_label": "912 likes · 729,683 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 3639,
+        "score_label": "3,639 likes · 1,601,007 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 3961,
+        "score_label": "3,961 likes · 11,529,203 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/forward-deployed-engineer-best-practices",
+        "section": "newsletters",
+        "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+        "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-12T15:01:19+00:00",
+        "snippet": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline &#8212; a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+        "section": "newsletters",
+        "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+        "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-12T05:56:05+00:00",
+        "snippet": "We agree with Sebastian: this should have been DeepSeek v5",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "section": "newsletters",
+        "title": "Open-Source AI & Open Models Reading List",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-11T12:36:25+00:00",
+        "snippet": "How to get up to speed on open models and their implications.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "section": "newsletters",
+        "title": "One resignation turned the embers of AI fear into a wildfire",
+        "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-10T15:28:52+00:00",
+        "snippet": "Some quick notes on a truly weird week.",
+        "extra_link": null
+      }
+    ]
+  }
+}
