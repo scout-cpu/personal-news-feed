@@ -1,0 +1,397 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T06:29:34.362261+00:00",
+  "errors": [
+    "papers"
+  ],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49685253",
+        "section": "hackernews",
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "score": 382,
+        "score_label": "382 points",
+        "author": "TheJCDenton",
+        "published": "2026-09-13T15:44:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49685253"
+        }
+      },
+      {
+        "id": "hn-49685991",
+        "section": "hackernews",
+        "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "score": 294,
+        "score_label": "294 points",
+        "author": "kolanos",
+        "published": "2026-09-13T16:52:33+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49685991"
+        }
+      },
+      {
+        "id": "hn-49684266",
+        "section": "hackernews",
+        "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "score": 97,
+        "score_label": "97 points",
+        "author": "delichon",
+        "published": "2026-09-13T14:15:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49684266"
+        }
+      },
+      {
+        "id": "hn-49690260",
+        "section": "hackernews",
+        "title": "Open-source AI and open models reading list",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "score": 82,
+        "score_label": "82 points",
+        "author": "simonpure",
+        "published": "2026-09-14T00:22:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49690260"
+        }
+      },
+      {
+        "id": "hn-49687869",
+        "section": "hackernews",
+        "title": "There Is No AI (It's Just People) with Jaron Lanier",
+        "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+        "score": 71,
+        "score_label": "71 points",
+        "author": "andsoitis",
+        "published": "2026-09-13T19:41:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49687869"
+        }
+      },
+      {
+        "id": "hn-49687334",
+        "section": "hackernews",
+        "title": "AI recursive self-improvement might not come so quickly after all",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "score": 70,
+        "score_label": "70 points",
+        "author": "dgellow",
+        "published": "2026-09-13T18:49:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49687334"
+        }
+      },
+      {
+        "id": "hn-49683834",
+        "section": "hackernews",
+        "title": "AI models don't kill people – people kill people",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "Bender",
+        "published": "2026-09-13T13:33:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49683834"
+        }
+      },
+      {
+        "id": "hn-49690529",
+        "section": "hackernews",
+        "title": "AI is not a normal technology",
+        "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "theahura",
+        "published": "2026-09-14T01:00:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49690529"
+        }
+      },
+      {
+        "id": "hn-49681276",
+        "section": "hackernews",
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "chrisjj",
+        "published": "2026-09-13T08:07:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49681276"
+        }
+      },
+      {
+        "id": "hn-49682465",
+        "section": "hackernews",
+        "title": "GCC AI Policy Announcement",
+        "url": "https://gcc.gnu.org/pipermail/gcc/2026-July/248628.html",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "signa11",
+        "published": "2026-09-13T10:50:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49682465"
+        }
+      },
+      {
+        "id": "hn-49688681",
+        "section": "hackernews",
+        "title": "AI Is Destroying the World",
+        "url": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
+        "score": 27,
+        "score_label": "27 points",
+        "author": "Gornak40",
+        "published": "2026-09-13T21:04:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49688681"
+        }
+      },
+      {
+        "id": "hn-49680858",
+        "section": "hackernews",
+        "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+        "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+        "score": 27,
+        "score_label": "27 points",
+        "author": "joozio",
+        "published": "2026-09-13T07:02:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49680858"
+        }
+      },
+      {
+        "id": "hn-49690139",
+        "section": "hackernews",
+        "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+        "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+        "score": 25,
+        "score_label": "25 points",
+        "author": "sbulaev",
+        "published": "2026-09-14T00:07:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49690139"
+        }
+      },
+      {
+        "id": "hn-49688761",
+        "section": "hackernews",
+        "title": "Ask HN: In The Matrix, the bad guys are the 'agents'. Coincidence? Clairvoyance?",
+        "url": "https://news.ycombinator.com/item?id=49688761",
+        "score": 24,
+        "score_label": "24 points",
+        "author": "spottedmarley",
+        "published": "2026-09-13T21:13:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49688761"
+        }
+      },
+      {
+        "id": "hn-49687150",
+        "section": "hackernews",
+        "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
+        "url": "https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "YeGoblynQueenne",
+        "published": "2026-09-13T18:32:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49687150"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "score": 2273,
+        "score_label": "2,273 likes · 244,457 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-09-10T02:17:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Edge0/Edge0-35B-A3B-preview",
+        "section": "models",
+        "title": "Edge0/Edge0-35B-A3B-preview",
+        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+        "score": 1250,
+        "score_label": "1,250 likes · 3,552 downloads",
+        "author": "Edge0",
+        "published": "2026-09-08T13:56:18.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM5-2B",
+        "section": "models",
+        "title": "openbmb/MiniCPM5-2B",
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "score": 1357,
+        "score_label": "1,357 likes · 150,110 downloads",
+        "author": "openbmb",
+        "published": "2026-09-06T11:12:19.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-mini",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-mini",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+        "score": 768,
+        "score_label": "768 likes · 3,970 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T05:08:43.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 15043,
+        "score_label": "15,043 likes · 7,768,964 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 981,
+        "score_label": "981 likes · 769,557 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-nex-agi/Nex-N2.5-Pro",
+        "section": "models",
+        "title": "nex-agi/Nex-N2.5-Pro",
+        "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+        "score": 626,
+        "score_label": "626 likes · 30,289 downloads",
+        "author": "nex-agi",
+        "published": "2026-09-08T11:01:41.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.5-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.5-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+        "score": 1158,
+        "score_label": "1,158 likes · 21,336 downloads",
+        "author": "XHToken",
+        "published": "2026-08-24T06:34:34.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-m-a-p/YuE2-3B",
+        "section": "models",
+        "title": "m-a-p/YuE2-3B",
+        "url": "https://huggingface.co/m-a-p/YuE2-3B",
+        "score": 427,
+        "score_label": "427 likes · 3,707 downloads",
+        "author": "m-a-p",
+        "published": "2026-09-09T18:30:33.000Z",
+        "snippet": "text-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 3776,
+        "score_label": "3,776 likes · 1,548,442 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/forward-deployed-engineer-best-practices",
+        "section": "newsletters",
+        "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+        "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-12T15:01:19+00:00",
+        "snippet": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline &#8212; a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+        "section": "newsletters",
+        "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+        "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-12T05:56:05+00:00",
+        "snippet": "We agree with Sebastian: this should have been DeepSeek v5",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "section": "newsletters",
+        "title": "Open-Source AI & Open Models Reading List",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-11T12:36:25+00:00",
+        "snippet": "How to get up to speed on open models and their implications.",
+        "extra_link": null
+      }
+    ]
+  }
+}
