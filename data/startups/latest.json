@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-14T06:30:38.339582+00:00",
+  "fetched_at": "2026-09-15T06:14:12.970635+00:00",
   "items": [
+    {
+      "id": "c51a346fd4f979d6",
+      "company": "Temporal",
+      "company_url": "https://startups.gallery/companies/temporal",
+      "amount": "$550M",
+      "round": "Series E",
+      "date": "2026-09-14",
+      "investor": "Lightspeed",
+      "investor_url": "https://startups.gallery/investors/lightspeed-venture-partners",
+      "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+      "logo_url": "https://framerusercontent.com/images/wm4ZpUEYaYxtCHDkWRvEU8sY.webp?width=200&height=200",
+      "logo": "static/startups/images/acc2e5c47e20402b6eba.webp",
+      "description": "Temporal: Build invincible apps. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/32c050139361fa3f51a1.jpg",
+      "image_url": "https://framerusercontent.com/images/2eEEdo6jjtZPHxxesTyMWG9N91w.jpeg?width=1500&height=500",
+      "image_kind": "company artwork"
+    },
     {
       "id": "aca36ba417c397ff",
       "company": "Positron",
@@ -817,23 +834,6 @@
       "description": "Polar Browser: The AI browser that does work for you. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/b2720e401f1a29b79f27.jpg"
-    },
-    {
-      "id": "b7878d7019828b97",
-      "company": "Onyx Security",
-      "company_url": "https://startups.gallery/companies/onyx-security",
-      "amount": "$113M",
-      "round": "Series B",
-      "date": "2026-07-29",
-      "investor": "Bessemer Venture Partners",
-      "investor_url": "https://startups.gallery/investors/bessemer-venture-partners",
-      "source_url": "https://www.onyx.security/blog/onyx-113m-series-b-keeping-humans-in-control-as-ai-becomes-smarter",
-      "logo_url": "https://framerusercontent.com/images/SpkJEvc7OyquOKkmbik9Yk5B11Y.jpeg?width=200&height=200",
-      "image": "static/startups/images/caa185d25945223cb442.png",
-      "image_url": "https://framerusercontent.com/images/fN6uLtQKePdSr5gEqeRd0YW79Y.png?width=1200&height=630",
-      "description": "Onyx Security: The secure control plane for AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/2276a193cdc759b3351f.jpg"
     }
   ]
 }
