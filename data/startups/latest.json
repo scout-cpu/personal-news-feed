@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-15T06:14:12.970635+00:00",
+  "fetched_at": "2026-09-16T06:12:17.701360+00:00",
   "items": [
+    {
+      "id": "060e110438db3d45",
+      "company": "Factory",
+      "company_url": "https://startups.gallery/companies/factory",
+      "amount": "$200M",
+      "round": "Venture",
+      "date": "2026-09-15",
+      "investor": "Blackstone",
+      "investor_url": "https://startups.gallery/investors/blackstone",
+      "source_url": "https://x.com/matanSF/status/2099906259734654984",
+      "logo_url": "https://framerusercontent.com/images/rdPBjYaJLquSaUvwhySUQ4OYbH4.webp?width=200&height=200",
+      "logo": "static/startups/images/6a8b7dffcb8e7481498e.webp",
+      "description": "Factory: Agent-native software development. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/996345d31b297f0f5cb7.png",
+      "image_url": "https://framerusercontent.com/images/0I858rc2zOo3DlwqVOau0b0377w.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "9c719c8f4fbed68d",
+      "company": "Profound",
+      "company_url": "https://startups.gallery/companies/profound",
+      "amount": "$180M",
+      "round": "Series D",
+      "date": "2026-09-15",
+      "investor": "Sequoia",
+      "investor_url": "https://startups.gallery/investors/sequoia-capital",
+      "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "logo_url": "https://framerusercontent.com/images/hB6uJSNa8vvXuWs639K6vBaY.webp?width=400&height=400",
+      "logo": "static/startups/images/1802d3a542a3afad1131.webp",
+      "description": "Profound: Be more visible in AI Search. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/f7d1cd8e9cef33549894.webp",
+      "image_url": "https://framerusercontent.com/images/TjgIwCQrG4aVkyiPfhY2PXH9pE.webp?width=2112&height=1188",
+      "image_kind": "company artwork"
+    },
     {
       "id": "c51a346fd4f979d6",
       "company": "Temporal",
@@ -13,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/lightspeed-venture-partners",
       "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
       "logo_url": "https://framerusercontent.com/images/wm4ZpUEYaYxtCHDkWRvEU8sY.webp?width=200&height=200",
-      "logo": "static/startups/images/acc2e5c47e20402b6eba.webp",
-      "description": "Temporal: Build invincible apps. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/32c050139361fa3f51a1.jpg",
       "image_url": "https://framerusercontent.com/images/2eEEdo6jjtZPHxxesTyMWG9N91w.jpeg?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Temporal: Build invincible apps. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/acc2e5c47e20402b6eba.webp"
     },
     {
       "id": "aca36ba417c397ff",
@@ -800,40 +834,6 @@
       "description": "Function Health: 100+ lab tests and insights from top doctors. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/f0b7b456bcf921b8c752.png"
-    },
-    {
-      "id": "31f25311657d1c95",
-      "company": "Simile",
-      "company_url": "https://startups.gallery/companies/simile",
-      "amount": "$200M",
-      "round": "Series B",
-      "date": "2026-07-30",
-      "investor": "Greenoaks",
-      "investor_url": "https://startups.gallery/investors/greenoaks",
-      "source_url": "https://www.finsmes.com/2026/07/simile-raises-200m-in-series-b-funding-at-2-billion-valuation.html",
-      "logo_url": "https://framerusercontent.com/images/pq3FZ2di6ZTplrNNZwPcxnuoY.jpeg?width=200&height=200",
-      "image": "static/startups/images/646f407c8849c142f197.jpg",
-      "image_url": "https://framerusercontent.com/images/rOMVJTFCnLL8K2ezpxBSCb5IlWg.jpeg?width=1200&height=627",
-      "description": "Simile: A multiverse through AI simulation. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/f23cf0c8f8a53567c0cd.jpg"
-    },
-    {
-      "id": "abbcaea5f138ee5c",
-      "company": "Polar Browser",
-      "company_url": "https://startups.gallery/companies/polar-browser",
-      "amount": "$5.7M",
-      "round": "Seed",
-      "date": "2026-07-29",
-      "investor": "Madrona",
-      "investor_url": "https://startups.gallery/investors/madrona",
-      "source_url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "logo_url": "https://framerusercontent.com/images/1wLpasTa9Am43Fpjko4QwsYuLY.jpeg?width=200&height=200",
-      "image": "static/startups/images/31b749dadafe6e36e872.jpg",
-      "image_url": "https://framerusercontent.com/images/w9SWo4IITeDDtCaCec1olNRBY.jpeg?width=1500&height=500",
-      "description": "Polar Browser: The AI browser that does work for you. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/b2720e401f1a29b79f27.jpg"
     }
   ]
 }
