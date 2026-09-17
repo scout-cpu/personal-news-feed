@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-16T06:12:17.701360+00:00",
+  "fetched_at": "2026-09-17T06:14:06.990547+00:00",
   "items": [
+    {
+      "id": "c1d8ac7f2853b8b2",
+      "company": "Rune",
+      "company_url": "https://startups.gallery/companies/rune",
+      "amount": "$40M",
+      "round": "Series A",
+      "date": "2026-09-16",
+      "investor": "Spark Capital",
+      "investor_url": "https://startups.gallery/investors/spark-capital",
+      "source_url": "https://www.finsmes.com/2026/09/rune-raises-40m-in-series-a-funding.html",
+      "logo_url": "https://framerusercontent.com/images/xosHFJvzwBG80FG0pTPxiaJDE0.png?width=200&height=200",
+      "logo": "static/startups/images/b5727b8fbd47109d965d.png",
+      "description": "Rune: DC data center for solar and wind. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/cd92ae3abe16fc59ea22.webp",
+      "image_url": "https://framerusercontent.com/images/J4lgXU1RHlXlUMKsVNkvbO73r6A.webp?width=1200&height=631",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "cdb5bfab67a9c30e",
+      "company": "Artificial Intelligence Underwriting Company",
+      "company_url": "https://startups.gallery/companies/aiuc",
+      "amount": "$40M",
+      "round": "Series A",
+      "date": "2026-09-15",
+      "investor": "Ribbit Capital",
+      "investor_url": "https://startups.gallery/investors/ribbit-capital",
+      "source_url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/?utm_medium=organic_social&utm_source=TWITTER",
+      "logo_url": "https://framerusercontent.com/images/sq5BGZ9FKho4nVFMRisDDAc5nw.webp?width=200&height=200",
+      "logo": "static/startups/images/102c2fda56a72a338ba1.webp",
+      "description": "Artificial Intelligence Underwriting Company: The world's first standard for AI agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/c60cebb98ee459347fa5.png",
+      "image_url": "https://framerusercontent.com/images/69XwRYzwfDVBy3LCRvX3wJkhL4.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "060e110438db3d45",
       "company": "Factory",
@@ -13,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/blackstone",
       "source_url": "https://x.com/matanSF/status/2099906259734654984",
       "logo_url": "https://framerusercontent.com/images/rdPBjYaJLquSaUvwhySUQ4OYbH4.webp?width=200&height=200",
-      "logo": "static/startups/images/6a8b7dffcb8e7481498e.webp",
-      "description": "Factory: Agent-native software development. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/996345d31b297f0f5cb7.png",
       "image_url": "https://framerusercontent.com/images/0I858rc2zOo3DlwqVOau0b0377w.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Factory: Agent-native software development. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/6a8b7dffcb8e7481498e.webp"
     },
     {
       "id": "9c719c8f4fbed68d",
@@ -30,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/sequoia-capital",
       "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
       "logo_url": "https://framerusercontent.com/images/hB6uJSNa8vvXuWs639K6vBaY.webp?width=400&height=400",
-      "logo": "static/startups/images/1802d3a542a3afad1131.webp",
-      "description": "Profound: Be more visible in AI Search. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/f7d1cd8e9cef33549894.webp",
       "image_url": "https://framerusercontent.com/images/TjgIwCQrG4aVkyiPfhY2PXH9pE.webp?width=2112&height=1188",
-      "image_kind": "company artwork"
+      "description": "Profound: Be more visible in AI Search. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/1802d3a542a3afad1131.webp"
     },
     {
       "id": "c51a346fd4f979d6",
@@ -800,40 +834,6 @@
       "description": "Base: Building America's next-gen power company. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/70a73ff422b5d6e88f79.webp"
-    },
-    {
-      "id": "a74d7af794533d6d",
-      "company": "Valar Atomics",
-      "company_url": "https://startups.gallery/companies/valar-atomics",
-      "amount": "$1B",
-      "round": "Series B",
-      "date": "2026-08-03",
-      "investor": "Sequoia",
-      "investor_url": "https://startups.gallery/investors/sequoia-capital",
-      "source_url": "https://www.linkedin.com/posts/valar-atomics_announcing-valar-atomics-1b-series-b-led-activity-7490065510290616323-_k_Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc",
-      "logo_url": "https://framerusercontent.com/images/TbmPFZ6AS3h0IlcZEKhZIIPemQ.webp?width=339&height=339",
-      "image": "static/startups/images/71008f5645b6235ff2b8.png",
-      "image_url": "https://framerusercontent.com/images/CMl7P8lzsyaJPTt09KtSjHQBP0s.png?width=1200&height=630",
-      "description": "Valar Atomics: The new atomic age. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/888865458457f653e6c2.webp"
-    },
-    {
-      "id": "2f7629070b4c30b9",
-      "company": "Function Health",
-      "company_url": "https://startups.gallery/companies/function-health",
-      "amount": "$450M",
-      "round": "Series C",
-      "date": "2026-07-31",
-      "investor": "General Catalyst",
-      "investor_url": "https://startups.gallery/investors/general-catalyst",
-      "source_url": "https://www.fiercehealthcare.com/health-tech/function-health-lands-450m-growth-financing-scale-tech-enabled-preventive-health",
-      "logo_url": "https://framerusercontent.com/images/uCJGTFjtwzNXRLFJrDwKLJbaIQ.png?width=400&height=400",
-      "image": "static/startups/images/c1f60c8d10bf77f2e56c.jpg",
-      "image_url": "https://framerusercontent.com/images/q1L1ANcwNviZpkM1axQuqtNZl0.jpeg?width=1500&height=500",
-      "description": "Function Health: 100+ lab tests and insights from top doctors. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/f0b7b456bcf921b8c752.png"
     }
   ]
 }
