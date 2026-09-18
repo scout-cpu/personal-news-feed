@@ -1,0 +1,594 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T06:03:50.989610+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49746163",
+        "section": "hackernews",
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "url": "https://bend-lang.com/",
+        "score": 394,
+        "score_label": "394 points",
+        "author": "nicolas-siplis",
+        "published": "2026-09-17T20:36:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49746163"
+        }
+      },
+      {
+        "id": "hn-49737985",
+        "section": "hackernews",
+        "title": "AI safety is mostly a sex cult",
+        "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+        "score": 287,
+        "score_label": "287 points",
+        "author": "Tomte",
+        "published": "2026-09-17T08:36:37+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49737985"
+        }
+      },
+      {
+        "id": "hn-49740834",
+        "section": "hackernews",
+        "title": "I Don't Like LLMs",
+        "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+        "score": 210,
+        "score_label": "210 points",
+        "author": "TangerineDream",
+        "published": "2026-09-17T13:57:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49740834"
+        }
+      },
+      {
+        "id": "hn-49740105",
+        "section": "hackernews",
+        "title": "Show HN: Share your AI Setup, Learn from others",
+        "url": "https://mysetup.ai/",
+        "score": 206,
+        "score_label": "206 points",
+        "author": "steveybrown",
+        "published": "2026-09-17T13:01:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49740105"
+        }
+      },
+      {
+        "id": "hn-49749656",
+        "section": "hackernews",
+        "title": "Hacking OpenAI",
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "score": 203,
+        "score_label": "203 points",
+        "author": "Handy-Man",
+        "published": "2026-09-18T02:47:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49749656"
+        }
+      },
+      {
+        "id": "hn-49746654",
+        "section": "hackernews",
+        "title": "Sex, AI, and the Apocalypse",
+        "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+        "score": 179,
+        "score_label": "179 points",
+        "author": "Anon84",
+        "published": "2026-09-17T21:15:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49746654"
+        }
+      },
+      {
+        "id": "hn-49743483",
+        "section": "hackernews",
+        "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+        "url": "https://arxiv.org/abs/2609.18842",
+        "score": 133,
+        "score_label": "133 points",
+        "author": "Betelbuddy",
+        "published": "2026-09-17T16:55:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49743483"
+        }
+      },
+      {
+        "id": "hn-49742437",
+        "section": "hackernews",
+        "title": "LLM Classification Is Feature Engineering",
+        "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+        "score": 97,
+        "score_label": "97 points",
+        "author": "minsufficient",
+        "published": "2026-09-17T15:40:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49742437"
+        }
+      },
+      {
+        "id": "hn-49747070",
+        "section": "hackernews",
+        "title": "How to Write with an LLM",
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+        "score": 88,
+        "score_label": "88 points",
+        "author": "joeriddles",
+        "published": "2026-09-17T21:48:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49747070"
+        }
+      },
+      {
+        "id": "hn-49740330",
+        "section": "hackernews",
+        "title": "I had Gemini train its own replacement for $9",
+        "url": "https://www.petervijeh.com/projects/reddit-ner",
+        "score": 87,
+        "score_label": "87 points",
+        "author": "p-s-v",
+        "published": "2026-09-17T13:17:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49740330"
+        }
+      },
+      {
+        "id": "hn-49743049",
+        "section": "hackernews",
+        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+        "url": "https://news.ycombinator.com/item?id=49743049",
+        "score": 55,
+        "score_label": "55 points",
+        "author": "cat-whisperer",
+        "published": "2026-09-17T16:22:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49743049"
+        }
+      },
+      {
+        "id": "hn-49745932",
+        "section": "hackernews",
+        "title": "Microsoft, OpenAI lose fight to hide internal docs admitting scraping is theft",
+        "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "pseudolus",
+        "published": "2026-09-17T20:16:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49745932"
+        }
+      },
+      {
+        "id": "hn-49742233",
+        "section": "hackernews",
+        "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+        "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+        "score": 40,
+        "score_label": "40 points",
+        "author": "ghernando",
+        "published": "2026-09-17T15:26:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49742233"
+        }
+      },
+      {
+        "id": "hn-49743382",
+        "section": "hackernews",
+        "title": "Show HN: Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+        "url": "https://www.aclif.ai/",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "chris_marino",
+        "published": "2026-09-17T16:48:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49743382"
+        }
+      },
+      {
+        "id": "hn-49743459",
+        "section": "hackernews",
+        "title": "Show HN: Craigslist for agent skills, curated by a human",
+        "url": "https://skillbay.sh/",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "skeptrune",
+        "published": "2026-09-17T16:53:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49743459"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.18708",
+        "section": "papers",
+        "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+        "url": "https://huggingface.co/papers/2609.18708",
+        "score": 61,
+        "score_label": "61 upvotes",
+        "author": "Yizhuo Li, Jianhao Yan, Yun Luo et al.",
+        "published": "2026-09-15T20:00:00.000Z",
+        "snippet": "In reinforcement learning for large language models, Proximal Policy Optimization (PPO) commonly uses a critic to estimate state values and reduce the variance of policy updates. However, we uncover a systematic failure…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.18708"
+        }
+      },
+      {
+        "id": "paper-2609.17708",
+        "section": "papers",
+        "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+        "url": "https://huggingface.co/papers/2609.17708",
+        "score": 50,
+        "score_label": "50 upvotes",
+        "author": "Caiqi Zhang, Xiaochen Zhu, Chengzu Li et al.",
+        "published": "2026-09-14T20:00:00.000Z",
+        "snippet": "Reliable confidence estimation is increasingly central to the trustworthy deployment of language models: a calibrated estimate of the probability that an output is correct decides what to ship, what to escalate, and wha…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.17708"
+        }
+      },
+      {
+        "id": "paper-2609.18094",
+        "section": "papers",
+        "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+        "url": "https://huggingface.co/papers/2609.18094",
+        "score": 39,
+        "score_label": "39 upvotes",
+        "author": "Yifan Zhang, Yunheng Zou, Shaokun Zhang et al.",
+        "published": "2026-09-15T20:00:00.000Z",
+        "snippet": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean more duplicated se…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.18094"
+        }
+      },
+      {
+        "id": "paper-2609.18487",
+        "section": "papers",
+        "title": "ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models",
+        "url": "https://huggingface.co/papers/2609.18487",
+        "score": 36,
+        "score_label": "36 upvotes",
+        "author": "Shijie Lian, Bin Yu, Zhaolong Shen et al.",
+        "published": "2026-09-15T20:00:00.000Z",
+        "snippet": "Action tokenizers play a central role in autoregressive vision-language-action (VLA) models, determining both the targets for policy training and the executable commands recovered from predicted tokens. Their fidelity i…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.18487"
+        }
+      },
+      {
+        "id": "paper-2609.15810",
+        "section": "papers",
+        "title": "VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention",
+        "url": "https://huggingface.co/papers/2609.15810",
+        "score": 35,
+        "score_label": "35 upvotes",
+        "author": "Xingyang Li, Dongyun Zou, Shining Zhang et al.",
+        "published": "2026-09-13T20:00:00.000Z",
+        "snippet": "Diffusion Transformers deliver state-of-the-art video generation, but their long spatiotemporal sequences make attention the dominant deployment cost, and a deployable low-bit kernel must be accurate and fast. Accuracy…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.15810"
+        }
+      },
+      {
+        "id": "paper-2609.17632",
+        "section": "papers",
+        "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+        "url": "https://huggingface.co/papers/2609.17632",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Sehee Kim, Yumin Choi, Minki Kang et al.",
+        "published": "2026-09-14T20:00:00.000Z",
+        "snippet": "Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before deployment. This li…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.17632"
+        }
+      },
+      {
+        "id": "paper-2609.20822",
+        "section": "papers",
+        "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+        "url": "https://arxiv.org/abs/2609.20822",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Bingxin Xu, Yuzhang Shang, Zhen Dong et al.",
+        "published": "2026-09-17T17:59:58Z",
+        "snippet": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Wheth…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.20821",
+        "section": "papers",
+        "title": "Embedding Models Measure in Peculiar Ways",
+        "url": "https://arxiv.org/abs/2609.20821",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Juri Opitz, Andrianos Michail",
+        "published": "2026-09-17T17:59:54Z",
+        "snippet": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.20820",
+        "section": "papers",
+        "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+        "url": "https://arxiv.org/abs/2609.20820",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Nitish Dashora, Douglas Chen, Idan Shenfeld et al.",
+        "published": "2026-09-17T17:59:53Z",
+        "snippet": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many appro…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.20817",
+        "section": "papers",
+        "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+        "url": "https://arxiv.org/abs/2609.20817",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Kevin Qu, Tao Sun, Massimiliano Viola et al.",
+        "published": "2026-09-17T17:59:40Z",
+        "snippet": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.20816",
+        "section": "papers",
+        "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+        "url": "https://arxiv.org/abs/2609.20816",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Ji Xie, Dewei Zhou, Xinyu Huang et al.",
+        "published": "2026-09-17T17:59:30Z",
+        "snippet": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and coloriza…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.20815",
+        "section": "papers",
+        "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+        "url": "https://arxiv.org/abs/2609.20815",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zahra Ghaffari, Massih Bahar, Mojgan Forootan et al.",
+        "published": "2026-09-17T17:59:28Z",
+        "snippet": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essen…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.20814",
+        "section": "papers",
+        "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+        "url": "https://arxiv.org/abs/2609.20814",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Pochinapeddi Sai Bhargav, Nithin Somasekharan, Rohit Sunil Kanchi et al.",
+        "published": "2026-09-17T17:59:24Z",
+        "snippet": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. W…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.20812",
+        "section": "papers",
+        "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+        "url": "https://arxiv.org/abs/2609.20812",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Nolan Smyth, Yorguin-Jose Mantilla-Ramos, Pascal Jr Tikeng Notsawo et al.",
+        "published": "2026-09-17T17:59:04Z",
+        "snippet": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \\…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-Edge0/Edge0-35B-A3B-preview",
+        "section": "models",
+        "title": "Edge0/Edge0-35B-A3B-preview",
+        "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+        "score": 3321,
+        "score_label": "3,321 likes · 37,131 downloads",
+        "author": "Edge0",
+        "published": "2026-09-08T13:56:18.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "score": 3040,
+        "score_label": "3,040 likes · 390,657 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-09-10T02:17:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 15560,
+        "score_label": "15,560 likes · 7,456,257 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-m-a-p/YuE2-3B",
+        "section": "models",
+        "title": "m-a-p/YuE2-3B",
+        "url": "https://huggingface.co/m-a-p/YuE2-3B",
+        "score": 739,
+        "score_label": "739 likes · 11,626 downloads",
+        "author": "m-a-p",
+        "published": "2026-09-09T18:30:33.000Z",
+        "snippet": "text-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-TokenRhythm/NeoHorse-1-4B",
+        "section": "models",
+        "title": "TokenRhythm/NeoHorse-1-4B",
+        "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
+        "score": 2350,
+        "score_label": "2,350 likes · 19,789 downloads",
+        "author": "TokenRhythm",
+        "published": "2026-09-05T08:21:53.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 1272,
+        "score_label": "1,272 likes · 1,027,602 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 4252,
+        "score_label": "4,252 likes · 1,602,865 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-ukisai/Swift-Qwen3.8-27b",
+        "section": "models",
+        "title": "ukisai/Swift-Qwen3.8-27b",
+        "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+        "score": 405,
+        "score_label": "405 likes · 3,221 downloads",
+        "author": "ukisai",
+        "published": "2026-09-08T13:35:21.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM5-2B",
+        "section": "models",
+        "title": "openbmb/MiniCPM5-2B",
+        "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+        "score": 1544,
+        "score_label": "1,544 likes · 329,713 downloads",
+        "author": "openbmb",
+        "published": "2026-09-06T11:12:19.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "section": "models",
+        "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "score": 367,
+        "score_label": "367 likes · 0 downloads",
+        "author": "prism-ml",
+        "published": "2026-09-16T23:40:56.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+        "section": "newsletters",
+        "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+        "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-17T07:28:25+00:00",
+        "snippet": "A dash of cold water keeps the foomers away.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/aiuc",
+        "section": "newsletters",
+        "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+        "url": "https://www.latent.space/p/aiuc",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-16T18:07:45+00:00",
+        "snippet": "We sit down with AIUC&#8217;s CEO on their Series A!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+        "section": "newsletters",
+        "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+        "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-16T11:09:53+00:00",
+        "snippet": "congrats to TypeSafe!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/good-start-labs",
+        "section": "newsletters",
+        "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+        "url": "https://www.latent.space/p/good-start-labs",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-15T20:11:54+00:00",
+        "snippet": "Good Start Labs trained an AI on a railroad game &#8212; and one version improved at financial research. The difference was the training design.",
+        "extra_link": null
+      }
+    ]
+  }
+}
