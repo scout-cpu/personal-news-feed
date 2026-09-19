@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-18T06:03:55.616177+00:00",
+  "fetched_at": "2026-09-19T06:03:06.426355+00:00",
   "items": [
     {
       "id": "a4d86bc54ecc69e6",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/valor-equity-partners",
       "source_url": "https://lnkd.in/p/d-yMZh55",
       "logo_url": "https://framerusercontent.com/images/eds4M1Qe5v4epBcjjdPmjrneccM.jpg?width=400&height=400",
-      "logo": "static/startups/images/f77f5917b3187c19ba1c.jpg",
-      "description": "Watney: Robots for data centers. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/3766ac016a9ee0490936.jpg",
       "image_url": "https://framerusercontent.com/images/0jPPXwGNbjoKwK9EmDLVaJvZsoQ.jpeg?width=1280&height=720",
-      "image_kind": "company artwork"
+      "description": "Watney: Robots for data centers. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/f77f5917b3187c19ba1c.jpg"
     },
     {
       "id": "0af1bd34d1b47c72",
@@ -30,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/crv",
       "source_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/16/raindrop-crv-lightspeed-datadog",
       "logo_url": "https://framerusercontent.com/images/64b99iOnhQcBOO21aGRgSgHOPos.webp?width=400&height=400",
-      "logo": "static/startups/images/a302a4d7c4da43c9b941.webp",
-      "description": "Raindrop: Monitor LLM agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/8ec5f771e3679d92c741.png",
       "image_url": "https://framerusercontent.com/images/eSbkNGdM0rj8YgwoH2f0gOflOk.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Raindrop: Monitor LLM agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/a302a4d7c4da43c9b941.webp"
     },
     {
       "id": "4b619fbe63873eab",
@@ -47,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/insight-partners",
       "source_url": "https://x.com/seanmcccarthy/status/2100220712317329826",
       "logo_url": "https://framerusercontent.com/images/bmsgH35oCjAhHPrfbFpQT5nt4O8.png?width=200&height=200",
-      "logo": "static/startups/images/1ef1c7e68fecd53dc33e.png",
-      "description": "BackOps: The AI resolution layer for supply chain and operations. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/3ae27e48389b631a7432.png",
       "image_url": "https://framerusercontent.com/images/TWKEQaYxy0voFIeikQUqCfnAc.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "BackOps: The AI resolution layer for supply chain and operations. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/1ef1c7e68fecd53dc33e.png"
     },
     {
       "id": "c1d8ac7f2853b8b2",
@@ -71,6 +71,23 @@
       "logo": "static/startups/images/b5727b8fbd47109d965d.png"
     },
     {
+      "id": "4be024ec47b174c7",
+      "company": "TypeSafe AI",
+      "company_url": "https://startups.gallery/companies/typesafe-ai",
+      "amount": "$40M",
+      "round": "Venture",
+      "date": "2026-09-15",
+      "investor": "DCVC",
+      "investor_url": "https://startups.gallery/investors/dcvc",
+      "source_url": "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI",
+      "logo_url": "https://framerusercontent.com/images/i3zZIcRmqD02bWIONGr1yMhuBUQ.png?width=400&height=400",
+      "logo": "static/startups/images/aab0281bc0fc56a2ac60.png",
+      "description": "TypeSafe AI: An AI lab building intelligence beyond chat. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/4aebb707f30b2e1cf473.png",
+      "image_url": "https://framerusercontent.com/images/f8kNiSC2dyAiH9gVNd9Sy1tQRA.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
       "id": "439bc31fe86b9568",
       "company": "Zero",
       "company_url": "https://startups.gallery/companies/zero",
@@ -81,11 +98,11 @@
       "investor_url": "https://startups.gallery/investors/primary",
       "source_url": "https://zero.inc/blog/zero-raises-seed-round",
       "logo_url": "https://framerusercontent.com/images/Ru4LH7cjKAukKlMBg54tupAwb0.jpeg?width=400&height=400",
-      "logo": "static/startups/images/1de4d7159c92a956eb59.jpg",
-      "description": "Zero: AI native CRM and GTM platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/e549722f2dd4d2b98b0a.png",
       "image_url": "https://framerusercontent.com/images/kp5MLG7qInTWwKa0gF0Ms65U0LA.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Zero: AI native CRM and GTM platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/1de4d7159c92a956eb59.jpg"
     },
     {
       "id": "cdb5bfab67a9c30e",
@@ -817,23 +834,6 @@
       "description": "Osmo Studio: AI-native motion graphics editor & film studio. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/fcc83009dded307bfc4d.png"
-    },
-    {
-      "id": "053ff2b8517e2ae4",
-      "company": "Decade",
-      "company_url": "https://startups.gallery/companies/decade",
-      "amount": "$85M",
-      "round": "Seed",
-      "date": "2026-08-04",
-      "investor": "Greenoaks",
-      "investor_url": "https://startups.gallery/investors/greenoaks",
-      "source_url": "https://www.businesswire.com/news/home/20260804082552/en/Decade-Raises-%2485M-in-Latin-Americas-Largest-Seed-Round-to-Create-a-New-Generation-of-Millionaires-with-AI",
-      "logo_url": "https://framerusercontent.com/images/SirxR2aCzBHqNsihLUQYN9yTM.png?width=200&height=200",
-      "image": "static/startups/images/e2e62a5fb3afe2a57378.png",
-      "image_url": "https://framerusercontent.com/images/fUVCB7DsFO5mqEKiS85YWd6JX5Y.png?width=1200&height=630",
-      "description": "Decade: Your money, with intelligence. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/c8e8a61b82f25be3a2bc.png"
     }
   ]
 }
