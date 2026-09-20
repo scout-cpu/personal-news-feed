@@ -1,0 +1,420 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T06:28:15.933429+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49764791",
+        "section": "hackernews",
+        "title": "AI-generated posters don’t have to be horrible",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "score": 1507,
+        "score_label": "1507 points",
+        "author": "ereiamjh",
+        "published": "2026-09-19T09:20:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49764791"
+        }
+      },
+      {
+        "id": "hn-49763987",
+        "section": "hackernews",
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "score": 378,
+        "score_label": "378 points",
+        "author": "nsoonhui",
+        "published": "2026-09-19T06:41:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49763987"
+        }
+      },
+      {
+        "id": "hn-49767937",
+        "section": "hackernews",
+        "title": "I think you should almost never use AI to write",
+        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+        "score": 280,
+        "score_label": "280 points",
+        "author": "erwald",
+        "published": "2026-09-19T16:35:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49767937"
+        }
+      },
+      {
+        "id": "hn-49768921",
+        "section": "hackernews",
+        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "score": 156,
+        "score_label": "156 points",
+        "author": "jonbaer",
+        "published": "2026-09-19T18:21:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49768921"
+        }
+      },
+      {
+        "id": "hn-49770847",
+        "section": "hackernews",
+        "title": "Can you tell which images are AI-generated?",
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+        "score": 75,
+        "score_label": "75 points",
+        "author": "hckr78",
+        "published": "2026-09-19T23:02:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49770847"
+        }
+      },
+      {
+        "id": "hn-49766911",
+        "section": "hackernews",
+        "title": "AI Safety Is Mostly a Sex Cult",
+        "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+        "score": 70,
+        "score_label": "70 points",
+        "author": "olalonde",
+        "published": "2026-09-19T14:36:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49766911"
+        }
+      },
+      {
+        "id": "hn-49769050",
+        "section": "hackernews",
+        "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+        "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+        "score": 50,
+        "score_label": "50 points",
+        "author": "embedding-shape",
+        "published": "2026-09-19T18:36:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49769050"
+        }
+      },
+      {
+        "id": "hn-49769668",
+        "section": "hackernews",
+        "title": "OpenAI and Anthropic oversold AI security breaches",
+        "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "hei-lima",
+        "published": "2026-09-19T19:59:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49769668"
+        }
+      },
+      {
+        "id": "hn-49768826",
+        "section": "hackernews",
+        "title": "Ask HN: How do you interview devs in a post-AI world?",
+        "url": "https://news.ycombinator.com/item?id=49768826",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "mdwelsh",
+        "published": "2026-09-19T18:10:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49768826"
+        }
+      },
+      {
+        "id": "hn-49764057",
+        "section": "hackernews",
+        "title": "How come AI-related posts get so many points on HN?",
+        "url": "https://news.ycombinator.com/item?id=49764057",
+        "score": 26,
+        "score_label": "26 points",
+        "author": "Muhammad523",
+        "published": "2026-09-19T06:57:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49764057"
+        }
+      },
+      {
+        "id": "hn-49770807",
+        "section": "hackernews",
+        "title": "AI in schools – The choice we keep making",
+        "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+        "score": 25,
+        "score_label": "25 points",
+        "author": "MetallicCloud",
+        "published": "2026-09-19T22:55:39+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49770807"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.17488",
+        "section": "papers",
+        "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+        "url": "https://huggingface.co/papers/2609.17488",
+        "score": 323,
+        "score_label": "323 upvotes",
+        "author": "Xingxuan Zhang, Gang Ren, Hao Yuan et al.",
+        "published": "2026-09-14T20:00:00.000Z",
+        "snippet": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.17488"
+        }
+      },
+      {
+        "id": "paper-2609.18323",
+        "section": "papers",
+        "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+        "url": "https://huggingface.co/papers/2609.18323",
+        "score": 108,
+        "score_label": "108 upvotes",
+        "author": "Haoyu Zhao, Zihao Zhao, Tianyu Deng et al.",
+        "published": "2026-09-15T20:00:00.000Z",
+        "snippet": "Recent Omni-Modal Generative Models (Omni-Models) have advanced content generation toward unified modeling of text, images, video, and audio. MiniMax-H3 exemplifies this transition by combining multimodal context unders…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.18323"
+        }
+      },
+      {
+        "id": "paper-2609.20800",
+        "section": "papers",
+        "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+        "url": "https://huggingface.co/papers/2609.20800",
+        "score": 53,
+        "score_label": "53 upvotes",
+        "author": "Taoyong Cui, Zhongyao Wang, Xinyue Xu et al.",
+        "published": "2026-09-16T20:00:00.000Z",
+        "snippet": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling acros…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.20800"
+        }
+      },
+      {
+        "id": "paper-2609.17496",
+        "section": "papers",
+        "title": "Verifiable Social Reasoning for LLM Assistants",
+        "url": "https://huggingface.co/papers/2609.17496",
+        "score": 44,
+        "score_label": "44 upvotes",
+        "author": "Amir Taubenfeld, Zorik Gekhman, Avigail Grinstein-Dabush et al.",
+        "published": "2026-09-14T20:00:00.000Z",
+        "snippet": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situat…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.17496"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "section": "models",
+        "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "score": 1282,
+        "score_label": "1,282 likes · 1,516,960 downloads",
+        "author": "prism-ml",
+        "published": "2026-09-16T23:40:56.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "score": 3343,
+        "score_label": "3,343 likes · 482,270 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-09-10T02:17:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-convaiinnovations/laya",
+        "section": "models",
+        "title": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "score": 660,
+        "score_label": "660 likes · 0 downloads",
+        "author": "convaiinnovations",
+        "published": "2026-09-18T05:05:55.000Z",
+        "snippet": "text-classification · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XingChen-AGI/Xing4.0-29B-A4B",
+        "section": "models",
+        "title": "XingChen-AGI/Xing4.0-29B-A4B",
+        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+        "score": 705,
+        "score_label": "705 likes · 7,278 downloads",
+        "author": "XingChen-AGI",
+        "published": "2026-09-16T06:44:40.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 15787,
+        "score_label": "15,787 likes · 7,365,368 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-m-a-p/YuE2-3B",
+        "section": "models",
+        "title": "m-a-p/YuE2-3B",
+        "url": "https://huggingface.co/m-a-p/YuE2-3B",
+        "score": 888,
+        "score_label": "888 likes · 15,446 downloads",
+        "author": "m-a-p",
+        "published": "2026-09-09T18:30:33.000Z",
+        "snippet": "text-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 1438,
+        "score_label": "1,438 likes · 1,154,265 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-ukisai/Swift-Qwen3.8-27b",
+        "section": "models",
+        "title": "ukisai/Swift-Qwen3.8-27b",
+        "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+        "score": 496,
+        "score_label": "496 likes · 8,761 downloads",
+        "author": "ukisai",
+        "published": "2026-09-08T13:35:21.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-harshatheg/Qwen-2.5-1B-RLCD",
+        "section": "models",
+        "title": "harshatheg/Qwen-2.5-1B-RLCD",
+        "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+        "score": 447,
+        "score_label": "447 likes · 0 downloads",
+        "author": "harshatheg",
+        "published": "2026-09-16T01:35:33.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 4467,
+        "score_label": "4,467 likes · 1,607,815 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/where-i-stand-on-rsi",
+        "section": "newsletters",
+        "title": "Why I still haven’t bought into true RSI",
+        "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-19T15:42:20+00:00",
+        "snippet": "An &#8220;AI moderate&#8217;s&#8221; view on recent events and the trajectory of frontier models.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+        "section": "newsletters",
+        "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+        "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-19T05:48:28+00:00",
+        "snippet": "Imitation is the sincerest form of Flattery",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.oneusefulthing.org/p/the-overhang",
+        "section": "newsletters",
+        "title": "The Overhang",
+        "url": "https://www.oneusefulthing.org/p/the-overhang",
+        "score": null,
+        "score_label": "One Useful Thing",
+        "author": "One Useful Thing",
+        "published": "2026-09-18T17:54:32+00:00",
+        "snippet": "Using your deep knowledge, wide knowledge, taste, and agency",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-612",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-18T06:28:43+00:00",
+        "snippet": "a quiet day",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+        "section": "newsletters",
+        "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+        "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-17T07:28:25+00:00",
+        "snippet": "A dash of cold water keeps the foomers away.",
+        "extra_link": null
+      }
+    ]
+  }
+}

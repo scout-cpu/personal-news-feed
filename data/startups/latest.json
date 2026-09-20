@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-19T06:03:06.426355+00:00",
+  "fetched_at": "2026-09-20T06:28:20.611493+00:00",
   "items": [
     {
       "id": "a4d86bc54ecc69e6",
@@ -81,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/dcvc",
       "source_url": "https://www.businesswire.com/news/home/20260915525333/en/TypeSafe-AI-Emerges-From-Stealth-With-%2440M-in-Funding-With-New-Model-for-Composable-AI",
       "logo_url": "https://framerusercontent.com/images/i3zZIcRmqD02bWIONGr1yMhuBUQ.png?width=400&height=400",
-      "logo": "static/startups/images/aab0281bc0fc56a2ac60.png",
-      "description": "TypeSafe AI: An AI lab building intelligence beyond chat. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/4aebb707f30b2e1cf473.png",
       "image_url": "https://framerusercontent.com/images/f8kNiSC2dyAiH9gVNd9Sy1tQRA.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "TypeSafe AI: An AI lab building intelligence beyond chat. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/aab0281bc0fc56a2ac60.png"
     },
     {
       "id": "439bc31fe86b9568",
