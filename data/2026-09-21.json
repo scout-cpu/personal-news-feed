@@ -1,0 +1,552 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T06:34:37.244352+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49776699",
+        "section": "hackernews",
+        "title": "Pirate Face Rescues LLM Models from Deletion",
+        "url": "https://pirateface.co/",
+        "score": 512,
+        "score_label": "512 points",
+        "author": "skepticalgenius",
+        "published": "2026-09-20T15:16:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49776699"
+        }
+      },
+      {
+        "id": "hn-49774329",
+        "section": "hackernews",
+        "title": "AI and the Destruction of the Creative Commons",
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+        "score": 229,
+        "score_label": "229 points",
+        "author": "rakel_rakel",
+        "published": "2026-09-20T10:07:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49774329"
+        }
+      },
+      {
+        "id": "hn-49774795",
+        "section": "hackernews",
+        "title": "If AI coding is lowering your code quality, you're not managing quality right",
+        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+        "score": 82,
+        "score_label": "82 points",
+        "author": "bucket2015",
+        "published": "2026-09-20T11:37:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49774795"
+        }
+      },
+      {
+        "id": "hn-49780162",
+        "section": "hackernews",
+        "title": "I stopped drinking the AI Kool-Aid",
+        "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+        "score": 62,
+        "score_label": "62 points",
+        "author": "joshtronic",
+        "published": "2026-09-20T21:17:26+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49780162"
+        }
+      },
+      {
+        "id": "hn-49776523",
+        "section": "hackernews",
+        "title": "Show HN: A competition for small neural networks that play strategy games",
+        "url": "https://tinybrains.dev",
+        "score": 55,
+        "score_label": "55 points",
+        "author": "codetiger",
+        "published": "2026-09-20T14:59:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49776523"
+        }
+      },
+      {
+        "id": "hn-49783062",
+        "section": "hackernews",
+        "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "1vuio0pswjnm7",
+        "published": "2026-09-21T04:28:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49783062"
+        }
+      },
+      {
+        "id": "hn-49779802",
+        "section": "hackernews",
+        "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+        "score": 48,
+        "score_label": "48 points",
+        "author": "layer8",
+        "published": "2026-09-20T20:32:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49779802"
+        }
+      },
+      {
+        "id": "hn-49774665",
+        "section": "hackernews",
+        "title": "I'm Tired of the AI Tone",
+        "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+        "score": 44,
+        "score_label": "44 points",
+        "author": "sagivo",
+        "published": "2026-09-20T11:18:26+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49774665"
+        }
+      },
+      {
+        "id": "hn-49773439",
+        "section": "hackernews",
+        "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "score": 40,
+        "score_label": "40 points",
+        "author": "pndy",
+        "published": "2026-09-20T07:38:37+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49773439"
+        }
+      },
+      {
+        "id": "hn-49774991",
+        "section": "hackernews",
+        "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+        "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+        "score": 37,
+        "score_label": "37 points",
+        "author": "sbulaev",
+        "published": "2026-09-20T12:07:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49774991"
+        }
+      },
+      {
+        "id": "hn-49773624",
+        "section": "hackernews",
+        "title": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "sbulaev",
+        "published": "2026-09-20T08:07:08+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49773624"
+        }
+      },
+      {
+        "id": "hn-49779563",
+        "section": "hackernews",
+        "title": "Autolith: The Common Lisp agent that rewrites itself and rocks",
+        "url": "https://autolith.rocks",
+        "score": 33,
+        "score_label": "33 points",
+        "author": "sroerick",
+        "published": "2026-09-20T20:09:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49779563"
+        }
+      },
+      {
+        "id": "hn-49782242",
+        "section": "hackernews",
+        "title": "Can I Let My AI Agent Run on Shabbat?",
+        "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "some-guy",
+        "published": "2026-09-21T02:05:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49782242"
+        }
+      },
+      {
+        "id": "hn-49780704",
+        "section": "hackernews",
+        "title": "Not all AI workers think the tech could kill everyone",
+        "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "Lyngbakr",
+        "published": "2026-09-20T22:22:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49780704"
+        }
+      },
+      {
+        "id": "hn-49778367",
+        "section": "hackernews",
+        "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
+        "url": "https://www.youtube.com/watch?v=KnckQp-c388",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "Betelbuddy",
+        "published": "2026-09-20T18:11:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49778367"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.19656",
+        "section": "papers",
+        "title": "Self-Evolving Search Index",
+        "url": "https://huggingface.co/papers/2609.19656",
+        "score": 46,
+        "score_label": "46 upvotes",
+        "author": "Sangam Lee, Wonjae Lee, Sunghwan Kim et al.",
+        "published": "2026-09-16T20:00:00.000Z",
+        "snippet": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index keys, retrieval qu…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.19656"
+        }
+      },
+      {
+        "id": "paper-2609.22000",
+        "section": "papers",
+        "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+        "url": "https://huggingface.co/papers/2609.22000",
+        "score": 45,
+        "score_label": "45 upvotes",
+        "author": "Shuai Bai, Jiayong Deng, Yikun Fu et al.",
+        "published": "2026-09-17T20:00:00.000Z",
+        "snippet": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather than stacked end t…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.22000"
+        }
+      },
+      {
+        "id": "paper-2609.05571",
+        "section": "papers",
+        "title": "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence",
+        "url": "https://huggingface.co/papers/2609.05571",
+        "score": 43,
+        "score_label": "43 upvotes",
+        "author": "Yongqi Tong, Pan Wang, Hang Wang et al.",
+        "published": "2026-09-03T20:00:00.000Z",
+        "snippet": "Reusable skills give agents transferable procedural knowledge, making scalable acquisition essential for extending agents beyond prior experience. Existing methods face two limitations: trajectory-based synthesis requir…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.05571"
+        }
+      },
+      {
+        "id": "paper-2609.15779",
+        "section": "papers",
+        "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
+        "url": "https://huggingface.co/papers/2609.15779",
+        "score": 42,
+        "score_label": "42 upvotes",
+        "author": "Meiduo Chong, Shaolei Zhang, Ju Fan et al.",
+        "published": "2026-09-13T20:00:00.000Z",
+        "snippet": "Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases. However, data agents face a challenging agent-data gap: heterogeneous data resides outside the ag…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.15779"
+        }
+      },
+      {
+        "id": "paper-2609.22086",
+        "section": "papers",
+        "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+        "url": "https://arxiv.org/abs/2609.22086",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Hongyang Du, Lan Yan, Christian Flores et al.",
+        "published": "2026-09-18T17:59:56Z",
+        "snippet": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual ad…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.22081",
+        "section": "papers",
+        "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+        "url": "https://arxiv.org/abs/2609.22081",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Aho Yapi, Pierre Latouche, Arnaud Guillin et al.",
+        "published": "2026-09-18T17:59:10Z",
+        "snippet": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scal…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.22067",
+        "section": "papers",
+        "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+        "url": "https://arxiv.org/abs/2609.22067",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Renkai Ma, Ruyuan Wan, Xuan Lu et al.",
+        "published": "2026-09-18T17:55:09Z",
+        "snippet": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.22064",
+        "section": "papers",
+        "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+        "url": "https://arxiv.org/abs/2609.22064",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Alexandre Andre, Shivashriganesh P. Mahato, Vinam Arora et al.",
+        "published": "2026-09-18T17:54:32Z",
+        "snippet": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neur…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.22056",
+        "section": "papers",
+        "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
+        "url": "https://arxiv.org/abs/2609.22056",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Andre Bacellar",
+        "published": "2026-09-18T17:48:15Z",
+        "snippet": "Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. We prove two results formalizing this structure. First (CWAR Reducibility): confident-f…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.22055",
+        "section": "papers",
+        "title": "Benchmarking World Models for Continual Learning on Compositional Tasks",
+        "url": "https://arxiv.org/abs/2609.22055",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Haoyu Zhou, Joe Watson, Anson Lei et al.",
+        "published": "2026-09-18T17:46:28Z",
+        "snippet": "A desirable property of a world model is the ability to learn continually across tasks, adapting to new environments without forgetting what the agent has already learnt. In particular, the ability to retain and reuse k…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.22053",
+        "section": "papers",
+        "title": "Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise",
+        "url": "https://arxiv.org/abs/2609.22053",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Fabricio Breve",
+        "published": "2026-09-18T17:46:08Z",
+        "snippet": "Graph Convolutional Networks (GCNs) are highly sensitive to label noise, since corrupted supervision can propagate through the graph and degrade learned node representations. This work proposes PCC+GCN, a hybrid framewo…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2609.22048",
+        "section": "papers",
+        "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
+        "url": "https://arxiv.org/abs/2609.22048",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Parivesh Priye, Yufeng Wang, Haibin Ling et al.",
+        "published": "2026-09-18T17:36:52Z",
+        "snippet": "A selective predictor acts as a safety gate: it returns an output only when the prediction appears sufficiently trustworthy. Deployments increasingly require this reliability to be certified at a target precision for ev…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "section": "models",
+        "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "score": 1559,
+        "score_label": "1,559 likes · 1,908,396 downloads",
+        "author": "prism-ml",
+        "published": "2026-09-16T23:40:56.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-convaiinnovations/laya",
+        "section": "models",
+        "title": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "score": 1264,
+        "score_label": "1,264 likes · 0 downloads",
+        "author": "convaiinnovations",
+        "published": "2026-09-18T05:05:55.000Z",
+        "snippet": "text-classification · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen-Image-2.1",
+        "section": "models",
+        "title": "Qwen/Qwen-Image-2.1",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "score": 980,
+        "score_label": "980 likes · 183 downloads",
+        "author": "Qwen",
+        "published": "2026-09-14T03:47:26.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+        "score": 3455,
+        "score_label": "3,455 likes · 496,684 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-09-10T02:17:58.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XingChen-AGI/Xing4.0-29B-A4B",
+        "section": "models",
+        "title": "XingChen-AGI/Xing4.0-29B-A4B",
+        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+        "score": 947,
+        "score_label": "947 likes · 12,617 downloads",
+        "author": "XingChen-AGI",
+        "published": "2026-09-16T06:44:40.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 15889,
+        "score_label": "15,889 likes · 7,331,932 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+        "score": 1495,
+        "score_label": "1,495 likes · 1,217,204 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-08-28T18:38:03.000Z",
+        "snippet": "image-text-to-text · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-m-a-p/YuE2-3B",
+        "section": "models",
+        "title": "m-a-p/YuE2-3B",
+        "url": "https://huggingface.co/m-a-p/YuE2-3B",
+        "score": 925,
+        "score_label": "925 likes · 17,403 downloads",
+        "author": "m-a-p",
+        "published": "2026-09-09T18:30:33.000Z",
+        "snippet": "text-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-harshatheg/Qwen-2.5-1B-RLCD",
+        "section": "models",
+        "title": "harshatheg/Qwen-2.5-1B-RLCD",
+        "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+        "score": 484,
+        "score_label": "484 likes · 0 downloads",
+        "author": "harshatheg",
+        "published": "2026-09-16T01:35:33.000Z",
+        "snippet": "text-generation · mlx",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 4578,
+        "score_label": "4,578 likes · 1,609,559 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/where-i-stand-on-rsi",
+        "section": "newsletters",
+        "title": "Why I still haven’t bought into true RSI",
+        "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-09-19T15:42:20+00:00",
+        "snippet": "An &#8220;AI moderate&#8217;s&#8221; view on recent events and the trajectory of frontier models.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+        "section": "newsletters",
+        "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+        "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-19T05:48:28+00:00",
+        "snippet": "Imitation is the sincerest form of Flattery",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.oneusefulthing.org/p/the-overhang",
+        "section": "newsletters",
+        "title": "The Overhang",
+        "url": "https://www.oneusefulthing.org/p/the-overhang",
+        "score": null,
+        "score_label": "One Useful Thing",
+        "author": "One Useful Thing",
+        "published": "2026-09-18T17:54:32+00:00",
+        "snippet": "Using your deep knowledge, wide knowledge, taste, and agency",
+        "extra_link": null
+      }
+    ]
+  }
+}
