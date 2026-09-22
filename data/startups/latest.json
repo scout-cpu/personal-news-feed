@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-21T06:34:40.621276+00:00",
+  "fetched_at": "2026-09-22T06:23:09.554452+00:00",
   "items": [
+    {
+      "id": "42e1c3caa4fa7c04",
+      "company": "Corridor",
+      "company_url": "https://startups.gallery/companies/corridor-advisors",
+      "amount": "$25M",
+      "round": "Seed",
+      "date": "2026-09-21",
+      "investor": "Bain Capital Ventures",
+      "investor_url": "https://startups.gallery/investors/bain-capital-ventures",
+      "source_url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "logo_url": "https://framerusercontent.com/images/MzpvZSBjLqyJ99aSEVxYFYk113s.jpeg?width=200&height=200",
+      "logo": "static/startups/images/9176841873d69ab68ab0.jpg",
+      "description": "Corridor: AI-native employee benefits brokerage. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/33dcf7db29f19a294630.jpg",
+      "image_url": "https://framerusercontent.com/images/aNk2EdAxCXBO5gkhajcDZyYWrQ.jpeg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "9c5f849e35eb18f6",
+      "company": "Rainmaker",
+      "company_url": "https://startups.gallery/companies/rainmaker",
+      "amount": "$100M",
+      "round": "Series B",
+      "date": "2026-09-21",
+      "investor": "Upfront Ventures",
+      "investor_url": "https://startups.gallery/investors/upfront-ventures",
+      "source_url": "https://www.prnewswire.com/news-releases/rainmaker-raises-100m-series-b-to-scale-low-cost-water-production-and-weather-modification-302884251.html",
+      "logo_url": "https://framerusercontent.com/images/F4VznNDlLhmRerbQmzGtjrHAIc.jpeg?width=200&height=200",
+      "logo": "static/startups/images/4b05bf5dc29a674bccdb.jpg",
+      "description": "Rainmaker: Next-gen cloud seeding. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/a3e71d59f6886d489dc1.png",
+      "image_url": "https://framerusercontent.com/images/99pwVPuLBD9RoAe2qyY54xuAmKM.jpeg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "a4d86bc54ecc69e6",
       "company": "Watney",
@@ -18,6 +52,21 @@
       "description": "Watney: Robots for data centers. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/f77f5917b3187c19ba1c.jpg"
+    },
+    {
+      "id": "ebb36d1e11e2258d",
+      "company": "Footprint",
+      "company_url": "https://startups.gallery/companies/footprint",
+      "amount": "$25M",
+      "round": "Series B",
+      "date": "2026-09-16",
+      "investor": "QED",
+      "investor_url": "https://startups.gallery/investors/qed",
+      "source_url": "https://onefootprint.com/learn/series-b",
+      "logo_url": "https://framerusercontent.com/images/asgpY3rphwF2OyKE7wPdR0AI7zs.jpeg?width=200&height=200",
+      "logo": "static/startups/images/adf2664b10e3d1301c27.jpg",
+      "image": "static/startups/images/adf2664b10e3d1301c27.jpg",
+      "image_kind": "logo"
     },
     {
       "id": "0af1bd34d1b47c72",
@@ -783,57 +832,6 @@
       "description": "River AI: Intelligence that flows with you. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/7e5cfcd2f0195a9f894c.jpg"
-    },
-    {
-      "id": "8c52b10545d5ebc5",
-      "company": "Multiplier",
-      "company_url": "https://startups.gallery/companies/multiplier-ai",
-      "amount": "$6M",
-      "round": "Seed",
-      "date": "2026-08-10",
-      "investor": "Lux Capital",
-      "investor_url": "https://startups.gallery/investors/lux-capital",
-      "source_url": "https://www.multiplier.ai/blog/announcing-our-6m-seed",
-      "logo_url": "https://framerusercontent.com/images/fbo9A8SMaLG8093848xeGCQRyc.jpeg?width=200&height=200",
-      "image": "static/startups/images/9861391277dce2074de6.png",
-      "image_url": "https://framerusercontent.com/images/wXnIY7iZUNZRNeXcCZWXDgXBY.png?width=1600&height=900",
-      "description": "Multiplier: Agent harnesses for asset managers. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/f87ca60fc2bc29ac0442.jpg"
-    },
-    {
-      "id": "651b50b12dee1eb8",
-      "company": "Naïve",
-      "company_url": "https://startups.gallery/companies/naive-ai",
-      "amount": "$28.5M",
-      "round": "Series A",
-      "date": "2026-08-06",
-      "investor": "Nexus Venture Partners",
-      "investor_url": "https://startups.gallery/investors/nexus-venture-partners",
-      "source_url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "logo_url": "https://framerusercontent.com/images/7s3d3xc02ADOSwNN02ewZXnDCY.jpg?width=400&height=400",
-      "image": "static/startups/images/be5981b1bfe28602486e.png",
-      "image_url": "https://framerusercontent.com/images/tFkvshyXXaq4zENjWo2tV8KbA.png?width=1200&height=630",
-      "description": "Naïve: Unified Agent Infrastructure. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/5c7e02013bddd254d3bc.jpg"
-    },
-    {
-      "id": "b84142d3068288c2",
-      "company": "Osmo Studio",
-      "company_url": "https://startups.gallery/companies/osmo-studio",
-      "amount": "$5M",
-      "round": "Seed",
-      "date": "2026-08-05",
-      "investor": "Bain Capital Ventures",
-      "investor_url": "https://startups.gallery/investors/bain-capital-ventures",
-      "source_url": "https://x.com/willyhopps/status/2085033691550724390",
-      "logo_url": "https://framerusercontent.com/images/BWUyO8T6IVeLfVHSkA41bsSElJU.png?width=400&height=400",
-      "image": "static/startups/images/e00ca13b5b2eea70e8df.png",
-      "image_url": "https://framerusercontent.com/images/cOwGI1nJWWz84RCrxGvAjLchI.png?width=1200&height=630",
-      "description": "Osmo Studio: AI-native motion graphics editor & film studio. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/fcc83009dded307bfc4d.png"
     }
   ]
 }
