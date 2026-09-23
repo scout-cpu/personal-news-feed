@@ -1,7 +1,58 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-22T06:23:09.554452+00:00",
+  "fetched_at": "2026-09-23T06:07:24.842962+00:00",
   "items": [
+    {
+      "id": "d3b33b059a31f907",
+      "company": "Confido",
+      "company_url": "https://startups.gallery/companies/confido",
+      "amount": "$55M",
+      "round": "Series B",
+      "date": "2026-09-22",
+      "investor": "Insight Partners",
+      "investor_url": "https://startups.gallery/investors/insight-partners",
+      "source_url": "https://www.businesswire.com/news/home/20260922033622/en/Confido-Raises-%2455M-Series-B-to-Take-AI-Powered-Automation-Across-the-Entire-Consumer-Brand-Back-Office",
+      "logo_url": "https://framerusercontent.com/images/Auuhuj6pmD6cOn8tQaOzNDnA.jpeg?width=200&height=200",
+      "logo": "static/startups/images/d29b04b7af5731dcca46.jpg",
+      "description": "Confido: The AI infra for CPG brands. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/e37e225c3c86a6fc32f6.png",
+      "image_url": "https://framerusercontent.com/images/fkHf8hoDCh3n77U0DsHFjQJv4A.png?width=2400&height=1260",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "b5cacdf54a4c17f3",
+      "company": "Heidi Health",
+      "company_url": "https://startups.gallery/companies/heidi-health",
+      "amount": "$100M",
+      "round": "Series C",
+      "date": "2026-09-22",
+      "investor": "Blackbird",
+      "investor_url": "https://startups.gallery/investors/blackbird",
+      "source_url": "https://www.finsmes.com/2026/09/heidi-raises-100m-in-series-c-funding.html",
+      "logo_url": "https://framerusercontent.com/images/tcESLcGhcxJUMI2V3lEmVvDAcY.webp?width=200&height=200",
+      "logo": "static/startups/images/3e51f8c2f4be0fc50ccf.webp",
+      "description": "Heidi Health: AI care partner. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/d63c47aad15db10f2ef8.jpg",
+      "image_url": "https://framerusercontent.com/images/HW6YYs07f0v7s9Y3ijki6mMidB0.jpg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "e2acdafe8eab0067",
+      "company": "Firecrawl",
+      "company_url": "https://startups.gallery/companies/firecrawl",
+      "amount": "$75M",
+      "round": "Series B",
+      "date": "2026-09-22",
+      "investor": "Smash Capital",
+      "investor_url": "https://startups.gallery/investors/smash-capital",
+      "source_url": "https://www.firecrawl.dev/blog/introducing-alexandria-series-b?utm_source=firecrawl-web&utm_medium=banner&utm_campaign=alexandria-launch",
+      "logo_url": "https://framerusercontent.com/images/okOqzMFvVyfgV6hUEY0ikw6BI.jpeg?width=200&height=200",
+      "logo": "static/startups/images/87a64185bf555fa71ffa.jpg",
+      "description": "Firecrawl: Web data API for AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/ff9fff9a88437b11dc76.png",
+      "image_url": "https://framerusercontent.com/images/Dw60FP618600SQ7oTGCWS5R3c.png?width=1500&height=500",
+      "image_kind": "company artwork"
+    },
     {
       "id": "42e1c3caa4fa7c04",
       "company": "Corridor",
@@ -13,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/bain-capital-ventures",
       "source_url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
       "logo_url": "https://framerusercontent.com/images/MzpvZSBjLqyJ99aSEVxYFYk113s.jpeg?width=200&height=200",
-      "logo": "static/startups/images/9176841873d69ab68ab0.jpg",
-      "description": "Corridor: AI-native employee benefits brokerage. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/33dcf7db29f19a294630.jpg",
       "image_url": "https://framerusercontent.com/images/aNk2EdAxCXBO5gkhajcDZyYWrQ.jpeg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Corridor: AI-native employee benefits brokerage. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/9176841873d69ab68ab0.jpg"
     },
     {
       "id": "9c5f849e35eb18f6",
@@ -30,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/upfront-ventures",
       "source_url": "https://www.prnewswire.com/news-releases/rainmaker-raises-100m-series-b-to-scale-low-cost-water-production-and-weather-modification-302884251.html",
       "logo_url": "https://framerusercontent.com/images/F4VznNDlLhmRerbQmzGtjrHAIc.jpeg?width=200&height=200",
-      "logo": "static/startups/images/4b05bf5dc29a674bccdb.jpg",
-      "description": "Rainmaker: Next-gen cloud seeding. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/a3e71d59f6886d489dc1.png",
       "image_url": "https://framerusercontent.com/images/99pwVPuLBD9RoAe2qyY54xuAmKM.jpeg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Rainmaker: Next-gen cloud seeding. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/4b05bf5dc29a674bccdb.jpg"
     },
     {
       "id": "a4d86bc54ecc69e6",
@@ -64,9 +115,11 @@
       "investor_url": "https://startups.gallery/investors/qed",
       "source_url": "https://onefootprint.com/learn/series-b",
       "logo_url": "https://framerusercontent.com/images/asgpY3rphwF2OyKE7wPdR0AI7zs.jpeg?width=200&height=200",
+      "image": "static/startups/images/13df394161c6cc1d2f08.png",
+      "image_kind": "company artwork",
       "logo": "static/startups/images/adf2664b10e3d1301c27.jpg",
-      "image": "static/startups/images/adf2664b10e3d1301c27.jpg",
-      "image_kind": "logo"
+      "description": "Footprint: The AI operating system for risk. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_url": "https://framerusercontent.com/images/dTqiC2XcwfU5H995obGjZL9EQ.png?width=1200&height=630"
     },
     {
       "id": "0af1bd34d1b47c72",
@@ -781,57 +834,6 @@
       "description": "Lovable: Full-stack AI engineer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/ed11bc888b65b4fa6eb2.webp"
-    },
-    {
-      "id": "81b04f13c7f57324",
-      "company": "Trajectory",
-      "company_url": "https://startups.gallery/companies/trajectory-ai",
-      "amount": "$40M",
-      "round": "Series A",
-      "date": "2026-08-11",
-      "investor": "Sequoia",
-      "investor_url": "https://startups.gallery/investors/sequoia-capital",
-      "source_url": "https://app.dealroom.co/news/note/trajectory-raises-40m-series-a-at-300m-valuation",
-      "logo_url": "https://framerusercontent.com/images/aneYYKNSOreKbXiI1Kae0EzOI.jpeg?width=200&height=200",
-      "image": "static/startups/images/937da08ee0aa86e1ad2a.jpg",
-      "image_url": "https://framerusercontent.com/images/yUw2QB4lfgd3pedNdgbqzTHmRY.jpeg?width=1920&height=1080",
-      "description": "Trajectory: The platform for continual learning. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/81eb37d372286a43a5fe.jpg"
-    },
-    {
-      "id": "960c77ed9148d466",
-      "company": "Alloy Robotics",
-      "company_url": "https://startups.gallery/companies/alloy-robotics",
-      "amount": "$11.5M",
-      "round": "Seed",
-      "date": "2026-08-11",
-      "investor": "Square Peg",
-      "investor_url": "https://startups.gallery/investors/square-peg",
-      "source_url": "https://www.usealloy.ai/post/every-robot-run-should-make-the-next-one-better",
-      "logo_url": "https://framerusercontent.com/images/CI5bk3F9bmbsEMcpR0I8NfZ9Uc.webp?width=200&height=200",
-      "image": "static/startups/images/1e31e665e92d5479c666.webp",
-      "image_url": "https://framerusercontent.com/images/a0lTxPud9VyhUfVNZOkejtoUMg.webp?width=1500&height=500",
-      "description": "Alloy Robotics: Data platform for robotics. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/55ffe6b9d6f78499abb8.webp"
-    },
-    {
-      "id": "fbe08d42dd4106e8",
-      "company": "River AI",
-      "company_url": "https://startups.gallery/companies/river-ai",
-      "amount": "$1.1B",
-      "round": "Seed",
-      "date": "2026-08-11",
-      "investor": "General Catalyst",
-      "investor_url": "https://startups.gallery/investors/general-catalyst",
-      "source_url": "https://runtimewire.com/article/igor-babuschkin-river-ai-raises-1-1-billion-custom-models",
-      "logo_url": "https://framerusercontent.com/images/D5DwMuTr6VCmzZYFvBa21WxW8o.jpeg?width=200&height=200",
-      "image": "static/startups/images/72a649d1ce4ace606763.jpg",
-      "image_url": "https://framerusercontent.com/images/WagOETK1hGdj4fXNhsaj10hoM.jpg?width=1920&height=1203",
-      "description": "River AI: Intelligence that flows with you. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/7e5cfcd2f0195a9f894c.jpg"
     }
   ]
 }
