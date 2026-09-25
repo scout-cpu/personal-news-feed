@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-24T06:16:42.863323+00:00",
+  "fetched_at": "2026-09-25T06:13:02.108990+00:00",
   "items": [
+    {
+      "id": "ffafcd98effc5101",
+      "company": "Ando",
+      "company_url": "https://startups.gallery/companies/ando",
+      "amount": "$20M",
+      "round": "Seed",
+      "date": "2026-09-24",
+      "investor": "Accel",
+      "investor_url": "https://startups.gallery/investors/accel",
+      "source_url": "https://www.ando.so/blog/introducing-ando",
+      "logo_url": "https://framerusercontent.com/images/TNjSS4BKeWmmCioh2X5tKjm6s.jpg?width=400&height=400",
+      "logo": "static/startups/images/1837daa12552e4a07fb1.jpg",
+      "description": "Ando: The modern team messaging platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/67522b1b1bb923a353df.png",
+      "image_url": "https://framerusercontent.com/images/4iIxsym87qmzzqxjNPYQmw2V6dw.png?width=1200&height=629",
+      "image_kind": "company artwork"
+    },
     {
       "id": "b488e908429b92f2",
       "company": "Enveda",
@@ -13,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/catalio",
       "source_url": "https://www.fiercebiotech.com/biotech/enveda-reaps-311m-round-feed-its-ambition-become-household-name",
       "logo_url": "https://framerusercontent.com/images/fOKYKcFOdoAP5cYqetozd3HC9ek.webp?width=200&height=200",
-      "logo": "static/startups/images/af6c8fef9ec1b7b28a98.webp",
-      "description": "Enveda: Advancing nature-inspired drugs. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/d26ec944a83963c4c3d1.webp",
       "image_url": "https://framerusercontent.com/images/vOacTaK1SHyGTeoqkiQlMf73xvg.webp?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Enveda: Advancing nature-inspired drugs. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/af6c8fef9ec1b7b28a98.webp"
     },
     {
       "id": "17985e6c9a0d658a",
@@ -30,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/creagis",
       "source_url": "https://www.ema.ai/series-b",
       "logo_url": "https://framerusercontent.com/images/qI7aEIn4HLCQkT8Mt2jWDLBTw.jpeg?width=200&height=200",
-      "logo": "static/startups/images/231f615d4fd937b8569a.jpg",
-      "description": "Ema: Building a universal AI employee.  Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/542d6693555db9ef0cff.jpg",
       "image_url": "https://framerusercontent.com/images/zFEuGljrGJ0RA226QJNveuJJ0vI.jpeg?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Ema: Building a universal AI employee.  Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/231f615d4fd937b8569a.jpg"
     },
     {
       "id": "4f8633cc276ce330",
@@ -47,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/insight-partners",
       "source_url": "https://snorkel.ai/blog/data-2-0-and-the-research-era-of-ai-data/",
       "logo_url": "https://framerusercontent.com/images/x7Rju2FSRDFexkkbabtYXh49M.webp?width=200&height=200",
-      "logo": "static/startups/images/9dcf6bcc88bb100dd7ca.webp",
-      "description": "Snorkel AI: The frontier AI data lab. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/bb008aa9c8b77ac0681b.png",
       "image_url": "https://framerusercontent.com/images/nXU6UMqc63OAaM5DYim6DS1YeA.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Snorkel AI: The frontier AI data lab. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/9dcf6bcc88bb100dd7ca.webp"
     },
     {
       "id": "af58e78a8c8c8d52",
@@ -64,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/insight-partners",
       "source_url": "https://www.businesswire.com/news/home/20260923666467/en/Numeral-Raises-%24100-Million-Series-C-to-Expand-AI-Powered-Tax-Compliance-Across-Industries",
       "logo_url": "https://framerusercontent.com/images/oWMEqg2Mrp7jHDOdHrbt7BQG7s.jpeg?width=200&height=200",
-      "logo": "static/startups/images/1088c3a2d58b67a39f7d.jpg",
-      "description": "Numeral: Ecommerce sales tax on autopilot. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/503e87568e31bf240063.png",
       "image_url": "https://framerusercontent.com/images/YyKHI6LwfmpLRQKNzGM0p71E.png?width=2400&height=1200",
-      "image_kind": "company artwork"
+      "description": "Numeral: Ecommerce sales tax on autopilot. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/1088c3a2d58b67a39f7d.jpg"
     },
     {
       "id": "d3b33b059a31f907",
@@ -817,23 +834,6 @@
       "description": "Hadrian: Autonomous factories. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/1d940cbf0807e7d7b1d0.webp"
-    },
-    {
-      "id": "10b8a47c7444509e",
-      "company": "Groq",
-      "company_url": "https://startups.gallery/companies/groq",
-      "amount": "$350M",
-      "round": "Series A",
-      "date": "2026-08-17",
-      "investor": "Disruptive",
-      "investor_url": "https://startups.gallery/investors/disruptive-vc",
-      "source_url": "https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud",
-      "logo_url": "https://framerusercontent.com/images/sDEjUrIBKxDb6auN4jvbob0wQP8.jpeg?width=200&height=200",
-      "image": "static/startups/images/50de8478e40430baf408.png",
-      "image_url": "https://framerusercontent.com/images/cAZK7tFEpCrmpstQGSPldQgkXTM.png?width=1200&height=630",
-      "description": "Groq: Groq is fast, low cost inference. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/9ee4b9439aaf556a7e61.jpg"
     }
   ]
 }
