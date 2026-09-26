@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-25T06:13:02.108990+00:00",
+  "fetched_at": "2026-09-26T06:12:41.553309+00:00",
   "items": [
     {
       "id": "ffafcd98effc5101",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/accel",
       "source_url": "https://www.ando.so/blog/introducing-ando",
       "logo_url": "https://framerusercontent.com/images/TNjSS4BKeWmmCioh2X5tKjm6s.jpg?width=400&height=400",
-      "logo": "static/startups/images/1837daa12552e4a07fb1.jpg",
-      "description": "Ando: The modern team messaging platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/67522b1b1bb923a353df.png",
       "image_url": "https://framerusercontent.com/images/4iIxsym87qmzzqxjNPYQmw2V6dw.png?width=1200&height=629",
-      "image_kind": "company artwork"
+      "description": "Ando: The modern team messaging platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/1837daa12552e4a07fb1.jpg"
     },
     {
       "id": "b488e908429b92f2",
