@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-26T06:12:41.553309+00:00",
+  "fetched_at": "2026-09-27T06:40:22.292190+00:00",
   "items": [
+    {
+      "id": "04c62587d6b4666d",
+      "company": "Solcoa Industries",
+      "company_url": "https://startups.gallery/companies/solcoa-industries",
+      "amount": "$75M",
+      "round": "Seed",
+      "date": "2026-09-26",
+      "investor": "Bain Capital Ventures",
+      "investor_url": "https://startups.gallery/investors/bain-capital-ventures",
+      "source_url": "https://www.axios.com/pro/climate-deals/2026/09/24/solcoa-75-million-rare-earth",
+      "logo_url": "https://framerusercontent.com/images/62NQvLYOZHffODFXuga0Fto4kQ.jpeg?width=200&height=200",
+      "logo": "static/startups/images/4855bb3ba1e3a17f72b0.jpg",
+      "description": "Solcoa Industries: Making the metals of power & motion. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/297ccdd3452e73e99b06.png",
+      "image_url": "https://framerusercontent.com/images/7Ww5BIbdqc0p8vSpJcJS8eVGQKA.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "ffafcd98effc5101",
       "company": "Ando",
@@ -817,23 +834,6 @@
       "description": "Etched: Frontier inference clusters. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/757f5c14022012c51c38.webp"
-    },
-    {
-      "id": "7fba7e92b53e99b0",
-      "company": "Hadrian",
-      "company_url": "https://startups.gallery/companies/hadrian",
-      "amount": "$1.37B",
-      "round": "Series D",
-      "date": "2026-08-17",
-      "investor": "Valor Equity Partners",
-      "investor_url": "https://startups.gallery/investors/valor-equity-partners",
-      "source_url": "https://www.voxelmatters.com/hadrian-raises-1-37-billion-series-d/",
-      "logo_url": "https://framerusercontent.com/images/HYxDkWoCuxNR5sROFJFMVeNl4r4.webp?width=400&height=400",
-      "image": "static/startups/images/449a45bae84ac942c139.webp",
-      "image_url": "https://framerusercontent.com/images/hZMStyzBVX3K6oWJgN7wDaTkBs.webp?width=1200&height=630",
-      "description": "Hadrian: Autonomous factories. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/1d940cbf0807e7d7b1d0.webp"
     }
   ]
 }

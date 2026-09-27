@@ -1,0 +1,405 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T06:40:17.640178+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49854875",
+        "section": "hackernews",
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "score": 198,
+        "score_label": "198 points",
+        "author": "signa11",
+        "published": "2026-09-26T09:41:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49854875"
+        }
+      },
+      {
+        "id": "hn-49855018",
+        "section": "hackernews",
+        "title": "One Month Without AI",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "score": 171,
+        "score_label": "171 points",
+        "author": "saibotk",
+        "published": "2026-09-26T10:08:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49855018"
+        }
+      },
+      {
+        "id": "hn-49857729",
+        "section": "hackernews",
+        "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "score": 139,
+        "score_label": "139 points",
+        "author": "parasitid",
+        "published": "2026-09-26T15:56:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49857729"
+        }
+      },
+      {
+        "id": "hn-49856665",
+        "section": "hackernews",
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+        "score": 112,
+        "score_label": "112 points",
+        "author": "Betelbuddy",
+        "published": "2026-09-26T14:03:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49856665"
+        }
+      },
+      {
+        "id": "hn-49856034",
+        "section": "hackernews",
+        "title": "CEO of Mistral: AI is software. It can be controlled",
+        "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+        "score": 89,
+        "score_label": "89 points",
+        "author": "thibaut_barrere",
+        "published": "2026-09-26T12:52:04+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49856034"
+        }
+      },
+      {
+        "id": "hn-49857528",
+        "section": "hackernews",
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "score": 73,
+        "score_label": "73 points",
+        "author": "brumar",
+        "published": "2026-09-26T15:34:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49857528"
+        }
+      },
+      {
+        "id": "hn-49862299",
+        "section": "hackernews",
+        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "url": "https://swarmcha.se/posts/openai-unctad",
+        "score": 68,
+        "score_label": "68 points",
+        "author": "intunderflow",
+        "published": "2026-09-27T01:08:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49862299"
+        }
+      },
+      {
+        "id": "hn-49861047",
+        "section": "hackernews",
+        "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+        "url": "https://news.ycombinator.com/item?id=49861047",
+        "score": 67,
+        "score_label": "67 points",
+        "author": "lorenzomassaro",
+        "published": "2026-09-26T22:15:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49861047"
+        }
+      },
+      {
+        "id": "hn-49856149",
+        "section": "hackernews",
+        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "score": 56,
+        "score_label": "56 points",
+        "author": "nisosguy",
+        "published": "2026-09-26T13:05:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49856149"
+        }
+      },
+      {
+        "id": "hn-49862120",
+        "section": "hackernews",
+        "title": "OpenAI (2015)",
+        "url": "https://openai.com/index/introducing-openai/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "andsoitis",
+        "published": "2026-09-27T00:44:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49862120"
+        }
+      },
+      {
+        "id": "hn-49861356",
+        "section": "hackernews",
+        "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+        "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+        "score": 27,
+        "score_label": "27 points",
+        "author": "lukewarm707",
+        "published": "2026-09-26T22:54:01+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49861356"
+        }
+      },
+      {
+        "id": "hn-49860545",
+        "section": "hackernews",
+        "title": "OpenAI pauses training of its 'most capable models'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "sbulaev",
+        "published": "2026-09-26T21:07:08+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49860545"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2609.26780",
+        "section": "papers",
+        "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+        "url": "https://huggingface.co/papers/2609.26780",
+        "score": 83,
+        "score_label": "83 upvotes",
+        "author": "Haobo Zheng, Tan Tang, Yan Chen et al.",
+        "published": "2026-09-21T20:00:00.000Z",
+        "snippet": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perce…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.26780"
+        }
+      },
+      {
+        "id": "paper-2609.28416",
+        "section": "papers",
+        "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+        "url": "https://huggingface.co/papers/2609.28416",
+        "score": 17,
+        "score_label": "17 upvotes",
+        "author": "Shuang Sun, Guoxin Chen, Fanzhe Meng et al.",
+        "published": "2026-09-22T20:00:00.000Z",
+        "snippet": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typically predict enviro…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2609.28416"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-convaiinnovations/laya",
+        "section": "models",
+        "title": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "score": 3935,
+        "score_label": "3,935 likes · 0 downloads",
+        "author": "convaiinnovations",
+        "published": "2026-09-18T05:05:55.000Z",
+        "snippet": "text-classification · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen-Image-2.1",
+        "section": "models",
+        "title": "Qwen/Qwen-Image-2.1",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "score": 2417,
+        "score_label": "2,417 likes · 48,361 downloads",
+        "author": "Qwen",
+        "published": "2026-09-14T03:47:26.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "score": 1968,
+        "score_label": "1,968 likes · 876,673 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-XingChen-AGI/Xing4.0-29B-A4B",
+        "section": "models",
+        "title": "XingChen-AGI/Xing4.0-29B-A4B",
+        "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+        "score": 1731,
+        "score_label": "1,731 likes · 43,947 downloads",
+        "author": "XingChen-AGI",
+        "published": "2026-09-16T06:44:40.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "section": "models",
+        "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+        "score": 2149,
+        "score_label": "2,149 likes · 3,247,527 downloads",
+        "author": "prism-ml",
+        "published": "2026-09-16T23:40:56.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-Edge0/Audio8-ASR-Infinite",
+        "section": "models",
+        "title": "Edge0/Audio8-ASR-Infinite",
+        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+        "score": 846,
+        "score_label": "846 likes · 7,859 downloads",
+        "author": "Edge0",
+        "published": "2026-09-21T15:03:21.000Z",
+        "snippet": "automatic-speech-recognition · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/Qwen-Image-2.1",
+        "section": "models",
+        "title": "Comfy-Org/Qwen-Image-2.1",
+        "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+        "score": 785,
+        "score_label": "785 likes · 3,641,785 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-09-15T19:41:09.000Z",
+        "snippet": "diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Altworld/Hemmingway-1",
+        "section": "models",
+        "title": "Altworld/Hemmingway-1",
+        "url": "https://huggingface.co/Altworld/Hemmingway-1",
+        "score": 714,
+        "score_label": "714 likes · 5,590 downloads",
+        "author": "Altworld",
+        "published": "2026-09-20T12:10:31.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XiaomiMiMo/MiMo-V2.6-Pro-RL",
+        "section": "models",
+        "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+        "score": 530,
+        "score_label": "530 likes · 74,497 downloads",
+        "author": "XiaomiMiMo",
+        "published": "2026-09-21T15:39:33.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+        "section": "models",
+        "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+        "score": 502,
+        "score_label": "502 likes · 7,905 downloads",
+        "author": "XiaomiMiMo",
+        "published": "2026-09-21T18:18:40.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/openrouter",
+        "section": "newsletters",
+        "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+        "url": "https://www.latent.space/p/openrouter",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-25T23:14:41+00:00",
+        "snippet": "In 2023 most people doubted that there could be more than 1 or 2 frontier model labs. Now there are dozens.... and Stripe just bought the best known one for $7B.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-the-future-of-latent-space",
+        "section": "newsletters",
+        "title": "[AINews] The Future of Latent Space",
+        "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-25T05:37:00+00:00",
+        "snippet": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/runway",
+        "section": "newsletters",
+        "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+        "url": "https://www.latent.space/p/runway",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-25T01:30:57+00:00",
+        "snippet": "GWM Worlds 2 uses persistent context and timed actions to steer a world model generating video and audio in real time.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/foundries-vs-navigators-lowering",
+        "section": "newsletters",
+        "title": "Foundries vs Navigators: Lowering the Cost of Science",
+        "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-24T15:03:16+00:00",
+        "snippet": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+        "section": "newsletters",
+        "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+        "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-24T08:12:59+00:00",
+        "snippet": "Team Zuck is absolutely on fire.",
+        "extra_link": null
+      }
+    ]
+  }
+}
