@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-27T06:40:22.292190+00:00",
+  "fetched_at": "2026-09-28T07:05:17.717123+00:00",
   "items": [
     {
       "id": "04c62587d6b4666d",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/bain-capital-ventures",
       "source_url": "https://www.axios.com/pro/climate-deals/2026/09/24/solcoa-75-million-rare-earth",
       "logo_url": "https://framerusercontent.com/images/62NQvLYOZHffODFXuga0Fto4kQ.jpeg?width=200&height=200",
-      "logo": "static/startups/images/4855bb3ba1e3a17f72b0.jpg",
-      "description": "Solcoa Industries: Making the metals of power & motion. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/297ccdd3452e73e99b06.png",
       "image_url": "https://framerusercontent.com/images/7Ww5BIbdqc0p8vSpJcJS8eVGQKA.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Solcoa Industries: Making the metals of power & motion. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/4855bb3ba1e3a17f72b0.jpg"
     },
     {
       "id": "ffafcd98effc5101",
