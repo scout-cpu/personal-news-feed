@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-28T07:05:17.717123+00:00",
+  "fetched_at": "2026-09-29T07:02:41.708080+00:00",
   "items": [
+    {
+      "id": "591702e2ffb95a51",
+      "company": "Quartermaster",
+      "company_url": "https://startups.gallery/companies/quartermaster",
+      "amount": "$140M",
+      "round": "Series B",
+      "date": "2026-09-28",
+      "investor": "Insight Partners",
+      "investor_url": "https://startups.gallery/investors/insight-partners",
+      "source_url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
+      "logo_url": "https://framerusercontent.com/images/cTl5aMZSx5MtAAn2rRDakMMwk.jpeg?width=200&height=200",
+      "logo": "static/startups/images/d3685aa171e76d9dcde8.jpg",
+      "description": "Quartermaster: Real-time distributed maritime awareness. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/a0ae94892cc9e84baf79.jpg",
+      "image_url": "https://framerusercontent.com/images/Lc0kyy7YVz1JODUmnfi2bkhWS8.jpg?width=1800&height=945",
+      "image_kind": "company artwork"
+    },
     {
       "id": "04c62587d6b4666d",
       "company": "Solcoa Industries",
@@ -103,6 +120,23 @@
       "description": "Numeral: Ecommerce sales tax on autopilot. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/1088c3a2d58b67a39f7d.jpg"
+    },
+    {
+      "id": "39cc787b47eb8f9a",
+      "company": "Micro1",
+      "company_url": "https://startups.gallery/companies/micro1",
+      "amount": "$100M",
+      "round": "Series B",
+      "date": "2026-09-22",
+      "investor": "01 Advisors",
+      "investor_url": "https://startups.gallery/investors/01-advisors",
+      "source_url": "https://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/",
+      "logo_url": "https://framerusercontent.com/images/3ZOBIBIrRcCDRwiO4XaRVucyxw.jpeg?width=200&height=200",
+      "logo": "static/startups/images/257ab450f98a2a1e380f.jpg",
+      "description": "Micro1: The AI platform for human intelligence. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/a02ff926c78f46d7c530.jpg",
+      "image_url": "https://framerusercontent.com/images/6W7BwzUojNCrnAOBrMdYsjplC3I.jpg?width=1800&height=945",
+      "image_kind": "company artwork"
     },
     {
       "id": "d3b33b059a31f907",
@@ -800,40 +834,6 @@
       "description": "Also: Building the world's best small EVs. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/dd1eab88ca212518046a.webp"
-    },
-    {
-      "id": "5528c7c5caac34c1",
-      "company": "Rillet",
-      "company_url": "https://startups.gallery/companies/rillet",
-      "amount": "$100M",
-      "round": "Series C",
-      "date": "2026-08-18",
-      "investor": "ICONIQ",
-      "investor_url": "https://startups.gallery/investors/iconiq-growth",
-      "source_url": "https://lnkd.in/p/gEYttMaj",
-      "logo_url": "https://framerusercontent.com/images/PM142grQlLknxMSzcoOqD5J60U.jpeg?width=200&height=200",
-      "image": "static/startups/images/ac3a75f8be6bb6f83ab5.webp",
-      "image_url": "https://framerusercontent.com/images/qbNpNZamT6ZjFXbMImPDp2pQ.webp?width=1200&height=630",
-      "description": "Rillet: The AI-native ERP. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/ff5d09e909c6f6bf3526.jpg"
-    },
-    {
-      "id": "694f8d7329686cda",
-      "company": "Etched",
-      "company_url": "https://startups.gallery/companies/etched",
-      "amount": "$700M",
-      "round": "Series D",
-      "date": "2026-08-18",
-      "investor": "Jane Street",
-      "investor_url": "https://startups.gallery/investors/jane-street",
-      "source_url": "https://www.reuters.com/technology/ai-chip-startup-etched-valued-21-billion-latest-funding-round-2026-08-18/",
-      "logo_url": "https://framerusercontent.com/images/fAWkQrTwFkTuxA88D6jgN1X23Q4.webp?width=200&height=200",
-      "image": "static/startups/images/8c811704dbdd5d60b98f.jpg",
-      "image_url": "https://framerusercontent.com/images/MwGLbZIRwR8zoaN8hJXwa1edxGM.jpg?width=2560&height=1317",
-      "description": "Etched: Frontier inference clusters. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/757f5c14022012c51c38.webp"
     }
   ]
 }
