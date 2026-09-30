@@ -1,7 +1,58 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-09-29T07:02:41.708080+00:00",
+  "fetched_at": "2026-09-30T06:53:12.782180+00:00",
   "items": [
+    {
+      "id": "3b19b4a49ba97965",
+      "company": "Efficient Computer",
+      "company_url": "https://startups.gallery/companies/efficient-computer",
+      "amount": "$97M",
+      "round": "Series B",
+      "date": "2026-09-29",
+      "investor": "TQ Ventures",
+      "investor_url": "https://startups.gallery/investors/tq-ventures",
+      "source_url": "https://www.efficient.computer/series-b",
+      "logo_url": "https://framerusercontent.com/images/erNSQaIHsh3X5mam1BCIurqxQQ.webp?width=1000&height=1000",
+      "logo": "static/startups/images/ecbb99722c597f1bbf45.webp",
+      "description": "Efficient Computer: General purpose processors. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/ecbb99722c597f1bbf45.webp",
+      "image_url": "https://framerusercontent.com/images/erNSQaIHsh3X5mam1BCIurqxQQ.webp?width=1000&height=1000",
+      "image_kind": "logo"
+    },
+    {
+      "id": "97cf475435b1d75a",
+      "company": "Jeeves",
+      "company_url": "https://startups.gallery/companies/jeeves",
+      "amount": "$110M",
+      "round": "Series D",
+      "date": "2026-09-29",
+      "investor": "CoinFund",
+      "investor_url": "https://startups.gallery/investors/coinfund",
+      "source_url": "https://app.dealroom.co/news/note/jeeves-raises-110m-to-build-stablecoin-wallet-and-ai-agents",
+      "logo_url": "https://framerusercontent.com/images/KPCksMP2rspMFYzqRV8TekNlZ5U.webp?width=200&height=200",
+      "logo": "static/startups/images/a25675ff156fb7bb72ec.webp",
+      "description": "Jeeves: Financial infra for global companies. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/617a0b46fe9fd51e51d0.jpg",
+      "image_url": "https://framerusercontent.com/images/liQ6q14qAPywlbFrgcuXKIMS8j4.jpeg?width=1500&height=500",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "31b4d983f0af5f28",
+      "company": "Rayon",
+      "company_url": "https://startups.gallery/companies/rayon",
+      "amount": "$11.5M",
+      "round": "Series A",
+      "date": "2026-09-29",
+      "investor": "Partech",
+      "investor_url": "https://startups.gallery/investors/partech",
+      "source_url": "https://www.thesaasnews.com/news/rayon-raises-10m-series-a/",
+      "logo_url": "https://framerusercontent.com/images/eAUUf0T0TjiQuHW6e0u3yRay5aw.webp?width=200&height=200",
+      "logo": "static/startups/images/3063460f804eca937562.webp",
+      "description": "Rayon: Figma for architectural design. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/9d9ce6a1fa2ad7b0ade0.png",
+      "image_url": "https://framerusercontent.com/images/AriuY7b2BWuDYa9ckbYVYCoEY.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "591702e2ffb95a51",
       "company": "Quartermaster",
@@ -13,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/insight-partners",
       "source_url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
       "logo_url": "https://framerusercontent.com/images/cTl5aMZSx5MtAAn2rRDakMMwk.jpeg?width=200&height=200",
-      "logo": "static/startups/images/d3685aa171e76d9dcde8.jpg",
-      "description": "Quartermaster: Real-time distributed maritime awareness. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/a0ae94892cc9e84baf79.jpg",
       "image_url": "https://framerusercontent.com/images/Lc0kyy7YVz1JODUmnfi2bkhWS8.jpg?width=1800&height=945",
-      "image_kind": "company artwork"
+      "description": "Quartermaster: Real-time distributed maritime awareness. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/d3685aa171e76d9dcde8.jpg"
     },
     {
       "id": "04c62587d6b4666d",
@@ -132,11 +183,11 @@
       "investor_url": "https://startups.gallery/investors/01-advisors",
       "source_url": "https://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/",
       "logo_url": "https://framerusercontent.com/images/3ZOBIBIrRcCDRwiO4XaRVucyxw.jpeg?width=200&height=200",
-      "logo": "static/startups/images/257ab450f98a2a1e380f.jpg",
-      "description": "Micro1: The AI platform for human intelligence. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/a02ff926c78f46d7c530.jpg",
       "image_url": "https://framerusercontent.com/images/6W7BwzUojNCrnAOBrMdYsjplC3I.jpg?width=1800&height=945",
-      "image_kind": "company artwork"
+      "description": "Micro1: The AI platform for human intelligence. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/257ab450f98a2a1e380f.jpg"
     },
     {
       "id": "d3b33b059a31f907",
@@ -783,57 +834,6 @@
       "description": "Astromech: Navigating the code of life. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/b0d049ca2b4095195bda.webp"
-    },
-    {
-      "id": "a3b7727c9cfedada",
-      "company": "Callosum",
-      "company_url": "https://startups.gallery/companies/callosum",
-      "amount": "$100M",
-      "round": "Seed",
-      "date": "2026-08-20",
-      "investor": "Atomico",
-      "investor_url": "https://startups.gallery/investors/atomico",
-      "source_url": "https://www.callosum.com/blog/seed-round",
-      "logo_url": "https://framerusercontent.com/images/mmxqC0wTRMWgYrzYlIVe9OE9F4.jpeg?width=200&height=200",
-      "image": "static/startups/images/2ca892e1d0eb69230170.jpg",
-      "image_url": "https://framerusercontent.com/images/HzosJYe8kuvqTgMq30LjOFFq0.jpeg?width=1500&height=500",
-      "description": "Callosum: Co-evolving chips & intelligence. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/7d5e741d7ff0426ad283.jpg"
-    },
-    {
-      "id": "d93fbe6ab67bb63f",
-      "company": "Veeda",
-      "company_url": "https://startups.gallery/companies/veeda-ai",
-      "amount": "$90M",
-      "round": "Seed",
-      "date": "2026-08-19",
-      "investor": "Khosla Ventures",
-      "investor_url": "https://startups.gallery/investors/khosla-ventures",
-      "source_url": "https://thelogic.co/news/exclusive/veeda-ai-sanja-fidler-nvidia/",
-      "logo_url": "https://framerusercontent.com/images/oeo71B8DeZU3FMLvVZlfAR2K1E.jpeg?width=200&height=200",
-      "image": "static/startups/images/5c58d52a36c093e53305.png",
-      "image_url": "https://framerusercontent.com/images/TyPdIMPCXP2HbNAP7Ap1w7KBc.png?width=1200&height=630",
-      "description": "Veeda: World models that simulate reality. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/c12197b7794ce89c0ac3.jpg"
-    },
-    {
-      "id": "623927891c3b2528",
-      "company": "Also",
-      "company_url": "https://startups.gallery/companies/also",
-      "amount": "$150M",
-      "round": "Series D",
-      "date": "2026-08-19",
-      "investor": "Prysm Capital",
-      "investor_url": "https://startups.gallery/investors/prysm-capital",
-      "source_url": "https://www.businesswire.com/news/home/20260819059153/en/ALSO-Announces-%24150-Million-Series-D-Financing",
-      "logo_url": "https://framerusercontent.com/images/iJh9ICCDCTSTWT0smiYlLg2awU.webp?width=200&height=200",
-      "image": "static/startups/images/20f083bdd48a3c5e5faf.webp",
-      "image_url": "https://framerusercontent.com/images/OxMY0H3wbCIDQfn53cpm7z3U3T4.webp?width=1200&height=628",
-      "description": "Also: Building the world's best small EVs. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/dd1eab88ca212518046a.webp"
     }
   ]
 }
