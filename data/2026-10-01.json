@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T07:16:49.076595+00:00",
+  "errors": [
+    "papers"
+  ],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49913571",
+        "section": "hackernews",
+        "title": "Gemini 4 Argon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "score": 1283,
+        "score_label": "1283 points",
+        "author": "bradleyg223",
+        "published": "2026-09-30T20:04:37+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49913571"
+        }
+      },
+      {
+        "id": "hn-49910553",
+        "section": "hackernews",
+        "title": "The AI Race Just Got Awkward",
+        "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+        "score": 384,
+        "score_label": "384 points",
+        "author": "allisdust",
+        "published": "2026-09-30T15:50:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49910553"
+        }
+      },
+      {
+        "id": "hn-49911995",
+        "section": "hackernews",
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "score": 150,
+        "score_label": "150 points",
+        "author": "anerli",
+        "published": "2026-09-30T17:37:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49911995"
+        }
+      },
+      {
+        "id": "hn-49913458",
+        "section": "hackernews",
+        "title": "CS240 AI Cheating Retrospective",
+        "url": "https://turkeyland.net/thoughts/ai.php",
+        "score": 104,
+        "score_label": "104 points",
+        "author": "ArchAndStarch",
+        "published": "2026-09-30T19:54:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49913458"
+        }
+      },
+      {
+        "id": "hn-49914236",
+        "section": "hackernews",
+        "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+        "score": 100,
+        "score_label": "100 points",
+        "author": "theanonymousone",
+        "published": "2026-09-30T20:50:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49914236"
+        }
+      },
+      {
+        "id": "hn-49905644",
+        "section": "hackernews",
+        "title": "Doing a Machine Learning PhD While Working in Japan",
+        "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+        "score": 84,
+        "score_label": "84 points",
+        "author": "pwim",
+        "published": "2026-09-30T07:33:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49905644"
+        }
+      },
+      {
+        "id": "hn-49906669",
+        "section": "hackernews",
+        "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+        "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+        "score": 80,
+        "score_label": "80 points",
+        "author": "theanonymousone",
+        "published": "2026-09-30T09:59:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49906669"
+        }
+      },
+      {
+        "id": "hn-49911928",
+        "section": "hackernews",
+        "title": "Claude Says",
+        "url": "https://ohhfishal.net/Posts/claude",
+        "score": 69,
+        "score_label": "69 points",
+        "author": "speckx",
+        "published": "2026-09-30T17:32:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49911928"
+        }
+      },
+      {
+        "id": "hn-49914149",
+        "section": "hackernews",
+        "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+        "url": "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus",
+        "score": 64,
+        "score_label": "64 points",
+        "author": "danaris",
+        "published": "2026-09-30T20:44:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49914149"
+        }
+      },
+      {
+        "id": "hn-49909648",
+        "section": "hackernews",
+        "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+        "url": "https://lathoa.ai/en",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "thanouil1411",
+        "published": "2026-09-30T14:38:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49909648"
+        }
+      },
+      {
+        "id": "hn-49911520",
+        "section": "hackernews",
+        "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+        "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+        "score": 34,
+        "score_label": "34 points",
+        "author": "sdlkj-",
+        "published": "2026-09-30T16:59:37+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49911520"
+        }
+      },
+      {
+        "id": "hn-49909966",
+        "section": "hackernews",
+        "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+        "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+        "score": 34,
+        "score_label": "34 points",
+        "author": "CharlesW",
+        "published": "2026-09-30T15:04:33+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49909966"
+        }
+      },
+      {
+        "id": "hn-49907601",
+        "section": "hackernews",
+        "title": "Muse.ai gets me kicked off fb marketplace",
+        "url": "https://news.ycombinator.com/item?id=49907601",
+        "score": 30,
+        "score_label": "30 points",
+        "author": "zcalvin",
+        "published": "2026-09-30T11:54:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49907601"
+        }
+      },
+      {
+        "id": "hn-49912499",
+        "section": "hackernews",
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "speckx",
+        "published": "2026-09-30T18:23:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49912499"
+        }
+      },
+      {
+        "id": "hn-49906892",
+        "section": "hackernews",
+        "title": "\"Apple engineer\" builds GitHub AI torture chamber to inflict \"pain\" on models",
+        "url": "https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "LargeLingoMod",
+        "published": "2026-09-30T10:28:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49906892"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-Edge0/Audio8-ASR-Infinite",
+        "section": "models",
+        "title": "Edge0/Audio8-ASR-Infinite",
+        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+        "score": 1972,
+        "score_label": "1,972 likes · 26,749 downloads",
+        "author": "Edge0",
+        "published": "2026-09-21T15:03:21.000Z",
+        "snippet": "automatic-speech-recognition · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-convaiinnovations/laya",
+        "section": "models",
+        "title": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "score": 4714,
+        "score_label": "4,714 likes · 0 downloads",
+        "author": "convaiinnovations",
+        "published": "2026-09-18T05:05:55.000Z",
+        "snippet": "text-classification · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XingChen-AGI/TeleOCR",
+        "section": "models",
+        "title": "XingChen-AGI/TeleOCR",
+        "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+        "score": 1115,
+        "score_label": "1,115 likes · 30,383 downloads",
+        "author": "XingChen-AGI",
+        "published": "2026-08-14T06:15:03.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "score": 2604,
+        "score_label": "2,604 likes · 1,232,685 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Contrastive-LM/CLM-v0.1-8B",
+        "section": "models",
+        "title": "Contrastive-LM/CLM-v0.1-8B",
+        "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+        "score": 581,
+        "score_label": "581 likes · 2,392 downloads",
+        "author": "Contrastive-LM",
+        "published": "2026-09-21T20:09:04.000Z",
+        "snippet": "text-ranking · contrastive-lm",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen-Image-2.1",
+        "section": "models",
+        "title": "Qwen/Qwen-Image-2.1",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "score": 2729,
+        "score_label": "2,729 likes · 70,687 downloads",
+        "author": "Qwen",
+        "published": "2026-09-14T03:47:26.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/Nemotron-3-Diarization",
+        "section": "models",
+        "title": "nvidia/Nemotron-3-Diarization",
+        "url": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
+        "score": 569,
+        "score_label": "569 likes · 36,386 downloads",
+        "author": "nvidia",
+        "published": "2026-09-01T13:16:57.000Z",
+        "snippet": "voice-activity-detection · nemo",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 5749,
+        "score_label": "5,749 likes · 1,602,348 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 16675,
+        "score_label": "16,675 likes · 7,038,259 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-SupersonicLabs/Julia-1",
+        "section": "models",
+        "title": "SupersonicLabs/Julia-1",
+        "url": "https://huggingface.co/SupersonicLabs/Julia-1",
+        "score": 322,
+        "score_label": "322 likes · 2,201 downloads",
+        "author": "SupersonicLabs",
+        "published": "2026-09-23T15:29:46.000Z",
+        "snippet": "text-classification · pytorch",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+        "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-01T06:45:05+00:00",
+        "snippet": "... but you can&#8217;t try it yet unless you are &#8220;government users and trusted cyber defenders in the Fairwind Program&#8221;",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/devday-2026",
+        "section": "newsletters",
+        "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+        "url": "https://www.latent.space/p/devday-2026",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-30T22:23:40+00:00",
+        "snippet": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI&#8217;s CUA team and API platform.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+        "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-30T05:53:10+00:00",
+        "snippet": "the most confident DevDay yet.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+        "section": "newsletters",
+        "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+        "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-09-29T10:50:25+00:00",
+        "snippet": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+        "section": "newsletters",
+        "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+        "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-29T02:55:27+00:00",
+        "snippet": "Congrats team!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+        "section": "newsletters",
+        "title": "[AINews] Opus 5.5 is good at explainer videos",
+        "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-29T02:44:29+00:00",
+        "snippet": "a rare feature of a capability",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/thariq",
+        "section": "newsletters",
+        "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+        "url": "https://www.latent.space/p/thariq",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-29T01:48:18+00:00",
+        "snippet": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
+        "extra_link": null
+      }
+    ]
+  }
+}
