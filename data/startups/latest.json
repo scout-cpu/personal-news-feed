@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-01T07:17:10.376039+00:00",
+  "fetched_at": "2026-10-02T07:06:47.035267+00:00",
   "items": [
     {
       "id": "a54d8631872110f6",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/valor-equity-partners",
       "source_url": "https://www.flowengineering.com/blog/series-b-memo",
       "logo_url": "https://framerusercontent.com/images/dmiDLWXeR35cv8vQxG3SHML3A04.webp?width=200&height=200",
-      "logo": "static/startups/images/5d8097efdf5525638c17.webp",
-      "description": "Flow: The Agile Requirements Management Platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/53f393a175bad534869b.png",
       "image_url": "https://framerusercontent.com/images/pO11lR5nTLCcvq9UT8Fxmg5xS0.png?width=2400&height=1200",
-      "image_kind": "company artwork"
+      "description": "Flow: The Agile Requirements Management Platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/5d8097efdf5525638c17.webp"
     },
     {
       "id": "86a78db5c7a95f93",
@@ -30,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/battery-ventures",
       "source_url": "https://www.axios.com/pro/enterprise-software-deals/2026/09/30/construction-tech-miter-battery-ventures",
       "logo_url": "https://framerusercontent.com/images/c2jYj9nfbNyjmsrQXne5DMwVKcM.webp?width=200&height=200",
-      "logo": "static/startups/images/4923f76bcb189b69b61a.webp",
-      "description": "Miter: The connected construction platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/d30437ee83803772ab29.webp",
       "image_url": "https://framerusercontent.com/images/lvdskOLphU32AyOmStSP7HvBr8c.webp?width=3645&height=1914",
-      "image_kind": "company artwork"
+      "description": "Miter: The connected construction platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/4923f76bcb189b69b61a.webp"
     },
     {
       "id": "376400f69dfec419",
@@ -47,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/lux-capital",
       "source_url": "https://www.reuters.com/legal/transactional/varda-raises-250-million-16-billion-valuation-scale-orbital-drug-manufacturing-2026-09-30/",
       "logo_url": "https://framerusercontent.com/images/VrEuP4H9shsVcahDrAKPtQZMnyE.webp?width=400&height=400",
-      "logo": "static/startups/images/03c76a02311ad4d75220.webp",
-      "description": "Varda: Space-based drug manafacturing. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/b0843e853febe8b43579.webp",
       "image_url": "https://framerusercontent.com/images/IQnGydddlknAtXMKXzdoRAE5Y4.webp?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Varda: Space-based drug manafacturing. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/03c76a02311ad4d75220.webp"
     },
     {
       "id": "3a5e4001b465522e",
@@ -64,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/insight-partners",
       "source_url": "https://www.metaview.ai/resources/blog/metaview-raised-an-additional-60m-to-lead-the-shift-to-agentic-recruiting",
       "logo_url": "https://framerusercontent.com/images/MJVNofCw44rahgy9s0oN2pPf3s.jpeg?width=200&height=200",
-      "logo": "static/startups/images/c413fafd69045ba6496a.jpg",
-      "description": "Metaview: AI built for recruiting. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/835c0019d2f236209bbc.jpg",
       "image_url": "https://framerusercontent.com/images/EDXsxlzp6yRoquZQNeBKbHfDVjs.jpg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Metaview: AI built for recruiting. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/c413fafd69045ba6496a.jpg"
     },
     {
       "id": "3b19b4a49ba97965",

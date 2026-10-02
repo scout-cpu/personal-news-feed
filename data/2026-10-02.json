@@ -1,0 +1,385 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T07:05:57.111359+00:00",
+  "errors": [
+    "papers"
+  ],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-49923692",
+        "section": "hackernews",
+        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "score": 483,
+        "score_label": "483 points",
+        "author": "jasondavies",
+        "published": "2026-10-01T16:18:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49923692"
+        }
+      },
+      {
+        "id": "hn-49921050",
+        "section": "hackernews",
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "score": 202,
+        "score_label": "202 points",
+        "author": "dgellow",
+        "published": "2026-10-01T13:00:55+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49921050"
+        }
+      },
+      {
+        "id": "hn-49919910",
+        "section": "hackernews",
+        "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+        "score": 176,
+        "score_label": "176 points",
+        "author": "giuliomagnifico",
+        "published": "2026-10-01T10:21:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49919910"
+        }
+      },
+      {
+        "id": "hn-49924618",
+        "section": "hackernews",
+        "title": "Vote on which of Hacker News' challenges for AI have been met",
+        "url": "https://stoppels.ch/goalposts/",
+        "score": 131,
+        "score_label": "131 points",
+        "author": "stabbles",
+        "published": "2026-10-01T17:32:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49924618"
+        }
+      },
+      {
+        "id": "hn-49921051",
+        "section": "hackernews",
+        "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+        "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+        "score": 89,
+        "score_label": "89 points",
+        "author": "Anon84",
+        "published": "2026-10-01T13:01:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49921051"
+        }
+      },
+      {
+        "id": "hn-49922736",
+        "section": "hackernews",
+        "title": "Identity Management for Agentic AI [pdf] (2025)",
+        "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "score": 70,
+        "score_label": "70 points",
+        "author": "cgeier",
+        "published": "2026-10-01T15:11:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49922736"
+        }
+      },
+      {
+        "id": "hn-49927331",
+        "section": "hackernews",
+        "title": "Don't Be Fooled by this Summer of AI Hype",
+        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+        "score": 38,
+        "score_label": "38 points",
+        "author": "jacquesm",
+        "published": "2026-10-01T21:34:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49927331"
+        }
+      },
+      {
+        "id": "hn-49927693",
+        "section": "hackernews",
+        "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+        "url": "https://neow.in/NGxhb3d6",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "bundie",
+        "published": "2026-10-01T22:15:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49927693"
+        }
+      },
+      {
+        "id": "hn-49927587",
+        "section": "hackernews",
+        "title": "Aweb – Communication for AI Agents",
+        "url": "https://aweb.ai",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "gurjeet",
+        "published": "2026-10-01T22:02:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49927587"
+        }
+      },
+      {
+        "id": "hn-49924385",
+        "section": "hackernews",
+        "title": "Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",
+        "url": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use/",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "PLenz",
+        "published": "2026-10-01T17:15:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49924385"
+        }
+      },
+      {
+        "id": "hn-49925606",
+        "section": "hackernews",
+        "title": "US judge dismisses Chegg, Penske antitrust suits over Google AI Overviews",
+        "url": "https://reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "utiiiD",
+        "published": "2026-10-01T18:53:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=49925606"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-convaiinnovations/laya",
+        "section": "models",
+        "title": "convaiinnovations/laya",
+        "url": "https://huggingface.co/convaiinnovations/laya",
+        "score": 4876,
+        "score_label": "4,876 likes · 0 downloads",
+        "author": "convaiinnovations",
+        "published": "2026-09-18T05:05:55.000Z",
+        "snippet": "text-classification · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XingChen-AGI/TeleOCR",
+        "section": "models",
+        "title": "XingChen-AGI/TeleOCR",
+        "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+        "score": 1237,
+        "score_label": "1,237 likes · 31,584 downloads",
+        "author": "XingChen-AGI",
+        "published": "2026-08-14T06:15:03.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "score": 2733,
+        "score_label": "2,733 likes · 1,303,476 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Contrastive-LM/CLM-v0.1-8B",
+        "section": "models",
+        "title": "Contrastive-LM/CLM-v0.1-8B",
+        "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+        "score": 628,
+        "score_label": "628 likes · 2,720 downloads",
+        "author": "Contrastive-LM",
+        "published": "2026-09-21T20:09:04.000Z",
+        "snippet": "text-ranking · contrastive-lm",
+        "extra_link": null
+      },
+      {
+        "id": "model-Cloudflare/clef",
+        "section": "models",
+        "title": "Cloudflare/clef",
+        "url": "https://huggingface.co/Cloudflare/clef",
+        "score": 431,
+        "score_label": "431 likes · 18 downloads",
+        "author": "Cloudflare",
+        "published": "2026-09-30T21:15:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen-Image-2.1",
+        "section": "models",
+        "title": "Qwen/Qwen-Image-2.1",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+        "score": 2800,
+        "score_label": "2,800 likes · 76,938 downloads",
+        "author": "Qwen",
+        "published": "2026-09-14T03:47:26.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 5883,
+        "score_label": "5,883 likes · 1,588,619 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 16738,
+        "score_label": "16,738 likes · 6,950,834 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-SupersonicLabs/Julia-1",
+        "section": "models",
+        "title": "SupersonicLabs/Julia-1",
+        "url": "https://huggingface.co/SupersonicLabs/Julia-1",
+        "score": 346,
+        "score_label": "346 likes · 2,556 downloads",
+        "author": "SupersonicLabs",
+        "published": "2026-09-23T15:29:46.000Z",
+        "snippet": "text-classification · pytorch",
+        "extra_link": null
+      },
+      {
+        "id": "model-Viggle/Qwen-Image-2.1-viggle-turbo",
+        "section": "models",
+        "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+        "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+        "score": 507,
+        "score_label": "507 likes · 217,638 downloads",
+        "author": "Viggle",
+        "published": "2026-09-22T04:14:56.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+        "section": "newsletters",
+        "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+        "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-02T06:40:53+00:00",
+        "snippet": "the minimalist harness goes stable... and TypeScript!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/rlm",
+        "section": "newsletters",
+        "title": "Academia is for Ambition — Alex Zhang, MIT",
+        "url": "https://www.latent.space/p/rlm",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-02T00:28:04+00:00",
+        "snippet": "We catch up with RLM first author Alex Zhang, MIT PhD, on Jev, PhD masxing, and the future of harnesses.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+        "section": "newsletters",
+        "title": "The Dot and the Swarm",
+        "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+        "score": null,
+        "score_label": "One Useful Thing",
+        "author": "One Useful Thing",
+        "published": "2026-10-01T10:54:12+00:00",
+        "snippet": "Benefitting from the Bitter Lesson",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+        "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-01T06:45:05+00:00",
+        "snippet": "... but you can&#8217;t try it yet unless you are &#8220;government users and trusted cyber defenders in the Fairwind Program&#8221;",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/devday-2026",
+        "section": "newsletters",
+        "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+        "url": "https://www.latent.space/p/devday-2026",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-30T22:23:40+00:00",
+        "snippet": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI&#8217;s CUA team and API platform.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+        "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-09-30T05:53:10+00:00",
+        "snippet": "the most confident DevDay yet.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+        "section": "newsletters",
+        "title": "Language Models for Text Classification: From Bag-of-Words to Jev",
+        "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-09-29T10:50:25+00:00",
+        "snippet": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency",
+        "extra_link": null
+      }
+    ]
+  }
+}
