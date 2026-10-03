@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-02T07:06:47.035267+00:00",
+  "fetched_at": "2026-10-03T06:39:30.636119+00:00",
   "items": [
+    {
+      "id": "1b61787eba7f4a49",
+      "company": "Armadin",
+      "company_url": "https://startups.gallery/companies/armadin",
+      "amount": "$255M",
+      "round": "Series B",
+      "date": "2026-10-02",
+      "investor": "a16z",
+      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
+      "source_url": "https://www.thesaasnews.com/news/armadin-raises-255-5m-series-b/",
+      "logo_url": "https://framerusercontent.com/images/9zeU6MePRwqLdKg55tVtO2NHkso.jpeg?width=200&height=200",
+      "logo": "static/startups/images/3ae5dd8a3cb6df5cb1e6.jpg",
+      "description": "Armadin: AI-native autonomous security platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/0db621b679c894a3d960.jpg",
+      "image_url": "https://framerusercontent.com/images/Vl3xW4n6BzbzjfSkqK35d3V8D9Q.jpeg?width=1770&height=909",
+      "image_kind": "company artwork"
+    },
     {
       "id": "a54d8631872110f6",
       "company": "Flow",
@@ -817,23 +834,6 @@
       "description": "Transfyr: Building physical AI for science. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/0a55a23619f45573adad.jpg"
-    },
-    {
-      "id": "ec49b535bf352add",
-      "company": "Faro",
-      "company_url": "https://startups.gallery/companies/faro-health",
-      "amount": "$37.3M",
-      "round": "Series B",
-      "date": "2026-08-26",
-      "investor": "S32",
-      "investor_url": "https://startups.gallery/investors/section-32",
-      "source_url": "https://www.finsmes.com/2026/08/faro-ai-raises-37-3m-in-series-b-funding.html",
-      "logo_url": "https://framerusercontent.com/images/dn9fSHbRqJ0vYepVBVaCVQaQQ24.jpeg?width=200&height=200",
-      "image": "static/startups/images/0aec17e2c304dbca77ed.jpg",
-      "image_url": "https://framerusercontent.com/images/G6H4IxbmxAhbmCnbwvtqQwik.jpeg?width=1200&height=630",
-      "description": "Faro: AI platform for clinical development. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/aac54a3f9d16a88222eb.jpg"
     }
   ]
 }
