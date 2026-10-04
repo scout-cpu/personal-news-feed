@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-03T06:39:30.636119+00:00",
+  "fetched_at": "2026-10-04T07:02:30.579622+00:00",
   "items": [
     {
       "id": "1b61787eba7f4a49",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://www.thesaasnews.com/news/armadin-raises-255-5m-series-b/",
       "logo_url": "https://framerusercontent.com/images/9zeU6MePRwqLdKg55tVtO2NHkso.jpeg?width=200&height=200",
-      "logo": "static/startups/images/3ae5dd8a3cb6df5cb1e6.jpg",
-      "description": "Armadin: AI-native autonomous security platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/0db621b679c894a3d960.jpg",
       "image_url": "https://framerusercontent.com/images/Vl3xW4n6BzbzjfSkqK35d3V8D9Q.jpeg?width=1770&height=909",
-      "image_kind": "company artwork"
+      "description": "Armadin: AI-native autonomous security platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/3ae5dd8a3cb6df5cb1e6.jpg"
     },
     {
       "id": "a54d8631872110f6",
@@ -817,23 +817,6 @@
       "description": "Wrtn: Bring AGI close to people. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/99d8d2d08d9529954721.jpg"
-    },
-    {
-      "id": "0bf93a519f9c2c53",
-      "company": "Transfyr",
-      "company_url": "https://startups.gallery/companies/transfyr",
-      "amount": "$25M",
-      "round": "Seed",
-      "date": "2026-08-26",
-      "investor": "General Catalyst",
-      "investor_url": "https://startups.gallery/investors/general-catalyst",
-      "source_url": "https://www.businesswire.com/news/home/20260826235022/en/Transfyr-Launches-Physical-AI-Platform-for-Science-with-%2425M-Seed-Funding",
-      "logo_url": "https://framerusercontent.com/images/pdERiVqCsXMtEyR8fhneeM4fY.jpeg?width=200&height=200",
-      "image": "static/startups/images/415c5bf6763e1c113e15.jpg",
-      "image_url": "https://framerusercontent.com/images/RibVTv37dKllGu7t9ewlzMQxgo.jpeg?width=1200&height=630",
-      "description": "Transfyr: Building physical AI for science. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/0a55a23619f45573adad.jpg"
     }
   ]
 }
