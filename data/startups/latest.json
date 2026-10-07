@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-06T07:40:05.643377+00:00",
+  "fetched_at": "2026-10-07T07:20:35.308284+00:00",
   "items": [
+    {
+      "id": "80f9a940d4f009d3",
+      "company": "Siena AI",
+      "company_url": "https://startups.gallery/companies/siena-ai",
+      "amount": "$17M",
+      "round": "Series A",
+      "date": "2026-10-06",
+      "investor": "York IE",
+      "investor_url": "https://startups.gallery/investors/york-ie",
+      "source_url": "https://www.siena.cx/blog/siena-raises-17m-series-a",
+      "logo_url": "https://framerusercontent.com/images/ponXSKRxTpzX0kMyc51fjkDWvlc.webp?width=200&height=200",
+      "logo": "static/startups/images/f4ab63735c8f53b22040.webp",
+      "description": "Siena AI: AI-powered CX platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/9610b953170e4d5c8a78.jpg",
+      "image_url": "https://framerusercontent.com/images/RX8LxjfLA0YtdwFMPvDySgJQ8E.jpeg?width=2048&height=1152",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "2044d89e4318c15c",
+      "company": "Melius",
+      "company_url": "https://startups.gallery/companies/melius",
+      "amount": "$20M",
+      "round": "Series A",
+      "date": "2026-10-06",
+      "investor": "CRV",
+      "investor_url": "https://startups.gallery/investors/crv",
+      "source_url": "https://app.dealroom.co/news/feed/melius-raises-25m-for-ai-agents-lab-handling-creative-production-busywork?__cf_chl_tk=ilwaL31Ak4vWFnauWGIuJTKJB4HQw43b.SYuo4H6NFQ-1791311275-1.0.1.1-d_i7JzjpQoMQPsE7JH2ebzzj8vThyW7B5Y73QI5vvE8",
+      "logo_url": "https://framerusercontent.com/images/eO9LKwRu16QoLCW5dciXclHMb8Y.jpeg?width=200&height=200",
+      "logo": "static/startups/images/3012213cb6cb330799ca.jpg",
+      "description": "Melius: The creative harness for agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/3f4e1a9a9c526f6dfcda.png",
+      "image_url": "https://framerusercontent.com/images/zLNlOSBvTFPXCMkVdWkU2S8ZDSU.png?width=2400&height=1260",
+      "image_kind": "company artwork"
+    },
     {
       "id": "5518ee6abb39b825",
       "company": "Ghost AI",
@@ -13,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
       "logo_url": "https://framerusercontent.com/images/8IevAQuvYqwaPSsnrxWWEG1QPbk.png?width=400&height=400",
-      "logo": "static/startups/images/6edf9f6c72fef1a69ec2.png",
-      "description": "Ghost AI: The personal AI computer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/364b02e5bc73ef0775df.png",
       "image_url": "https://framerusercontent.com/images/X4yFdRYESzWOwPcVN78iFndKBc.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Ghost AI: The personal AI computer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/6edf9f6c72fef1a69ec2.png"
     },
     {
       "id": "ce5735cce871e075",
@@ -30,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/scale-venture-partners",
       "source_url": "https://namespace.so/blog/series-b",
       "logo_url": "https://framerusercontent.com/images/2gtzzy7JSvR2oz8fV3IVyeg78nU.jpeg?width=200&height=200",
-      "logo": "static/startups/images/3e18f0b79c0f6d917d79.jpg",
-      "description": "Namespace: For the next 100 billion commits. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/0a1fbc6a7c981e965a02.webp",
       "image_url": "https://framerusercontent.com/images/2Wvve7CbxpuYteDpXpbU1kDAuk.webp?width=2048&height=1075",
-      "image_kind": "company artwork"
+      "description": "Namespace: For the next 100 billion commits. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/3e18f0b79c0f6d917d79.jpg"
     },
     {
       "id": "c476cccb820ea474",
@@ -47,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/ribbit-capital",
       "source_url": "https://www.valon.ai/blog/series-d-deploying-valonos-and-ai-to-the-mortgage-industry",
       "logo_url": "https://framerusercontent.com/images/DeIOk6FIxxKfznMGLeaGUpOP6r8.webp?width=200&height=200",
-      "logo": "static/startups/images/0ff0960b75be3d14ac7b.webp",
-      "description": "Valon: OS for mortgage servicing. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/c70327a6fe2a91038e15.png",
       "image_url": "https://framerusercontent.com/images/GeVfplPaVkPhy1WOABi8tWVCSs.png?width=2400&height=1266",
-      "image_kind": "company artwork"
+      "description": "Valon: OS for mortgage servicing. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/0ff0960b75be3d14ac7b.webp"
     },
     {
       "id": "1b61787eba7f4a49",
@@ -783,40 +817,6 @@
       "description": "Wonderful: Enterprise agent platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/8beb3e5ba3ecb84d54b2.jpg"
-    },
-    {
-      "id": "2fe670022c14db1d",
-      "company": "Wafer",
-      "company_url": "https://startups.gallery/companies/wafer",
-      "amount": "$40M",
-      "round": "Series A",
-      "date": "2026-09-01",
-      "investor": "Chemistry",
-      "investor_url": "https://startups.gallery/investors/chemistry",
-      "source_url": "https://www.wafer.ai/blog/series-a",
-      "logo_url": "https://framerusercontent.com/images/0yIas28YvgtnKscJbrhjw6OQlX4.jpeg?width=200&height=200",
-      "image": "static/startups/images/12ab63f30e0f9aeecbb6.jpg",
-      "image_url": "https://framerusercontent.com/images/SZU8wrrUt8ViTl9xPtQ9KGIxNtw.jpg?width=1200&height=630",
-      "description": "Wafer: Continual inference. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/57e632338f3bf5fdb344.jpg"
-    },
-    {
-      "id": "610633f5bd0c900e",
-      "company": "Owner",
-      "company_url": "https://startups.gallery/companies/owner",
-      "amount": "$240M",
-      "round": "Series D",
-      "date": "2026-08-28",
-      "investor": "Goldman Sachs",
-      "investor_url": "https://startups.gallery/investors/goldman-sachs-alternatives",
-      "source_url": "https://www.prnewswire.com/news-releases/owner-raises-240m-led-by-goldman-sachs-alternatives-to-build-the-ai-native-platform-for-every-local-business-302862420.html",
-      "logo_url": "https://framerusercontent.com/images/njk1kOUhG7yIDNjy0lUf6XQME.webp?width=200&height=200",
-      "image": "static/startups/images/f33883d54a8ced3c0f68.jpg",
-      "image_url": "https://framerusercontent.com/images/ojmPiNFeU6CV0ycVl3dp0R2EACw.jpg?width=2400&height=1259",
-      "description": "Owner: Online ordering and restaurant marketing system. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/d7da261aaef763f32e6a.webp"
     }
   ]
 }
