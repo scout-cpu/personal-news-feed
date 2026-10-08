@@ -1,7 +1,58 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-07T07:20:35.308284+00:00",
+  "fetched_at": "2026-10-08T07:34:31.420283+00:00",
   "items": [
+    {
+      "id": "c3189cd4e0d3c841",
+      "company": "Nous Research",
+      "company_url": "https://startups.gallery/companies/nous-research",
+      "amount": "$90M",
+      "round": "Series B",
+      "date": "2026-10-07",
+      "investor": "Robot Ventures",
+      "investor_url": "https://startups.gallery/investors/robot-ventures",
+      "source_url": "https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208",
+      "logo_url": "https://framerusercontent.com/images/qzGxZBHaKCjRCU62a8Cp6eZ4A.webp?width=800&height=800",
+      "logo": "static/startups/images/c531f29e2e97cbfea666.webp",
+      "description": "Nous Research: World-class open source models. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/bb6c9f35d35ed93c78b1.png",
+      "image_url": "https://framerusercontent.com/images/zzIwdqwuF1mcQMHR0SJCwaY0.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "ec51911f23a8609a",
+      "company": "Era",
+      "company_url": "https://startups.gallery/companies/era-world",
+      "amount": "$11M",
+      "round": "Seed",
+      "date": "2026-10-07",
+      "investor": "Abstract Ventures",
+      "investor_url": "https://startups.gallery/investors/abstract-ventures",
+      "source_url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+      "logo_url": "https://framerusercontent.com/images/0Jtyj9yMSpOLJdFQOwdej7gvO6I.jpeg?width=200&height=200",
+      "logo": "static/startups/images/3dfdf4a3e91bc009dcb3.jpg",
+      "description": "Era: Intelligence to fit objects you love. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/3dfdf4a3e91bc009dcb3.jpg",
+      "image_url": "https://framerusercontent.com/images/0Jtyj9yMSpOLJdFQOwdej7gvO6I.jpeg?width=200&height=200",
+      "image_kind": "logo"
+    },
+    {
+      "id": "bdc3319181dd58ac",
+      "company": "Stuut",
+      "company_url": "https://startups.gallery/companies/stuut",
+      "amount": "$52.5M",
+      "round": "Series B",
+      "date": "2026-10-07",
+      "investor": "Insight Partners",
+      "investor_url": "https://startups.gallery/investors/insight-partners",
+      "source_url": "https://www.stuut.ai/blog/why-we-raised-series-b",
+      "logo_url": "https://framerusercontent.com/images/7hYgg1LR4IPLvUZLHimeYEd1O4.webp?width=200&height=200",
+      "logo": "static/startups/images/0d1013f7aff855e17989.webp",
+      "description": "Stuut: Your AI co-worker that runs order-to-cash. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/666b558c1e0fc4325e3b.webp",
+      "image_url": "https://framerusercontent.com/images/vecDrRUpaItNaz9PXwxhZvIR70Q.webp?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "80f9a940d4f009d3",
       "company": "Siena AI",
@@ -13,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/york-ie",
       "source_url": "https://www.siena.cx/blog/siena-raises-17m-series-a",
       "logo_url": "https://framerusercontent.com/images/ponXSKRxTpzX0kMyc51fjkDWvlc.webp?width=200&height=200",
-      "logo": "static/startups/images/f4ab63735c8f53b22040.webp",
-      "description": "Siena AI: AI-powered CX platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/9610b953170e4d5c8a78.jpg",
       "image_url": "https://framerusercontent.com/images/RX8LxjfLA0YtdwFMPvDySgJQ8E.jpeg?width=2048&height=1152",
-      "image_kind": "company artwork"
+      "description": "Siena AI: AI-powered CX platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/f4ab63735c8f53b22040.webp"
     },
     {
       "id": "2044d89e4318c15c",
@@ -30,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/crv",
       "source_url": "https://app.dealroom.co/news/feed/melius-raises-25m-for-ai-agents-lab-handling-creative-production-busywork?__cf_chl_tk=ilwaL31Ak4vWFnauWGIuJTKJB4HQw43b.SYuo4H6NFQ-1791311275-1.0.1.1-d_i7JzjpQoMQPsE7JH2ebzzj8vThyW7B5Y73QI5vvE8",
       "logo_url": "https://framerusercontent.com/images/eO9LKwRu16QoLCW5dciXclHMb8Y.jpeg?width=200&height=200",
-      "logo": "static/startups/images/3012213cb6cb330799ca.jpg",
-      "description": "Melius: The creative harness for agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/3f4e1a9a9c526f6dfcda.png",
       "image_url": "https://framerusercontent.com/images/zLNlOSBvTFPXCMkVdWkU2S8ZDSU.png?width=2400&height=1260",
-      "image_kind": "company artwork"
+      "description": "Melius: The creative harness for agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/3012213cb6cb330799ca.jpg"
     },
     {
       "id": "5518ee6abb39b825",
@@ -766,57 +817,6 @@
       "description": "Forus: Accelerate access to medicine. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/c13bf81fdc87df5357be.jpg"
-    },
-    {
-      "id": "a68dd022b84bdfee",
-      "company": "Gimlet Labs",
-      "company_url": "https://startups.gallery/companies/gimlet-labs",
-      "amount": "$300M",
-      "round": "Series B",
-      "date": "2026-09-04",
-      "investor": "a16z",
-      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
-      "source_url": "https://gimletlabs.ai/blog/announcing-series-b",
-      "logo_url": "https://framerusercontent.com/images/JUtM8CT3vvwxEqv2R4QIcLPcu5g.webp?width=200&height=200",
-      "image": "static/startups/images/7c3a083de885ee690c7e.png",
-      "image_url": "https://framerusercontent.com/images/WtKg8TSQPb9JUiB8gxNclcOaTaI.png?width=1200&height=630",
-      "description": "Gimlet Labs: Applied AI research lab. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/0ebdef2ef5f1c1d2c6fe.webp"
-    },
-    {
-      "id": "dd67bba70d8e3b4c",
-      "company": "Conveo",
-      "company_url": "https://startups.gallery/companies/conveo",
-      "amount": "$50M",
-      "round": "Series A",
-      "date": "2026-09-02",
-      "investor": "DST Global",
-      "investor_url": "https://startups.gallery/investors/dst-global",
-      "source_url": "https://www.finsmes.com/2026/09/conveo-raises-50m-in-series-a-funding.html",
-      "logo_url": "https://framerusercontent.com/images/hBAYRmyx4hg8wHgO5s8nOVnA2E.jpeg?width=200&height=200",
-      "image": "static/startups/images/ee4d4528fd7c8d960892.jpg",
-      "image_url": "https://framerusercontent.com/images/1OR19A0R4lHQiBWenbunX0Sid4.jpg?width=1200&height=656",
-      "description": "Conveo: AI-moderated research interviews. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/c368f7b5f3a66540775d.jpg"
-    },
-    {
-      "id": "a21c9239ee46dc52",
-      "company": "Wonderful",
-      "company_url": "https://startups.gallery/companies/wonderful-ai",
-      "amount": "$550M",
-      "round": "Series C",
-      "date": "2026-09-02",
-      "investor": "Insight Partners",
-      "investor_url": "https://startups.gallery/investors/insight-partners",
-      "source_url": "https://www.wonderful.ai/blog-articles/wonderful-raises-550m-series-c",
-      "logo_url": "https://framerusercontent.com/images/WDNsV7PqW8XOUpfkfsBV1JDyNJM.jpeg?width=200&height=200",
-      "image": "static/startups/images/6ff897dec57e6f609ac7.png",
-      "image_url": "https://framerusercontent.com/images/uNt4yCV35HRwfZvzxrrQTD0.png?width=1200&height=630",
-      "description": "Wonderful: Enterprise agent platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/8beb3e5ba3ecb84d54b2.jpg"
     }
   ]
 }
