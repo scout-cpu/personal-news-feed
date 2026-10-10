@@ -1,7 +1,58 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-09T07:31:15.477997+00:00",
+  "fetched_at": "2026-10-10T07:18:47.383255+00:00",
   "items": [
+    {
+      "id": "75eb5755063d5e40",
+      "company": "TypeSafe AI",
+      "company_url": "https://startups.gallery/companies/typesafe-ai",
+      "amount": "$870M",
+      "round": "Series A",
+      "date": "2026-10-09",
+      "investor": "a16z",
+      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
+      "source_url": "https://typesafe.ai/blog/series-ai",
+      "logo_url": "https://framerusercontent.com/images/i3zZIcRmqD02bWIONGr1yMhuBUQ.png?width=400&height=400",
+      "logo": "static/startups/images/aab0281bc0fc56a2ac60.png",
+      "description": "TypeSafe AI: An AI lab building intelligence beyond chat. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/4aebb707f30b2e1cf473.png",
+      "image_url": "https://framerusercontent.com/images/f8kNiSC2dyAiH9gVNd9Sy1tQRA.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "7e3bf0b5f05a392c",
+      "company": "Oxide Computer Company",
+      "company_url": "https://startups.gallery/companies/oxide-computer-company",
+      "amount": "$445M",
+      "round": "Series D",
+      "date": "2026-10-09",
+      "investor": "Eclipse",
+      "investor_url": "https://startups.gallery/investors/eclipse",
+      "source_url": "https://www.prnewswire.com/news-releases/oxide-raises-445m-series-d-as-the-company-proves-vision-of-full-stack-cloud-infrastructure-enterprises-can-own-302903159.html",
+      "logo_url": "https://framerusercontent.com/images/r3Yp83ODRw4ydJemem9OkdpHisA.webp?width=200&height=200",
+      "logo": "static/startups/images/1aa212b2781e62b8169b.webp",
+      "description": "Oxide Computer Company: On prem cloud computer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/2355a66dca32fdd20f35.webp",
+      "image_url": "https://framerusercontent.com/images/nObRfh5DLmeAeHOWsbAtZ6LbSF8.webp?width=1115&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "460aab98f3933092",
+      "company": "Hone",
+      "company_url": "https://startups.gallery/companies/hone",
+      "amount": "$60M",
+      "round": "Seed",
+      "date": "2026-10-09",
+      "investor": "Benchmark",
+      "investor_url": "https://startups.gallery/investors/benchmark",
+      "source_url": "https://www.finsmes.com/2026/10/hone-raises-60m-in-funding-at-285m-valuation.html",
+      "logo_url": "https://framerusercontent.com/images/52XkiDzIPEUplIqoK6fpxdhtGQ.jpeg?width=200&height=200",
+      "logo": "static/startups/images/30577821cfc39f9ed37a.jpg",
+      "description": "Hone: AI Engines that own outcomes. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/3b3b8c6f5f41c0360962.jpg",
+      "image_url": "https://framerusercontent.com/images/jgtfCkTDvNBgnRuLXgtqC72i7Q.jpeg?width=1500&height=500",
+      "image_kind": "company artwork"
+    },
     {
       "id": "8af90e558b74e75e",
       "company": "Arena",
@@ -13,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/lightspeed-venture-partners",
       "source_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
       "logo_url": "https://framerusercontent.com/images/uQRCEXGjE0vfdM28Q3MMrO6xDOI.jpg?width=400&height=400",
-      "logo": "static/startups/images/06c43cbeb2b3b56c36a9.jpg",
-      "description": "Arena: Where AI meets the real world. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/9672256d7534c44fcd4d.jpg",
       "image_url": "https://framerusercontent.com/images/A7cewdTvbNl8bY4YwgtSAEToJko.jpeg?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Arena: Where AI meets the real world. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/06c43cbeb2b3b56c36a9.jpg"
     },
     {
       "id": "1cfa82707313084b",
@@ -30,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/sequoia-capital",
       "source_url": "https://www.mecka.ai/news/series-b",
       "logo_url": "https://framerusercontent.com/images/MkBTzue6uj0jIXC75x6xbp9hss.jpeg?width=200&height=200",
-      "logo": "static/startups/images/cc3e7f24dfa65658e47d.jpg",
-      "description": "Mecka: The data engine for physical AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/46f11ec7843671620a21.jpg",
       "image_url": "https://framerusercontent.com/images/rZyIEV9qQgAx27KmBuPs0uddWpU.jpg?width=1920&height=1080",
-      "image_kind": "company artwork"
+      "description": "Mecka: The data engine for physical AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/cc3e7f24dfa65658e47d.jpg"
     },
     {
       "id": "82d0fbceef6bcae4",
@@ -47,11 +98,11 @@
       "investor_url": "https://startups.gallery/investors/conversion-capital",
       "source_url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
       "logo_url": "https://framerusercontent.com/images/qB7mzILri6b3YgzlA4uDOhw4yCI.webp?width=200&height=200",
-      "logo": "static/startups/images/84117175130a0f551d91.webp",
-      "description": "Vesta: The future of mortgage infrastructure. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/07abda3c370646505b57.png",
       "image_url": "https://framerusercontent.com/images/KA2PHv5VrXV5xPmTgotdMoPi9I.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Vesta: The future of mortgage infrastructure. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/84117175130a0f551d91.webp"
     },
     {
       "id": "a5002c910c307115",
@@ -64,11 +115,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://app.dealroom.co/news/note/a16z-leads-16m-seed-for-ai-data-startup-preference-model",
       "logo_url": "https://framerusercontent.com/images/oeoZiV6LRA4E45wPQXV7CdX7vrw.jpg?width=400&height=400",
-      "logo": "static/startups/images/6d14de30ddd0ed18a370.jpg",
-      "description": "Preference Model: A superintelligence data research company. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/79ed1c19f5297c6d9c88.png",
       "image_url": "https://framerusercontent.com/images/gAPeuZazx0yMV3cEgl8sKnULOnU.png?width=764&height=401",
-      "image_kind": "company artwork"
+      "description": "Preference Model: A superintelligence data research company. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/6d14de30ddd0ed18a370.jpg"
     },
     {
       "id": "c3189cd4e0d3c841",
@@ -783,57 +834,6 @@
       "description": "Highstock: AI-native B2B marketplace. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/817cca34bc87aa4a7e6f.jpg"
-    },
-    {
-      "id": "eb44344d2b5720fd",
-      "company": "System",
-      "company_url": "https://startups.gallery/companies/system-labs",
-      "amount": "$20M",
-      "round": "Seed",
-      "date": "2026-09-09",
-      "investor": "Patron",
-      "investor_url": "https://startups.gallery/investors/patron",
-      "source_url": "https://www.prnewswire.com/news-releases/system-raises-20m-in-funding-to-become-the-trusted-peptide-native-platform-for-a-new-era-302873360.html",
-      "logo_url": "https://framerusercontent.com/images/1gwoUgJrnYFG7ULZ1Plwme2iimI.jpeg?width=200&height=200",
-      "image": "static/startups/images/ee0bccc426a08bf69917.png",
-      "image_url": "https://framerusercontent.com/images/NS0rg2Bjy55nguVEHP7uib080rw.png?width=1200&height=630",
-      "description": "System: Vertically integrated peptide platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/28761f48972cb66992ea.jpg"
-    },
-    {
-      "id": "9e54cc53326a1b0a",
-      "company": "Savvy Wealth",
-      "company_url": "https://startups.gallery/companies/savvy-wealth",
-      "amount": "$100M",
-      "round": "Series C",
-      "date": "2026-09-09",
-      "investor": "Halo Fund",
-      "investor_url": "https://startups.gallery/investors/halo-fund",
-      "source_url": "https://www.savvywealth.com/series-c",
-      "logo_url": "https://framerusercontent.com/images/NZVBHrFVmlHQBGmVe71Nv9DXwLY.png?width=400&height=400",
-      "image": "static/startups/images/17f296e744a055cabe76.jpg",
-      "image_url": "https://framerusercontent.com/images/MBcuSY8yZfcaAFosxDBucMyA.jpeg?width=1200&height=630",
-      "description": "Savvy Wealth: Digital-first wealth management. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/c4eda761c3bd3fb6dac3.png"
-    },
-    {
-      "id": "5ba958501701201f",
-      "company": "Lightfield",
-      "company_url": "https://startups.gallery/companies/lightfield",
-      "amount": "$47M",
-      "round": "Series A",
-      "date": "2026-09-09",
-      "investor": "a16z",
-      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
-      "source_url": "https://www.upstartsmedia.com/p/ai-sales-startup-lightfield-raises-47m",
-      "logo_url": "https://framerusercontent.com/images/4SlvY0Ep1HsGdLholZjtroE7rt8.webp?width=200&height=200",
-      "image": "static/startups/images/83f7ccdf07da39761e4f.webp",
-      "image_url": "https://framerusercontent.com/images/I5Umy16g0L9DFlVMXNJJQGN3VE.webp?width=1920&height=1080",
-      "description": "Lightfield: CRM engineered for the future. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/d6bdd5479f1803888822.webp"
     }
   ]
 }

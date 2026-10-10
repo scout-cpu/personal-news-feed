@@ -1,0 +1,576 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T07:18:42.652149+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50018817",
+        "section": "hackernews",
+        "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+        "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+        "score": 394,
+        "score_label": "394 points",
+        "author": "franze",
+        "published": "2026-10-09T11:03:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50018817"
+        }
+      },
+      {
+        "id": "hn-50023450",
+        "section": "hackernews",
+        "title": "Typesafe AI raises $870M at $7.5B",
+        "url": "https://typesafe.ai/blog/series-ai",
+        "score": 343,
+        "score_label": "343 points",
+        "author": "tosh",
+        "published": "2026-10-09T17:02:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50023450"
+        }
+      },
+      {
+        "id": "hn-50018350",
+        "section": "hackernews",
+        "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "score": 329,
+        "score_label": "329 points",
+        "author": "trakkstar",
+        "published": "2026-10-09T10:00:26+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50018350"
+        }
+      },
+      {
+        "id": "hn-50027118",
+        "section": "hackernews",
+        "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+        "score": 152,
+        "score_label": "152 points",
+        "author": "Zambyte",
+        "published": "2026-10-09T22:00:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50027118"
+        }
+      },
+      {
+        "id": "hn-50019056",
+        "section": "hackernews",
+        "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+        "score": 137,
+        "score_label": "137 points",
+        "author": "piratebroadcast",
+        "published": "2026-10-09T11:36:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50019056"
+        }
+      },
+      {
+        "id": "hn-50021763",
+        "section": "hackernews",
+        "title": "The super intelligence shit is a humiliation ritual for OpenAI",
+        "url": "https://bsky.app/profile/opinionhaver.bsky.social/post/3mxfo2mdjqs2z",
+        "score": 93,
+        "score_label": "93 points",
+        "author": "doener",
+        "published": "2026-10-09T15:18:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50021763"
+        }
+      },
+      {
+        "id": "hn-50024090",
+        "section": "hackernews",
+        "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+        "score": 89,
+        "score_label": "89 points",
+        "author": "matt_d",
+        "published": "2026-10-09T17:42:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50024090"
+        }
+      },
+      {
+        "id": "hn-50020947",
+        "section": "hackernews",
+        "title": "Why are coding agents so dumb?",
+        "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+        "score": 88,
+        "score_label": "88 points",
+        "author": "mtlynch",
+        "published": "2026-10-09T14:21:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50020947"
+        }
+      },
+      {
+        "id": "hn-50020856",
+        "section": "hackernews",
+        "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
+        "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+        "score": 70,
+        "score_label": "70 points",
+        "author": "rbanffy",
+        "published": "2026-10-09T14:14:08+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50020856"
+        }
+      },
+      {
+        "id": "hn-50021410",
+        "section": "hackernews",
+        "title": "Can you use autoregressive diffusion to generate market data?",
+        "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+        "score": 64,
+        "score_label": "64 points",
+        "author": "jsomers",
+        "published": "2026-10-09T14:56:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50021410"
+        }
+      },
+      {
+        "id": "hn-50026734",
+        "section": "hackernews",
+        "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+        "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+        "score": 55,
+        "score_label": "55 points",
+        "author": "danielmorozoff",
+        "published": "2026-10-09T21:25:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50026734"
+        }
+      },
+      {
+        "id": "hn-50027694",
+        "section": "hackernews",
+        "title": "Rewriting Prime Agent in Rust",
+        "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "piotrgrabowski",
+        "published": "2026-10-09T23:06:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50027694"
+        }
+      },
+      {
+        "id": "hn-50023293",
+        "section": "hackernews",
+        "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+        "url": "https://twitter.com/tomekkorbak/status/2108266859397283953",
+        "score": 45,
+        "score_label": "45 points",
+        "author": "doener",
+        "published": "2026-10-09T16:52:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50023293"
+        }
+      },
+      {
+        "id": "hn-50019860",
+        "section": "hackernews",
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+        "score": 34,
+        "score_label": "34 points",
+        "author": "pluc",
+        "published": "2026-10-09T13:00:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50019860"
+        }
+      },
+      {
+        "id": "hn-50025767",
+        "section": "hackernews",
+        "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
+        "url": "https://codeberg.org/ethical-foss/open-slopware",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "smartmic",
+        "published": "2026-10-09T19:50:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50025767"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2501.09223",
+        "section": "papers",
+        "title": "Foundations of Large Language Models",
+        "url": "https://huggingface.co/papers/2501.09223",
+        "score": 34,
+        "score_label": "34 upvotes",
+        "author": "Tong Xiao, Jingbo Zhu",
+        "published": "2026-10-07T20:00:00.000Z",
+        "snippet": "This is a book about large language models. As indicated by the title, it primarily focuses on foundational concepts rather than comprehensive coverage of all cutting-edge technologies. The book is structured into six m…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2501.09223"
+        }
+      },
+      {
+        "id": "paper-2610.12421",
+        "section": "papers",
+        "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+        "url": "https://huggingface.co/papers/2610.12421",
+        "score": 33,
+        "score_label": "33 upvotes",
+        "author": "Luping Liu, Bingyi Kang, Yifan Wang et al.",
+        "published": "2026-10-07T20:00:00.000Z",
+        "snippet": "Dense correspondence matching has historically been bounded by simplifying spatio-temporal priors, such as smooth motion and rigid geometry. While effective for classical tasks, these assumptions break down in image edi…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.12421"
+        }
+      },
+      {
+        "id": "paper-2610.09087",
+        "section": "papers",
+        "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models",
+        "url": "https://huggingface.co/papers/2610.09087",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Tobias Braun, Nils Loose, Alexander Herzog et al.",
+        "published": "2026-10-05T20:00:00.000Z",
+        "snippet": "Large language models are informing decisions with ever-higher stakes. As the consequences of their errors grow, a central question becomes harder to ignore: how much can we trust an individual answer? Yet recognizing w…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.09087"
+        }
+      },
+      {
+        "id": "paper-2610.12289",
+        "section": "papers",
+        "title": "TestPrism: Rethinking Test Evaluation Beyond a Single Reference",
+        "url": "https://huggingface.co/papers/2610.12289",
+        "score": 29,
+        "score_label": "29 upvotes",
+        "author": "Han Li, Lingxiang Hu, Jiacheng Huang et al.",
+        "published": "2026-10-07T20:00:00.000Z",
+        "snippet": "Large language model (LLM) coding agents have advanced test generation across diverse programming tasks. However, the common practice of evaluating tests against a single reference solution overlooks alternative valid i…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.12289"
+        }
+      },
+      {
+        "id": "paper-2610.11794",
+        "section": "papers",
+        "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+        "url": "https://huggingface.co/papers/2610.11794",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "Haoyu Zhao, Zhengxu Yu, Zhiyuan He et al.",
+        "published": "2026-10-07T20:00:00.000Z",
+        "snippet": "Learning to act in unfamiliar environments requires agents to infer how the world works and revise that understanding as new evidence arrives. Yet limited observations can support multiple world models that explain past…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.11794"
+        }
+      },
+      {
+        "id": "paper-2610.02967",
+        "section": "papers",
+        "title": "Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards",
+        "url": "https://huggingface.co/papers/2610.02967",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Yuanhao Ban, I-Hung Hsu, Anastasios Angelopoulos et al.",
+        "published": "2026-10-01T20:00:00.000Z",
+        "snippet": "Recent text-to-image generation models have achieved remarkable visual quality, but improving them through post-training remains challenging because no single reward signal captures the full range of human preference. I…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.02967"
+        }
+      },
+      {
+        "id": "paper-2610.12419",
+        "section": "papers",
+        "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+        "url": "https://huggingface.co/papers/2610.12419",
+        "score": 19,
+        "score_label": "19 upvotes",
+        "author": "Hongyu Li, Manyuan Zhang, Kaituo Feng et al.",
+        "published": "2026-10-07T20:00:00.000Z",
+        "snippet": "Single-image, multi-image, and video deep research require different visual operations but share a workflow of visual grounding, external retrieval, and fact composition. A key challenge is to preserve the dependencies…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.12419"
+        }
+      },
+      {
+        "id": "paper-2610.12423",
+        "section": "papers",
+        "title": "Pumpire: Unified Benchmark for Metric Distance Estimation",
+        "url": "https://huggingface.co/papers/2610.12423",
+        "score": 14,
+        "score_label": "14 upvotes",
+        "author": "Siyu Chen, Zehan Wang, Jiayang Xu et al.",
+        "published": "2026-10-07T20:00:00.000Z",
+        "snippet": "We present Pumpire, a unified benchmark for evaluating metric point-pair distance estimation capability of both image- and video-level 3D foundation models, with or without depth priors. In contrast to previous approach…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.12423"
+        }
+      },
+      {
+        "id": "paper-2610.12437",
+        "section": "papers",
+        "title": "Density Ratio Estimation with Stein Displacement Fields",
+        "url": "https://arxiv.org/abs/2610.12437",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Song Liu",
+        "published": "2026-10-08T17:57:33Z",
+        "snippet": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another. Although both off…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-google/embeddinggemma-2",
+        "section": "models",
+        "title": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "score": 1395,
+        "score_label": "1,395 likes · 29,185 downloads",
+        "author": "google",
+        "published": "2026-09-14T14:53:42.000Z",
+        "snippet": "feature-extraction · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Cloudflare/clef",
+        "section": "models",
+        "title": "Cloudflare/clef",
+        "url": "https://huggingface.co/Cloudflare/clef",
+        "score": 1956,
+        "score_label": "1,956 likes · 12,066 downloads",
+        "author": "Cloudflare",
+        "published": "2026-09-30T21:15:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Aleph-Alpha/Kolibri-1",
+        "section": "models",
+        "title": "Aleph-Alpha/Kolibri-1",
+        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "score": 847,
+        "score_label": "847 likes · 8,474 downloads",
+        "author": "Aleph-Alpha",
+        "published": "2026-10-02T05:54:02.000Z",
+        "snippet": "text-generation · vllm",
+        "extra_link": null
+      },
+      {
+        "id": "model-jialinyyzz/humanizer",
+        "section": "models",
+        "title": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "score": 810,
+        "score_label": "810 likes · 29,470 downloads",
+        "author": "jialinyyzz",
+        "published": "2026-09-11T05:00:16.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "score": 3796,
+        "score_label": "3,796 likes · 2,013,268 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "section": "models",
+        "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "score": 676,
+        "score_label": "676 likes · 38,740 downloads",
+        "author": "Venastine-Research",
+        "published": "2026-09-17T18:37:31.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 7094,
+        "score_label": "7,094 likes · 1,687,531 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Cloudflare/clef-flash",
+        "section": "models",
+        "title": "Cloudflare/clef-flash",
+        "url": "https://huggingface.co/Cloudflare/clef-flash",
+        "score": 719,
+        "score_label": "719 likes · 18,971 downloads",
+        "author": "Cloudflare",
+        "published": "2026-09-30T21:15:36.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen-Image-2.1-Turbo",
+        "section": "models",
+        "title": "Qwen/Qwen-Image-2.1-Turbo",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "score": 348,
+        "score_label": "348 likes · 0 downloads",
+        "author": "Qwen",
+        "published": "2026-10-09T04:50:01.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 17366,
+        "score_label": "17,366 likes · 6,783,589 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+        "section": "newsletters",
+        "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+        "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-10T06:45:57+00:00",
+        "snippet": "Wow.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/biohub-deepmind",
+        "section": "newsletters",
+        "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+        "url": "https://www.latent.space/p/biohub-deepmind",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-10T00:31:26+00:00",
+        "snippet": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind&#8217;s Pushmeet Kohli and Biohub&#8217;s Sal Candido are rethinking what it takes to build AI that truly understands bi…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+        "section": "newsletters",
+        "title": "I expect rapid progress but not towards general superintelligence",
+        "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-09T21:33:47+00:00",
+        "snippet": "I&#8217;ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn&#8217;t really know why I doubted it.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-60f",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-08T23:29:43+00:00",
+        "snippet": "a quiet day.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/periodic",
+        "section": "newsletters",
+        "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+        "url": "https://www.latent.space/p/periodic",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-08T16:27:54+00:00",
+        "snippet": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+        "section": "newsletters",
+        "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+        "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-08T07:27:51+00:00",
+        "snippet": "yay small models",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/stacklok",
+        "section": "newsletters",
+        "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+        "url": "https://www.latent.space/p/stacklok",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-07T14:10:45+00:00",
+        "snippet": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
+        "extra_link": null
+      }
+    ]
+  }
+}
