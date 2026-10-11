@@ -1,0 +1,471 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T07:21:39.321298+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50031614",
+        "section": "hackernews",
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "score": 280,
+        "score_label": "280 points",
+        "author": "rociiu",
+        "published": "2026-10-10T10:52:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50031614"
+        }
+      },
+      {
+        "id": "hn-50035886",
+        "section": "hackernews",
+        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+        "score": 158,
+        "score_label": "158 points",
+        "author": "arkj",
+        "published": "2026-10-10T18:48:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50035886"
+        }
+      },
+      {
+        "id": "hn-50039092",
+        "section": "hackernews",
+        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+        "score": 77,
+        "score_label": "77 points",
+        "author": "davikr",
+        "published": "2026-10-11T02:02:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50039092"
+        }
+      },
+      {
+        "id": "hn-50033517",
+        "section": "hackernews",
+        "title": "My personal AI agent posted my bank details on company Slack",
+        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+        "score": 61,
+        "score_label": "61 points",
+        "author": "bhrlady",
+        "published": "2026-10-10T14:46:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50033517"
+        }
+      },
+      {
+        "id": "hn-50038383",
+        "section": "hackernews",
+        "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+        "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "ojosilva",
+        "published": "2026-10-11T00:08:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50038383"
+        }
+      },
+      {
+        "id": "hn-50031156",
+        "section": "hackernews",
+        "title": "AI Data Centers Not Paying Their Costs, Will Keep Using NDAs and Seek Tax Breaks",
+        "url": "https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks/",
+        "score": 56,
+        "score_label": "56 points",
+        "author": "DeepLogin",
+        "published": "2026-10-10T09:30:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50031156"
+        }
+      },
+      {
+        "id": "hn-50034363",
+        "section": "hackernews",
+        "title": "AI Is Throwing a Roadside Picnic",
+        "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "young_mete",
+        "published": "2026-10-10T16:19:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50034363"
+        }
+      },
+      {
+        "id": "hn-50038865",
+        "section": "hackernews",
+        "title": "Anthropic asks users to stop being mean to Claude",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+        "score": 46,
+        "score_label": "46 points",
+        "author": "alex_young",
+        "published": "2026-10-11T01:17:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50038865"
+        }
+      },
+      {
+        "id": "hn-50035550",
+        "section": "hackernews",
+        "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+        "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "guessmyname",
+        "published": "2026-10-10T18:10:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50035550"
+        }
+      },
+      {
+        "id": "hn-50032064",
+        "section": "hackernews",
+        "title": "There's little that's \"inevitable\" about AI",
+        "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+        "score": 40,
+        "score_label": "40 points",
+        "author": "rizsyed1",
+        "published": "2026-10-10T12:04:04+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50032064"
+        }
+      },
+      {
+        "id": "hn-50039627",
+        "section": "hackernews",
+        "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "jonbaer",
+        "published": "2026-10-11T03:41:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50039627"
+        }
+      },
+      {
+        "id": "hn-50038640",
+        "section": "hackernews",
+        "title": "Generative AI scandal has come to one of Nikon's competitions",
+        "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+        "score": 33,
+        "score_label": "33 points",
+        "author": "DASD",
+        "published": "2026-10-11T00:47:37+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50038640"
+        }
+      },
+      {
+        "id": "hn-50037299",
+        "section": "hackernews",
+        "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "PicardManeuver",
+        "published": "2026-10-10T21:19:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50037299"
+        }
+      },
+      {
+        "id": "hn-50039630",
+        "section": "hackernews",
+        "title": "AI agents in a stand-up call",
+        "url": "https://atoll92.github.io/agent-standup/",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "jonbaer",
+        "published": "2026-10-11T03:42:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50039630"
+        }
+      },
+      {
+        "id": "hn-50036390",
+        "section": "hackernews",
+        "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+        "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "CharlesW",
+        "published": "2026-10-10T19:39:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50036390"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.11287",
+        "section": "papers",
+        "title": "REMORY: Learning Residual Memory for Context Compaction",
+        "url": "https://huggingface.co/papers/2610.11287",
+        "score": 24,
+        "score_label": "24 upvotes",
+        "author": "Hanchen Xia, Baoyou Chen, Yutang Ge et al.",
+        "published": "2026-10-07T20:00:00.000Z",
+        "snippet": "Long-horizon agents compact their history to continue within a finite context window, but a textual summary alone may not support every subsequent decision. We introduce REMORY, a neural memory network that supplements…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.11287"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-google/embeddinggemma-2",
+        "section": "models",
+        "title": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "score": 1547,
+        "score_label": "1,547 likes · 45,605 downloads",
+        "author": "google",
+        "published": "2026-09-14T14:53:42.000Z",
+        "snippet": "feature-extraction · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-jialinyyzz/humanizer",
+        "section": "models",
+        "title": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "score": 987,
+        "score_label": "987 likes · 33,664 downloads",
+        "author": "jialinyyzz",
+        "published": "2026-09-11T05:00:16.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Cloudflare/clef",
+        "section": "models",
+        "title": "Cloudflare/clef",
+        "url": "https://huggingface.co/Cloudflare/clef",
+        "score": 2005,
+        "score_label": "2,005 likes · 13,579 downloads",
+        "author": "Cloudflare",
+        "published": "2026-09-30T21:15:35.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "score": 3901,
+        "score_label": "3,901 likes · 2,096,562 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Aleph-Alpha/Kolibri-1",
+        "section": "models",
+        "title": "Aleph-Alpha/Kolibri-1",
+        "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+        "score": 875,
+        "score_label": "875 likes · 10,496 downloads",
+        "author": "Aleph-Alpha",
+        "published": "2026-10-02T05:54:02.000Z",
+        "snippet": "text-generation · vllm",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen-Image-2.1-Turbo",
+        "section": "models",
+        "title": "Qwen/Qwen-Image-2.1-Turbo",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "score": 476,
+        "score_label": "476 likes · 2,138 downloads",
+        "author": "Qwen",
+        "published": "2026-10-09T04:50:01.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 7210,
+        "score_label": "7,210 likes · 1,720,888 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "section": "models",
+        "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+        "score": 686,
+        "score_label": "686 likes · 45,199 downloads",
+        "author": "Venastine-Research",
+        "published": "2026-09-17T18:37:31.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 17455,
+        "score_label": "17,455 likes · 6,768,654 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-canberkkkkkk/ema-lightning",
+        "section": "models",
+        "title": "canberkkkkkk/ema-lightning",
+        "url": "https://huggingface.co/canberkkkkkk/ema-lightning",
+        "score": 347,
+        "score_label": "347 likes · 15,710 downloads",
+        "author": "canberkkkkkk",
+        "published": "2026-10-01T14:18:49.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/nyc2026",
+        "section": "newsletters",
+        "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+        "url": "https://www.latent.space/p/nyc2026",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-10T22:07:17+00:00",
+        "snippet": "Tomorrow and Tuesday. If you see this you&#8217;re in!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/standard-bots",
+        "section": "newsletters",
+        "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+        "url": "https://www.latent.space/p/standard-bots",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-10T14:04:11+00:00",
+        "snippet": "Inside Standard Bots&#8217; AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+        "section": "newsletters",
+        "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+        "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-10T06:45:57+00:00",
+        "snippet": "Wow.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/biohub-deepmind",
+        "section": "newsletters",
+        "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+        "url": "https://www.latent.space/p/biohub-deepmind",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-10T00:31:26+00:00",
+        "snippet": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind&#8217;s Pushmeet Kohli and Biohub&#8217;s Sal Candido are rethinking what it takes to build AI that truly understands bi…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+        "section": "newsletters",
+        "title": "I expect rapid progress but not towards general superintelligence",
+        "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-09T21:33:47+00:00",
+        "snippet": "I&#8217;ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn&#8217;t really know why I doubted it.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-60f",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-08T23:29:43+00:00",
+        "snippet": "a quiet day.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/periodic",
+        "section": "newsletters",
+        "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+        "url": "https://www.latent.space/p/periodic",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-08T16:27:54+00:00",
+        "snippet": "A special Science pod and Engineering pod crossover.. with Forward Deployed Engineering kicker!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+        "section": "newsletters",
+        "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+        "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-08T07:27:51+00:00",
+        "snippet": "yay small models",
+        "extra_link": null
+      }
+    ]
+  }
+}

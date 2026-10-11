@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-10T07:18:47.383255+00:00",
+  "fetched_at": "2026-10-11T07:21:50.176506+00:00",
   "items": [
     {
       "id": "75eb5755063d5e40",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://typesafe.ai/blog/series-ai",
       "logo_url": "https://framerusercontent.com/images/i3zZIcRmqD02bWIONGr1yMhuBUQ.png?width=400&height=400",
-      "logo": "static/startups/images/aab0281bc0fc56a2ac60.png",
-      "description": "TypeSafe AI: An AI lab building intelligence beyond chat. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/4aebb707f30b2e1cf473.png",
       "image_url": "https://framerusercontent.com/images/f8kNiSC2dyAiH9gVNd9Sy1tQRA.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "TypeSafe AI: An AI lab building intelligence beyond chat. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/aab0281bc0fc56a2ac60.png"
     },
     {
       "id": "7e3bf0b5f05a392c",
@@ -30,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/eclipse",
       "source_url": "https://www.prnewswire.com/news-releases/oxide-raises-445m-series-d-as-the-company-proves-vision-of-full-stack-cloud-infrastructure-enterprises-can-own-302903159.html",
       "logo_url": "https://framerusercontent.com/images/r3Yp83ODRw4ydJemem9OkdpHisA.webp?width=200&height=200",
-      "logo": "static/startups/images/1aa212b2781e62b8169b.webp",
-      "description": "Oxide Computer Company: On prem cloud computer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/2355a66dca32fdd20f35.webp",
       "image_url": "https://framerusercontent.com/images/nObRfh5DLmeAeHOWsbAtZ6LbSF8.webp?width=1115&height=630",
-      "image_kind": "company artwork"
+      "description": "Oxide Computer Company: On prem cloud computer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/1aa212b2781e62b8169b.webp"
     },
     {
       "id": "460aab98f3933092",
@@ -47,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/benchmark",
       "source_url": "https://www.finsmes.com/2026/10/hone-raises-60m-in-funding-at-285m-valuation.html",
       "logo_url": "https://framerusercontent.com/images/52XkiDzIPEUplIqoK6fpxdhtGQ.jpeg?width=200&height=200",
-      "logo": "static/startups/images/30577821cfc39f9ed37a.jpg",
-      "description": "Hone: AI Engines that own outcomes. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/3b3b8c6f5f41c0360962.jpg",
       "image_url": "https://framerusercontent.com/images/jgtfCkTDvNBgnRuLXgtqC72i7Q.jpeg?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Hone: AI Engines that own outcomes. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/30577821cfc39f9ed37a.jpg"
     },
     {
       "id": "8af90e558b74e75e",
