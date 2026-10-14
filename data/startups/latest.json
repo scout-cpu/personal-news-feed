@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-13T07:51:14.076898+00:00",
+  "fetched_at": "2026-10-14T06:16:37.159019+00:00",
   "items": [
+    {
+      "id": "588f431b673fc484",
+      "company": "Pluto Security",
+      "company_url": "https://startups.gallery/companies/pluto-security",
+      "amount": "$42M",
+      "round": "Series A",
+      "date": "2026-10-13",
+      "investor": "TLV",
+      "investor_url": "https://startups.gallery/investors/tlv",
+      "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "logo_url": "https://framerusercontent.com/images/w89e0WYt39Jpi6xf0S2pvwELwO8.jpeg?width=200&height=200",
+      "logo": "static/startups/images/7020fea247328a7ebeff.jpg",
+      "description": "Pluto Security: AI Workspace Protection. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/469337b3e6741002e1d9.png",
+      "image_url": "https://framerusercontent.com/images/5VtQlotXT5uI7OCum8mmf5MAcw.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "43c3bd441f6e6672",
+      "company": "Causa Prima",
+      "company_url": "https://startups.gallery/companies/causa-prima",
+      "amount": "$20M",
+      "round": "Seed",
+      "date": "2026-10-13",
+      "investor": "Base10 Partners",
+      "investor_url": "https://startups.gallery/investors/base10-partners",
+      "source_url": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/",
+      "logo_url": "https://framerusercontent.com/images/HwXPOFGpGUTiAwSMYf6IVM0o.jpeg?width=200&height=200",
+      "logo": "static/startups/images/0ed6a4b1fd2ab8c06efa.jpg",
+      "description": "Causa Prima: Agent-to-agent network for finance. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/029a862f8c2163fe44fc.jpg",
+      "image_url": "https://framerusercontent.com/images/pEu0Wb9ltW5LaBa7bZrP2o5aAI.jpg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "28ecfeea01b9fd17",
       "company": "Scarlet",
@@ -13,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/headline",
       "source_url": "https://www.scarlet.cc/blog/scarlet-s-50m-series-b-building-a-global-ai-certification-body",
       "logo_url": "https://framerusercontent.com/images/WugWJdSUvox9pes46FDClmTUP2I.jpeg?width=200&height=200",
-      "logo": "static/startups/images/44ee97e08f75aefcb6ce.jpg",
-      "description": "Scarlet: Global medical device certification. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/44ee97e08f75aefcb6ce.jpg",
       "image_url": "https://framerusercontent.com/images/WugWJdSUvox9pes46FDClmTUP2I.jpeg?width=200&height=200",
-      "image_kind": "logo"
+      "description": "Scarlet: Global medical device certification. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "logo",
+      "logo": "static/startups/images/44ee97e08f75aefcb6ce.jpg"
     },
     {
       "id": "75eb5755063d5e40",
@@ -800,40 +834,6 @@
       "description": "Profound: Be more visible in AI Search. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/1802d3a542a3afad1131.webp"
-    },
-    {
-      "id": "c51a346fd4f979d6",
-      "company": "Temporal",
-      "company_url": "https://startups.gallery/companies/temporal",
-      "amount": "$550M",
-      "round": "Series E",
-      "date": "2026-09-14",
-      "investor": "Lightspeed",
-      "investor_url": "https://startups.gallery/investors/lightspeed-venture-partners",
-      "source_url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-      "logo_url": "https://framerusercontent.com/images/wm4ZpUEYaYxtCHDkWRvEU8sY.webp?width=200&height=200",
-      "image": "static/startups/images/32c050139361fa3f51a1.jpg",
-      "image_url": "https://framerusercontent.com/images/2eEEdo6jjtZPHxxesTyMWG9N91w.jpeg?width=1500&height=500",
-      "description": "Temporal: Build invincible apps. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/acc2e5c47e20402b6eba.webp"
-    },
-    {
-      "id": "aca36ba417c397ff",
-      "company": "Positron",
-      "company_url": "https://startups.gallery/companies/positron",
-      "amount": "$875M",
-      "round": "Series C",
-      "date": "2026-09-10",
-      "investor": "NEA",
-      "investor_url": "https://startups.gallery/investors/new-enterprise-associates",
-      "source_url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
-      "logo_url": "https://framerusercontent.com/images/l0yozcOpPbVUYqCEvFrVxrtUOWM.webp?width=200&height=200",
-      "image": "static/startups/images/62de7acb55c71f40fd50.webp",
-      "image_url": "https://framerusercontent.com/images/09B6OzPen3ZiRNro4FwiB1iyw.webp?width=1800&height=963",
-      "description": "Positron: Energy-efficient AI chips. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/bd8d263d5cec5c4a54bc.webp"
     }
   ]
 }
