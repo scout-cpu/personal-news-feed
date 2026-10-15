@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-14T06:16:37.159019+00:00",
+  "fetched_at": "2026-10-15T05:58:47.127561+00:00",
   "items": [
+    {
+      "id": "0024a632bca0b5fb",
+      "company": "Modal",
+      "company_url": "https://startups.gallery/companies/modal",
+      "amount": "$750M",
+      "round": "Series D",
+      "date": "2026-10-14",
+      "investor": "Accel",
+      "investor_url": "https://startups.gallery/investors/accel",
+      "source_url": "https://x.com/modal/status/2110379972502139213",
+      "logo_url": "https://framerusercontent.com/images/qzTGrkS2Zp1Vta3Bq6TOchG6QQ.webp?width=200&height=200",
+      "logo": "static/startups/images/e070efa1111c07cba579.webp",
+      "description": "Modal: The platform for production AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/2e38297fd55183a02c76.jpg",
+      "image_url": "https://framerusercontent.com/images/1gFGaPjFyKK6lcNhXOiRufSJis.jpg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "588f431b673fc484",
       "company": "Pluto Security",
@@ -13,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/tlv",
       "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
       "logo_url": "https://framerusercontent.com/images/w89e0WYt39Jpi6xf0S2pvwELwO8.jpeg?width=200&height=200",
-      "logo": "static/startups/images/7020fea247328a7ebeff.jpg",
-      "description": "Pluto Security: AI Workspace Protection. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/469337b3e6741002e1d9.png",
       "image_url": "https://framerusercontent.com/images/5VtQlotXT5uI7OCum8mmf5MAcw.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Pluto Security: AI Workspace Protection. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/7020fea247328a7ebeff.jpg"
     },
     {
       "id": "43c3bd441f6e6672",
@@ -30,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/base10-partners",
       "source_url": "https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents/",
       "logo_url": "https://framerusercontent.com/images/HwXPOFGpGUTiAwSMYf6IVM0o.jpeg?width=200&height=200",
-      "logo": "static/startups/images/0ed6a4b1fd2ab8c06efa.jpg",
-      "description": "Causa Prima: Agent-to-agent network for finance. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/029a862f8c2163fe44fc.jpg",
       "image_url": "https://framerusercontent.com/images/pEu0Wb9ltW5LaBa7bZrP2o5aAI.jpg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Causa Prima: Agent-to-agent network for finance. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/0ed6a4b1fd2ab8c06efa.jpg"
     },
     {
       "id": "28ecfeea01b9fd17",
@@ -817,23 +834,6 @@
       "description": "Factory: Agent-native software development. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/6a8b7dffcb8e7481498e.webp"
-    },
-    {
-      "id": "9c719c8f4fbed68d",
-      "company": "Profound",
-      "company_url": "https://startups.gallery/companies/profound",
-      "amount": "$180M",
-      "round": "Series D",
-      "date": "2026-09-15",
-      "investor": "Sequoia",
-      "investor_url": "https://startups.gallery/investors/sequoia-capital",
-      "source_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "logo_url": "https://framerusercontent.com/images/hB6uJSNa8vvXuWs639K6vBaY.webp?width=400&height=400",
-      "image": "static/startups/images/f7d1cd8e9cef33549894.webp",
-      "image_url": "https://framerusercontent.com/images/TjgIwCQrG4aVkyiPfhY2PXH9pE.webp?width=2112&height=1188",
-      "description": "Profound: Be more visible in AI Search. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/1802d3a542a3afad1131.webp"
     }
   ]
 }
