@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-15T05:58:47.127561+00:00",
+  "fetched_at": "2026-10-16T05:57:32.160365+00:00",
   "items": [
+    {
+      "id": "56c7fb1d4d254762",
+      "company": "North",
+      "company_url": "https://startups.gallery/companies/north-cloud",
+      "amount": "$60M",
+      "round": "Series B",
+      "date": "2026-10-15",
+      "investor": "PeakSpan Capital",
+      "investor_url": "https://startups.gallery/investors/peakspan-capital",
+      "source_url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html",
+      "logo_url": "https://framerusercontent.com/images/X8HDQ2PAqagxk5rkIl4YL559W5A.jpeg?width=200&height=200",
+      "logo": "static/startups/images/43837557ea692802a9ef.jpg",
+      "description": "North: Financial operating system for your cloud. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/a7a2daef796609d5ff7c.jpg",
+      "image_url": "https://framerusercontent.com/images/0bayVRvkJisqCzySAOrtrW0qqxs.jpg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "ada1d041955d90fe",
+      "company": "Fragment",
+      "company_url": "https://startups.gallery/companies/fragment",
+      "amount": "$12M",
+      "round": "Series A",
+      "date": "2026-10-14",
+      "investor": "FirstMark",
+      "investor_url": "https://startups.gallery/investors/firstmark",
+      "source_url": "https://x.com/neckelthomas/status/2110368313561805276?s=20",
+      "logo_url": "https://framerusercontent.com/images/hFNwj4iH9bZpXwOvteVztMuOL58.webp?width=200&height=200",
+      "logo": "static/startups/images/9d9f9dd1e04e738ae364.webp",
+      "description": "Fragment: The financial system for agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/0b084ee3541d24fedb11.png",
+      "image_url": "https://framerusercontent.com/images/PDCi2FtvYIh2xaOgRK4J7JabM.png?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "0024a632bca0b5fb",
       "company": "Modal",
@@ -13,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/accel",
       "source_url": "https://x.com/modal/status/2110379972502139213",
       "logo_url": "https://framerusercontent.com/images/qzTGrkS2Zp1Vta3Bq6TOchG6QQ.webp?width=200&height=200",
-      "logo": "static/startups/images/e070efa1111c07cba579.webp",
-      "description": "Modal: The platform for production AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/2e38297fd55183a02c76.jpg",
       "image_url": "https://framerusercontent.com/images/1gFGaPjFyKK6lcNhXOiRufSJis.jpg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Modal: The platform for production AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/e070efa1111c07cba579.webp"
     },
     {
       "id": "588f431b673fc484",
@@ -341,6 +375,23 @@
       "description": "Armadin: AI-native autonomous security platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/3ae5dd8a3cb6df5cb1e6.jpg"
+    },
+    {
+      "id": "6d0247045409493d",
+      "company": "Volantis",
+      "company_url": "https://startups.gallery/companies/volantis",
+      "amount": "$88M",
+      "round": "Series A",
+      "date": "2026-10-01",
+      "investor": "Lachy Groom",
+      "investor_url": "https://startups.gallery/investors/lachy-groom",
+      "source_url": "https://www.prnewswire.com/news-releases/volantis-raises-88m-series-a-to-demolish-the-ai-memory-wall-with-photonics-302895940.html",
+      "logo_url": "https://framerusercontent.com/images/Awlw3ANN7zbSG4wKo4yfZ9nk.png?width=200&height=200",
+      "logo": "static/startups/images/68120e6c6515b450e40e.png",
+      "description": "Volantis: Photonics, but without silicon photonics. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/4409f4ce877740dde4ed.png",
+      "image_url": "https://framerusercontent.com/images/97A3ntrJoB6lPWeY6ekED7baqQ.png?width=1200&height=630",
+      "image_kind": "company artwork"
     },
     {
       "id": "a54d8631872110f6",
@@ -783,57 +834,6 @@
       "description": "TypeSafe AI: An AI lab building intelligence beyond chat. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/aab0281bc0fc56a2ac60.png"
-    },
-    {
-      "id": "439bc31fe86b9568",
-      "company": "Zero",
-      "company_url": "https://startups.gallery/companies/zero",
-      "amount": "$10.3M",
-      "round": "Seed",
-      "date": "2026-09-15",
-      "investor": "Primary",
-      "investor_url": "https://startups.gallery/investors/primary",
-      "source_url": "https://zero.inc/blog/zero-raises-seed-round",
-      "logo_url": "https://framerusercontent.com/images/Ru4LH7cjKAukKlMBg54tupAwb0.jpeg?width=400&height=400",
-      "image": "static/startups/images/e549722f2dd4d2b98b0a.png",
-      "image_url": "https://framerusercontent.com/images/kp5MLG7qInTWwKa0gF0Ms65U0LA.png?width=1200&height=630",
-      "description": "Zero: AI native CRM and GTM platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/1de4d7159c92a956eb59.jpg"
-    },
-    {
-      "id": "cdb5bfab67a9c30e",
-      "company": "Artificial Intelligence Underwriting Company",
-      "company_url": "https://startups.gallery/companies/aiuc",
-      "amount": "$40M",
-      "round": "Series A",
-      "date": "2026-09-15",
-      "investor": "Ribbit Capital",
-      "investor_url": "https://startups.gallery/investors/ribbit-capital",
-      "source_url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/?utm_medium=organic_social&utm_source=TWITTER",
-      "logo_url": "https://framerusercontent.com/images/sq5BGZ9FKho4nVFMRisDDAc5nw.webp?width=200&height=200",
-      "image": "static/startups/images/c60cebb98ee459347fa5.png",
-      "image_url": "https://framerusercontent.com/images/69XwRYzwfDVBy3LCRvX3wJkhL4.png?width=1200&height=630",
-      "description": "Artificial Intelligence Underwriting Company: The world's first standard for AI agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/102c2fda56a72a338ba1.webp"
-    },
-    {
-      "id": "060e110438db3d45",
-      "company": "Factory",
-      "company_url": "https://startups.gallery/companies/factory",
-      "amount": "$200M",
-      "round": "Venture",
-      "date": "2026-09-15",
-      "investor": "Blackstone",
-      "investor_url": "https://startups.gallery/investors/blackstone",
-      "source_url": "https://x.com/matanSF/status/2099906259734654984",
-      "logo_url": "https://framerusercontent.com/images/rdPBjYaJLquSaUvwhySUQ4OYbH4.webp?width=200&height=200",
-      "image": "static/startups/images/996345d31b297f0f5cb7.png",
-      "image_url": "https://framerusercontent.com/images/0I858rc2zOo3DlwqVOau0b0377w.png?width=1200&height=630",
-      "description": "Factory: Agent-native software development. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/6a8b7dffcb8e7481498e.webp"
     }
   ]
 }
