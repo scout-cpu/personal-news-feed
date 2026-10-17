@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T05:43:25.011519+00:00",
+  "errors": [
+    "papers"
+  ],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50122800",
+        "section": "hackernews",
+        "title": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "score": 789,
+        "score_label": "789 points",
+        "author": "ahlCVA",
+        "published": "2026-10-16T18:55:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50122800"
+        }
+      },
+      {
+        "id": "hn-50121179",
+        "section": "hackernews",
+        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "score": 456,
+        "score_label": "456 points",
+        "author": "speckx",
+        "published": "2026-10-16T17:08:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50121179"
+        }
+      },
+      {
+        "id": "hn-50122951",
+        "section": "hackernews",
+        "title": "How the Claude Code team does code review",
+        "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+        "score": 292,
+        "score_label": "292 points",
+        "author": "pretext",
+        "published": "2026-10-16T19:04:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50122951"
+        }
+      },
+      {
+        "id": "hn-50122431",
+        "section": "hackernews",
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "score": 244,
+        "score_label": "244 points",
+        "author": "Anon84",
+        "published": "2026-10-16T18:32:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50122431"
+        }
+      },
+      {
+        "id": "hn-50122112",
+        "section": "hackernews",
+        "title": "Anthropic assigned highest junk credit rating in June",
+        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+        "score": 238,
+        "score_label": "238 points",
+        "author": "JumpCrisscross",
+        "published": "2026-10-16T18:11:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50122112"
+        }
+      },
+      {
+        "id": "hn-50122878",
+        "section": "hackernews",
+        "title": "You could have invented transformers from memory",
+        "url": "https://alexwang.ai/posts/associative-memory/",
+        "score": 213,
+        "score_label": "213 points",
+        "author": "speckx",
+        "published": "2026-10-16T19:01:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50122878"
+        }
+      },
+      {
+        "id": "hn-50118688",
+        "section": "hackernews",
+        "title": "Show HN: Gemini 4 Argon plays StarCraft",
+        "url": "https://starskirmish.com/bench/v0-2/",
+        "score": 206,
+        "score_label": "206 points",
+        "author": "__cayenne__",
+        "published": "2026-10-16T14:18:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50118688"
+        }
+      },
+      {
+        "id": "hn-50119991",
+        "section": "hackernews",
+        "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+        "score": 194,
+        "score_label": "194 points",
+        "author": "magoghm",
+        "published": "2026-10-16T15:55:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50119991"
+        }
+      },
+      {
+        "id": "hn-50121939",
+        "section": "hackernews",
+        "title": "Designing more efficient quantum circuits with Claude",
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "score": 120,
+        "score_label": "120 points",
+        "author": "pretext",
+        "published": "2026-10-16T18:00:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50121939"
+        }
+      },
+      {
+        "id": "hn-50121562",
+        "section": "hackernews",
+        "title": "Anthropic Console overcharged my card 100x due to internationalization input bug",
+        "url": "https://news.ycombinator.com/item?id=50121562",
+        "score": 86,
+        "score_label": "86 points",
+        "author": "rsorto",
+        "published": "2026-10-16T17:31:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50121562"
+        }
+      },
+      {
+        "id": "hn-50118876",
+        "section": "hackernews",
+        "title": "Show HN: rStation – A shared research lab for your AI agents",
+        "url": "https://rstation.ai/",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "stephenchung",
+        "published": "2026-10-16T14:35:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50118876"
+        }
+      },
+      {
+        "id": "hn-50118662",
+        "section": "hackernews",
+        "title": "How to make System 1 LLMs show System 2 competencies?",
+        "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+        "score": 50,
+        "score_label": "50 points",
+        "author": "porridgeraisin",
+        "published": "2026-10-16T14:16:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50118662"
+        }
+      },
+      {
+        "id": "hn-50118863",
+        "section": "hackernews",
+        "title": "Redesigning Source Control at Anthropic",
+        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "hn9zmdcaou",
+        "published": "2026-10-16T14:34:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50118863"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-google/embeddinggemma-2",
+        "section": "models",
+        "title": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "score": 2520,
+        "score_label": "2,520 likes · 151,258 downloads",
+        "author": "google",
+        "published": "2026-09-14T14:53:42.000Z",
+        "snippet": "feature-extraction · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-jialinyyzz/humanizer",
+        "section": "models",
+        "title": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "score": 1840,
+        "score_label": "1,840 likes · 85,612 downloads",
+        "author": "jialinyyzz",
+        "published": "2026-09-11T05:00:16.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM-V-4.7-35B-A3B",
+        "section": "models",
+        "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "score": 858,
+        "score_label": "858 likes · 17,553 downloads",
+        "author": "openbmb",
+        "published": "2026-10-07T07:07:30.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-fishaudio/drama-3",
+        "section": "models",
+        "title": "fishaudio/drama-3",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "score": 563,
+        "score_label": "563 likes · 6,158 downloads",
+        "author": "fishaudio",
+        "published": "2026-10-01T04:34:57.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen-Image-2.1-Turbo",
+        "section": "models",
+        "title": "Qwen/Qwen-Image-2.1-Turbo",
+        "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+        "score": 947,
+        "score_label": "947 likes · 17,421 downloads",
+        "author": "Qwen",
+        "published": "2026-10-09T04:50:01.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 8109,
+        "score_label": "8,109 likes · 1,920,611 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "score": 4450,
+        "score_label": "4,450 likes · 2,477,554 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Spark-Open-816B-A42B",
+        "section": "models",
+        "title": "meta-models/Muse-Spark-Open-816B-A42B",
+        "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+        "score": 456,
+        "score_label": "456 likes · 815 downloads",
+        "author": "meta-models",
+        "published": "2026-09-15T19:23:19.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-24B-A2B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+        "score": 436,
+        "score_label": "436 likes · 9,356 downloads",
+        "author": "LiquidAI",
+        "published": "2026-10-12T05:35:46.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 480,
+        "score_label": "480 likes · 73,767 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+        "section": "newsletters",
+        "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+        "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-16T04:16:45+00:00",
+        "snippet": "Nick Cammarata out of nowhere with some major claims!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+        "section": "newsletters",
+        "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+        "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-15T10:08:08+00:00",
+        "snippet": "Sandboxes are all you need.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/crossing-the-threshold",
+        "section": "newsletters",
+        "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+        "url": "https://www.latent.space/p/crossing-the-threshold",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-14T21:40:52+00:00",
+        "snippet": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+        "section": "newsletters",
+        "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+        "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-14T20:35:09+00:00",
+        "snippet": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
+        "extra_link": null
+      }
+    ]
+  }
+}

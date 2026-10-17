@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-16T05:57:32.160365+00:00",
+  "fetched_at": "2026-10-17T05:43:29.458685+00:00",
   "items": [
     {
       "id": "56c7fb1d4d254762",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/peakspan-capital",
       "source_url": "https://www.prnewswire.com/news-releases/northcloud-raises-60m-series-b-to-unify-spend-intelligence-and-enable-full-automation-across-cloud-ai-and-data-302909322.html",
       "logo_url": "https://framerusercontent.com/images/X8HDQ2PAqagxk5rkIl4YL559W5A.jpeg?width=200&height=200",
-      "logo": "static/startups/images/43837557ea692802a9ef.jpg",
-      "description": "North: Financial operating system for your cloud. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/a7a2daef796609d5ff7c.jpg",
       "image_url": "https://framerusercontent.com/images/0bayVRvkJisqCzySAOrtrW0qqxs.jpg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "North: Financial operating system for your cloud. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/43837557ea692802a9ef.jpg"
     },
     {
       "id": "ada1d041955d90fe",
@@ -30,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/firstmark",
       "source_url": "https://x.com/neckelthomas/status/2110368313561805276?s=20",
       "logo_url": "https://framerusercontent.com/images/hFNwj4iH9bZpXwOvteVztMuOL58.webp?width=200&height=200",
-      "logo": "static/startups/images/9d9f9dd1e04e738ae364.webp",
-      "description": "Fragment: The financial system for agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/0b084ee3541d24fedb11.png",
       "image_url": "https://framerusercontent.com/images/PDCi2FtvYIh2xaOgRK4J7JabM.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Fragment: The financial system for agents. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/9d9f9dd1e04e738ae364.webp"
     },
     {
       "id": "0024a632bca0b5fb",
@@ -387,11 +387,11 @@
       "investor_url": "https://startups.gallery/investors/lachy-groom",
       "source_url": "https://www.prnewswire.com/news-releases/volantis-raises-88m-series-a-to-demolish-the-ai-memory-wall-with-photonics-302895940.html",
       "logo_url": "https://framerusercontent.com/images/Awlw3ANN7zbSG4wKo4yfZ9nk.png?width=200&height=200",
-      "logo": "static/startups/images/68120e6c6515b450e40e.png",
-      "description": "Volantis: Photonics, but without silicon photonics. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/4409f4ce877740dde4ed.png",
       "image_url": "https://framerusercontent.com/images/97A3ntrJoB6lPWeY6ekED7baqQ.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Volantis: Photonics, but without silicon photonics. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/68120e6c6515b450e40e.png"
     },
     {
       "id": "a54d8631872110f6",
