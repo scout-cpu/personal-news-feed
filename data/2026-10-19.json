@@ -1,0 +1,555 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T06:21:01.150746+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50145337",
+        "section": "hackernews",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "score": 326,
+        "score_label": "326 points",
+        "author": "allinonai",
+        "published": "2026-10-18T20:48:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50145337"
+        }
+      },
+      {
+        "id": "hn-50141429",
+        "section": "hackernews",
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "score": 159,
+        "score_label": "159 points",
+        "author": "f-serif",
+        "published": "2026-10-18T14:30:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50141429"
+        }
+      },
+      {
+        "id": "hn-50141657",
+        "section": "hackernews",
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "score": 135,
+        "score_label": "135 points",
+        "author": "evolve2k",
+        "published": "2026-10-18T14:58:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50141657"
+        }
+      },
+      {
+        "id": "hn-50139873",
+        "section": "hackernews",
+        "title": "How employment is changing at Anthropic",
+        "url": "https://www.anthropic.com/research/employment-at-anthropic",
+        "score": 110,
+        "score_label": "110 points",
+        "author": "theanonymousone",
+        "published": "2026-10-18T10:49:26+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50139873"
+        }
+      },
+      {
+        "id": "hn-50145507",
+        "section": "hackernews",
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "score": 102,
+        "score_label": "102 points",
+        "author": "amrrs",
+        "published": "2026-10-18T21:09:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50145507"
+        }
+      },
+      {
+        "id": "hn-50140462",
+        "section": "hackernews",
+        "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "url": "https://www.vals.ai/blogs/impossible-refund",
+        "score": 82,
+        "score_label": "82 points",
+        "author": "DeepLogin",
+        "published": "2026-10-18T12:22:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50140462"
+        }
+      },
+      {
+        "id": "hn-50142772",
+        "section": "hackernews",
+        "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+        "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+        "score": 27,
+        "score_label": "27 points",
+        "author": "toomuchtodo",
+        "published": "2026-10-18T16:48:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50142772"
+        }
+      },
+      {
+        "id": "hn-50138511",
+        "section": "hackernews",
+        "title": "America's $10T AI infrastructure boom is starting to fray",
+        "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "cheesecompiler",
+        "published": "2026-10-18T06:46:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50138511"
+        }
+      },
+      {
+        "id": "hn-50148396",
+        "section": "hackernews",
+        "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally",
+        "url": "https://github.com/strot-ai/Project-STROT",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "solohunter001",
+        "published": "2026-10-19T04:32:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50148396"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.18784",
+        "section": "papers",
+        "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+        "url": "https://huggingface.co/papers/2610.18784",
+        "score": 82,
+        "score_label": "82 upvotes",
+        "author": "Yuchen Lu, Julian McAuley, Lei Zhang",
+        "published": "2026-10-13T13:35:27.000Z",
+        "snippet": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.18784"
+        }
+      },
+      {
+        "id": "paper-2610.22471",
+        "section": "papers",
+        "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+        "url": "https://huggingface.co/papers/2610.22471",
+        "score": 79,
+        "score_label": "79 upvotes",
+        "author": "SenseNova, Joint Research Team, Zhongang Cai et al.",
+        "published": "2026-10-14T20:00:00.000Z",
+        "snippet": "GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of building specialized models for individual tasks and embodiments. In this report, we ask…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.22471"
+        }
+      },
+      {
+        "id": "paper-2610.19159",
+        "section": "papers",
+        "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+        "url": "https://huggingface.co/papers/2610.19159",
+        "score": 68,
+        "score_label": "68 upvotes",
+        "author": "Seungone Kim, Jiayi Geng, Young-Jun Lee et al.",
+        "published": "2026-10-12T20:00:00.000Z",
+        "snippet": "Can AI agents carry out research on open scientific problems? We introduce Into the Unknown, a benchmark that provides an agent with a science paper along with a research direction to pursue and tasks it to write a foll…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.19159"
+        }
+      },
+      {
+        "id": "paper-2610.23479",
+        "section": "papers",
+        "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
+        "url": "https://huggingface.co/papers/2610.23479",
+        "score": 66,
+        "score_label": "66 upvotes",
+        "author": "Hongcheng Gao, Alex Zhou, Jay Zhu et al.",
+        "published": "2026-10-15T20:00:00.000Z",
+        "snippet": "Agents built on vision language models (VLMs) now compete with learned policies on robot manipulation leaderboards. We ask how far a coding agent can go when it controls a robot instead of a computer, and where it stops…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.23479"
+        }
+      },
+      {
+        "id": "paper-2610.20424",
+        "section": "papers",
+        "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
+        "url": "https://huggingface.co/papers/2610.20424",
+        "score": 53,
+        "score_label": "53 upvotes",
+        "author": "Enhan Zhao, Yongqi Tong, Xuejun Yu et al.",
+        "published": "2026-10-13T20:00:00.000Z",
+        "snippet": "Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to navigate extensive, p…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.20424"
+        }
+      },
+      {
+        "id": "paper-2610.21783",
+        "section": "papers",
+        "title": "Learning to Think and Explore in 3D World",
+        "url": "https://huggingface.co/papers/2610.21783",
+        "score": 28,
+        "score_label": "28 upvotes",
+        "author": "Yijiang Li, Bingyang Wang, Nuno Vasconcelos",
+        "published": "2026-10-14T20:00:00.000Z",
+        "snippet": "We study how vision-language models (VLMs) can learn to think and actively explore in 3D space. Instead of providing multi-view images, videos, or 3D representations to the model, we preserve the native visual encoding…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.21783"
+        }
+      },
+      {
+        "id": "paper-2610.14157",
+        "section": "papers",
+        "title": "OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools",
+        "url": "https://huggingface.co/papers/2610.14157",
+        "score": 26,
+        "score_label": "26 upvotes",
+        "author": "Chenyang Yan, Yingying Zhang, Kanzhi Cheng et al.",
+        "published": "2026-10-08T20:00:00.000Z",
+        "snippet": "We introduce OpenMobile-2, a near-frontier mobile agent with fully open training environments and recipes. We make three key advances: (1) Diverse environments with simulated commercial apps: We build MobileGym++, featu…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.14157"
+        }
+      },
+      {
+        "id": "paper-2610.14746",
+        "section": "papers",
+        "title": "BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries",
+        "url": "https://huggingface.co/papers/2610.14746",
+        "score": 24,
+        "score_label": "24 upvotes",
+        "author": "Jiaxin Fang, Ruitong Liu, Zeyu Lai et al.",
+        "published": "2026-10-09T20:00:00.000Z",
+        "snippet": "World Action Models (WAMs) commonly couple video and action experts through dense, layer-wise Mixture-of-Transformers (MoT) attention, exposing action prediction to irrelevant visual features while enforcing matched exp…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.14746"
+        }
+      },
+      {
+        "id": "paper-2610.21767",
+        "section": "papers",
+        "title": "From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research",
+        "url": "https://huggingface.co/papers/2610.21767",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Yijia Mao, Song Dai, Tao Chen et al.",
+        "published": "2026-10-14T20:00:00.000Z",
+        "snippet": "Can AI agents organize scientific investigations that lead to well-supported conclusions? To evaluate this capability, we introduce PhysClosureBench, a benchmark of 50 expert-verified, goal-specified research tasks span…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.21767"
+        }
+      },
+      {
+        "id": "paper-2610.23181",
+        "section": "papers",
+        "title": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
+        "url": "https://huggingface.co/papers/2610.23181",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Heming Zou, Qi Wang, Yixiu Mao et al.",
+        "published": "2026-10-15T20:00:00.000Z",
+        "snippet": "Reinforcement learning with verifiable rewards has become a scalable post-training paradigm for large language models. However, training agents over long-horizon interactions presents two challenges: using only terminal…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.23181"
+        }
+      },
+      {
+        "id": "paper-2610.23787",
+        "section": "papers",
+        "title": "DLite: History-free Speculative Decoding for Agentic AI",
+        "url": "https://huggingface.co/papers/2610.23787",
+        "score": 13,
+        "score_label": "13 upvotes",
+        "author": "Jiaming Xu, Hanzhen Wang, Tianlang Zhao et al.",
+        "published": "2026-10-15T20:00:00.000Z",
+        "snippet": "Speculative decoding has become a mainstream technique for accelerating large language model (LLM) inference by using a lightweight draft model to generate candidate tokens that are subsequently verified by the target m…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.23787"
+        }
+      },
+      {
+        "id": "paper-2610.23854",
+        "section": "papers",
+        "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+        "url": "https://arxiv.org/abs/2610.23854",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Soumik Mukhopadhyay, Long Mai, Abhinav Shrivastava et al.",
+        "published": "2026-10-16T17:59:30Z",
+        "snippet": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transfor…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.23847",
+        "section": "papers",
+        "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+        "url": "https://arxiv.org/abs/2610.23847",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.",
+        "published": "2026-10-16T17:58:08Z",
+        "snippet": "Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to write insecure code c…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.23845",
+        "section": "papers",
+        "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+        "url": "https://arxiv.org/abs/2610.23845",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shicheng Liu, Krista Opsahl-Ong, Andrew Drozdov et al.",
+        "published": "2026-10-16T17:57:55Z",
+        "snippet": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate r…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.23834",
+        "section": "papers",
+        "title": "Task-aligned spectral inductive biases in parameterized quantum circuits",
+        "url": "https://arxiv.org/abs/2610.23834",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange et al.",
+        "published": "2026-10-16T17:53:19Z",
+        "snippet": "Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circu…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.23831",
+        "section": "papers",
+        "title": "Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation",
+        "url": "https://arxiv.org/abs/2610.23831",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shaoang Li, Yanhang Shi, Yufei Li et al.",
+        "published": "2026-10-16T17:52:58Z",
+        "snippet": "A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervision by considering bot…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.23830",
+        "section": "papers",
+        "title": "Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation",
+        "url": "https://arxiv.org/abs/2610.23830",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Rama AlHamidi, Rasul Khanbayov, Erchin Serpedin et al.",
+        "published": "2026-10-16T17:52:57Z",
+        "snippet": "A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize this tradeoff under…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.23827",
+        "section": "papers",
+        "title": "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?",
+        "url": "https://arxiv.org/abs/2610.23827",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Anis Bekri, Amar Abane, Van Sy Mai et al.",
+        "published": "2026-10-16T17:49:43Z",
+        "snippet": "Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the qu…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.23826",
+        "section": "papers",
+        "title": "Self-Building Labs",
+        "url": "https://arxiv.org/abs/2610.23826",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jiaru Bai, Yuchi Zhao, Han Hao et al.",
+        "published": "2026-10-16T17:48:29Z",
+        "snippet": "Self-driving laboratories (SDLs) accelerate scientific discovery by automating experimental execution and optimization. AI agents can increasingly propose new experiments, but existing SDLs can only run the procedures t…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 1431,
+        "score_label": "1,431 likes · 10,233 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM-V-4.7-35B-A3B",
+        "section": "models",
+        "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "score": 1021,
+        "score_label": "1,021 likes · 57,935 downloads",
+        "author": "openbmb",
+        "published": "2026-10-07T07:07:30.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-google/embeddinggemma-2",
+        "section": "models",
+        "title": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "score": 2673,
+        "score_label": "2,673 likes · 164,339 downloads",
+        "author": "google",
+        "published": "2026-09-14T14:53:42.000Z",
+        "snippet": "feature-extraction · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-fishaudio/drama-3",
+        "section": "models",
+        "title": "fishaudio/drama-3",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "score": 710,
+        "score_label": "710 likes · 9,620 downloads",
+        "author": "fishaudio",
+        "published": "2026-10-01T04:34:57.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      },
+      {
+        "id": "model-jialinyyzz/humanizer",
+        "section": "models",
+        "title": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "score": 1957,
+        "score_label": "1,957 likes · 103,709 downloads",
+        "author": "jialinyyzz",
+        "published": "2026-09-11T05:00:16.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 836,
+        "score_label": "836 likes · 338,036 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Spark-Open-816B-A42B",
+        "section": "models",
+        "title": "meta-models/Muse-Spark-Open-816B-A42B",
+        "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+        "score": 552,
+        "score_label": "552 likes · 1,809 downloads",
+        "author": "meta-models",
+        "published": "2026-09-15T19:23:19.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-24B-A2B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+        "score": 478,
+        "score_label": "478 likes · 13,007 downloads",
+        "author": "LiquidAI",
+        "published": "2026-10-12T05:35:46.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 8400,
+        "score_label": "8,400 likes · 2,012,496 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+        "score": 495,
+        "score_label": "495 likes · 52,315 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-13T10:58:40.000Z",
+        "snippet": "image-to-image · diffusers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+        "section": "newsletters",
+        "title": "Meta shakes up the frontiers, open and closed",
+        "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-17T14:06:54+00:00",
+        "snippet": "US open weights are back!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+        "section": "newsletters",
+        "title": "[AINews] High Taste Testers Ep. 1",
+        "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-17T07:47:38+00:00",
+        "snippet": "a quiet day lets us pilot a new show",
+        "extra_link": null
+      }
+    ]
+  }
+}
