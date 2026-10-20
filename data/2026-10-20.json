@@ -1,0 +1,672 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T06:09:20.894205+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50150750",
+        "section": "hackernews",
+        "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+        "score": 635,
+        "score_label": "635 points",
+        "author": "DeepLogin",
+        "published": "2026-10-19T10:45:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50150750"
+        }
+      },
+      {
+        "id": "hn-50150434",
+        "section": "hackernews",
+        "title": "Timestral: Mistral's time-series foundation models",
+        "url": "https://mistral.ai/news/timestral/",
+        "score": 573,
+        "score_label": "573 points",
+        "author": "groar",
+        "published": "2026-10-19T09:59:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50150434"
+        }
+      },
+      {
+        "id": "hn-50151036",
+        "section": "hackernews",
+        "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+        "url": "https://news.ycombinator.com/item?id=50151036",
+        "score": 364,
+        "score_label": "364 points",
+        "author": "rzk",
+        "published": "2026-10-19T11:24:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50151036"
+        }
+      },
+      {
+        "id": "hn-50153630",
+        "section": "hackernews",
+        "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+        "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+        "score": 331,
+        "score_label": "331 points",
+        "author": "kensai",
+        "published": "2026-10-19T15:28:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50153630"
+        }
+      },
+      {
+        "id": "hn-50159341",
+        "section": "hackernews",
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "score": 235,
+        "score_label": "235 points",
+        "author": "ds",
+        "published": "2026-10-19T23:22:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50159341"
+        }
+      },
+      {
+        "id": "hn-50155245",
+        "section": "hackernews",
+        "title": "Mercury 3: Diffusion at scale",
+        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+        "score": 234,
+        "score_label": "234 points",
+        "author": "cmrdporcupine",
+        "published": "2026-10-19T17:27:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50155245"
+        }
+      },
+      {
+        "id": "hn-50151928",
+        "section": "hackernews",
+        "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+        "url": "https://100toolkit.com/blog/deslop-model/",
+        "score": 146,
+        "score_label": "146 points",
+        "author": "erikkannike",
+        "published": "2026-10-19T13:00:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50151928"
+        }
+      },
+      {
+        "id": "hn-50151376",
+        "section": "hackernews",
+        "title": "The obscure trust looming over Anthropic's IPO",
+        "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+        "score": 136,
+        "score_label": "136 points",
+        "author": "1vuio0pswjnm7",
+        "published": "2026-10-19T12:06:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50151376"
+        }
+      },
+      {
+        "id": "hn-50151390",
+        "section": "hackernews",
+        "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+        "score": 128,
+        "score_label": "128 points",
+        "author": "isuruwijesiri",
+        "published": "2026-10-19T12:07:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50151390"
+        }
+      },
+      {
+        "id": "hn-50151059",
+        "section": "hackernews",
+        "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+        "url": "https://github.com/google-research/harness2",
+        "score": 74,
+        "score_label": "74 points",
+        "author": "irthomasthomas",
+        "published": "2026-10-19T11:28:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50151059"
+        }
+      },
+      {
+        "id": "hn-50152877",
+        "section": "hackernews",
+        "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "score": 59,
+        "score_label": "59 points",
+        "author": "dkobia",
+        "published": "2026-10-19T14:23:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50152877"
+        }
+      },
+      {
+        "id": "hn-50154029",
+        "section": "hackernews",
+        "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+        "url": "https://news.ycombinator.com/item?id=50154029",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "skull8888888",
+        "published": "2026-10-19T16:00:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50154029"
+        }
+      },
+      {
+        "id": "hn-50154060",
+        "section": "hackernews",
+        "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+        "score": 33,
+        "score_label": "33 points",
+        "author": "whatdowecallu",
+        "published": "2026-10-19T16:03:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50154060"
+        }
+      },
+      {
+        "id": "hn-50154982",
+        "section": "hackernews",
+        "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+        "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "ibobev",
+        "published": "2026-10-19T17:09:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50154982"
+        }
+      },
+      {
+        "id": "hn-50152302",
+        "section": "hackernews",
+        "title": "Cairn: Open windows into AI-driven cyber operations",
+        "url": "https://norforge.com/blog/inside_cairn",
+        "score": 28,
+        "score_label": "28 points",
+        "author": "ragu4u",
+        "published": "2026-10-19T13:35:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50152302"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.25736",
+        "section": "papers",
+        "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
+        "url": "https://huggingface.co/papers/2610.25736",
+        "score": 74,
+        "score_label": "74 upvotes",
+        "author": "Chao Yu, Shu&#39;ang Yu, Hao Lin et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "Experience generated during deployment offers an opportunity for robots to improve policy reliability through learning from their own executions. However, learning through human corrections requires teleoperators to mon…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.25736"
+        }
+      },
+      {
+        "id": "paper-2610.26860",
+        "section": "papers",
+        "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+        "url": "https://huggingface.co/papers/2610.26860",
+        "score": 52,
+        "score_label": "52 upvotes",
+        "author": "Yu Zhou, Cheng-Fu Yang, Rui Sun et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.26860"
+        }
+      },
+      {
+        "id": "paper-2610.25690",
+        "section": "papers",
+        "title": "ScaleNav: Scalable Internet Video Pretraining for Language-Conditioned Local Navigation",
+        "url": "https://huggingface.co/papers/2610.25690",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Yihui Yang, Yuanhong Yu, Jiawei Wang et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "We study language-conditioned local navigation, where a robot must navigate to a text-specified target visible in its initial observation and stop at the described location. End-to-end navigation policies require divers…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.25690"
+        }
+      },
+      {
+        "id": "paper-2610.25404",
+        "section": "papers",
+        "title": "MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion",
+        "url": "https://huggingface.co/papers/2610.25404",
+        "score": 30,
+        "score_label": "30 upvotes",
+        "author": "Houyuan Chen, Fanzhou Wang, Xiangyu Fan et al.",
+        "published": "2026-10-17T20:00:00.000Z",
+        "snippet": "Multi-turn image editing aims to modify an image according to a sequence of instructions, enabling more effective interactive visual content creation for users. However, existing methods often exhibit noticeable drift a…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.25404"
+        }
+      },
+      {
+        "id": "paper-2610.22791",
+        "section": "papers",
+        "title": "Self-Evolving Coding Agents via Harness-Policy Optimization",
+        "url": "https://huggingface.co/papers/2610.22791",
+        "score": 29,
+        "score_label": "29 upvotes",
+        "author": "Zhepei Wei, Wenlin Yao, Baolin Peng et al.",
+        "published": "2026-10-15T20:00:00.000Z",
+        "snippet": "Large language model (LLM) agents have shown promising potential in coding tasks, and their performance is jointly determined by the policy model and the harness that mediates their interaction with the environment. Ind…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.22791"
+        }
+      },
+      {
+        "id": "paper-2610.24960",
+        "section": "papers",
+        "title": "CoworkEnv: Synthesizing Training Environments for Long-Horizon Cowork Agents",
+        "url": "https://huggingface.co/papers/2610.24960",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Zhongwei Xie, Yiming Du, Jiaxin Bai et al.",
+        "published": "2026-10-17T20:00:00.000Z",
+        "snippet": "AI coworkers must coordinate tools, communicate across turns, and act on changing workspace state while respecting workflow constraints. Constructing training experience for these capabilities requires coherent requests…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.24960"
+        }
+      },
+      {
+        "id": "paper-2610.26216",
+        "section": "papers",
+        "title": "RoAR-VAE: Improving Latent Diffusability through Robust Prediction",
+        "url": "https://huggingface.co/papers/2610.26216",
+        "score": 23,
+        "score_label": "23 upvotes",
+        "author": "Yang Yue, Fangyun Wei, Yitong Wang et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "An effective visual tokenizer must preserve image fidelity while producing latents that downstream diffusion models can learn efficiently. Prior work improves latent diffusability through semantic alignment or joint tok…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.26216"
+        }
+      },
+      {
+        "id": "paper-2610.24087",
+        "section": "papers",
+        "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+        "url": "https://huggingface.co/papers/2610.24087",
+        "score": 22,
+        "score_label": "22 upvotes",
+        "author": "Peisong Wang, Feixue Liu, Yize Meng et al.",
+        "published": "2026-10-15T20:00:00.000Z",
+        "snippet": "Can large language model (LLM) agents deliver expert-level operations research (OR) solutions directly from original client materials, without prior expert reformulation? Existing OR benchmarks typically begin with self…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.24087"
+        }
+      },
+      {
+        "id": "paper-2610.26844",
+        "section": "papers",
+        "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+        "url": "https://huggingface.co/papers/2610.26844",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Heejeong Nam, Divyat Mahajan, Quentin Le Lidec et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be relia…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.26844"
+        }
+      },
+      {
+        "id": "paper-2610.26853",
+        "section": "papers",
+        "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
+        "url": "https://huggingface.co/papers/2610.26853",
+        "score": 18,
+        "score_label": "18 upvotes",
+        "author": "Yi-Chuan Huang, Hao-Jen Chien, Zheng-Hui Huang et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-based code generation o…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.26853"
+        }
+      },
+      {
+        "id": "paper-2610.22744",
+        "section": "papers",
+        "title": "OmniXRef: A Unified Framework for Multimodal Multi-Reference Video Editing",
+        "url": "https://huggingface.co/papers/2610.22744",
+        "score": 17,
+        "score_label": "17 upvotes",
+        "author": "Xiaoyan Cong, Tianyu Wang, Hyeonho Jeong et al.",
+        "published": "2026-10-14T20:00:00.000Z",
+        "snippet": "Creative intent in video editing can be expressed through text instructions (e.g., \"remove the people\"), image references (e.g., subject appearance), video references (e.g., camera movement), or a combination of the abo…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.22744"
+        }
+      },
+      {
+        "id": "paper-2610.26625",
+        "section": "papers",
+        "title": "EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience",
+        "url": "https://huggingface.co/papers/2610.26625",
+        "score": 16,
+        "score_label": "16 upvotes",
+        "author": "Xinhao Ji, Hui En Pang, Hao Li et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "Reconstructing human activity from egocentric video requires more than recovering individual 3D components: the observer's motion, surrounding geometry, and hand-object interactions must fit together in a consistent wor…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.26625"
+        }
+      },
+      {
+        "id": "paper-2610.26861",
+        "section": "papers",
+        "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+        "url": "https://arxiv.org/abs/2610.26861",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Wenqian Zhang, Yangyi Huang, Zigeng Xu et al.",
+        "published": "2026-10-19T17:59:58Z",
+        "snippet": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret underspecified req…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.26856",
+        "section": "papers",
+        "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+        "url": "https://arxiv.org/abs/2610.26856",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Shiao Xie, Siyu Chen, Jianwei Lv et al.",
+        "published": "2026-10-19T17:59:56Z",
+        "snippet": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) comple…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.26852",
+        "section": "papers",
+        "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+        "url": "https://arxiv.org/abs/2610.26852",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zehao Wang, Jianpeng Yao, Yuping Wang et al.",
+        "published": "2026-10-19T17:59:49Z",
+        "snippet": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot settings often fai…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.26848",
+        "section": "papers",
+        "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+        "url": "https://arxiv.org/abs/2610.26848",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Zekai Li, Jiayi Yu, Jinlu Zhang et al.",
+        "published": "2026-10-19T17:59:30Z",
+        "snippet": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: Fi…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.26847",
+        "section": "papers",
+        "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+        "url": "https://arxiv.org/abs/2610.26847",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Rui Shi, Xunjian Yin, Jiacheng Sang et al.",
+        "published": "2026-10-19T17:59:19Z",
+        "snippet": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastrophic forgetting. A…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.26845",
+        "section": "papers",
+        "title": "Train An Imaginative Agent",
+        "url": "https://arxiv.org/abs/2610.26845",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jiaxin Ge, Junyi Zhang, Tianning Chai et al.",
+        "published": "2026-10-19T17:59:12Z",
+        "snippet": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environm…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.26840",
+        "section": "papers",
+        "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+        "url": "https://arxiv.org/abs/2610.26840",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Huawei Lin, Jinting Liu, Tan Yu et al.",
+        "published": "2026-10-19T17:58:41Z",
+        "snippet": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every ques…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.26839",
+        "section": "papers",
+        "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+        "url": "https://arxiv.org/abs/2610.26839",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Youran Dong, Junfeng Yang, Wei Yao et al.",
+        "published": "2026-10-19T17:58:34Z",
+        "snippet": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on the classical hyperg…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 1745,
+        "score_label": "1,745 likes · 17,924 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 990,
+        "score_label": "990 likes · 393,062 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-fishaudio/drama-3",
+        "section": "models",
+        "title": "fishaudio/drama-3",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "score": 780,
+        "score_label": "780 likes · 11,795 downloads",
+        "author": "fishaudio",
+        "published": "2026-10-01T04:34:57.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      },
+      {
+        "id": "model-openbmb/MiniCPM-V-4.7-35B-A3B",
+        "section": "models",
+        "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+        "score": 1071,
+        "score_label": "1,071 likes · 76,410 downloads",
+        "author": "openbmb",
+        "published": "2026-10-07T07:07:30.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-google/embeddinggemma-2",
+        "section": "models",
+        "title": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "score": 2733,
+        "score_label": "2,733 likes · 167,750 downloads",
+        "author": "google",
+        "published": "2026-09-14T14:53:42.000Z",
+        "snippet": "feature-extraction · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-jialinyyzz/humanizer",
+        "section": "models",
+        "title": "jialinyyzz/humanizer",
+        "url": "https://huggingface.co/jialinyyzz/humanizer",
+        "score": 1996,
+        "score_label": "1,996 likes · 109,937 downloads",
+        "author": "jialinyyzz",
+        "published": "2026-09-11T05:00:16.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-meta-models/Muse-Spark-Open-816B-A42B",
+        "section": "models",
+        "title": "meta-models/Muse-Spark-Open-816B-A42B",
+        "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+        "score": 586,
+        "score_label": "586 likes · 2,109 downloads",
+        "author": "meta-models",
+        "published": "2026-09-15T19:23:19.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM2.5-24B-A2B",
+        "section": "models",
+        "title": "LiquidAI/LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+        "score": 503,
+        "score_label": "503 likes · 14,151 downloads",
+        "author": "LiquidAI",
+        "published": "2026-10-12T05:35:46.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+        "score": 530,
+        "score_label": "530 likes · 62,006 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-13T10:58:40.000Z",
+        "snippet": "image-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 8509,
+        "score_label": "8,509 likes · 2,019,834 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.latent.space/p/ainews-not-much-happened-today-f09",
+        "section": "newsletters",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-20T05:21:52+00:00",
+        "snippet": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they&#8217;re not going to be in super wide use just yet.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+        "section": "newsletters",
+        "title": "Meta shakes up the frontiers, open and closed",
+        "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-17T14:06:54+00:00",
+        "snippet": "US open weights are back!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+        "section": "newsletters",
+        "title": "[AINews] High Taste Testers Ep. 1",
+        "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-17T07:47:38+00:00",
+        "snippet": "a quiet day lets us pilot a new show",
+        "extra_link": null
+      }
+    ]
+  }
+}
