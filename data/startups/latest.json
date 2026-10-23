@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-22T06:11:34.773167+00:00",
+  "fetched_at": "2026-10-23T06:06:34.242383+00:00",
   "items": [
+    {
+      "id": "23c7b8552d2f90b2",
+      "company": "Coast",
+      "company_url": "https://startups.gallery/companies/coast",
+      "amount": "$35M",
+      "round": "Venture",
+      "date": "2026-10-22",
+      "investor": "Thomvest",
+      "investor_url": "https://startups.gallery/investors/thomvest",
+      "source_url": "https://coastpay.com/blog/coast-raises-35m-to-build-the-financial-platform-for-the-physical-economy/",
+      "logo_url": "https://framerusercontent.com/images/tX6nbqcz2YUNKQNxmJHrPRzNLJ0.webp?width=400&height=400",
+      "logo": "static/startups/images/b3ddb39fec7e2652b154.webp",
+      "description": "Coast: Fuel and fleet payments made easy. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/a57595c827cc5b831f61.webp",
+      "image_url": "https://framerusercontent.com/images/vjeh9MuB4MDCVForDfEqJk1XWI.webp?width=1200&height=600",
+      "image_kind": "company artwork"
+    },
     {
       "id": "305abc2e69751c51",
       "company": "Flapping Airplanes",
@@ -13,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/index-ventures",
       "source_url": "https://www.indexventures.com/perspectives/toward-more-efficient-ai-leading-flapping-airplanes-1b-series-a/",
       "logo_url": "https://framerusercontent.com/images/x5StkjsnMDzF9OcSdkEGUttwQcc.webp?width=400&height=400",
-      "logo": "static/startups/images/f8e185d3eb1e67244e72.webp",
-      "description": "Flapping Airplanes: Foundational AI research lab. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/f8e185d3eb1e67244e72.webp",
       "image_url": "https://framerusercontent.com/images/x5StkjsnMDzF9OcSdkEGUttwQcc.webp?width=400&height=400",
-      "image_kind": "logo"
+      "description": "Flapping Airplanes: Foundational AI research lab. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "logo",
+      "logo": "static/startups/images/f8e185d3eb1e67244e72.webp"
     },
     {
       "id": "fd1005d2b84836cd",
@@ -30,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/sequoia-capital",
       "source_url": "https://www.marketwatch.com/story/whop-raises-200m-in-series-d-round-at-5-1b-valuation-aeefb0b6?mod=markets",
       "logo_url": "https://framerusercontent.com/images/nG9tVouK1AH9YNCVZk5T2Bhzhk.webp?width=200&height=200",
-      "logo": "static/startups/images/a0fb65fa2c07f6c1b6bd.webp",
-      "description": "Whop: The most addicting mall on the internet. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/78619a3b5b98c481fc62.webp",
       "image_url": "https://framerusercontent.com/images/9xcnH91bU1gUl3wCE1Tj9hVtvJ4.webp?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Whop: The most addicting mall on the internet. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/a0fb65fa2c07f6c1b6bd.webp"
     },
     {
       "id": "c04a67f21286fedf",
@@ -47,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/atreides-management",
       "source_url": "https://legora.com/blog/series-e",
       "logo_url": "https://framerusercontent.com/images/wYQPLTdBq6JLWTkAEXOe3Wcdu4M.jpeg?width=200&height=200",
-      "logo": "static/startups/images/279fcf370671754246ef.jpg",
-      "description": "Legora: AI workspace for lawyers. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/be48118b36e2939d58c9.jpg",
       "image_url": "https://framerusercontent.com/images/ExCRudDMaIYPfJglefV7ApZEOzk.jpeg?width=2400&height=1260",
-      "image_kind": "company artwork"
+      "description": "Legora: AI workspace for lawyers. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/279fcf370671754246ef.jpg"
     },
     {
       "id": "fd1b8f77b282dd86",
@@ -64,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/sequoia-capital",
       "source_url": "https://www.blacksmith.sh/blog/series-c",
       "logo_url": "https://framerusercontent.com/images/kdwy25CKwgnqpzj8KlJBcN0Ay4.webp?width=200&height=200",
-      "logo": "static/startups/images/5cf5762d76a7712262f3.webp",
-      "description": "Blacksmith: The fastest way to run your GitHub Actions. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/99f71e1923f1f7bbb643.png",
       "image_url": "https://framerusercontent.com/images/iL71UMlvsJbcV2AFz1mvJMHQ.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Blacksmith: The fastest way to run your GitHub Actions. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/5cf5762d76a7712262f3.webp"
     },
     {
       "id": "8142dd527116f27e",
@@ -188,6 +205,23 @@
       "description": "Greptile: The AI code reviewer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/a09698a0e58057e8707f.jpg"
+    },
+    {
+      "id": "9a1a2bc67eab4fbc",
+      "company": "Meow",
+      "company_url": "https://startups.gallery/companies/meow",
+      "amount": "$31.6M",
+      "round": "Series B",
+      "date": "2026-10-15",
+      "investor": "Stifel",
+      "investor_url": "https://startups.gallery/investors/stifel",
+      "source_url": "https://lnkd.in/p/gJCwAqNS",
+      "logo_url": "https://framerusercontent.com/images/QbVlvDCe2xPXPeC2fwesgVk56ng.webp?width=200&height=200",
+      "logo": "static/startups/images/0fae75c48f4b1e7bf0b0.webp",
+      "description": "Meow: Business banking with interest. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image": "static/startups/images/0e69444e19c6e7ef37e4.png",
+      "image_url": "https://framerusercontent.com/images/ohBIEcohJBBolHLECsIdhcueyc8.png?width=1200&height=630",
+      "image_kind": "company artwork"
     },
     {
       "id": "56c7fb1d4d254762",
@@ -800,40 +834,6 @@
       "description": "Snorkel AI: The frontier AI data lab. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/9dcf6bcc88bb100dd7ca.webp"
-    },
-    {
-      "id": "af58e78a8c8c8d52",
-      "company": "Numeral",
-      "company_url": "https://startups.gallery/companies/numeral",
-      "amount": "$100M",
-      "round": "Series C",
-      "date": "2026-09-23",
-      "investor": "Insight Partners",
-      "investor_url": "https://startups.gallery/investors/insight-partners",
-      "source_url": "https://www.businesswire.com/news/home/20260923666467/en/Numeral-Raises-%24100-Million-Series-C-to-Expand-AI-Powered-Tax-Compliance-Across-Industries",
-      "logo_url": "https://framerusercontent.com/images/oWMEqg2Mrp7jHDOdHrbt7BQG7s.jpeg?width=200&height=200",
-      "image": "static/startups/images/503e87568e31bf240063.png",
-      "image_url": "https://framerusercontent.com/images/YyKHI6LwfmpLRQKNzGM0p71E.png?width=2400&height=1200",
-      "description": "Numeral: Ecommerce sales tax on autopilot. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/1088c3a2d58b67a39f7d.jpg"
-    },
-    {
-      "id": "39cc787b47eb8f9a",
-      "company": "Micro1",
-      "company_url": "https://startups.gallery/companies/micro1",
-      "amount": "$100M",
-      "round": "Series B",
-      "date": "2026-09-22",
-      "investor": "01 Advisors",
-      "investor_url": "https://startups.gallery/investors/01-advisors",
-      "source_url": "https://www.forbes.com/sites/annatong/2026/09/22/this-25-year-old-raised-over-100-million-for-his-ai-data-startup-at-a-4-billion-valuation/",
-      "logo_url": "https://framerusercontent.com/images/3ZOBIBIrRcCDRwiO4XaRVucyxw.jpeg?width=200&height=200",
-      "image": "static/startups/images/a02ff926c78f46d7c530.jpg",
-      "image_url": "https://framerusercontent.com/images/6W7BwzUojNCrnAOBrMdYsjplC3I.jpg?width=1800&height=945",
-      "description": "Micro1: The AI platform for human intelligence. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/257ab450f98a2a1e380f.jpg"
     }
   ]
 }
