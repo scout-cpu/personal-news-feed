@@ -1,0 +1,399 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T06:01:44.410488+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50207405",
+        "section": "hackernews",
+        "title": "Swedish government offices to ban ChatGPT and Claude",
+        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+        "score": 316,
+        "score_label": "316 points",
+        "author": "armcat",
+        "published": "2026-10-23T11:39:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50207405"
+        }
+      },
+      {
+        "id": "hn-50205229",
+        "section": "hackernews",
+        "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+        "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+        "score": 140,
+        "score_label": "140 points",
+        "author": "jlundberg",
+        "published": "2026-10-23T06:41:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50205229"
+        }
+      },
+      {
+        "id": "hn-50214373",
+        "section": "hackernews",
+        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "url": "https://corgi.computer/",
+        "score": 65,
+        "score_label": "65 points",
+        "author": "eiopa",
+        "published": "2026-10-23T19:46:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50214373"
+        }
+      },
+      {
+        "id": "hn-50207620",
+        "section": "hackernews",
+        "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+        "url": "https://www.thisandthat.chat/enron/",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "jreynar",
+        "published": "2026-10-23T12:02:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50207620"
+        }
+      },
+      {
+        "id": "hn-50214185",
+        "section": "hackernews",
+        "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+        "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "njx",
+        "published": "2026-10-23T19:31:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50214185"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.31329",
+        "section": "papers",
+        "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+        "url": "https://huggingface.co/papers/2610.31329",
+        "score": 225,
+        "score_label": "225 upvotes",
+        "author": "Tianming Liang, Junyi Pan, Yuxi Li et al.",
+        "published": "2026-10-21T20:00:00.000Z",
+        "snippet": "Existing vision-language models (VLMs) remain unreliable for fine-grained visual perception. In this report, we present WeVisOne-VL (WeChat Vision All-in-One), a powerful VLM that unifies object-level and pixel-level pe…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.31329"
+        }
+      },
+      {
+        "id": "paper-2610.24738",
+        "section": "papers",
+        "title": "Editing Images into Reusable Layers via Compositional Edit-Prior Distillation",
+        "url": "https://huggingface.co/papers/2610.24738",
+        "score": 74,
+        "score_label": "74 upvotes",
+        "author": "Wen Xue, Yong Liu, Xueheng Li et al.",
+        "published": "2026-10-16T20:00:00.000Z",
+        "snippet": "High-quality image editing requires precise modification of target regions while preserving the content of unrelated regions. Existing editing models produce flattened outputs that limit precise local manipulation and l…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.24738"
+        }
+      },
+      {
+        "id": "paper-2610.30949",
+        "section": "papers",
+        "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+        "url": "https://huggingface.co/papers/2610.30949",
+        "score": 56,
+        "score_label": "56 upvotes",
+        "author": "A. Jian Yang, An Huang, Bo Dan et al.",
+        "published": "2026-10-21T20:00:00.000Z",
+        "snippet": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, c…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30949"
+        }
+      },
+      {
+        "id": "paper-2610.29677",
+        "section": "papers",
+        "title": "Toward Recursive Self-Improvement in Physical AI",
+        "url": "https://huggingface.co/papers/2610.29677",
+        "score": 49,
+        "score_label": "49 upvotes",
+        "author": "Meng Luo, Zechen Bai, Shanqing Xu et al.",
+        "published": "2026-10-20T20:00:00.000Z",
+        "snippet": "Recursive self-improvement (RSI) describes a system that improves not only its behavior but also the process by which it improves. Recent digital agents test this idea by rewriting their own code and checking each versi…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.29677"
+        }
+      },
+      {
+        "id": "paper-2610.23987",
+        "section": "papers",
+        "title": "What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models",
+        "url": "https://huggingface.co/papers/2610.23987",
+        "score": 33,
+        "score_label": "33 upvotes",
+        "author": "Tengju Ru, Weitong Lian, Zecong Tang et al.",
+        "published": "2026-10-13T20:00:00.000Z",
+        "snippet": "Fine-grained visual understanding requires distinguishing subtle differences in local attributes and spatial relations, yet remains challenging for existing vision-language models. Unified multimodal models (UMMs) offer…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.23987"
+        }
+      },
+      {
+        "id": "paper-2610.27851",
+        "section": "papers",
+        "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
+        "url": "https://huggingface.co/papers/2610.27851",
+        "score": 29,
+        "score_label": "29 upvotes",
+        "author": "Junha Song, Geonmo Gu, Jeongeun Park et al.",
+        "published": "2026-10-20T20:00:00.000Z",
+        "snippet": "This paper shows that JEPA-style latent world models (LWMs) can learn across diverse domains and data sources by adopting the language-conditioned interface of video generation models. We establish this approach as an e…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.27851"
+        }
+      },
+      {
+        "id": "paper-2610.30320",
+        "section": "papers",
+        "title": "Self-Distilling Future Video Representations for World Action Models",
+        "url": "https://huggingface.co/papers/2610.30320",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Huiwon Jang, Suhyeok Jang, Hyeonmo Kang et al.",
+        "published": "2026-10-20T20:00:00.000Z",
+        "snippet": "World Action Models (WAMs) have emerged as a promising approach to learning generalist robot policies using rich spatiotemporal priors from pre-trained video diffusion models. A recent line of WAMs improves inference ef…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30320"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 2611,
+        "score_label": "2,611 likes · 57,715 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-RecursiveSI/flint",
+        "section": "models",
+        "title": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "score": 697,
+        "score_label": "697 likes · 1,904 downloads",
+        "author": "RecursiveSI",
+        "published": "2026-10-21T14:20:58.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 1422,
+        "score_label": "1,422 likes · 534,837 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-OpenMOSS-Team/MOSS-Image-SFT",
+        "section": "models",
+        "title": "OpenMOSS-Team/MOSS-Image-SFT",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+        "score": 660,
+        "score_label": "660 likes · 7,658 downloads",
+        "author": "OpenMOSS-Team",
+        "published": "2026-10-11T07:01:17.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 9059,
+        "score_label": "9,059 likes · 2,026,951 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.6-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "score": 422,
+        "score_label": "422 likes · 1,060 downloads",
+        "author": "XHToken",
+        "published": "2026-10-19T03:19:51.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-fishaudio/drama-3",
+        "section": "models",
+        "title": "fishaudio/drama-3",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "score": 953,
+        "score_label": "953 likes · 17,017 downloads",
+        "author": "fishaudio",
+        "published": "2026-10-01T04:34:57.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      },
+      {
+        "id": "model-OpenMOSS-Team/MOSS-Image-Base",
+        "section": "models",
+        "title": "OpenMOSS-Team/MOSS-Image-Base",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+        "score": 523,
+        "score_label": "523 likes · 5,618 downloads",
+        "author": "OpenMOSS-Team",
+        "published": "2026-10-11T06:49:17.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "score": 4915,
+        "score_label": "4,915 likes · 2,398,071 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 18302,
+        "score_label": "18,302 likes · 7,710,011 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ai-is-getting-good-at-math/",
+        "section": "newsletters",
+        "title": "AI Is Getting Good at Math. Here’s Why.",
+        "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-23T15:19:48+00:00",
+        "snippet": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-black-october/",
+        "section": "newsletters",
+        "title": "[AINews] Black October",
+        "url": "https://latent.space/p/ainews-black-october/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-23T10:09:29+00:00",
+        "snippet": "the Cyber onslaught continues.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/modal-d/",
+        "section": "newsletters",
+        "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+        "url": "https://latent.space/p/modal-d/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-22T17:40:57+00:00",
+        "snippet": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/moshi/",
+        "section": "newsletters",
+        "title": "You are the Team  — Anekha Sokhal, Moshi",
+        "url": "https://latent.space/p/moshi/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-22T14:03:40+00:00",
+        "snippet": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-openais-patch-the-planet-program/",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+        "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-22T07:42:44+00:00",
+        "snippet": "The Big Hardening begins",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/claude-mods/",
+        "section": "newsletters",
+        "title": "Claude Mods: Flipping the Harness Inside Out",
+        "url": "https://latent.space/p/claude-mods/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-21T13:04:19+00:00",
+        "snippet": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
+        "section": "newsletters",
+        "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+        "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-21T06:54:09+00:00",
+        "snippet": "An open source “bomb” drops from China",
+        "extra_link": null
+      }
+    ]
+  }
+}

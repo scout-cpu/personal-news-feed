@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-23T06:06:34.242383+00:00",
+  "fetched_at": "2026-10-24T06:01:53.622153+00:00",
   "items": [
     {
       "id": "23c7b8552d2f90b2",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/thomvest",
       "source_url": "https://coastpay.com/blog/coast-raises-35m-to-build-the-financial-platform-for-the-physical-economy/",
       "logo_url": "https://framerusercontent.com/images/tX6nbqcz2YUNKQNxmJHrPRzNLJ0.webp?width=400&height=400",
-      "logo": "static/startups/images/b3ddb39fec7e2652b154.webp",
-      "description": "Coast: Fuel and fleet payments made easy. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/a57595c827cc5b831f61.webp",
       "image_url": "https://framerusercontent.com/images/vjeh9MuB4MDCVForDfEqJk1XWI.webp?width=1200&height=600",
-      "image_kind": "company artwork"
+      "description": "Coast: Fuel and fleet payments made easy. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/b3ddb39fec7e2652b154.webp"
     },
     {
       "id": "305abc2e69751c51",
@@ -217,11 +217,11 @@
       "investor_url": "https://startups.gallery/investors/stifel",
       "source_url": "https://lnkd.in/p/gJCwAqNS",
       "logo_url": "https://framerusercontent.com/images/QbVlvDCe2xPXPeC2fwesgVk56ng.webp?width=200&height=200",
-      "logo": "static/startups/images/0fae75c48f4b1e7bf0b0.webp",
-      "description": "Meow: Business banking with interest. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image": "static/startups/images/0e69444e19c6e7ef37e4.png",
       "image_url": "https://framerusercontent.com/images/ohBIEcohJBBolHLECsIdhcueyc8.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Meow: Business banking with interest. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/0fae75c48f4b1e7bf0b0.webp"
     },
     {
       "id": "56c7fb1d4d254762",
