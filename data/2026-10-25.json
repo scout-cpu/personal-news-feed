@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T06:19:33.877233+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50224463",
+        "section": "hackernews",
+        "title": "No signs of AI payoff outside the tech sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "score": 526,
+        "score_label": "526 points",
+        "author": "the-mitr",
+        "published": "2026-10-24T19:47:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50224463"
+        }
+      },
+      {
+        "id": "hn-50226419",
+        "section": "hackernews",
+        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "score": 288,
+        "score_label": "288 points",
+        "author": "gnabgib",
+        "published": "2026-10-24T23:11:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50226419"
+        }
+      },
+      {
+        "id": "hn-50223647",
+        "section": "hackernews",
+        "title": "Why is AI generated language so hard to understand?",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "score": 182,
+        "score_label": "182 points",
+        "author": "canjobear",
+        "published": "2026-10-24T18:04:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50223647"
+        }
+      },
+      {
+        "id": "hn-50222525",
+        "section": "hackernews",
+        "title": "Neural chip decodes interactions between brain regions",
+        "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+        "score": 101,
+        "score_label": "101 points",
+        "author": "giuliomagnifico",
+        "published": "2026-10-24T15:57:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50222525"
+        }
+      },
+      {
+        "id": "hn-50220204",
+        "section": "hackernews",
+        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+        "score": 96,
+        "score_label": "96 points",
+        "author": "TangerineDream",
+        "published": "2026-10-24T11:18:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50220204"
+        }
+      },
+      {
+        "id": "hn-50227356",
+        "section": "hackernews",
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "score": 84,
+        "score_label": "84 points",
+        "author": "gmays",
+        "published": "2026-10-25T01:33:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50227356"
+        }
+      },
+      {
+        "id": "hn-50222283",
+        "section": "hackernews",
+        "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "tokepi",
+        "published": "2026-10-24T15:35:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50222283"
+        }
+      },
+      {
+        "id": "hn-50219875",
+        "section": "hackernews",
+        "title": "Claude Code slyly adding users' emails to outbound HTTP",
+        "url": "https://twitter.com/chrislakin/status/2113358733548081528",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "gojomo",
+        "published": "2026-10-24T10:26:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50219875"
+        }
+      },
+      {
+        "id": "hn-50221066",
+        "section": "hackernews",
+        "title": "Show HN: Enzyme – a programming language that compiles wikis for agents",
+        "url": "https://github.com/byenzyme/enzyme",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "earllee",
+        "published": "2026-10-24T13:30:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50221066"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 2834,
+        "score_label": "2,834 likes · 73,215 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-RecursiveSI/flint",
+        "section": "models",
+        "title": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "score": 788,
+        "score_label": "788 likes · 4,795 downloads",
+        "author": "RecursiveSI",
+        "published": "2026-10-21T14:20:58.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 1522,
+        "score_label": "1,522 likes · 590,742 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.6-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "score": 459,
+        "score_label": "459 likes · 2,537 downloads",
+        "author": "XHToken",
+        "published": "2026-10-19T03:19:51.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 9207,
+        "score_label": "9,207 likes · 2,087,721 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-OpenMOSS-Team/MOSS-Image-SFT",
+        "section": "models",
+        "title": "OpenMOSS-Team/MOSS-Image-SFT",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+        "score": 703,
+        "score_label": "703 likes · 9,717 downloads",
+        "author": "OpenMOSS-Team",
+        "published": "2026-10-11T07:01:17.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-fishaudio/drama-3",
+        "section": "models",
+        "title": "fishaudio/drama-3",
+        "url": "https://huggingface.co/fishaudio/drama-3",
+        "score": 995,
+        "score_label": "995 likes · 19,831 downloads",
+        "author": "fishaudio",
+        "published": "2026-10-01T04:34:57.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "score": 4986,
+        "score_label": "4,986 likes · 2,303,585 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-M3.1-Flash",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+        "score": 323,
+        "score_label": "323 likes · 5,789 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-10-17T06:37:50.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 18357,
+        "score_label": "18,357 likes · 7,851,161 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "section": "newsletters",
+        "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-10-24T11:14:32+00:00",
+        "snippet": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-kimi-31/",
+        "section": "newsletters",
+        "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+        "url": "https://latent.space/p/ainews-kimi-31/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-24T07:18:29+00:00",
+        "snippet": "We have Fable at home... or so we are being told by paid shills",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ai-is-getting-good-at-math/",
+        "section": "newsletters",
+        "title": "AI Is Getting Good at Math. Here’s Why.",
+        "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-23T15:19:48+00:00",
+        "snippet": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-black-october/",
+        "section": "newsletters",
+        "title": "[AINews] Black October",
+        "url": "https://latent.space/p/ainews-black-october/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-23T10:09:29+00:00",
+        "snippet": "the Cyber onslaught continues.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/modal-d/",
+        "section": "newsletters",
+        "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+        "url": "https://latent.space/p/modal-d/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-22T17:40:57+00:00",
+        "snippet": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/moshi/",
+        "section": "newsletters",
+        "title": "You are the Team  — Anekha Sokhal, Moshi",
+        "url": "https://latent.space/p/moshi/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-22T14:03:40+00:00",
+        "snippet": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-openais-patch-the-planet-program/",
+        "section": "newsletters",
+        "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+        "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-22T07:42:44+00:00",
+        "snippet": "The Big Hardening begins",
+        "extra_link": null
+      }
+    ]
+  }
+}
