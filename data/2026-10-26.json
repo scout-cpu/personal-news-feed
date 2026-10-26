@@ -1,0 +1,531 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T06:28:27.279124+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50233779",
+        "section": "hackernews",
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "url": "https://lynchlab.net/llm-skin-cancer",
+        "score": 509,
+        "score_label": "509 points",
+        "author": "sungam",
+        "published": "2026-10-25T17:15:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50233779"
+        }
+      },
+      {
+        "id": "hn-50236102",
+        "section": "hackernews",
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "score": 244,
+        "score_label": "244 points",
+        "author": "minimaxir",
+        "published": "2026-10-25T21:11:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50236102"
+        }
+      },
+      {
+        "id": "hn-50233304",
+        "section": "hackernews",
+        "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+        "score": 212,
+        "score_label": "212 points",
+        "author": "romanhn",
+        "published": "2026-10-25T16:28:26+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50233304"
+        }
+      },
+      {
+        "id": "hn-50229827",
+        "section": "hackernews",
+        "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+        "score": 138,
+        "score_label": "138 points",
+        "author": "thunderbong",
+        "published": "2026-10-25T09:51:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50229827"
+        }
+      },
+      {
+        "id": "hn-50230995",
+        "section": "hackernews",
+        "title": "Imagine an AI future where being banned means you are now economically useless",
+        "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+        "score": 96,
+        "score_label": "96 points",
+        "author": "MrBuddyCasino",
+        "published": "2026-10-25T12:47:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50230995"
+        }
+      },
+      {
+        "id": "hn-50231722",
+        "section": "hackernews",
+        "title": "R/open source bans all solo projects and projects using LLMs",
+        "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+        "score": 85,
+        "score_label": "85 points",
+        "author": "schleck8",
+        "published": "2026-10-25T14:05:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50231722"
+        }
+      },
+      {
+        "id": "hn-50233347",
+        "section": "hackernews",
+        "title": "A mathematician reads the AI future",
+        "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+        "score": 57,
+        "score_label": "57 points",
+        "author": "artninja1988",
+        "published": "2026-10-25T16:31:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50233347"
+        }
+      },
+      {
+        "id": "hn-50236828",
+        "section": "hackernews",
+        "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "levzettelin",
+        "published": "2026-10-25T22:49:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50236828"
+        }
+      },
+      {
+        "id": "hn-50234699",
+        "section": "hackernews",
+        "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+        "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "hacker_v_s",
+        "published": "2026-10-25T18:42:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50234699"
+        }
+      },
+      {
+        "id": "hn-50239027",
+        "section": "hackernews",
+        "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+        "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "ianand",
+        "published": "2026-10-26T04:11:40+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50239027"
+        }
+      },
+      {
+        "id": "hn-50238351",
+        "section": "hackernews",
+        "title": "If AI displaces human workers, they will lose more than just pay",
+        "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "andsoitis",
+        "published": "2026-10-26T02:22:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50238351"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.30753",
+        "section": "papers",
+        "title": "FilmFlow: Agentic System for 3D Virtual Film Cinematography",
+        "url": "https://huggingface.co/papers/2610.30753",
+        "score": 32,
+        "score_label": "32 upvotes",
+        "author": "Yiming Zhang, Jiarui Guo, Haojia Wei et al.",
+        "published": "2026-10-21T20:00:00.000Z",
+        "snippet": "Complex camera motion is central to visual storytelling, yet translating cinematographic intent into controllable, executable camera trajectories remains challenging. We introduce FilmFlow, an agentic framework that con…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30753"
+        }
+      },
+      {
+        "id": "paper-2610.30932",
+        "section": "papers",
+        "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+        "url": "https://huggingface.co/papers/2610.30932",
+        "score": 26,
+        "score_label": "26 upvotes",
+        "author": "Jujia Zhao, Jiakai Tang, Jing Yu et al.",
+        "published": "2026-10-21T20:00:00.000Z",
+        "snippet": "Agentic recommendation pursues shopper goals through sequences of context-dependent decisions. Developing and evaluating such policies requires faithful recommendation world models that capture both the interactive shop…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.30932"
+        }
+      },
+      {
+        "id": "paper-2610.19705",
+        "section": "papers",
+        "title": "RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing",
+        "url": "https://huggingface.co/papers/2610.19705",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Xiaohan Wang, Haozhen Zhang, Qingyuan Liu et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "LLM routing dynamically selects and coordinates heterogeneous language models across diverse tasks. However, existing approaches are largely built around a predefined execution paradigm, such as single-round, multi-roun…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.19705"
+        }
+      },
+      {
+        "id": "paper-2610.27712",
+        "section": "papers",
+        "title": "RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting",
+        "url": "https://huggingface.co/papers/2610.27712",
+        "score": 24,
+        "score_label": "24 upvotes",
+        "author": "Injae Kim, Minseok Joo, Jihwan Park et al.",
+        "published": "2026-10-19T20:00:00.000Z",
+        "snippet": "Feed-forward 3D Gaussian Splatting (FF3DGS) reconstructs 3D scenes from images in a single forward pass, making it well-suited to applications that must operate within limited resource budgets. To further improve its pr…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.27712"
+        }
+      },
+      {
+        "id": "paper-2610.26233",
+        "section": "papers",
+        "title": "Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents",
+        "url": "https://huggingface.co/papers/2610.26233",
+        "score": 24,
+        "score_label": "24 upvotes",
+        "author": "Zhenyu Zhang, Kewei Fu, Yongqi Tong et al.",
+        "published": "2026-10-18T20:00:00.000Z",
+        "snippet": "Tool-using voice agents often leave users waiting after speech ends, even when actionable information arrives earlier in the request. Speculative approaches begin work during speech, but chunk-bounded or interrupt-on-up…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.26233"
+        }
+      },
+      {
+        "id": "paper-2610.32982",
+        "section": "papers",
+        "title": "The Language of Instruction: Genre and Generative AI",
+        "url": "https://arxiv.org/abs/2610.32982",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "James E. Dobson",
+        "published": "2026-10-23T17:59:56Z",
+        "snippet": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation of discursive langu…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.32978",
+        "section": "papers",
+        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+        "url": "https://arxiv.org/abs/2610.32978",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yuhan Liu, Lianhui Qin, Shenji Wan",
+        "published": "2026-10-23T17:59:21Z",
+        "snippet": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding re…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.32971",
+        "section": "papers",
+        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+        "url": "https://arxiv.org/abs/2610.32971",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Xi Chen, Fengqi Hu, Zeyu Shen et al.",
+        "published": "2026-10-23T17:57:22Z",
+        "snippet": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mechanisms and principle…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.32969",
+        "section": "papers",
+        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+        "url": "https://arxiv.org/abs/2610.32969",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Amber Xie, Jiawei Fu, Xiaofeng Guo et al.",
+        "published": "2026-10-23T17:56:28Z",
+        "snippet": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of co…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.32964",
+        "section": "papers",
+        "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+        "url": "https://arxiv.org/abs/2610.32964",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Bernardo Perrone Ribeiro, Erkut Akdag, Egor Bondarev",
+        "published": "2026-10-23T17:53:30Z",
+        "snippet": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear structure, or risk…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.32955",
+        "section": "papers",
+        "title": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+        "url": "https://arxiv.org/abs/2610.32955",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Federico Lucca",
+        "published": "2026-10-23T17:49:43Z",
+        "snippet": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were written by the system…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.32951",
+        "section": "papers",
+        "title": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2610.32951",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yijing Ke, Tianle Cai, Ruosong Wang",
+        "published": "2026-10-23T17:45:03Z",
+        "snippet": "Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended on-policy update off…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.32948",
+        "section": "papers",
+        "title": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models",
+        "url": "https://arxiv.org/abs/2610.32948",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Dianye Huang, Jiamei Guo, Yue Zhou et al.",
+        "published": "2026-10-23T17:40:58Z",
+        "snippet": "Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-based numerical pred…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 3028,
+        "score_label": "3,028 likes · 85,275 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-RecursiveSI/flint",
+        "section": "models",
+        "title": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "score": 868,
+        "score_label": "868 likes · 6,444 downloads",
+        "author": "RecursiveSI",
+        "published": "2026-10-21T14:20:58.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 1617,
+        "score_label": "1,617 likes · 660,874 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.6-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "score": 539,
+        "score_label": "539 likes · 3,488 downloads",
+        "author": "XHToken",
+        "published": "2026-10-19T03:19:51.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Nanbeige/Nanbeige4.3-33B",
+        "section": "models",
+        "title": "Nanbeige/Nanbeige4.3-33B",
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+        "score": 440,
+        "score_label": "440 likes · 0 downloads",
+        "author": "Nanbeige",
+        "published": "2026-10-24T02:49:18.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 9355,
+        "score_label": "9,355 likes · 2,107,108 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-M3.1-Flash",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+        "score": 359,
+        "score_label": "359 likes · 7,355 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-10-17T06:37:50.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-OpenMOSS-Team/MOSS-Image-SFT",
+        "section": "models",
+        "title": "OpenMOSS-Team/MOSS-Image-SFT",
+        "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+        "score": 734,
+        "score_label": "734 likes · 10,757 downloads",
+        "author": "OpenMOSS-Team",
+        "published": "2026-10-11T07:01:17.000Z",
+        "snippet": "text-to-image · diffusers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 18414,
+        "score_label": "18,414 likes · 7,762,014 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "section": "models",
+        "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+        "score": 5047,
+        "score_label": "5,047 likes · 2,235,846 downloads",
+        "author": "abenzerps",
+        "published": "2026-09-20T15:51:13.000Z",
+        "snippet": "text-to-image · gguf",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+        "section": "newsletters",
+        "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+        "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-25T11:49:00+00:00",
+        "snippet": "#20",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "section": "newsletters",
+        "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-10-24T11:14:32+00:00",
+        "snippet": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-kimi-31/",
+        "section": "newsletters",
+        "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+        "url": "https://latent.space/p/ainews-kimi-31/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-24T07:18:29+00:00",
+        "snippet": "We have Fable at home... or so we are being told by paid shills",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ai-is-getting-good-at-math/",
+        "section": "newsletters",
+        "title": "AI Is Getting Good at Math. Here’s Why.",
+        "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-23T15:19:48+00:00",
+        "snippet": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-black-october/",
+        "section": "newsletters",
+        "title": "[AINews] Black October",
+        "url": "https://latent.space/p/ainews-black-october/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-23T10:09:29+00:00",
+        "snippet": "the Cyber onslaught continues.",
+        "extra_link": null
+      }
+    ]
+  }
+}
