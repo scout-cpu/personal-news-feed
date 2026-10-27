@@ -1,0 +1,672 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T06:27:01.513168+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50242939",
+        "section": "hackernews",
+        "title": "Anthropic S-1",
+        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+        "score": 1565,
+        "score_label": "1565 points",
+        "author": "SiNTEx",
+        "published": "2026-10-26T13:04:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50242939"
+        }
+      },
+      {
+        "id": "hn-50248124",
+        "section": "hackernews",
+        "title": "GPT-6.1 Terra",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+        "score": 568,
+        "score_label": "568 points",
+        "author": "meetpateltech",
+        "published": "2026-10-26T18:01:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50248124"
+        }
+      },
+      {
+        "id": "hn-50246658",
+        "section": "hackernews",
+        "title": "Concerning behavior from a popular open-weight AI model",
+        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+        "score": 285,
+        "score_label": "285 points",
+        "author": "matthieu_bl",
+        "published": "2026-10-26T16:35:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50246658"
+        }
+      },
+      {
+        "id": "hn-50242843",
+        "section": "hackernews",
+        "title": "Brown student maps the hidden global labor powering AI",
+        "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+        "score": 177,
+        "score_label": "177 points",
+        "author": "cdrnsf",
+        "published": "2026-10-26T12:58:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50242843"
+        }
+      },
+      {
+        "id": "hn-50246238",
+        "section": "hackernews",
+        "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+        "url": "https://github.com/FrigadeHQ/hob",
+        "score": 136,
+        "score_label": "136 points",
+        "author": "pancomplex",
+        "published": "2026-10-26T16:12:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50246238"
+        }
+      },
+      {
+        "id": "hn-50252159",
+        "section": "hackernews",
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "score": 115,
+        "score_label": "115 points",
+        "author": "wondersky",
+        "published": "2026-10-26T22:41:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50252159"
+        }
+      },
+      {
+        "id": "hn-50251062",
+        "section": "hackernews",
+        "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
+        "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+        "score": 58,
+        "score_label": "58 points",
+        "author": "cdrnsf",
+        "published": "2026-10-26T21:13:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50251062"
+        }
+      },
+      {
+        "id": "hn-50247453",
+        "section": "hackernews",
+        "title": "The Git Forge for Agent-Human Collaboration",
+        "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+        "score": 55,
+        "score_label": "55 points",
+        "author": "lizziepika",
+        "published": "2026-10-26T17:23:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50247453"
+        }
+      },
+      {
+        "id": "hn-50248075",
+        "section": "hackernews",
+        "title": "GPT 6.1 Terra",
+        "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "pcwelder",
+        "published": "2026-10-26T17:58:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50248075"
+        }
+      },
+      {
+        "id": "hn-50249953",
+        "section": "hackernews",
+        "title": "Why I'm growing my Vancouver AI company in Taiwan and Europe instead of the U.S.",
+        "url": "https://bcbusiness.ca/business/tech-science/opinion-vancouver-ai-company-taiwan-europe/",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "ClearwayLaw",
+        "published": "2026-10-26T19:52:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50249953"
+        }
+      },
+      {
+        "id": "hn-50242957",
+        "section": "hackernews",
+        "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+        "url": "https://www.anthropic.com/news/s1-sec",
+        "score": 25,
+        "score_label": "25 points",
+        "author": "meetpateltech",
+        "published": "2026-10-26T13:06:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50242957"
+        }
+      },
+      {
+        "id": "hn-50249076",
+        "section": "hackernews",
+        "title": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
+        "url": "https://artificialanalysis.ai/models/gpt-6-1-terra",
+        "score": 24,
+        "score_label": "24 points",
+        "author": "theanonymousone",
+        "published": "2026-10-26T18:54:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50249076"
+        }
+      },
+      {
+        "id": "hn-50250910",
+        "section": "hackernews",
+        "title": "AI models cost more when you don't use English",
+        "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "postalex",
+        "published": "2026-10-26T21:03:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50250910"
+        }
+      },
+      {
+        "id": "hn-50250450",
+        "section": "hackernews",
+        "title": "Grand theft AI: Highway thieves are stealing millions in data center gear",
+        "url": "https://www.nbcnews.com/tech/security/grand-theft-ai-highway-thieves-are-stealing-millions-data-center-gear-rcna603733",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "supertrope",
+        "published": "2026-10-26T20:28:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50250450"
+        }
+      },
+      {
+        "id": "hn-50249449",
+        "section": "hackernews",
+        "title": "Swarmatory: Shared chatroom/feed for your team's coding agents",
+        "url": "https://github.com/fixture-inc/swarmatory",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "qhoxie",
+        "published": "2026-10-26T19:17:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50249449"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.31668",
+        "section": "papers",
+        "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+        "url": "https://huggingface.co/papers/2610.31668",
+        "score": 273,
+        "score_label": "273 upvotes",
+        "author": "Shengqiong Wu, Meng Luo, Bobo Li et al.",
+        "published": "2026-10-21T20:00:00.000Z",
+        "snippet": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectiv…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.31668"
+        }
+      },
+      {
+        "id": "paper-2610.33568",
+        "section": "papers",
+        "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+        "url": "https://huggingface.co/papers/2610.33568",
+        "score": 105,
+        "score_label": "105 upvotes",
+        "author": "Yihao Hu, Zhihao Wen, Yitong Lin et al.",
+        "published": "2026-10-23T20:00:00.000Z",
+        "snippet": "Successful tool-use trajectories are not necessarily useful supervision. Even successful interactions may underrepresent multi-step dependencies or contain actions that are unjustified by the information visible to the…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.33568"
+        }
+      },
+      {
+        "id": "paper-2610.34662",
+        "section": "papers",
+        "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+        "url": "https://huggingface.co/papers/2610.34662",
+        "score": 85,
+        "score_label": "85 upvotes",
+        "author": "Chengzhi Liu, Yuxiang Lai, Yuzhe Yang et al.",
+        "published": "2026-10-25T20:00:00.000Z",
+        "snippet": "Vision-language models are shifting from offline passive understanding toward online proactive interaction. However, prevailing methods largely rely on explicit requests while miss the implicit user intent (e.g., \"where…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.34662"
+        }
+      },
+      {
+        "id": "paper-2610.32285",
+        "section": "papers",
+        "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+        "url": "https://huggingface.co/papers/2610.32285",
+        "score": 74,
+        "score_label": "74 upvotes",
+        "author": "Zhiyong Cao, Hengjie Zhu, Yongxin Wang et al.",
+        "published": "2026-10-22T20:00:00.000Z",
+        "snippet": "LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benchmarks focus on mod…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.32285"
+        }
+      },
+      {
+        "id": "paper-2610.33966",
+        "section": "papers",
+        "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+        "url": "https://huggingface.co/papers/2610.33966",
+        "score": 71,
+        "score_label": "71 upvotes",
+        "author": "Qinsi Wang, Wei Wen, Chong Zhou et al.",
+        "published": "2026-10-24T20:00:00.000Z",
+        "snippet": "People have long dreamed of an assistant that is always there to guide them and remind what they forget, from new dishes to lost keys. Powered by multimodal large language models (MLLMs), egocentric AI assistants on wea…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.33966"
+        }
+      },
+      {
+        "id": "paper-2610.33135",
+        "section": "papers",
+        "title": "WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control",
+        "url": "https://huggingface.co/papers/2610.33135",
+        "score": 38,
+        "score_label": "38 upvotes",
+        "author": "Lei Cao, Yu Liu, Wenhua Liao et al.",
+        "published": "2026-10-22T20:00:00.000Z",
+        "snippet": "Precise camera control is essential for cinematic character video generation, yet existing methods struggle to follow large-angle trajectories with combined rotation, translation, and radius variation from arbitrary ini…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.33135"
+        }
+      },
+      {
+        "id": "paper-2610.34467",
+        "section": "papers",
+        "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+        "url": "https://huggingface.co/papers/2610.34467",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "Ruhao Liu, Qi Li, Shizun Wang et al.",
+        "published": "2026-10-24T20:00:00.000Z",
+        "snippet": "Multi-agent systems often rely on predefined collaboration structures, limiting their ability to adapt to diverse task requirements. We introduce DynaFlow, a framework that integrates free-form executable workflow synth…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.34467"
+        }
+      },
+      {
+        "id": "paper-2610.33512",
+        "section": "papers",
+        "title": "Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL",
+        "url": "https://huggingface.co/papers/2610.33512",
+        "score": 19,
+        "score_label": "19 upvotes",
+        "author": "Hyun Ryu, Jong-Heon Kim, Yiqing Xie et al.",
+        "published": "2026-10-23T20:00:00.000Z",
+        "snippet": "Rubric-based rewards enable effective reinforcement learning on non-verifiable tasks. However, because these rewards are typically defined as a weighted measure of rubric coverage, models are trained primarily to maximi…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.33512"
+        }
+      },
+      {
+        "id": "paper-2610.34415",
+        "section": "papers",
+        "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion",
+        "url": "https://huggingface.co/papers/2610.34415",
+        "score": 16,
+        "score_label": "16 upvotes",
+        "author": "Kam Man Wu, Yu Zhang, Pengjun Fang et al.",
+        "published": "2026-10-24T20:00:00.000Z",
+        "snippet": "Spatial audio authoring coordinates source decisions with soundfield synthesis. For editing, plans specify what to change and retain, while reference audio supplies further acoustic detail. We present AMBIT, a unified f…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.34415"
+        }
+      },
+      {
+        "id": "paper-2610.32195",
+        "section": "papers",
+        "title": "Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery",
+        "url": "https://huggingface.co/papers/2610.32195",
+        "score": 16,
+        "score_label": "16 upvotes",
+        "author": "Dongki Kim, Sangwoo Park, Jinheon Baek et al.",
+        "published": "2026-10-22T20:00:00.000Z",
+        "snippet": "Scientific discovery requires identifying the scientific principles underlying observed phenomena to guide further investigation. As these empirical principles are often unknown in complex discovery processes, they are…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.32195"
+        }
+      },
+      {
+        "id": "paper-2610.33169",
+        "section": "papers",
+        "title": "World-in-Context: Interactive Video World Modeling with In-Context Conditioning",
+        "url": "https://huggingface.co/papers/2610.33169",
+        "score": 16,
+        "score_label": "16 upvotes",
+        "author": "Harold Haodong Chen, Rui Peng, Rongjin Guo et al.",
+        "published": "2026-10-22T20:00:00.000Z",
+        "snippet": "Interactive video world models require coordinated control over viewing perspectives, character actions, and camera motion. Existing methods typically leave view modes implicit in text captions, conflate action with cam…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.33169"
+        }
+      },
+      {
+        "id": "paper-2610.32093",
+        "section": "papers",
+        "title": "DiscoDemo: Discovering Efficient and Diverse Robot Demonstrations for Imitation Learning",
+        "url": "https://huggingface.co/papers/2610.32093",
+        "score": 16,
+        "score_label": "16 upvotes",
+        "author": "Minho Park, Kinam Kim, Donghu Kim et al.",
+        "published": "2026-10-22T20:00:00.000Z",
+        "snippet": "Behavior cloning for robotic manipulation is highly sensitive to the coverage of its training data, yet collecting diverse successful demonstrations remains costly. We study reinforcement learning (RL) not as a deployab…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.32093"
+        }
+      },
+      {
+        "id": "paper-2610.35868",
+        "section": "papers",
+        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+        "url": "https://arxiv.org/abs/2610.35868",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Chao Wan, Paul Jünger, Beixi Du et al.",
+        "published": "2026-10-26T17:59:44Z",
+        "snippet": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to f…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.35865",
+        "section": "papers",
+        "title": "Center-of-Mass Interpretation of Evolution Strategies",
+        "url": "https://arxiv.org/abs/2610.35865",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Akshat Gupta",
+        "published": "2026-10-26T17:59:33Z",
+        "snippet": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presented as an estimate…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.35866",
+        "section": "papers",
+        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+        "url": "https://arxiv.org/abs/2610.35866",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Xi Chen, Chongjian Ge, Yiran Xu et al.",
+        "published": "2026-10-26T17:59:33Z",
+        "snippet": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark for evaluating aut…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.35862",
+        "section": "papers",
+        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+        "url": "https://arxiv.org/abs/2610.35862",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Sihang Li, Xiaofeng Guo, Jinkun Cao et al.",
+        "published": "2026-10-26T17:59:11Z",
+        "snippet": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic trajectories alone.…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.35856",
+        "section": "papers",
+        "title": "On the stability of learning",
+        "url": "https://arxiv.org/abs/2610.35856",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "John J. Vastola",
+        "published": "2026-10-26T17:58:14Z",
+        "snippet": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for example, may be spar…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.35847",
+        "section": "papers",
+        "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+        "url": "https://arxiv.org/abs/2610.35847",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Wei-Wei Zhang, Pengkai Wang, Yan Li et al.",
+        "published": "2026-10-26T17:56:26Z",
+        "snippet": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across a longitudinal car…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.35846",
+        "section": "papers",
+        "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
+        "url": "https://arxiv.org/abs/2610.35846",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yuchen Zhang, Haralambos Mouratidis, Ravi Shekhar",
+        "published": "2026-10-26T17:56:22Z",
+        "snippet": "Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem in connector-based S…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2610.35835",
+        "section": "papers",
+        "title": "I-HITL: Inalienable Human-in-the-Loop",
+        "url": "https://arxiv.org/abs/2610.35835",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Samuel Breckenridge, Dani Vilardell, Wenhao Wang et al.",
+        "published": "2026-10-26T17:52:14Z",
+        "snippet": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the qu…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 3235,
+        "score_label": "3,235 likes · 95,889 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-RecursiveSI/flint",
+        "section": "models",
+        "title": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "score": 932,
+        "score_label": "932 likes · 8,470 downloads",
+        "author": "RecursiveSI",
+        "published": "2026-10-21T14:20:58.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Nanbeige/Nanbeige4.3-33B",
+        "section": "models",
+        "title": "Nanbeige/Nanbeige4.3-33B",
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+        "score": 610,
+        "score_label": "610 likes · 2,787 downloads",
+        "author": "Nanbeige",
+        "published": "2026-10-24T02:49:18.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.6-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "score": 698,
+        "score_label": "698 likes · 4,726 downloads",
+        "author": "XHToken",
+        "published": "2026-10-19T03:19:51.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 1718,
+        "score_label": "1,718 likes · 700,652 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 9478,
+        "score_label": "9,478 likes · 2,117,147 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-M3.1-Flash",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+        "score": 389,
+        "score_label": "389 likes · 8,782 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-10-17T06:37:50.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "score": 355,
+        "score_label": "355 likes · 891,147 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-10-23T09:43:05.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 18474,
+        "score_label": "18,474 likes · 7,608,285 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-InternScience/Sage-A1.5",
+        "section": "models",
+        "title": "InternScience/Sage-A1.5",
+        "url": "https://huggingface.co/InternScience/Sage-A1.5",
+        "score": 319,
+        "score_label": "319 likes · 5,235 downloads",
+        "author": "InternScience",
+        "published": "2026-10-15T08:34:39.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+        "section": "newsletters",
+        "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+        "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-25T11:49:00+00:00",
+        "snippet": "#20",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "section": "newsletters",
+        "title": "Building Reasoning Models from the Ground Up: A Full Video Course",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-10-24T11:14:32+00:00",
+        "snippet": "Over 11 hours of coding videos on evaluation, inference-time scaling, reinforcement learning, and distillation, with Python and PyTorch.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-kimi-31/",
+        "section": "newsletters",
+        "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+        "url": "https://latent.space/p/ainews-kimi-31/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-24T07:18:29+00:00",
+        "snippet": "We have Fable at home... or so we are being told by paid shills",
+        "extra_link": null
+      }
+    ]
+  }
+}
