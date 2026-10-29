@@ -1,0 +1,531 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:16:02.062187+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50276792",
+        "section": "hackernews",
+        "title": "Gemini 4 Carbon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "score": 887,
+        "score_label": "887 points",
+        "author": "acossta",
+        "published": "2026-10-28T17:01:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50276792"
+        }
+      },
+      {
+        "id": "hn-50273396",
+        "section": "hackernews",
+        "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+        "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+        "score": 453,
+        "score_label": "453 points",
+        "author": "danso",
+        "published": "2026-10-28T13:41:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50273396"
+        }
+      },
+      {
+        "id": "hn-50280864",
+        "section": "hackernews",
+        "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+        "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+        "score": 312,
+        "score_label": "312 points",
+        "author": "Aboutplants",
+        "published": "2026-10-28T21:03:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50280864"
+        }
+      },
+      {
+        "id": "hn-50284255",
+        "section": "hackernews",
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "score": 267,
+        "score_label": "267 points",
+        "author": "NikZaal",
+        "published": "2026-10-29T03:33:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50284255"
+        }
+      },
+      {
+        "id": "hn-50275626",
+        "section": "hackernews",
+        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+        "url": "https://surgehq.ai/blog/dayjob-tax",
+        "score": 224,
+        "score_label": "224 points",
+        "author": "landonxi",
+        "published": "2026-10-28T15:46:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50275626"
+        }
+      },
+      {
+        "id": "hn-50280178",
+        "section": "hackernews",
+        "title": "Google AI gets cagey when asked who won the 2020 elections",
+        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "score": 144,
+        "score_label": "144 points",
+        "author": "jacquesm",
+        "published": "2026-10-28T20:10:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50280178"
+        }
+      },
+      {
+        "id": "hn-50273731",
+        "section": "hackernews",
+        "title": "The Agent SDK",
+        "url": "https://cursor.com/blog/agent-sdk",
+        "score": 115,
+        "score_label": "115 points",
+        "author": "torutofu",
+        "published": "2026-10-28T14:02:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50273731"
+        }
+      },
+      {
+        "id": "hn-50273623",
+        "section": "hackernews",
+        "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+        "url": "https://github.com/thomasunise/casecite",
+        "score": 69,
+        "score_label": "69 points",
+        "author": "zztopisgreat",
+        "published": "2026-10-28T13:56:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50273623"
+        }
+      },
+      {
+        "id": "hn-50271271",
+        "section": "hackernews",
+        "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+        "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+        "score": 69,
+        "score_label": "69 points",
+        "author": "tom2026hn",
+        "published": "2026-10-28T10:10:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50271271"
+        }
+      },
+      {
+        "id": "hn-50273192",
+        "section": "hackernews",
+        "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+        "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+        "score": 65,
+        "score_label": "65 points",
+        "author": "HelloUsername",
+        "published": "2026-10-28T13:27:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50273192"
+        }
+      },
+      {
+        "id": "hn-50282865",
+        "section": "hackernews",
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "paaloeye",
+        "published": "2026-10-29T00:30:37+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50282865"
+        }
+      },
+      {
+        "id": "hn-50281826",
+        "section": "hackernews",
+        "title": "AI execs may be too out of touch to build for the general public",
+        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "pavel_lishin",
+        "published": "2026-10-28T22:27:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50281826"
+        }
+      },
+      {
+        "id": "hn-50282766",
+        "section": "hackernews",
+        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+        "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "ilamont",
+        "published": "2026-10-29T00:16:08+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50282766"
+        }
+      },
+      {
+        "id": "hn-50272479",
+        "section": "hackernews",
+        "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+        "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "acossta",
+        "published": "2026-10-28T12:24:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50272479"
+        }
+      },
+      {
+        "id": "hn-50273416",
+        "section": "hackernews",
+        "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+        "url": "https://bou.ke/blog/zoetermeer/",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "bouk",
+        "published": "2026-10-28T13:43:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50273416"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.35013",
+        "section": "papers",
+        "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+        "url": "https://huggingface.co/papers/2610.35013",
+        "score": 376,
+        "score_label": "376 upvotes",
+        "author": "Tao Ren, Hui Yang, Jia Deng et al.",
+        "published": "2026-10-25T20:00:00.000Z",
+        "snippet": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization a…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.35013"
+        }
+      },
+      {
+        "id": "paper-2610.35201",
+        "section": "papers",
+        "title": "DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models",
+        "url": "https://huggingface.co/papers/2610.35201",
+        "score": 255,
+        "score_label": "255 upvotes",
+        "author": "Hongze Chen, Miao Pan, Lizhou Liang et al.",
+        "published": "2026-10-25T20:00:00.000Z",
+        "snippet": "Diffusion language models (DLMs) generate text through iterative denoising, enabling bidirectional context modeling and parallel token refinement. Recent studies have applied reinforcement learning (RL) to DLMs and impr…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.35201"
+        }
+      },
+      {
+        "id": "paper-2610.35864",
+        "section": "papers",
+        "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+        "url": "https://huggingface.co/papers/2610.35864",
+        "score": 173,
+        "score_label": "173 upvotes",
+        "author": "Muxi Diao, Wenbin Xu, Lele Yang et al.",
+        "published": "2026-10-26T20:00:00.000Z",
+        "snippet": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different route is emerging: mult…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.35864"
+        }
+      },
+      {
+        "id": "paper-2610.32749",
+        "section": "papers",
+        "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+        "url": "https://huggingface.co/papers/2610.32749",
+        "score": 141,
+        "score_label": "141 upvotes",
+        "author": "Wendi Sang, Kai Li, Yifan Li et al.",
+        "published": "2026-10-22T20:00:00.000Z",
+        "snippet": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at t…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.32749"
+        }
+      },
+      {
+        "id": "paper-2610.37662",
+        "section": "papers",
+        "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+        "url": "https://huggingface.co/papers/2610.37662",
+        "score": 90,
+        "score_label": "90 upvotes",
+        "author": "Jialv Zou, Xiaotong Li, Zhengrong Yue et al.",
+        "published": "2026-10-26T20:00:00.000Z",
+        "snippet": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.37662"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 3640,
+        "score_label": "3,640 likes · 116,770 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Nanbeige/Nanbeige4.3-33B",
+        "section": "models",
+        "title": "Nanbeige/Nanbeige4.3-33B",
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+        "score": 742,
+        "score_label": "742 likes · 7,412 downloads",
+        "author": "Nanbeige",
+        "published": "2026-10-24T02:49:18.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-RecursiveSI/flint",
+        "section": "models",
+        "title": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "score": 1210,
+        "score_label": "1,210 likes · 14,047 downloads",
+        "author": "RecursiveSI",
+        "published": "2026-10-21T14:20:58.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.6-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "score": 878,
+        "score_label": "878 likes · 8,222 downloads",
+        "author": "XHToken",
+        "published": "2026-10-19T03:19:51.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-tencent/Hy-SimulMT-30B-A3B-FP8",
+        "section": "models",
+        "title": "tencent/Hy-SimulMT-30B-A3B-FP8",
+        "url": "https://huggingface.co/tencent/Hy-SimulMT-30B-A3B-FP8",
+        "score": 428,
+        "score_label": "428 likes · 165 downloads",
+        "author": "tencent",
+        "published": "2026-10-22T07:29:37.000Z",
+        "snippet": "translation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM3-1.7B",
+        "section": "models",
+        "title": "LiquidAI/LFM3-1.7B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "score": 423,
+        "score_label": "423 likes · 8,892 downloads",
+        "author": "LiquidAI",
+        "published": "2026-10-23T21:35:42.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-M3.1-Flash",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+        "score": 470,
+        "score_label": "470 likes · 13,247 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-10-17T06:37:50.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "score": 455,
+        "score_label": "455 likes · 1,377,570 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-10-23T09:43:05.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 9758,
+        "score_label": "9,758 likes · 2,234,788 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-black-forest-labs/flux-3-image-klein-comfy",
+        "section": "models",
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "score": 1981,
+        "score_label": "1,981 likes · 798,943 downloads",
+        "author": "black-forest-labs",
+        "published": "2026-10-14T12:00:13.000Z",
+        "snippet": "image-to-image · diffusion-single-file",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-gemini-4-carbon/",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+        "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-29T05:55:19+00:00",
+        "snippet": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/supabase/",
+        "section": "newsletters",
+        "title": "Why Agents Love Supabase",
+        "url": "https://latent.space/p/supabase/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-28T19:48:05+00:00",
+        "snippet": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+        "section": "newsletters",
+        "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+        "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-28T12:58:39+00:00",
+        "snippet": "A sort of review of the benchmarking industry and what's missing.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+        "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-28T08:50:30+00:00",
+        "snippet": "Since coding is solved, why code for the job?",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/opus55/",
+        "section": "newsletters",
+        "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+        "url": "https://latent.space/p/opus55/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-27T18:53:10+00:00",
+        "snippet": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+        "section": "newsletters",
+        "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+        "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-27T18:40:19+00:00",
+        "snippet": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable ma…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/offline-coding/",
+        "section": "newsletters",
+        "title": "Coding From the Himalayas With an Offline AI Agent",
+        "url": "https://latent.space/p/offline-coding/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-27T14:41:25+00:00",
+        "snippet": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-s1/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+        "url": "https://latent.space/p/ainews-anthropic-s1/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-27T07:24:59+00:00",
+        "snippet": "The S-1, the numbers, and the reactions.",
+        "extra_link": null
+      }
+    ]
+  }
+}
