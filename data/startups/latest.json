@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-10-30T07:19:17.948239+00:00",
+  "fetched_at": "2026-10-31T07:07:17.449666+00:00",
   "items": [
     {
       "id": "043d7909b9840df6",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/bessemer-venture-partners",
       "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
       "logo_url": "https://framerusercontent.com/images/odNPtsnjAgzJESdrJEqRwerxOUs.webp?width=200&height=200",
-      "logo": "static/startups/images/80d4b96973be69c635cc.webp",
-      "description": "Upwind: Cloud security happens at runtime. Founded in 2022. See Upwind’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/dbeb7aadb1f2670dc905.webp",
       "image_url": "https://framerusercontent.com/images/qfSw3q6liop9zdJmnnvh5btIcP8.webp?width=1024&height=576",
-      "image_kind": "company artwork"
+      "description": "Upwind: Cloud security happens at runtime. Founded in 2022. See Upwind’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/80d4b96973be69c635cc.webp"
     },
     {
       "id": "6a1bd69ad9d07568",
@@ -30,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/sequoia-capital",
       "source_url": "https://lnkd.in/p/g4uUGbhE",
       "logo_url": "https://framerusercontent.com/images/fAbrmLbpJxFFqImnWuEs4QU.webp?width=200&height=200",
-      "logo": "static/startups/images/5b79530a4a2cb7a2fc53.webp",
-      "description": "Serval: AI agents for IT. Founded in 2024. See Serval’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/69e6ee3373ab5ae920a5.png",
       "image_url": "https://framerusercontent.com/images/plBHmSq3OgY4GO3pDCjQgovxkU.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Serval: AI agents for IT. Founded in 2024. See Serval’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/5b79530a4a2cb7a2fc53.webp"
     },
     {
       "id": "60c6560c1cd25db6",
@@ -47,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/ivp",
       "source_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
       "logo_url": "https://framerusercontent.com/images/EcQcS3YrFktFIOUu60kUEVeEgBw.webp?width=400&height=400",
-      "logo": "static/startups/images/55733450e8e21e983659.webp",
-      "description": "Wabi: The AI assistant you use together. Founded in 2025. See Wabi’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/293289c6b33ce1167804.jpg",
       "image_url": "https://framerusercontent.com/images/64zXubJ0bFrfp4luFqsmrElJYw.jpeg?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Wabi: The AI assistant you use together. Founded in 2025. See Wabi’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/55733450e8e21e983659.webp"
     },
     {
       "id": "c348dd6acd4d993d",
@@ -64,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/general-catalyst",
       "source_url": "https://www.collective.com/blog/collective-raises-100m",
       "logo_url": "https://framerusercontent.com/images/MOycM3f56UGLwPWtLd2mAC7LeYY.jpeg?width=200&height=200",
-      "logo": "static/startups/images/fe26b59dfbaac4654831.jpg",
-      "description": "Collective: All-in-one financial platform for solopreneurs. Founded in 2020. See Collective’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/16f5b74e6d8ecb0a1b51.webp",
       "image_url": "https://framerusercontent.com/images/Npi5QRn2bHuO9gL2hZBN2cuuVo.webp?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Collective: All-in-one financial platform for solopreneurs. Founded in 2020. See Collective’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/fe26b59dfbaac4654831.jpg"
     },
     {
       "id": "af02f7fe5de3497e",

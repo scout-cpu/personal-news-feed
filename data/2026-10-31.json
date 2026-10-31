@@ -1,0 +1,543 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T07:07:12.624231+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50300683",
+        "section": "hackernews",
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "score": 870,
+        "score_label": "870 points",
+        "author": "_chall",
+        "published": "2026-10-30T07:09:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50300683"
+        }
+      },
+      {
+        "id": "hn-50302334",
+        "section": "hackernews",
+        "title": "Backdoors in official Claude Code extensions",
+        "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+        "score": 655,
+        "score_label": "655 points",
+        "author": "dsr_",
+        "published": "2026-10-30T11:05:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50302334"
+        }
+      },
+      {
+        "id": "hn-50305693",
+        "section": "hackernews",
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "score": 567,
+        "score_label": "567 points",
+        "author": "dorianniemiec",
+        "published": "2026-10-30T15:52:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50305693"
+        }
+      },
+      {
+        "id": "hn-50301983",
+        "section": "hackernews",
+        "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+        "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+        "score": 399,
+        "score_label": "399 points",
+        "author": "bashtoni",
+        "published": "2026-10-30T10:22:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50301983"
+        }
+      },
+      {
+        "id": "hn-50307219",
+        "section": "hackernews",
+        "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+        "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+        "score": 303,
+        "score_label": "303 points",
+        "author": "petethomas",
+        "published": "2026-10-30T17:27:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50307219"
+        }
+      },
+      {
+        "id": "hn-50307183",
+        "section": "hackernews",
+        "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+        "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+        "score": 271,
+        "score_label": "271 points",
+        "author": "cdrnsf",
+        "published": "2026-10-30T17:24:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50307183"
+        }
+      },
+      {
+        "id": "hn-50306008",
+        "section": "hackernews",
+        "title": "US tech stocks see sharp falls over AI cost fears",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+        "score": 250,
+        "score_label": "250 points",
+        "author": "mindracer",
+        "published": "2026-10-30T16:13:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50306008"
+        }
+      },
+      {
+        "id": "hn-50304122",
+        "section": "hackernews",
+        "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+        "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+        "score": 156,
+        "score_label": "156 points",
+        "author": "taubek",
+        "published": "2026-10-30T14:08:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50304122"
+        }
+      },
+      {
+        "id": "hn-50301479",
+        "section": "hackernews",
+        "title": "Ask HN: Are you tired too in this AI era?",
+        "url": "https://news.ycombinator.com/item?id=50301479",
+        "score": 144,
+        "score_label": "144 points",
+        "author": "mellosty",
+        "published": "2026-10-30T09:17:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50301479"
+        }
+      },
+      {
+        "id": "hn-50312922",
+        "section": "hackernews",
+        "title": "OpenAI raises less than half of $30B target",
+        "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+        "score": 139,
+        "score_label": "139 points",
+        "author": "timr",
+        "published": "2026-10-31T03:22:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50312922"
+        }
+      },
+      {
+        "id": "hn-50304358",
+        "section": "hackernews",
+        "title": "Anthropic Cracking Down on Video Game Rewrites",
+        "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+        "score": 106,
+        "score_label": "106 points",
+        "author": "jacquesm",
+        "published": "2026-10-30T14:22:52+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50304358"
+        }
+      },
+      {
+        "id": "hn-50311311",
+        "section": "hackernews",
+        "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "score": 83,
+        "score_label": "83 points",
+        "author": "jnord",
+        "published": "2026-10-30T23:08:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50311311"
+        }
+      },
+      {
+        "id": "hn-50310431",
+        "section": "hackernews",
+        "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+        "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+        "score": 53,
+        "score_label": "53 points",
+        "author": "geox",
+        "published": "2026-10-30T21:32:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50310431"
+        }
+      },
+      {
+        "id": "hn-50304280",
+        "section": "hackernews",
+        "title": "Neal Stephenson on AI and What Comes Next [video]",
+        "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+        "score": 52,
+        "score_label": "52 points",
+        "author": "justin66",
+        "published": "2026-10-30T14:18:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50304280"
+        }
+      },
+      {
+        "id": "hn-50302407",
+        "section": "hackernews",
+        "title": "Fiber lasts decades, GPUs last three years: the AI boom isn't the dot-com boom [video]",
+        "url": "https://www.youtube.com/watch?v=MENoB3Rex28",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "frag",
+        "published": "2026-10-30T11:16:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50302407"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.39301",
+        "section": "papers",
+        "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+        "url": "https://huggingface.co/papers/2610.39301",
+        "score": 123,
+        "score_label": "123 upvotes",
+        "author": "Yunhang Shen, Zhangquan Chen, Xiaotian Li et al.",
+        "published": "2026-10-28T20:00:00.000Z",
+        "snippet": "We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and ci…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.39301"
+        }
+      },
+      {
+        "id": "paper-2610.39302",
+        "section": "papers",
+        "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+        "url": "https://huggingface.co/papers/2610.39302",
+        "score": 54,
+        "score_label": "54 upvotes",
+        "author": "Randall Balestriero, Yann LeCun",
+        "published": "2026-10-28T20:00:00.000Z",
+        "snippet": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.39302"
+        }
+      },
+      {
+        "id": "paper-2610.40614",
+        "section": "papers",
+        "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+        "url": "https://huggingface.co/papers/2610.40614",
+        "score": 36,
+        "score_label": "36 upvotes",
+        "author": "Jinhyeok Choi, JoungBin Lee, Jongmin Lee et al.",
+        "published": "2026-10-28T20:00:00.000Z",
+        "snippet": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either tempor…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.40614"
+        }
+      },
+      {
+        "id": "paper-2610.33106",
+        "section": "papers",
+        "title": "VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team",
+        "url": "https://huggingface.co/papers/2610.33106",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Wenbo Hu, Ken Li, Jiazhe Wei et al.",
+        "published": "2026-10-21T20:00:00.000Z",
+        "snippet": "Large language model agents have enabled software development through natural-language interaction, but extending this paradigm to end-to-end game development remains challenging. Building a playable game requires coord…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.33106"
+        }
+      },
+      {
+        "id": "paper-2610.35138",
+        "section": "papers",
+        "title": "Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models",
+        "url": "https://huggingface.co/papers/2610.35138",
+        "score": 19,
+        "score_label": "19 upvotes",
+        "author": "Xilin Wei, Shengyuan Ding, Xinyu Fang et al.",
+        "published": "2026-10-25T20:00:00.000Z",
+        "snippet": "Evaluating human-AI co-design requires testing whether coding agents can translate real users' multimodal requests into working application revisions. We introduce Co-Design Bench, a reference-free benchmark of 273 task…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.35138"
+        }
+      },
+      {
+        "id": "paper-2610.40636",
+        "section": "papers",
+        "title": "Probing Spatial State Representations in Visual Foundation Models",
+        "url": "https://arxiv.org/abs/2610.40636",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Baiqiao Yin, Zhongang Cai, Ruisi Wang et al.",
+        "published": "2026-10-29T17:58:16Z",
+        "snippet": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spa…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 4033,
+        "score_label": "4,033 likes · 145,869 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Nanbeige/Nanbeige4.3-33B",
+        "section": "models",
+        "title": "Nanbeige/Nanbeige4.3-33B",
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+        "score": 803,
+        "score_label": "803 likes · 12,178 downloads",
+        "author": "Nanbeige",
+        "published": "2026-10-24T02:49:18.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM3-1.7B",
+        "section": "models",
+        "title": "LiquidAI/LFM3-1.7B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "score": 582,
+        "score_label": "582 likes · 23,694 downloads",
+        "author": "LiquidAI",
+        "published": "2026-10-23T21:35:42.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "section": "models",
+        "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "score": 509,
+        "score_label": "509 likes · 15,980 downloads",
+        "author": "nvidia",
+        "published": "2026-10-07T22:50:21.000Z",
+        "snippet": "automatic-speech-recognition · nemo",
+        "extra_link": null
+      },
+      {
+        "id": "model-baidu/Unlimited-OCR-2",
+        "section": "models",
+        "title": "baidu/Unlimited-OCR-2",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+        "score": 460,
+        "score_label": "460 likes · 24,276 downloads",
+        "author": "baidu",
+        "published": "2026-10-26T03:57:46.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-mistralai/Mistral-Large-4-1T-A52B",
+        "section": "models",
+        "title": "mistralai/Mistral-Large-4-1T-A52B",
+        "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+        "score": 1359,
+        "score_label": "1,359 likes · 1,239 downloads",
+        "author": "mistralai",
+        "published": "2026-09-30T18:35:13.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 9990,
+        "score_label": "9,990 likes · 2,335,172 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+        "score": 509,
+        "score_label": "509 likes · 1,747,945 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-10-23T09:43:05.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      },
+      {
+        "id": "model-RecursiveSI/flint",
+        "section": "models",
+        "title": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "score": 1264,
+        "score_label": "1,264 likes · 19,015 downloads",
+        "author": "RecursiveSI",
+        "published": "2026-10-21T14:20:58.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.6-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "score": 925,
+        "score_label": "925 likes · 12,515 downloads",
+        "author": "XHToken",
+        "published": "2026-10-19T03:19:51.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "section": "newsletters",
+        "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+        "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-31T05:00:48+00:00",
+        "snippet": "It turns out you cannot have your cake AND eat it",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+        "section": "newsletters",
+        "title": "Was I wrong about open models & cyber risks?",
+        "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-30T17:36:56+00:00",
+        "snippet": "Last week coined the term &#8220;Black October&#8220; after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materiali…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+        "section": "newsletters",
+        "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+        "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-30T08:24:29+00:00",
+        "snippet": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/elorian/",
+        "section": "newsletters",
+        "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+        "url": "https://latent.space/p/elorian/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-29T16:00:00+00:00",
+        "snippet": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-gemini-4-carbon/",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+        "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-29T05:55:19+00:00",
+        "snippet": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/supabase/",
+        "section": "newsletters",
+        "title": "Why Agents Love Supabase",
+        "url": "https://latent.space/p/supabase/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-28T19:48:05+00:00",
+        "snippet": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+        "section": "newsletters",
+        "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+        "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-28T12:58:39+00:00",
+        "snippet": "A sort of review of the benchmarking industry and what's missing.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+        "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-28T08:50:30+00:00",
+        "snippet": "Since coding is solved, why code for the job?",
+        "extra_link": null
+      }
+    ]
+  }
+}
