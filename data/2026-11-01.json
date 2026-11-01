@@ -1,0 +1,390 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:40:56.420243+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50319358",
+        "section": "hackernews",
+        "title": "Anthropic blocks users for anything touching training larger models",
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "score": 319,
+        "score_label": "319 points",
+        "author": "pretext",
+        "published": "2026-10-31T19:39:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50319358"
+        }
+      },
+      {
+        "id": "hn-50316531",
+        "section": "hackernews",
+        "title": "Malware uses LLMs to rank victims by how much they're worth",
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+        "score": 244,
+        "score_label": "244 points",
+        "author": "khalidkhair",
+        "published": "2026-10-31T14:29:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50316531"
+        }
+      },
+      {
+        "id": "hn-50318871",
+        "section": "hackernews",
+        "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+        "score": 168,
+        "score_label": "168 points",
+        "author": "ryanmadden",
+        "published": "2026-10-31T18:50:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50318871"
+        }
+      },
+      {
+        "id": "hn-50320255",
+        "section": "hackernews",
+        "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+        "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+        "score": 138,
+        "score_label": "138 points",
+        "author": "firesteelrain",
+        "published": "2026-10-31T21:07:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50320255"
+        }
+      },
+      {
+        "id": "hn-50318401",
+        "section": "hackernews",
+        "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+        "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+        "score": 78,
+        "score_label": "78 points",
+        "author": "the-mitr",
+        "published": "2026-10-31T18:02:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50318401"
+        }
+      },
+      {
+        "id": "hn-50315990",
+        "section": "hackernews",
+        "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+        "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+        "score": 74,
+        "score_label": "74 points",
+        "author": "healsdata",
+        "published": "2026-10-31T13:25:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50315990"
+        }
+      },
+      {
+        "id": "hn-50315987",
+        "section": "hackernews",
+        "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+        "score": 70,
+        "score_label": "70 points",
+        "author": "gloxkiqcza",
+        "published": "2026-10-31T13:25:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50315987"
+        }
+      },
+      {
+        "id": "hn-50315574",
+        "section": "hackernews",
+        "title": "Why Anthropic's filing crushed tech stocks",
+        "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+        "score": 52,
+        "score_label": "52 points",
+        "author": "chmaynard",
+        "published": "2026-10-31T12:32:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50315574"
+        }
+      },
+      {
+        "id": "hn-50320599",
+        "section": "hackernews",
+        "title": "AI text watermarking and quality loss",
+        "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+        "score": 46,
+        "score_label": "46 points",
+        "author": "danielfoster",
+        "published": "2026-10-31T21:50:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50320599"
+        }
+      },
+      {
+        "id": "hn-50316635",
+        "section": "hackernews",
+        "title": "Anthropic orders AI tool Claude to stop remaking video games",
+        "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "llm_nerd",
+        "published": "2026-10-31T14:41:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50316635"
+        }
+      },
+      {
+        "id": "hn-50321065",
+        "section": "hackernews",
+        "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "xqcgrek2",
+        "published": "2026-10-31T22:57:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50321065"
+        }
+      },
+      {
+        "id": "hn-50318063",
+        "section": "hackernews",
+        "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+        "score": 22,
+        "score_label": "22 points",
+        "author": "Logans_Run",
+        "published": "2026-10-31T17:21:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50318063"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2610.40599",
+        "section": "papers",
+        "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+        "url": "https://huggingface.co/papers/2610.40599",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Yuze He, Yixiang Wei, Wang Zhao et al.",
+        "published": "2026-10-28T20:00:00.000Z",
+        "snippet": "The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce realistic hair or a…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2610.40599"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-Nanbeige/Nanbeige4.3-33B",
+        "section": "models",
+        "title": "Nanbeige/Nanbeige4.3-33B",
+        "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+        "score": 928,
+        "score_label": "928 likes · 13,832 downloads",
+        "author": "Nanbeige",
+        "published": "2026-10-24T02:49:18.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "section": "models",
+        "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "score": 4137,
+        "score_label": "4,137 likes · 156,373 downloads",
+        "author": "deepseek-ai",
+        "published": "2026-10-17T02:40:38.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-LiquidAI/LFM3-1.7B",
+        "section": "models",
+        "title": "LiquidAI/LFM3-1.7B",
+        "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+        "score": 645,
+        "score_label": "645 likes · 32,933 downloads",
+        "author": "LiquidAI",
+        "published": "2026-10-23T21:35:42.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "section": "models",
+        "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "score": 558,
+        "score_label": "558 likes · 24,357 downloads",
+        "author": "nvidia",
+        "published": "2026-10-07T22:50:21.000Z",
+        "snippet": "automatic-speech-recognition · nemo",
+        "extra_link": null
+      },
+      {
+        "id": "model-mistralai/Mistral-Large-4-1T-A52B",
+        "section": "models",
+        "title": "mistralai/Mistral-Large-4-1T-A52B",
+        "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+        "score": 1410,
+        "score_label": "1,410 likes · 2,945 downloads",
+        "author": "mistralai",
+        "published": "2026-09-30T18:35:13.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-baidu/Unlimited-OCR-2",
+        "section": "models",
+        "title": "baidu/Unlimited-OCR-2",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+        "score": 484,
+        "score_label": "484 likes · 69,231 downloads",
+        "author": "baidu",
+        "published": "2026-10-26T03:57:46.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 10117,
+        "score_label": "10,117 likes · 2,441,077 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-ccore/Qwen3.5-4B-3D-Coder",
+        "section": "models",
+        "title": "ccore/Qwen3.5-4B-3D-Coder",
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+        "score": 413,
+        "score_label": "413 likes · 29,615 downloads",
+        "author": "ccore",
+        "published": "2026-10-25T05:43:34.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-XHToken/Spark-X2.6-4B",
+        "section": "models",
+        "title": "XHToken/Spark-X2.6-4B",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "score": 940,
+        "score_label": "940 likes · 14,515 downloads",
+        "author": "XHToken",
+        "published": "2026-10-19T03:19:51.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-RecursiveSI/flint",
+        "section": "models",
+        "title": "RecursiveSI/flint",
+        "url": "https://huggingface.co/RecursiveSI/flint",
+        "score": 1280,
+        "score_label": "1,280 likes · 23,079 downloads",
+        "author": "RecursiveSI",
+        "published": "2026-10-21T14:20:58.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/arca/",
+        "section": "newsletters",
+        "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+        "url": "https://latent.space/p/arca/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-31T16:05:00+00:00",
+        "snippet": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "section": "newsletters",
+        "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+        "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-31T05:00:48+00:00",
+        "snippet": "It turns out you cannot have your cake AND eat it",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+        "section": "newsletters",
+        "title": "Was I wrong about open models & cyber risks?",
+        "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-10-30T17:36:56+00:00",
+        "snippet": "Last week coined the term &#8220;Black October&#8220; after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materiali…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+        "section": "newsletters",
+        "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+        "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-30T08:24:29+00:00",
+        "snippet": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/elorian/",
+        "section": "newsletters",
+        "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+        "url": "https://latent.space/p/elorian/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-10-29T16:00:00+00:00",
+        "snippet": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+        "extra_link": null
+      }
+    ]
+  }
+}
