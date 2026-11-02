@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-01T07:41:02.754691+00:00",
+  "fetched_at": "2026-11-02T07:47:33.993018+00:00",
   "items": [
     {
       "id": "043d7909b9840df6",
@@ -253,7 +253,7 @@
       "logo_url": "https://framerusercontent.com/images/x5StkjsnMDzF9OcSdkEGUttwQcc.webp?width=400&height=400",
       "image": "static/startups/images/f8e185d3eb1e67244e72.webp",
       "image_url": "https://framerusercontent.com/images/x5StkjsnMDzF9OcSdkEGUttwQcc.webp?width=400&height=400",
-      "description": "Flapping Airplanes: Foundational AI research lab. Founded in 2025. See Flapping Airplanes’s funding rounds, investors and open jobs.",
+      "description": "Find top early-stage startups funded by leading investors like Y Combinator, Sequoia, and a16z. Find new jobs at startups and funding news — all in one place.",
       "image_kind": "logo",
       "logo": "static/startups/images/f8e185d3eb1e67244e72.webp"
     },
