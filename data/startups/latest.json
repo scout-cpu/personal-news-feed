@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-02T07:47:33.993018+00:00",
+  "fetched_at": "2026-11-03T08:02:23.915743+00:00",
   "items": [
+    {
+      "id": "8d5263b44676d4fa",
+      "company": "Northwood",
+      "company_url": "https://startups.gallery/companies/northwood",
+      "amount": "$375M",
+      "round": "Series C",
+      "date": "2026-11-02",
+      "investor": "a16z",
+      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
+      "source_url": "https://www.linkedin.com/posts/northwood-space_today-northwood-is-announcing-a-375m-series-activity-7523013635095470081-0zKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc",
+      "logo_url": "https://framerusercontent.com/images/tVApETUHywq55jbyxYU5SzHTwnQ.png?width=200&height=200",
+      "logo": "static/startups/images/3d423b7956127f2e322f.png",
+      "description": "Northwood: Take space missions further, faster. Founded in 2022. See Northwood’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/4ca653d2733686c3ae2c.webp",
+      "image_url": "https://framerusercontent.com/images/96Hz3s5k0n9jZj2cDJhXZpeGp38.webp?width=3840&height=2160",
+      "image_kind": "company artwork"
+    },
     {
       "id": "043d7909b9840df6",
       "company": "Upwind",
@@ -253,7 +270,7 @@
       "logo_url": "https://framerusercontent.com/images/x5StkjsnMDzF9OcSdkEGUttwQcc.webp?width=400&height=400",
       "image": "static/startups/images/f8e185d3eb1e67244e72.webp",
       "image_url": "https://framerusercontent.com/images/x5StkjsnMDzF9OcSdkEGUttwQcc.webp?width=400&height=400",
-      "description": "Find top early-stage startups funded by leading investors like Y Combinator, Sequoia, and a16z. Find new jobs at startups and funding news — all in one place.",
+      "description": "Flapping Airplanes: Foundational AI research lab. Founded in 2025. See Flapping Airplanes’s funding rounds, investors and open jobs.",
       "image_kind": "logo",
       "logo": "static/startups/images/f8e185d3eb1e67244e72.webp"
     },
@@ -494,23 +511,6 @@
       "description": "Modal: The platform for production AI. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/e070efa1111c07cba579.webp"
-    },
-    {
-      "id": "588f431b673fc484",
-      "company": "Pluto Security",
-      "company_url": "https://startups.gallery/companies/pluto-security",
-      "amount": "$42M",
-      "round": "Series A",
-      "date": "2026-10-13",
-      "investor": "TLV",
-      "investor_url": "https://startups.gallery/investors/tlv",
-      "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "logo_url": "https://framerusercontent.com/images/w89e0WYt39Jpi6xf0S2pvwELwO8.jpeg?width=200&height=200",
-      "image": "static/startups/images/469337b3e6741002e1d9.png",
-      "image_url": "https://framerusercontent.com/images/5VtQlotXT5uI7OCum8mmf5MAcw.png?width=1200&height=630",
-      "description": "Pluto Security: AI Workspace Protection. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/7020fea247328a7ebeff.jpg"
     }
   ]
 }
