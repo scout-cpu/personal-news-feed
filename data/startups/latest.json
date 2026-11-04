@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-03T08:02:23.915743+00:00",
+  "fetched_at": "2026-11-04T07:36:58.562470+00:00",
   "items": [
     {
       "id": "8d5263b44676d4fa",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://www.linkedin.com/posts/northwood-space_today-northwood-is-announcing-a-375m-series-activity-7523013635095470081-0zKJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc",
       "logo_url": "https://framerusercontent.com/images/tVApETUHywq55jbyxYU5SzHTwnQ.png?width=200&height=200",
-      "logo": "static/startups/images/3d423b7956127f2e322f.png",
-      "description": "Northwood: Take space missions further, faster. Founded in 2022. See Northwood’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/4ca653d2733686c3ae2c.webp",
       "image_url": "https://framerusercontent.com/images/96Hz3s5k0n9jZj2cDJhXZpeGp38.webp?width=3840&height=2160",
-      "image_kind": "company artwork"
+      "description": "Northwood: Take space missions further, faster. Founded in 2022. See Northwood’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/3d423b7956127f2e322f.png"
     },
     {
       "id": "043d7909b9840df6",
