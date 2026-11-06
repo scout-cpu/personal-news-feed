@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-05T07:59:05.124877+00:00",
+  "fetched_at": "2026-11-06T08:01:58.427952+00:00",
   "items": [
     {
       "id": "c092be9a125e0223",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/speedinvest",
       "source_url": "https://www.businesswire.com/news/home/20261104901724/en/Pliant-Raises-%2480-Million-Series-C-to-Open-B2B-Payment-Infrastructure-to-AI-Agents",
       "logo_url": "https://framerusercontent.com/images/UmrwE9eZOFN1fqqQfKgpdFGXVE.webp?width=200&height=200",
-      "logo": "static/startups/images/2fe1ad1d4477956b7407.webp",
-      "description": "Pliant: Corporate card platform. Founded in 2020. See Pliant’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/e62d8623b7486ad06207.webp",
       "image_url": "https://framerusercontent.com/images/ei9yOoJj1Palo3kvUheMjq7YYnI.webp?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Pliant: Corporate card platform. Founded in 2020. See Pliant’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/2fe1ad1d4477956b7407.webp"
     },
     {
       "id": "d219c28b93a7c738",
@@ -30,10 +30,27 @@
       "investor_url": "https://startups.gallery/investors/general-catalyst",
       "source_url": "https://www.nooks.ai/blog-posts/introducing-node-revenue-agent-platform",
       "logo_url": "https://framerusercontent.com/images/gtXcJ4maCHcQflGk5Y5mbLvfx8E.webp?width=200&height=200",
-      "logo": "static/startups/images/78bc54e63d8e0a18bb3a.webp",
-      "description": "Nooks: AI sales assistant platform. Founded in 2021. See Nooks’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/e68c9decbb9fb1dd725f.webp",
       "image_url": "https://framerusercontent.com/images/wTonbZUjCCCJrnAAI2hlZIvTOc.webp?width=1200&height=630",
+      "description": "Nooks: AI sales assistant platform. Founded in 2021. See Nooks’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/78bc54e63d8e0a18bb3a.webp"
+    },
+    {
+      "id": "01c3e05c588281c8",
+      "company": "Traversal",
+      "company_url": "https://startups.gallery/companies/traversal",
+      "amount": "$120M",
+      "round": "Series B",
+      "date": "2026-11-03",
+      "investor": "Kleiner Perkins",
+      "investor_url": "https://startups.gallery/investors/kleiner-perkins",
+      "source_url": "https://x.com/traversal_ai/status/2117665706355433963?a=IwblBjjTOiQuJaHgtQU&s=20",
+      "logo_url": "https://framerusercontent.com/images/XEws8ulWIMMI2C4PvpV6QcCADgE.jpeg?width=200&height=200",
+      "logo": "static/startups/images/eec8ea6ad1bb7f1192e3.jpg",
+      "description": "Traversal: The AI SRE for the enterprise. Founded in 2023. See Traversal’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/8f07b04b9ab6d2368ca1.jpg",
+      "image_url": "https://framerusercontent.com/images/CcFuuD3Z3vlYDWbNhkEDiLQIN0.jpg?width=1200&height=675",
       "image_kind": "company artwork"
     },
     {
@@ -47,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/elad-gil",
       "source_url": "https://www.appliedcompute.com/company/100m-run-rate-fundraise",
       "logo_url": "https://framerusercontent.com/images/xHGd2OyzgGGsjlM4Vo5tpz5wg.jpeg?width=200&height=200",
-      "logo": "static/startups/images/9914b74a2fe1546f1021.jpg",
-      "description": "Applied Compute: Specific intelligence for enterprises. Founded in 2025. See Applied Compute’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/370eabb4c98acc099325.jpg",
       "image_url": "https://framerusercontent.com/images/kJTpGnVGfH4UR0x8rBx7mO4bJg.jpeg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Applied Compute: Specific intelligence for enterprises. Founded in 2025. See Applied Compute’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/9914b74a2fe1546f1021.jpg"
     },
     {
       "id": "8d5263b44676d4fa",
@@ -494,23 +511,6 @@
       "description": "Greptile: The AI code reviewer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/a09698a0e58057e8707f.jpg"
-    },
-    {
-      "id": "9a1a2bc67eab4fbc",
-      "company": "Meow",
-      "company_url": "https://startups.gallery/companies/meow",
-      "amount": "$31.6M",
-      "round": "Series B",
-      "date": "2026-10-15",
-      "investor": "Stifel",
-      "investor_url": "https://startups.gallery/investors/stifel",
-      "source_url": "https://lnkd.in/p/gJCwAqNS",
-      "logo_url": "https://framerusercontent.com/images/QbVlvDCe2xPXPeC2fwesgVk56ng.webp?width=200&height=200",
-      "image": "static/startups/images/0e69444e19c6e7ef37e4.png",
-      "image_url": "https://framerusercontent.com/images/ohBIEcohJBBolHLECsIdhcueyc8.png?width=1200&height=630",
-      "description": "Meow: Business banking with interest. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/0fae75c48f4b1e7bf0b0.webp"
     }
   ]
 }
