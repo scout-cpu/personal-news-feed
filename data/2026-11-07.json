@@ -1,0 +1,549 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T07:21:35.306140+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50392118",
+        "section": "hackernews",
+        "title": "Gemini Omni 1.2 Flash",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "score": 320,
+        "score_label": "320 points",
+        "author": "thisisauserid",
+        "published": "2026-11-06T13:35:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50392118"
+        }
+      },
+      {
+        "id": "hn-50397994",
+        "section": "hackernews",
+        "title": "AI is dramatically accelerating AI research",
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "score": 277,
+        "score_label": "277 points",
+        "author": "yurivish",
+        "published": "2026-11-06T20:27:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50397994"
+        }
+      },
+      {
+        "id": "hn-50394906",
+        "section": "hackernews",
+        "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+        "score": 270,
+        "score_label": "270 points",
+        "author": "dgellow",
+        "published": "2026-11-06T16:54:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50394906"
+        }
+      },
+      {
+        "id": "hn-50392499",
+        "section": "hackernews",
+        "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+        "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+        "score": 128,
+        "score_label": "128 points",
+        "author": "blakesterz",
+        "published": "2026-11-06T14:13:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50392499"
+        }
+      },
+      {
+        "id": "hn-50395919",
+        "section": "hackernews",
+        "title": "Memorilla: Latent Semantic Memory for LLMs",
+        "url": "https://arxiv.org/abs/2610.21375",
+        "score": 102,
+        "score_label": "102 points",
+        "author": "handfuloflight",
+        "published": "2026-11-06T18:03:33+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50395919"
+        }
+      },
+      {
+        "id": "hn-50395318",
+        "section": "hackernews",
+        "title": "Anthropic IPO valuation talks drop to $1.3T",
+        "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+        "score": 93,
+        "score_label": "93 points",
+        "author": "arbuge",
+        "published": "2026-11-06T17:21:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50395318"
+        }
+      },
+      {
+        "id": "hn-50389990",
+        "section": "hackernews",
+        "title": "AI for scientific discovery: How researchers use Claude",
+        "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+        "score": 93,
+        "score_label": "93 points",
+        "author": "ersinesen",
+        "published": "2026-11-06T09:13:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50389990"
+        }
+      },
+      {
+        "id": "hn-50395933",
+        "section": "hackernews",
+        "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+        "score": 92,
+        "score_label": "92 points",
+        "author": "brazukadev",
+        "published": "2026-11-06T18:04:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50395933"
+        }
+      },
+      {
+        "id": "hn-50395866",
+        "section": "hackernews",
+        "title": "Perplexity launches AI agents for work",
+        "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "cybermango",
+        "published": "2026-11-06T17:59:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50395866"
+        }
+      },
+      {
+        "id": "hn-50389448",
+        "section": "hackernews",
+        "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+        "url": "https://obelisk.club/research/app-store-2026",
+        "score": 60,
+        "score_label": "60 points",
+        "author": "Peter216",
+        "published": "2026-11-06T07:59:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50389448"
+        }
+      },
+      {
+        "id": "hn-50401029",
+        "section": "hackernews",
+        "title": "The AI sell-off compared to well-known stock market crashes",
+        "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+        "score": 56,
+        "score_label": "56 points",
+        "author": "hubraumhugo",
+        "published": "2026-11-07T02:20:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50401029"
+        }
+      },
+      {
+        "id": "hn-50389401",
+        "section": "hackernews",
+        "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
+        "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "drayfield",
+        "published": "2026-11-06T07:52:53+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50389401"
+        }
+      },
+      {
+        "id": "hn-50394116",
+        "section": "hackernews",
+        "title": "Reading the Anthropic S-1, with Zvi Mowshowitz",
+        "url": "https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "nbernard",
+        "published": "2026-11-06T16:04:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50394116"
+        }
+      },
+      {
+        "id": "hn-50391804",
+        "section": "hackernews",
+        "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
+        "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
+        "score": 33,
+        "score_label": "33 points",
+        "author": "Bender",
+        "published": "2026-11-06T12:59:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50391804"
+        }
+      },
+      {
+        "id": "hn-50397325",
+        "section": "hackernews",
+        "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+        "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+        "score": 26,
+        "score_label": "26 points",
+        "author": "antelocnova",
+        "published": "2026-11-06T19:41:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50397325"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.08373",
+        "section": "papers",
+        "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+        "url": "https://huggingface.co/papers/2611.08373",
+        "score": 137,
+        "score_label": "137 upvotes",
+        "author": "Fuhao Li, Wenxuan Song, Qizhou Huang et al.",
+        "published": "2026-11-04T19:00:00.000Z",
+        "snippet": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.08373"
+        }
+      },
+      {
+        "id": "paper-2611.02075",
+        "section": "papers",
+        "title": "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
+        "url": "https://huggingface.co/papers/2611.02075",
+        "score": 114,
+        "score_label": "114 upvotes",
+        "author": "Lang Mo, Xingxuan Zhang, Qi Wang et al.",
+        "published": "2026-10-31T20:00:00.000Z",
+        "snippet": "Agent decisions depend on empirical relationships that deployment observations reveal and task descriptions alone may leave unresolved. We introduce Decoupled Predictive Decision Making (DPDM), an architecture that form…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.02075"
+        }
+      },
+      {
+        "id": "paper-2611.00883",
+        "section": "papers",
+        "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+        "url": "https://huggingface.co/papers/2611.00883",
+        "score": 50,
+        "score_label": "50 upvotes",
+        "author": "George Ling, Shanshan Zhong, Lijin Yang et al.",
+        "published": "2026-10-30T20:00:00.000Z",
+        "snippet": "Benchmark compression reduces the often prohibitive time and cost of model evaluation by evaluating models on a small benchmark subset that closely matches full-benchmark results. To quantify estimation error, we derive…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.00883"
+        }
+      },
+      {
+        "id": "paper-2611.03743",
+        "section": "papers",
+        "title": "EvoMemState: Evolving Memory State for Personal Agents",
+        "url": "https://huggingface.co/papers/2611.03743",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Zhishang Xiang, Yunbo Tang, Zhongqiao Liu et al.",
+        "published": "2026-11-01T19:00:00.000Z",
+        "snippet": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process through fact extraction,…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.03743"
+        }
+      },
+      {
+        "id": "paper-2611.07854",
+        "section": "papers",
+        "title": "Towards Foundation Decision Models: Drex",
+        "url": "https://huggingface.co/papers/2611.07854",
+        "score": 19,
+        "score_label": "19 upvotes",
+        "author": "Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev et al.",
+        "published": "2026-11-04T19:00:00.000Z",
+        "snippet": "Autoregressive approaches with large language models, such as long chain-of-thought reasoning, have become the default for new AI applications because they reach higher accuracy on a wide range of tasks. In production,…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.07854"
+        }
+      },
+      {
+        "id": "paper-2611.06425",
+        "section": "papers",
+        "title": "D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
+        "url": "https://huggingface.co/papers/2611.06425",
+        "score": 18,
+        "score_label": "18 upvotes",
+        "author": "Baoyou Chen, Ruiqiao Mei, Guancong Lin et al.",
+        "published": "2026-11-03T19:00:00.000Z",
+        "snippet": "Target-conditioned diffusion drafters predict candidate tokens in parallel, yet each new block must wait for updated target-model hidden states. This forces drafting and verification to run sequentially, limiting speedu…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.06425"
+        }
+      },
+      {
+        "id": "paper-2611.04894",
+        "section": "papers",
+        "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
+        "url": "https://huggingface.co/papers/2611.04894",
+        "score": 17,
+        "score_label": "17 upvotes",
+        "author": "ZhengXian Wu, Qianhao Nie, Zhuohong Chen et al.",
+        "published": "2026-11-02T19:00:00.000Z",
+        "snippet": "Multimodal agents use web and image tools to answer questions beyond their internal knowledge. Some search tasks use images mainly to identify an initial entity, then rely on text retrieval. These tasks offer limited in…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.04894"
+        }
+      },
+      {
+        "id": "paper-2611.08452",
+        "section": "papers",
+        "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+        "url": "https://arxiv.org/abs/2611.08452",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yubo Wang, Rui Meng, Jaehyun Nam et al.",
+        "published": "2026-11-05T18:45:36Z",
+        "snippet": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-moonshotai/Kimi-K3.1-Pro",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3.1-Pro",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "score": 1554,
+        "score_label": "1,554 likes · 18,432 downloads",
+        "author": "moonshotai",
+        "published": "2026-11-02T04:13:51.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-speridlabs/idol",
+        "section": "models",
+        "title": "speridlabs/idol",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "score": 973,
+        "score_label": "973 likes · 19,139 downloads",
+        "author": "speridlabs",
+        "published": "2026-10-28T15:55:17.000Z",
+        "snippet": "image-to-3d · idol",
+        "extra_link": null
+      },
+      {
+        "id": "model-ccore/Qwen3.5-4B-3D-Coder",
+        "section": "models",
+        "title": "ccore/Qwen3.5-4B-3D-Coder",
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+        "score": 806,
+        "score_label": "806 likes · 190,243 downloads",
+        "author": "ccore",
+        "published": "2026-10-25T05:43:34.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 10893,
+        "score_label": "10,893 likes · 2,607,491 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-burner22/numbat",
+        "section": "models",
+        "title": "burner22/numbat",
+        "url": "https://huggingface.co/burner22/numbat",
+        "score": 373,
+        "score_label": "373 likes · 9,066 downloads",
+        "author": "burner22",
+        "published": "2026-10-23T01:37:02.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-ricursiveAI/Ripple-65B-Preview",
+        "section": "models",
+        "title": "ricursiveAI/Ripple-65B-Preview",
+        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+        "score": 344,
+        "score_label": "344 likes · 2,013 downloads",
+        "author": "ricursiveAI",
+        "published": "2026-11-04T02:41:21.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-FusionCow/Sulphur-3",
+        "section": "models",
+        "title": "FusionCow/Sulphur-3",
+        "url": "https://huggingface.co/FusionCow/Sulphur-3",
+        "score": 399,
+        "score_label": "399 likes · 950 downloads",
+        "author": "FusionCow",
+        "published": "2026-10-31T20:31:01.000Z",
+        "snippet": "minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 19290,
+        "score_label": "19,290 likes · 7,845,288 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "section": "models",
+        "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "score": 3081,
+        "score_label": "3,081 likes · 61,049 downloads",
+        "author": "nvidia",
+        "published": "2026-10-07T22:50:21.000Z",
+        "snippet": "automatic-speech-recognition · nemo",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 2609,
+        "score_label": "2,609 likes · 1,518,569 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic IPO: Whither Now?",
+        "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-07T03:04:53+00:00",
+        "snippet": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "section": "newsletters",
+        "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+        "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-06T15:10:53+00:00",
+        "snippet": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "section": "newsletters",
+        "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+        "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-06T10:35:21+00:00",
+        "snippet": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-it-s-swapping-season/",
+        "section": "newsletters",
+        "title": "[AINews] It's Swapping Season",
+        "url": "https://latent.space/p/ainews-it-s-swapping-season/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-05T06:24:09+00:00",
+        "snippet": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+        "section": "newsletters",
+        "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+        "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-04T19:17:30+00:00",
+        "snippet": "November 3, 2026 — A quiet day lets us share some behind the senes.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+        "section": "newsletters",
+        "title": "How big is the open model economy today?",
+        "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-11-04T16:35:44+00:00",
+        "snippet": "Our first open model economy research note for paid subscribers.",
+        "extra_link": null
+      }
+    ]
+  }
+}

@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-06T08:01:58.427952+00:00",
+  "fetched_at": "2026-11-07T07:21:40.265216+00:00",
   "items": [
+    {
+      "id": "9d1d6c18ec942796",
+      "company": "Humble",
+      "company_url": "https://startups.gallery/companies/humble-robotics",
+      "amount": "$51M",
+      "round": "Series A",
+      "date": "2026-11-06",
+      "investor": "Obvious Ventures",
+      "investor_url": "https://startups.gallery/investors/obvious-ventures",
+      "source_url": "https://www.businessinsider.com/humble-robotics-raises-51-million-for-cabless-self-driving-trucks-2026-11?gift-id=m1ctq5LyXEYb2AZOdUpnBA",
+      "logo_url": "https://framerusercontent.com/images/uRX4tHB5C0lfeR4DYaWIMEAEY7w.jpeg?width=200&height=200",
+      "logo": "static/startups/images/ffaab90eb125fbb5477c.jpg",
+      "description": "Humble: An autonomous electric hauler. Founded in 2026. See Humble’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/840d391087cdbf220e73.jpg",
+      "image_url": "https://framerusercontent.com/images/llWgkzfuEqIp2qnkZMWN22g16A.jpg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "c092be9a125e0223",
       "company": "Pliant",
@@ -47,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/kleiner-perkins",
       "source_url": "https://x.com/traversal_ai/status/2117665706355433963?a=IwblBjjTOiQuJaHgtQU&s=20",
       "logo_url": "https://framerusercontent.com/images/XEws8ulWIMMI2C4PvpV6QcCADgE.jpeg?width=200&height=200",
-      "logo": "static/startups/images/eec8ea6ad1bb7f1192e3.jpg",
-      "description": "Traversal: The AI SRE for the enterprise. Founded in 2023. See Traversal’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/8f07b04b9ab6d2368ca1.jpg",
       "image_url": "https://framerusercontent.com/images/CcFuuD3Z3vlYDWbNhkEDiLQIN0.jpg?width=1200&height=675",
-      "image_kind": "company artwork"
+      "description": "Traversal: The AI SRE for the enterprise. Founded in 2023. See Traversal’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/eec8ea6ad1bb7f1192e3.jpg"
     },
     {
       "id": "cf3a96a65e5b8ceb",
@@ -494,23 +511,6 @@
       "description": "Town: The unusually helpful AI assistant. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/5864dc206bdf056cdcd5.png"
-    },
-    {
-      "id": "2c5ac376658eddb2",
-      "company": "Greptile",
-      "company_url": "https://startups.gallery/companies/greptile",
-      "amount": "$50M",
-      "round": "Series B",
-      "date": "2026-10-19",
-      "investor": "Menlo Ventures",
-      "investor_url": "https://startups.gallery/investors/menlo-ventures",
-      "source_url": "https://x.com/greptile/status/2112193902555898208",
-      "logo_url": "https://framerusercontent.com/images/CTsgKNy56KsDCenxhPr4l8Qk48Y.jpeg?width=200&height=200",
-      "image": "static/startups/images/cf82a4f321f4d25b4019.jpg",
-      "image_url": "https://framerusercontent.com/images/5OEuhOOhHjVhn7T0a9bs23Y08.jpeg?width=1500&height=500",
-      "description": "Greptile: The AI code reviewer. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/a09698a0e58057e8707f.jpg"
     }
   ]
 }
