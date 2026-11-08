@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T07:32:49.987513+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50406563",
+        "section": "hackernews",
+        "title": "The end of Microsoft Research's AI Frontiers group",
+        "url": "https://hunch.net/?p=13764006",
+        "score": 439,
+        "score_label": "439 points",
+        "author": "srean",
+        "published": "2026-11-07T18:02:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50406563"
+        }
+      },
+      {
+        "id": "hn-50407882",
+        "section": "hackernews",
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "score": 333,
+        "score_label": "333 points",
+        "author": "shmulc",
+        "published": "2026-11-07T20:45:32+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50407882"
+        }
+      },
+      {
+        "id": "hn-50410107",
+        "section": "hackernews",
+        "title": "Goodbye Claude, Hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "score": 173,
+        "score_label": "173 points",
+        "author": "karagenit",
+        "published": "2026-11-08T03:11:48+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50410107"
+        }
+      },
+      {
+        "id": "hn-50406589",
+        "section": "hackernews",
+        "title": "The End of AI Frontiers",
+        "url": "https://hunch.net/?p=13764006",
+        "score": 81,
+        "score_label": "81 points",
+        "author": "andsoitis",
+        "published": "2026-11-07T18:04:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50406589"
+        }
+      },
+      {
+        "id": "hn-50405263",
+        "section": "hackernews",
+        "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+        "score": 64,
+        "score_label": "64 points",
+        "author": "jiant",
+        "published": "2026-11-07T15:16:01+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50405263"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.05376",
+        "section": "papers",
+        "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+        "url": "https://huggingface.co/papers/2611.05376",
+        "score": 86,
+        "score_label": "86 upvotes",
+        "author": "Hao Fei",
+        "published": "2026-11-03T13:59:52.000Z",
+        "snippet": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf.…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.05376"
+        }
+      },
+      {
+        "id": "paper-2611.06817",
+        "section": "papers",
+        "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+        "url": "https://huggingface.co/papers/2611.06817",
+        "score": 31,
+        "score_label": "31 upvotes",
+        "author": "Juncheng Ma, Jiaxin Li, Jiankai Tu et al.",
+        "published": "2026-11-03T19:00:00.000Z",
+        "snippet": "Egocentric human video offers a scalable source of manipulation priors for robot learning, yet translating raw data scale into generalizable robot policies demands rigorous data curation and training recipes. We introdu…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.06817"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-speridlabs/idol",
+        "section": "models",
+        "title": "speridlabs/idol",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "score": 1182,
+        "score_label": "1,182 likes · 20,689 downloads",
+        "author": "speridlabs",
+        "published": "2026-10-28T15:55:17.000Z",
+        "snippet": "image-to-3d · idol",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3.1-Pro",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3.1-Pro",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "score": 1659,
+        "score_label": "1,659 likes · 22,571 downloads",
+        "author": "moonshotai",
+        "published": "2026-11-02T04:13:51.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "section": "models",
+        "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "score": 588,
+        "score_label": "588 likes · 1,369 downloads",
+        "author": "xtools-at",
+        "published": "2026-10-30T10:21:29.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ccore/Qwen3.5-4B-3D-Coder",
+        "section": "models",
+        "title": "ccore/Qwen3.5-4B-3D-Coder",
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+        "score": 882,
+        "score_label": "882 likes · 221,506 downloads",
+        "author": "ccore",
+        "published": "2026-10-25T05:43:34.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 11027,
+        "score_label": "11,027 likes · 2,643,778 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-ricursiveAI/Ripple-65B-Preview",
+        "section": "models",
+        "title": "ricursiveAI/Ripple-65B-Preview",
+        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+        "score": 378,
+        "score_label": "378 likes · 3,803 downloads",
+        "author": "ricursiveAI",
+        "published": "2026-11-04T02:41:21.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-burner22/numbat",
+        "section": "models",
+        "title": "burner22/numbat",
+        "url": "https://huggingface.co/burner22/numbat",
+        "score": 382,
+        "score_label": "382 likes · 9,212 downloads",
+        "author": "burner22",
+        "published": "2026-10-23T01:37:02.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-FusionCow/Sulphur-3",
+        "section": "models",
+        "title": "FusionCow/Sulphur-3",
+        "url": "https://huggingface.co/FusionCow/Sulphur-3",
+        "score": 407,
+        "score_label": "407 likes · 997 downloads",
+        "author": "FusionCow",
+        "published": "2026-10-31T20:31:01.000Z",
+        "snippet": "minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 19354,
+        "score_label": "19,354 likes · 7,813,215 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 2666,
+        "score_label": "2,666 likes · 1,545,313 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic IPO: Whither Now?",
+        "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-07T03:04:53+00:00",
+        "snippet": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "section": "newsletters",
+        "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+        "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-06T15:10:53+00:00",
+        "snippet": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "section": "newsletters",
+        "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+        "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-06T10:35:21+00:00",
+        "snippet": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+        "extra_link": null
+      }
+    ]
+  }
+}
