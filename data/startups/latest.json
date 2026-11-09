@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-08T07:32:53.935641+00:00",
+  "fetched_at": "2026-11-09T08:10:02.373873+00:00",
   "items": [
     {
       "id": "9d1d6c18ec942796",
@@ -200,11 +200,11 @@
       "investor_url": "https://startups.gallery/investors/creandum",
       "source_url": "https://www.imperial.ac.uk/news/articles/2026/imperial-ai-spinout-machenta-raises-40-million-to-make-robots-instant-learners/",
       "logo_url": "https://framerusercontent.com/images/vW9iqA8TEwnS3TNAsE7RpXdlgzY.jpeg?width=200&height=200",
-      "logo": "static/startups/images/5c977d94cd790365ce5f.jpg",
-      "description": "Machenta: Instant robot learning. Founded in 2025. See Machenta’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/60fa29ad35524c268ce3.jpg",
       "image_url": "https://framerusercontent.com/images/l0EDa785xyva3Lo2Somg84Vh0cg.jpeg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Machenta: Instant robot learning. Founded in 2025. See Machenta’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/5c977d94cd790365ce5f.jpg"
     },
     {
       "id": "b672e1d11799d31b",

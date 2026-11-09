@@ -1,0 +1,531 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T08:09:57.848719+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50415628",
+        "section": "hackernews",
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "score": 738,
+        "score_label": "738 points",
+        "author": "TheWiggles",
+        "published": "2026-11-08T18:16:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50415628"
+        }
+      },
+      {
+        "id": "hn-50411961",
+        "section": "hackernews",
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "score": 412,
+        "score_label": "412 points",
+        "author": "joshcsimmons",
+        "published": "2026-11-08T10:22:04+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50411961"
+        }
+      },
+      {
+        "id": "hn-50416363",
+        "section": "hackernews",
+        "title": "How I Fight AI Brain Fry",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "score": 228,
+        "score_label": "228 points",
+        "author": "kyunez",
+        "published": "2026-11-08T19:37:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50416363"
+        }
+      },
+      {
+        "id": "hn-50418975",
+        "section": "hackernews",
+        "title": "I'm not convinced the AI bubble exists",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "score": 221,
+        "score_label": "221 points",
+        "author": "matteoraso",
+        "published": "2026-11-08T23:44:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50418975"
+        }
+      },
+      {
+        "id": "hn-50413822",
+        "section": "hackernews",
+        "title": "OpenAI raises $11B at a $1.25T valuation",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "score": 186,
+        "score_label": "186 points",
+        "author": "armcat",
+        "published": "2026-11-08T14:49:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50413822"
+        }
+      },
+      {
+        "id": "hn-50411467",
+        "section": "hackernews",
+        "title": "Agent memory needs its OpenTelemetry moment",
+        "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+        "score": 179,
+        "score_label": "179 points",
+        "author": "mthines",
+        "published": "2026-11-08T08:40:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50411467"
+        }
+      },
+      {
+        "id": "hn-50412591",
+        "section": "hackernews",
+        "title": "Why I will not be using LLMs in my coding",
+        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "score": 113,
+        "score_label": "113 points",
+        "author": "Risse",
+        "published": "2026-11-08T12:14:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50412591"
+        }
+      },
+      {
+        "id": "hn-50415817",
+        "section": "hackernews",
+        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "score": 95,
+        "score_label": "95 points",
+        "author": "zzzeek",
+        "published": "2026-11-08T18:43:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50415817"
+        }
+      },
+      {
+        "id": "hn-50421426",
+        "section": "hackernews",
+        "title": "Apple capped engineers at a $200 daily AI budget",
+        "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+        "score": 77,
+        "score_label": "77 points",
+        "author": "GloVin",
+        "published": "2026-11-09T05:30:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50421426"
+        }
+      },
+      {
+        "id": "hn-50412760",
+        "section": "hackernews",
+        "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+        "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+        "score": 40,
+        "score_label": "40 points",
+        "author": "mraniki",
+        "published": "2026-11-08T12:41:25+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50412760"
+        }
+      },
+      {
+        "id": "hn-50422001",
+        "section": "hackernews",
+        "title": "Being a meat proxy for AI should be grounds for getting people fired",
+        "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "rockbruno",
+        "published": "2026-11-09T06:55:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50422001"
+        }
+      },
+      {
+        "id": "hn-50414021",
+        "section": "hackernews",
+        "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "mfiguiere",
+        "published": "2026-11-08T15:19:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50414021"
+        }
+      },
+      {
+        "id": "hn-50420532",
+        "section": "hackernews",
+        "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
+        "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+        "score": 25,
+        "score_label": "25 points",
+        "author": "majorchord",
+        "published": "2026-11-09T03:06:55+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50420532"
+        }
+      },
+      {
+        "id": "hn-50416103",
+        "section": "hackernews",
+        "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+        "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "fortran77",
+        "published": "2026-11-08T19:14:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50416103"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.08264",
+        "section": "papers",
+        "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+        "url": "https://huggingface.co/papers/2611.08264",
+        "score": 48,
+        "score_label": "48 upvotes",
+        "author": "Hao Yu, Zhenwei Wang, Yongzhen Hu et al.",
+        "published": "2026-11-05T11:37:29.000Z",
+        "snippet": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geo…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.08264"
+        }
+      },
+      {
+        "id": "paper-2611.07461",
+        "section": "papers",
+        "title": "The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks",
+        "url": "https://huggingface.co/papers/2611.07461",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Haibo Jin, Peng Kuang, Xiaopeng Yuan et al.",
+        "published": "2026-11-04T19:00:00.000Z",
+        "snippet": "How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% of the tasks and Cla…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.07461"
+        }
+      },
+      {
+        "id": "paper-2611.09892",
+        "section": "papers",
+        "title": "On Agentic Manipulation Policies",
+        "url": "https://arxiv.org/abs/2611.09892",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji et al.",
+        "published": "2026-11-06T18:59:34Z",
+        "snippet": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-a…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.09891",
+        "section": "papers",
+        "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+        "url": "https://arxiv.org/abs/2611.09891",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Peter Belcak, Greg Heinrich, Saurav Muralidharan et al.",
+        "published": "2026-11-06T18:58:50Z",
+        "snippet": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task has been reasoned th…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.09887",
+        "section": "papers",
+        "title": "On the (non-)closedness of the set of ReLU networks",
+        "url": "https://arxiv.org/abs/2611.09887",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Eloi Martinet, Leon Bungert",
+        "published": "2026-11-06T18:58:06Z",
+        "snippet": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, ev…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.09882",
+        "section": "papers",
+        "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+        "url": "https://arxiv.org/abs/2611.09882",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Aadya Agrawal, Ho Kei Cheng, Alexander Schwing",
+        "published": "2026-11-06T18:56:41Z",
+        "snippet": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.09878",
+        "section": "papers",
+        "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+        "url": "https://arxiv.org/abs/2611.09878",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Tanush Shaska",
+        "published": "2026-11-06T18:54:03Z",
+        "snippet": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.09872",
+        "section": "papers",
+        "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2611.09872",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Haoyu Wang, Ru Wang, Yuanyuan Wang et al.",
+        "published": "2026-11-06T18:49:02Z",
+        "snippet": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervi…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.09868",
+        "section": "papers",
+        "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+        "url": "https://arxiv.org/abs/2611.09868",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Xingyu Liu, Xiangyang Yin, Tianhua Xia et al.",
+        "published": "2026-11-06T18:48:04Z",
+        "snippet": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increasingly important. Ho…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.09866",
+        "section": "papers",
+        "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+        "url": "https://arxiv.org/abs/2611.09866",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Rochak Dhakal, Chen Zhao, Soup Cobb et al.",
+        "published": "2026-11-06T18:47:23Z",
+        "snippet": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensive manual review and…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-speridlabs/idol",
+        "section": "models",
+        "title": "speridlabs/idol",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "score": 1445,
+        "score_label": "1,445 likes · 22,854 downloads",
+        "author": "speridlabs",
+        "published": "2026-10-28T15:55:17.000Z",
+        "snippet": "image-to-3d · idol",
+        "extra_link": null
+      },
+      {
+        "id": "model-xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "section": "models",
+        "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "score": 930,
+        "score_label": "930 likes · 7,088 downloads",
+        "author": "xtools-at",
+        "published": "2026-10-30T10:21:29.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3.1-Pro",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3.1-Pro",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "score": 1745,
+        "score_label": "1,745 likes · 25,569 downloads",
+        "author": "moonshotai",
+        "published": "2026-11-02T04:13:51.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ricursiveAI/Ripple-65B-Preview",
+        "section": "models",
+        "title": "ricursiveAI/Ripple-65B-Preview",
+        "url": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
+        "score": 418,
+        "score_label": "418 likes · 5,087 downloads",
+        "author": "ricursiveAI",
+        "published": "2026-11-04T02:41:21.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 11158,
+        "score_label": "11,158 likes · 2,661,026 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-ccore/Qwen3.5-4B-3D-Coder",
+        "section": "models",
+        "title": "ccore/Qwen3.5-4B-3D-Coder",
+        "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+        "score": 929,
+        "score_label": "929 likes · 254,053 downloads",
+        "author": "ccore",
+        "published": "2026-10-25T05:43:34.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 2721,
+        "score_label": "2,721 likes · 1,553,252 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 19429,
+        "score_label": "19,429 likes · 7,668,187 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-NousResearch/Arete-27B",
+        "section": "models",
+        "title": "NousResearch/Arete-27B",
+        "url": "https://huggingface.co/NousResearch/Arete-27B",
+        "score": 316,
+        "score_label": "316 likes · 1,747 downloads",
+        "author": "NousResearch",
+        "published": "2026-11-06T19:31:28.000Z",
+        "snippet": "text-generation",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "section": "models",
+        "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+        "score": 3114,
+        "score_label": "3,114 likes · 67,230 downloads",
+        "author": "nvidia",
+        "published": "2026-10-07T22:50:21.000Z",
+        "snippet": "automatic-speech-recognition · nemo",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/cs146s/",
+        "section": "newsletters",
+        "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "url": "https://latent.space/p/cs146s/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-08T21:41:44+00:00",
+        "snippet": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+        "section": "newsletters",
+        "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-08T21:23:29+00:00",
+        "snippet": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfami…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic IPO: Whither Now?",
+        "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-07T03:04:53+00:00",
+        "snippet": "November 6, 2026 — ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "section": "newsletters",
+        "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+        "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-06T15:10:53+00:00",
+        "snippet": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "section": "newsletters",
+        "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+        "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-06T10:35:21+00:00",
+        "snippet": "November 5, 2026 — Inside Inkling 2 Small’s training run and METR’s study of AI research at Anthropic.",
+        "extra_link": null
+      }
+    ]
+  }
+}
