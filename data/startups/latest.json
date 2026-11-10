@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-09T08:10:02.373873+00:00",
+  "fetched_at": "2026-11-10T08:30:17.471847+00:00",
   "items": [
+    {
+      "id": "76e0c3976fd5fce1",
+      "company": "Coframe",
+      "company_url": "https://startups.gallery/companies/coframe",
+      "amount": "$25M",
+      "round": "Series A",
+      "date": "2026-11-09",
+      "investor": "Khosla Ventures",
+      "investor_url": "https://startups.gallery/investors/khosla-ventures",
+      "source_url": "https://www.coframe.com/post/coframe-series-a",
+      "logo_url": "https://framerusercontent.com/images/Wm0iEhH1cr6JdPCr56kV5jJCE0.webp?width=200&height=200",
+      "logo": "static/startups/images/070ec3556641ec48397a.webp",
+      "description": "Coframe: AI-powered CRO. Founded in 2023. See Coframe’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/7c00cfdc6e013f9b3821.webp",
+      "image_url": "https://framerusercontent.com/images/ss1DEeIchielR86hl98C4uHc.webp?width=1920&height=1080",
+      "image_kind": "company artwork"
+    },
     {
       "id": "9d1d6c18ec942796",
       "company": "Humble",
@@ -494,23 +511,6 @@
       "description": "Daytona: Dev environment manager. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/a2a75fbf3e9e5cb19058.webp"
-    },
-    {
-      "id": "360773db8f16e0a6",
-      "company": "Tolan",
-      "company_url": "https://startups.gallery/companies/tolan",
-      "amount": "$30M",
-      "round": "Venture",
-      "date": "2026-10-19",
-      "investor": "Union Square Ventures",
-      "investor_url": "https://startups.gallery/investors/union-square-ventures",
-      "source_url": "https://x.com/quintendf/status/2112219577727992319?s=20",
-      "logo_url": "https://framerusercontent.com/images/miNsPZHecJg4qOJmgfoyKxSXc.webp?width=400&height=400",
-      "image": "static/startups/images/0f333efabfa250aa8041.webp",
-      "image_url": "https://framerusercontent.com/images/JNlD1nvGW6JZ9sNZnNlUprodk.webp?width=1925&height=1163",
-      "description": "Tolan: An embodied companion. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/b6306b18b58daee28886.webp"
     }
   ]
 }
