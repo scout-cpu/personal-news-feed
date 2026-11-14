@@ -1,0 +1,507 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T07:41:27.678507+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50481187",
+        "section": "hackernews",
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "score": 488,
+        "score_label": "488 points",
+        "author": "__vivek",
+        "published": "2026-11-13T10:18:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50481187"
+        }
+      },
+      {
+        "id": "hn-50493251",
+        "section": "hackernews",
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "score": 410,
+        "score_label": "410 points",
+        "author": "speckx",
+        "published": "2026-11-14T02:52:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50493251"
+        }
+      },
+      {
+        "id": "hn-50486748",
+        "section": "hackernews",
+        "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "score": 379,
+        "score_label": "379 points",
+        "author": "bookofjoe",
+        "published": "2026-11-13T17:30:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50486748"
+        }
+      },
+      {
+        "id": "hn-50481870",
+        "section": "hackernews",
+        "title": "AI is destroying the trust between writers and readers",
+        "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+        "score": 337,
+        "score_label": "337 points",
+        "author": "FinnLobsien",
+        "published": "2026-11-13T11:13:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50481870"
+        }
+      },
+      {
+        "id": "hn-50484658",
+        "section": "hackernews",
+        "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+        "score": 253,
+        "score_label": "253 points",
+        "author": "helloplanets",
+        "published": "2026-11-13T15:08:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50484658"
+        }
+      },
+      {
+        "id": "hn-50481220",
+        "section": "hackernews",
+        "title": "Claude Is Down",
+        "url": "https://status.claude.com/history",
+        "score": 198,
+        "score_label": "198 points",
+        "author": "cornfieldlabs",
+        "published": "2026-11-13T10:20:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50481220"
+        }
+      },
+      {
+        "id": "hn-50488769",
+        "section": "hackernews",
+        "title": "No AI Slop: A Manifesto",
+        "url": "https://www.slopmanifesto.com/",
+        "score": 192,
+        "score_label": "192 points",
+        "author": "bankombinator",
+        "published": "2026-11-13T19:51:56+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50488769"
+        }
+      },
+      {
+        "id": "hn-50484960",
+        "section": "hackernews",
+        "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+        "url": "https://text.npr.org/nx-s1-6029408",
+        "score": 184,
+        "score_label": "184 points",
+        "author": "kamaraju",
+        "published": "2026-11-13T15:29:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50484960"
+        }
+      },
+      {
+        "id": "hn-50487184",
+        "section": "hackernews",
+        "title": "OpenAI disbands its robotics team as its general models start running robots",
+        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+        "score": 162,
+        "score_label": "162 points",
+        "author": "sshah03",
+        "published": "2026-11-13T17:55:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50487184"
+        }
+      },
+      {
+        "id": "hn-50491097",
+        "section": "hackernews",
+        "title": "Claude Meetings",
+        "url": "https://claude.com/resources/articles/claude-meetings",
+        "score": 91,
+        "score_label": "91 points",
+        "author": "hmokiguess",
+        "published": "2026-11-13T22:39:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50491097"
+        }
+      },
+      {
+        "id": "hn-50492141",
+        "section": "hackernews",
+        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+        "url": "https://claude.com/resources/articles/projects-redesigned",
+        "score": 82,
+        "score_label": "82 points",
+        "author": "toppa33",
+        "published": "2026-11-14T00:28:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50492141"
+        }
+      },
+      {
+        "id": "hn-50487854",
+        "section": "hackernews",
+        "title": "The avalanche that hit math is coming for AI development",
+        "url": "https://www.dwarkesh.com/p/rsi",
+        "score": 61,
+        "score_label": "61 points",
+        "author": "crescit_eundo",
+        "published": "2026-11-13T18:39:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50487854"
+        }
+      },
+      {
+        "id": "hn-50487469",
+        "section": "hackernews",
+        "title": "Are we just going to ignore that books are destroyed for AI?",
+        "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
+        "score": 56,
+        "score_label": "56 points",
+        "author": "nyxtom",
+        "published": "2026-11-13T18:14:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50487469"
+        }
+      },
+      {
+        "id": "hn-50480909",
+        "section": "hackernews",
+        "title": "Tell HN: Claude Code Is Down",
+        "url": "https://news.ycombinator.com/item?id=50480909",
+        "score": 37,
+        "score_label": "37 points",
+        "author": "Andugal",
+        "published": "2026-11-13T09:51:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50480909"
+        }
+      },
+      {
+        "id": "hn-50480659",
+        "section": "hackernews",
+        "title": "Is there a 'right amount' of AI?",
+        "url": "https://coyotetracks.org/blog/right-amount-of-ai/",
+        "score": 37,
+        "score_label": "37 points",
+        "author": "milali",
+        "published": "2026-11-13T09:27:05+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50480659"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.16748",
+        "section": "papers",
+        "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+        "url": "https://huggingface.co/papers/2611.16748",
+        "score": 44,
+        "score_label": "44 upvotes",
+        "author": "Yuxuan Chen, Xiaojie Li, Hao Chen et al.",
+        "published": "2026-11-11T19:00:00.000Z",
+        "snippet": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.16748"
+        }
+      },
+      {
+        "id": "paper-2611.13004",
+        "section": "papers",
+        "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+        "url": "https://huggingface.co/papers/2611.13004",
+        "score": 42,
+        "score_label": "42 upvotes",
+        "author": "Xu Huang, Ye Huang, Xiaotong Li et al.",
+        "published": "2026-11-07T19:00:00.000Z",
+        "snippet": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spat…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.13004"
+        }
+      },
+      {
+        "id": "paper-2611.15844",
+        "section": "papers",
+        "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+        "url": "https://huggingface.co/papers/2611.15844",
+        "score": 32,
+        "score_label": "32 upvotes",
+        "author": "Arpit Jadon, Valentinos Pariza, Jona Ruthardt et al.",
+        "published": "2026-11-10T19:00:00.000Z",
+        "snippet": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights,…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.15844"
+        }
+      },
+      {
+        "id": "paper-2611.17060",
+        "section": "papers",
+        "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+        "url": "https://huggingface.co/papers/2611.17060",
+        "score": 26,
+        "score_label": "26 upvotes",
+        "author": "Hao Li, Fangzhou Hong, Zhaoxi Chen et al.",
+        "published": "2026-11-11T19:00:00.000Z",
+        "snippet": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17060"
+        }
+      },
+      {
+        "id": "paper-2611.17331",
+        "section": "papers",
+        "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+        "url": "https://huggingface.co/papers/2611.17331",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe et al.",
+        "published": "2026-11-11T19:00:00.000Z",
+        "snippet": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17331"
+        }
+      },
+      {
+        "id": "paper-2611.17309",
+        "section": "papers",
+        "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+        "url": "https://arxiv.org/abs/2611.17309",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Benjamin Hoover, Hugh Blayney, James C. R. Whittington",
+        "published": "2026-11-12T18:56:56Z",
+        "snippet": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many par…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "section": "models",
+        "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "score": 6822,
+        "score_label": "6,822 likes · 21,586 downloads",
+        "author": "xtools-at",
+        "published": "2026-10-30T10:21:29.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3-Image",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "score": 1050,
+        "score_label": "1,050 likes · 437,039 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-11-03T06:34:36.000Z",
+        "snippet": "text-to-image · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 11824,
+        "score_label": "11,824 likes · 2,778,909 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-NousResearch/Arete-27B",
+        "section": "models",
+        "title": "NousResearch/Arete-27B",
+        "url": "https://huggingface.co/NousResearch/Arete-27B",
+        "score": 574,
+        "score_label": "574 likes · 5,545 downloads",
+        "author": "NousResearch",
+        "published": "2026-11-06T19:31:28.000Z",
+        "snippet": "text-generation",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 19915,
+        "score_label": "19,915 likes · 6,960,395 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-speridlabs/idol",
+        "section": "models",
+        "title": "speridlabs/idol",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "score": 2315,
+        "score_label": "2,315 likes · 31,367 downloads",
+        "author": "speridlabs",
+        "published": "2026-10-28T15:55:17.000Z",
+        "snippet": "image-to-3d · idol",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 3076,
+        "score_label": "3,076 likes · 1,639,400 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3.1-Pro",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3.1-Pro",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "score": 2051,
+        "score_label": "2,051 likes · 40,953 downloads",
+        "author": "moonshotai",
+        "published": "2026-11-02T04:13:51.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3-Image",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3-Image",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+        "score": 360,
+        "score_label": "360 likes · 1,257,301 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-11-08T20:37:23.000Z",
+        "snippet": "text-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Zyphra/ZONOS3-Mini",
+        "section": "models",
+        "title": "Zyphra/ZONOS3-Mini",
+        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+        "score": 312,
+        "score_label": "312 likes · 13,068 downloads",
+        "author": "Zyphra",
+        "published": "2026-11-09T05:03:57.000Z",
+        "snippet": "text-to-speech · zonos3",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "section": "newsletters",
+        "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+        "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-13T09:04:13+00:00",
+        "snippet": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/artcraft/",
+        "section": "newsletters",
+        "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+        "url": "https://latent.space/p/artcraft/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-13T04:17:25+00:00",
+        "snippet": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-d-day-decision-models-day/",
+        "section": "newsletters",
+        "title": "[AINews] D-Day (Decision Models Day)",
+        "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-12T05:26:54+00:00",
+        "snippet": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/jev-revolution/",
+        "section": "newsletters",
+        "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+        "url": "https://latent.space/p/jev-revolution/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-12T05:08:20+00:00",
+        "snippet": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+        "section": "newsletters",
+        "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+        "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-11T09:34:28+00:00",
+        "snippet": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+        "extra_link": null
+      }
+    ]
+  }
+}
