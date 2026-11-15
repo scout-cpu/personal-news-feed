@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T07:57:22.102445+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50496921",
+        "section": "hackernews",
+        "title": "The Claude Delusion",
+        "url": "https://www.netmeister.org/blog/claude-delusion.html",
+        "score": 146,
+        "score_label": "146 points",
+        "author": "janvdberg",
+        "published": "2026-11-14T13:36:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50496921"
+        }
+      },
+      {
+        "id": "hn-50497147",
+        "section": "hackernews",
+        "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "score": 96,
+        "score_label": "96 points",
+        "author": "paul_nameless",
+        "published": "2026-11-14T14:08:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50497147"
+        }
+      },
+      {
+        "id": "hn-50498051",
+        "section": "hackernews",
+        "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+        "score": 53,
+        "score_label": "53 points",
+        "author": "marginalia_nu",
+        "published": "2026-11-14T15:58:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50498051"
+        }
+      },
+      {
+        "id": "hn-50499114",
+        "section": "hackernews",
+        "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+        "score": 45,
+        "score_label": "45 points",
+        "author": "gnabgib",
+        "published": "2026-11-14T17:51:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50499114"
+        }
+      },
+      {
+        "id": "hn-50496562",
+        "section": "hackernews",
+        "title": "Agile Manifesto for Agents",
+        "url": "https://debarshibasak.github.io/readables/blogs/agent-first-development",
+        "score": 29,
+        "score_label": "29 points",
+        "author": "debarshri",
+        "published": "2026-11-14T12:38:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50496562"
+        }
+      },
+      {
+        "id": "hn-50496590",
+        "section": "hackernews",
+        "title": "Open-source AI without Jensen",
+        "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "pr337h4m",
+        "published": "2026-11-14T12:44:01+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50496590"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "section": "models",
+        "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "score": 7409,
+        "score_label": "7,409 likes · 24,470 downloads",
+        "author": "xtools-at",
+        "published": "2026-10-30T10:21:29.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3-Image",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "score": 1132,
+        "score_label": "1,132 likes · 517,948 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-11-03T06:34:36.000Z",
+        "snippet": "text-to-image · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 20041,
+        "score_label": "20,041 likes · 6,757,964 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 11960,
+        "score_label": "11,960 likes · 2,777,667 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 3135,
+        "score_label": "3,135 likes · 1,657,783 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3-Image",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3-Image",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+        "score": 390,
+        "score_label": "390 likes · 1,615,613 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-11-08T20:37:23.000Z",
+        "snippet": "text-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-speridlabs/idol",
+        "section": "models",
+        "title": "speridlabs/idol",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "score": 2345,
+        "score_label": "2,345 likes · 32,619 downloads",
+        "author": "speridlabs",
+        "published": "2026-10-28T15:55:17.000Z",
+        "snippet": "image-to-3d · idol",
+        "extra_link": null
+      },
+      {
+        "id": "model-NousResearch/Arete-27B",
+        "section": "models",
+        "title": "NousResearch/Arete-27B",
+        "url": "https://huggingface.co/NousResearch/Arete-27B",
+        "score": 600,
+        "score_label": "600 likes · 6,191 downloads",
+        "author": "NousResearch",
+        "published": "2026-11-06T19:31:28.000Z",
+        "snippet": "text-generation",
+        "extra_link": null
+      },
+      {
+        "id": "model-Zyphra/ZONOS3-Mini",
+        "section": "models",
+        "title": "Zyphra/ZONOS3-Mini",
+        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+        "score": 355,
+        "score_label": "355 likes · 19,743 downloads",
+        "author": "Zyphra",
+        "published": "2026-11-09T05:03:57.000Z",
+        "snippet": "text-to-speech · zonos3",
+        "extra_link": null
+      },
+      {
+        "id": "model-moonshotai/Kimi-K3.1-Pro",
+        "section": "models",
+        "title": "moonshotai/Kimi-K3.1-Pro",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "score": 2084,
+        "score_label": "2,084 likes · 43,687 downloads",
+        "author": "moonshotai",
+        "published": "2026-11-02T04:13:51.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://www.interconnects.ai/p/open-source-ai-without-jensen",
+        "section": "newsletters",
+        "title": "Open-source AI without Jensen",
+        "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-11-14T12:23:15+00:00",
+        "snippet": "A decapitation. It&#8217;s time to rebuild.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+        "section": "newsletters",
+        "title": "[AINews] The No AI Slop Manifesto",
+        "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-14T08:31:02+00:00",
+        "snippet": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "section": "newsletters",
+        "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+        "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-13T09:04:13+00:00",
+        "snippet": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/artcraft/",
+        "section": "newsletters",
+        "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+        "url": "https://latent.space/p/artcraft/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-13T04:17:25+00:00",
+        "snippet": "ArtCraft used AI to rewrite Photoshop as open source software. For CEO Brandon Thomas, the vision is even bigger: to take back the internet!",
+        "extra_link": null
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-14T07:41:31.469803+00:00",
+  "fetched_at": "2026-11-15T07:57:25.693875+00:00",
   "items": [
     {
       "id": "e8fc0097f40489da",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/capitalg",
       "source_url": "https://www.wsj.com/cio-journal/ai-startup-langchain-more-than-doubles-its-valuation-to-3-billion-f83377ad",
       "logo_url": "https://framerusercontent.com/images/OctLdMnR7s5YUtPJyxZnvbd6U.jpg?width=400&height=400",
-      "logo": "static/startups/images/99b3d4790297243f979a.jpg",
-      "description": "LangChain: Easily integrate LLMs into your apps. Founded in 2022. See LangChain’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/8b4a8592395e0d1345e2.png",
       "image_url": "https://framerusercontent.com/images/VWNqXk64RDfDppM9fLTnowpB9k.png?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "LangChain: Easily integrate LLMs into your apps. Founded in 2022. See LangChain’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/99b3d4790297243f979a.jpg"
     },
     {
       "id": "c7d6901bb9f052a8",
