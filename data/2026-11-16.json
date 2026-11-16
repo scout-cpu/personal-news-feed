@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T08:05:39.764325+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50507303",
+        "section": "hackernews",
+        "title": "All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "score": 1147,
+        "score_label": "1147 points",
+        "author": "jcubic",
+        "published": "2026-11-15T14:46:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50507303"
+        }
+      },
+      {
+        "id": "hn-50506376",
+        "section": "hackernews",
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "score": 226,
+        "score_label": "226 points",
+        "author": "vismit2000",
+        "published": "2026-11-15T12:14:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50506376"
+        }
+      },
+      {
+        "id": "hn-50512950",
+        "section": "hackernews",
+        "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+        "url": "https://www.hntrends.com/2026/november.html",
+        "score": 82,
+        "score_label": "82 points",
+        "author": "myth_drannon",
+        "published": "2026-11-16T01:31:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50512950"
+        }
+      },
+      {
+        "id": "hn-50510799",
+        "section": "hackernews",
+        "title": "Your Agent Will Pick the Hackable One",
+        "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+        "score": 75,
+        "score_label": "75 points",
+        "author": "tensafefrogs",
+        "published": "2026-11-15T21:10:39+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50510799"
+        }
+      },
+      {
+        "id": "hn-50509953",
+        "section": "hackernews",
+        "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+        "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+        "score": 64,
+        "score_label": "64 points",
+        "author": "vrganj",
+        "published": "2026-11-15T19:39:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50509953"
+        }
+      },
+      {
+        "id": "hn-50506940",
+        "section": "hackernews",
+        "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "url": "https://github.com/db-branch/db-branch",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "nu_nu11",
+        "published": "2026-11-15T13:50:51+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50506940"
+        }
+      },
+      {
+        "id": "hn-50507517",
+        "section": "hackernews",
+        "title": "A Human Reads the Anthropic IPO Filing",
+        "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "saikatsg",
+        "published": "2026-11-15T15:18:06+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50507517"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.18397",
+        "section": "papers",
+        "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+        "url": "https://huggingface.co/papers/2611.18397",
+        "score": 55,
+        "score_label": "55 upvotes",
+        "author": "Run Luo, Kuan Zhang, Qi Deng et al.",
+        "published": "2026-11-12T19:00:00.000Z",
+        "snippet": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared t…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.18397"
+        }
+      },
+      {
+        "id": "paper-2611.18359",
+        "section": "papers",
+        "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+        "url": "https://huggingface.co/papers/2611.18359",
+        "score": 46,
+        "score_label": "46 upvotes",
+        "author": "Grid Robotics, Qingfeng Lan, Duo Li et al.",
+        "published": "2026-11-12T19:00:00.000Z",
+        "snippet": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.18359"
+        }
+      },
+      {
+        "id": "paper-2611.18482",
+        "section": "papers",
+        "title": "MMFlash: Faster Speculative Decoding for Vision-Language Models",
+        "url": "https://huggingface.co/papers/2611.18482",
+        "score": 22,
+        "score_label": "22 upvotes",
+        "author": "Sicheng Feng, Zigeng Chen, Song Wang et al.",
+        "published": "2026-11-12T19:00:00.000Z",
+        "snippet": "Speculative decoding accelerates generation by letting a lightweight drafter propose tokens for parallel verification by a target model. Diffusion drafters such as DFlash propose an entire token block in a single forwar…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.18482"
+        }
+      },
+      {
+        "id": "paper-2611.18563",
+        "section": "papers",
+        "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+        "url": "https://arxiv.org/abs/2611.18563",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Daniel Grimm, Kyra Jongman, Renato Cordeiro Ferreira et al.",
+        "published": "2026-11-13T18:59:43Z",
+        "snippet": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identifica…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.18561",
+        "section": "papers",
+        "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+        "url": "https://arxiv.org/abs/2611.18561",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jonathan D. McCart, Pranav I. Deevi, Mehdi Azabou et al.",
+        "published": "2026-11-13T18:59:02Z",
+        "snippet": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during attem…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.18562",
+        "section": "papers",
+        "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+        "url": "https://arxiv.org/abs/2611.18562",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jiaming Tang, Zhuoyang Zhang, Junxian Guo et al.",
+        "published": "2026-11-13T18:59:02Z",
+        "snippet": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fabl…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.18559",
+        "section": "papers",
+        "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+        "url": "https://arxiv.org/abs/2611.18559",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Genki Kinoshita, Ko Nishino",
+        "published": "2026-11-13T18:58:54Z",
+        "snippet": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., inv…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.18553",
+        "section": "papers",
+        "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+        "url": "https://arxiv.org/abs/2611.18553",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Aayush Marasini, Barsat Khadka, Nick Rahimi",
+        "published": "2026-11-13T18:58:08Z",
+        "snippet": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks f…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.18543",
+        "section": "papers",
+        "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+        "url": "https://arxiv.org/abs/2611.18543",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Tony H. Zhang, Connor Mattson, Daniel S. Brown",
+        "published": "2026-11-13T18:50:05Z",
+        "snippet": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible for…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.18542",
+        "section": "papers",
+        "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
+        "url": "https://arxiv.org/abs/2611.18542",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Cole Becker, Taylan Kargin, Kimia Hassibi et al.",
+        "published": "2026-11-13T18:49:36Z",
+        "snippet": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probabili…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.18538",
+        "section": "papers",
+        "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
+        "url": "https://arxiv.org/abs/2611.18538",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Mojtaba Soltanalian",
+        "published": "2026-11-13T18:47:24Z",
+        "snippet": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather th…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "section": "models",
+        "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "score": 7601,
+        "score_label": "7,601 likes · 27,037 downloads",
+        "author": "xtools-at",
+        "published": "2026-10-30T10:21:29.000Z",
+        "snippet": "text-generation · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3-Image",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "score": 1219,
+        "score_label": "1,219 likes · 571,067 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-11-03T06:34:36.000Z",
+        "snippet": "text-to-image · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 20154,
+        "score_label": "20,154 likes · 6,547,772 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 12108,
+        "score_label": "12,108 likes · 2,754,355 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Comfy-Org/MiniMax-H3-Image",
+        "section": "models",
+        "title": "Comfy-Org/MiniMax-H3-Image",
+        "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+        "score": 424,
+        "score_label": "424 likes · 1,973,388 downloads",
+        "author": "Comfy-Org",
+        "published": "2026-11-08T20:37:23.000Z",
+        "snippet": "text-to-image · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-Zyphra/ZONOS3-Mini",
+        "section": "models",
+        "title": "Zyphra/ZONOS3-Mini",
+        "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+        "score": 416,
+        "score_label": "416 likes · 39,862 downloads",
+        "author": "Zyphra",
+        "published": "2026-11-09T05:03:57.000Z",
+        "snippet": "text-to-speech · zonos3",
+        "extra_link": null
+      },
+      {
+        "id": "model-DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "section": "models",
+        "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+        "score": 3180,
+        "score_label": "3,180 likes · 1,708,637 downloads",
+        "author": "DavidAU",
+        "published": "2026-09-01T07:01:09.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-thinkingmachines/Inkling-2-Small",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-2-Small",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+        "score": 353,
+        "score_label": "353 likes · 7,329 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-11-04T19:51:05.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-higurashi-ai/Haru-4B",
+        "section": "models",
+        "title": "higurashi-ai/Haru-4B",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "score": 336,
+        "score_label": "336 likes · 2,098 downloads",
+        "author": "higurashi-ai",
+        "published": "2026-11-12T11:05:59.000Z",
+        "snippet": "audio-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Qwen3.8-27B-GGUF",
+        "section": "models",
+        "title": "unsloth/Qwen3.8-27B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+        "score": 6011,
+        "score_label": "6,011 likes · 6,566,295 downloads",
+        "author": "unsloth",
+        "published": "2026-08-13T08:28:40.000Z",
+        "snippet": "",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "section": "newsletters",
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "score": null,
+        "score_label": "Ahead of AI",
+        "author": "Ahead of AI",
+        "published": "2026-11-15T12:10:37+00:00",
+        "snippet": "The Methods Behind How LLMs Represent Token Positions",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://www.interconnects.ai/p/open-source-ai-without-jensen",
+        "section": "newsletters",
+        "title": "Open-source AI without Jensen",
+        "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+        "score": null,
+        "score_label": "Interconnects",
+        "author": "Interconnects",
+        "published": "2026-11-14T12:23:15+00:00",
+        "snippet": "A decapitation. It&#8217;s time to rebuild.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+        "section": "newsletters",
+        "title": "[AINews] The No AI Slop Manifesto",
+        "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-14T08:31:02+00:00",
+        "snippet": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "section": "newsletters",
+        "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+        "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-13T09:04:13+00:00",
+        "snippet": "November 12, 2026 — Colette Kress takes over as interim CEO. What happens to open source/American AI leadership?",
+        "extra_link": null
+      }
+    ]
+  }
+}
