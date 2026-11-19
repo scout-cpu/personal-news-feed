@@ -1,0 +1,696 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:55:21.113061+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50552424",
+        "section": "hackernews",
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "score": 784,
+        "score_label": "784 points",
+        "author": "yigitdemirag",
+        "published": "2026-11-18T21:34:07+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50552424"
+        }
+      },
+      {
+        "id": "hn-50547777",
+        "section": "hackernews",
+        "title": "AI agents ask better questions than KPMG accountants in audit trial",
+        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+        "score": 450,
+        "score_label": "450 points",
+        "author": "Betelbuddy",
+        "published": "2026-11-18T15:49:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50547777"
+        }
+      },
+      {
+        "id": "hn-50554374",
+        "section": "hackernews",
+        "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+        "score": 223,
+        "score_label": "223 points",
+        "author": "seizethecheese",
+        "published": "2026-11-19T00:29:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50554374"
+        }
+      },
+      {
+        "id": "hn-50549493",
+        "section": "hackernews",
+        "title": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+        "score": 203,
+        "score_label": "203 points",
+        "author": "vighneshiyer",
+        "published": "2026-11-18T17:45:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50549493"
+        }
+      },
+      {
+        "id": "hn-50553843",
+        "section": "hackernews",
+        "title": "Anthropic prices initial public offering",
+        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "score": 194,
+        "score_label": "194 points",
+        "author": "surprisetalk",
+        "published": "2026-11-18T23:30:09+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50553843"
+        }
+      },
+      {
+        "id": "hn-50553225",
+        "section": "hackernews",
+        "title": "LLM assisted reverse engineering",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "score": 193,
+        "score_label": "193 points",
+        "author": "ioma8",
+        "published": "2026-11-18T22:29:13+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50553225"
+        }
+      },
+      {
+        "id": "hn-50548485",
+        "section": "hackernews",
+        "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+        "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+        "score": 133,
+        "score_label": "133 points",
+        "author": "sshah03",
+        "published": "2026-11-18T16:41:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50548485"
+        }
+      },
+      {
+        "id": "hn-50555093",
+        "section": "hackernews",
+        "title": "AI will not make you rich (2025)",
+        "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+        "score": 96,
+        "score_label": "96 points",
+        "author": "madars",
+        "published": "2026-11-19T01:51:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50555093"
+        }
+      },
+      {
+        "id": "hn-50554641",
+        "section": "hackernews",
+        "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+        "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+        "score": 87,
+        "score_label": "87 points",
+        "author": "DeepLogin",
+        "published": "2026-11-19T00:57:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50554641"
+        }
+      },
+      {
+        "id": "hn-50546312",
+        "section": "hackernews",
+        "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+        "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+        "score": 67,
+        "score_label": "67 points",
+        "author": "torutofu",
+        "published": "2026-11-18T13:51:03+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50546312"
+        }
+      },
+      {
+        "id": "hn-50554269",
+        "section": "hackernews",
+        "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+        "url": "https://claudia.gallery/fable/",
+        "score": 58,
+        "score_label": "58 points",
+        "author": "CharlesW",
+        "published": "2026-11-19T00:18:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50554269"
+        }
+      },
+      {
+        "id": "hn-50551601",
+        "section": "hackernews",
+        "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+        "score": 52,
+        "score_label": "52 points",
+        "author": "hackeratrandom",
+        "published": "2026-11-18T20:20:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50551601"
+        }
+      },
+      {
+        "id": "hn-50549188",
+        "section": "hackernews",
+        "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+        "url": "https://news.ycombinator.com/item?id=50549188",
+        "score": 52,
+        "score_label": "52 points",
+        "author": "ashriv",
+        "published": "2026-11-18T17:26:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50549188"
+        }
+      },
+      {
+        "id": "hn-50547901",
+        "section": "hackernews",
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "score": 49,
+        "score_label": "49 points",
+        "author": "sshah03",
+        "published": "2026-11-18T15:59:04+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50547901"
+        }
+      },
+      {
+        "id": "hn-50554908",
+        "section": "hackernews",
+        "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+        "url": "https://arxiv.org/abs/2607.29378",
+        "score": 45,
+        "score_label": "45 points",
+        "author": "dalmo3",
+        "published": "2026-11-19T01:27:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50554908"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.14848",
+        "section": "papers",
+        "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+        "url": "https://huggingface.co/papers/2611.14848",
+        "score": 60,
+        "score_label": "60 upvotes",
+        "author": "Yifei Wang, Tsun-yu Yang, Yechen Xu et al.",
+        "published": "2026-11-09T19:00:00.000Z",
+        "snippet": "Large language model (LLM) agents are rapidly becoming a dominant paradigm for AI applications. Recently, there is a growing demand to deploy large-scale Mixture-of-Experts (MoE) models locally on consumer PCs to balanc…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.14848"
+        }
+      },
+      {
+        "id": "paper-2611.17048",
+        "section": "papers",
+        "title": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
+        "url": "https://huggingface.co/papers/2611.17048",
+        "score": 35,
+        "score_label": "35 upvotes",
+        "author": "Shuhan Li, Huankang Guan, Xintong Guo et al.",
+        "published": "2026-11-14T19:00:00.000Z",
+        "snippet": "Most AI assistants respond only when prompted, remaining silent even when events in the video stream offer meaningful opportunities for conversation. To move beyond purely user-driven interaction, we present AURA 2.0, a…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.17048"
+        }
+      },
+      {
+        "id": "paper-2611.24738",
+        "section": "papers",
+        "title": "Jeveration: System One Models Now Generate",
+        "url": "https://huggingface.co/papers/2611.24738",
+        "score": 33,
+        "score_label": "33 upvotes",
+        "author": "Yuhe Liu, Qi Li, Shihua Zhang et al.",
+        "published": "2026-11-17T19:00:00.000Z",
+        "snippet": "System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.24738"
+        }
+      },
+      {
+        "id": "paper-2611.11318",
+        "section": "papers",
+        "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
+        "url": "https://huggingface.co/papers/2611.11318",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Minseo Yoon, Minseong Bae, Sojin Lee et al.",
+        "published": "2026-11-07T19:00:00.000Z",
+        "snippet": "High-resolution weather prediction is important for resolving local atmospheric patterns missed by coarse global forecasts. Large pretrained weather backbones have improved global forecasting, but adapting them to produ…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.11318"
+        }
+      },
+      {
+        "id": "paper-2611.24154",
+        "section": "papers",
+        "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
+        "url": "https://huggingface.co/papers/2611.24154",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Xirui Jiang, Yuxi Chen, Rui Yang et al.",
+        "published": "2026-11-17T19:00:00.000Z",
+        "snippet": "Games are a rich testbed for visual agents, demanding perception, long-horizon planning, and precise control. However, collecting human gameplay is costly, and learning from gameplay videos requires inferring missing ac…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.24154"
+        }
+      },
+      {
+        "id": "paper-2611.21392",
+        "section": "papers",
+        "title": "VideoNexus: Video Perception Beyond the Reasoning Context",
+        "url": "https://huggingface.co/papers/2611.21392",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Yancheng Long, Xuanyu Zheng, Wei Chen et al.",
+        "published": "2026-11-15T19:00:00.000Z",
+        "snippet": "Understanding long videos requires locating evidence, resolving visual details, and integrating observations into an answer. Even when relevant evidence is present, performing these operations within long, dense visual…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.21392"
+        }
+      },
+      {
+        "id": "paper-2611.23068",
+        "section": "papers",
+        "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+        "url": "https://huggingface.co/papers/2611.23068",
+        "score": 15,
+        "score_label": "15 upvotes",
+        "author": "Yuanhao Zeng, Shaocheng Lan, Ao Lu et al.",
+        "published": "2026-11-16T19:00:00.000Z",
+        "snippet": "Agent evolution follows a simple loop: a proposer writes candidate artifacts (prompts, skills, memories) and selection accepts those that score higher. This loop has shown promise, yet practitioners face a puzzle: metho…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.23068"
+        }
+      },
+      {
+        "id": "paper-2611.24869",
+        "section": "papers",
+        "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+        "url": "https://huggingface.co/papers/2611.24869",
+        "score": 14,
+        "score_label": "14 upvotes",
+        "author": "Mingliang Zhai, Chuanhao Li, Jiaming Tan et al.",
+        "published": "2026-11-17T19:00:00.000Z",
+        "snippet": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow use…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.24869"
+        }
+      },
+      {
+        "id": "paper-2611.22925",
+        "section": "papers",
+        "title": "Code World Model 2.0: Towards Infinite Controllable Video Generation",
+        "url": "https://huggingface.co/papers/2611.22925",
+        "score": 11,
+        "score_label": "11 upvotes",
+        "author": "Ruoyu Wang, Hao Zhong, Yanming Yang et al.",
+        "published": "2026-11-16T19:00:00.000Z",
+        "snippet": "Visual proxies decouple explicit world-state simulation from photorealistic video synthesis, offering a controllable interface for both offline clip creation and real-time interactive streaming. Yet a practical renderer…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.22925"
+        }
+      },
+      {
+        "id": "paper-2611.21366",
+        "section": "papers",
+        "title": "ALIVE: Making Streaming Video Models Interactive",
+        "url": "https://huggingface.co/papers/2611.21366",
+        "score": 11,
+        "score_label": "11 upvotes",
+        "author": "Jinzhao Li, Yuan Xu, Jinxuan Wu et al.",
+        "published": "2026-11-15T19:00:00.000Z",
+        "snippet": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.21366"
+        }
+      },
+      {
+        "id": "paper-2611.22287",
+        "section": "papers",
+        "title": "Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
+        "url": "https://huggingface.co/papers/2611.22287",
+        "score": 10,
+        "score_label": "10 upvotes",
+        "author": "Hansheng Chen, Shengqu Cai, Jan Ackermann et al.",
+        "published": "2026-11-16T19:00:00.000Z",
+        "snippet": "Latent diffusion models rely on a decoder to map denoised latents to pixels, adding complexity and inference cost. We introduce Decoding Without a Decoder (DWD), which lets a finetuned diffusion transformer produce fina…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.22287"
+        }
+      },
+      {
+        "id": "paper-2611.23388",
+        "section": "papers",
+        "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+        "url": "https://huggingface.co/papers/2611.23388",
+        "score": 9,
+        "score_label": "9 upvotes",
+        "author": "Xingyang Li, Tianlang Zhao, Song Han et al.",
+        "published": "2026-11-16T19:00:00.000Z",
+        "snippet": "Post-training quantization is the standard way to serve large language models at low cost. However, the best quantization recipe differs across models and precisions. As a result, experts must redesign it for every new…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.23388"
+        }
+      },
+      {
+        "id": "paper-2611.24936",
+        "section": "papers",
+        "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+        "url": "https://arxiv.org/abs/2611.24936",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yan Qiu, Yuanyuan Li",
+        "published": "2026-11-18T18:56:12Z",
+        "snippet": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additio…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.24932",
+        "section": "papers",
+        "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+        "url": "https://arxiv.org/abs/2611.24932",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Priyanka Sinha, Sugam Pandey",
+        "published": "2026-11-18T18:55:07Z",
+        "snippet": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a revi…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.24927",
+        "section": "papers",
+        "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+        "url": "https://arxiv.org/abs/2611.24927",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim et al.",
+        "published": "2026-11-18T18:53:58Z",
+        "snippet": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.24924",
+        "section": "papers",
+        "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+        "url": "https://arxiv.org/abs/2611.24924",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Jiahang Lin, Jiahao Chen, Yiding Wang et al.",
+        "published": "2026-11-18T18:52:13Z",
+        "snippet": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interacti…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.24908",
+        "section": "papers",
+        "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+        "url": "https://arxiv.org/abs/2611.24908",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Samet Demir, Zafer Dogan",
+        "published": "2026-11-18T18:43:40Z",
+        "snippet": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization. We decompo…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.24896",
+        "section": "papers",
+        "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+        "url": "https://arxiv.org/abs/2611.24896",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Michael Liaofan Liu, Joe Kileel",
+        "published": "2026-11-18T18:37:02Z",
+        "snippet": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.24892",
+        "section": "papers",
+        "title": "On Evaluating User Simulators for Interactive Agents",
+        "url": "https://arxiv.org/abs/2611.24892",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Hengguang Zhou, I-Hung Hsu, Li Chen et al.",
+        "published": "2026-11-18T18:34:23Z",
+        "snippet": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably det…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.24891",
+        "section": "papers",
+        "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+        "url": "https://arxiv.org/abs/2611.24891",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Benjamin Novotny, Doug Szeto, Chang Wang et al.",
+        "published": "2026-11-18T18:34:10Z",
+        "snippet": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-higurashi-ai/Haru-4B",
+        "section": "models",
+        "title": "higurashi-ai/Haru-4B",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "score": 1338,
+        "score_label": "1,338 likes · 5,314 downloads",
+        "author": "higurashi-ai",
+        "published": "2026-11-12T11:05:59.000Z",
+        "snippet": "audio-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 20591,
+        "score_label": "20,591 likes · 6,888,351 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-tencent/Hy4-flash",
+        "section": "models",
+        "title": "tencent/Hy4-flash",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "score": 269,
+        "score_label": "269 likes · 159 downloads",
+        "author": "tencent",
+        "published": "2026-11-17T03:44:46.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-MiniMaxAI/MiniMax-H3-Image",
+        "section": "models",
+        "title": "MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "score": 1601,
+        "score_label": "1,601 likes · 759,661 downloads",
+        "author": "MiniMaxAI",
+        "published": "2026-11-03T06:34:36.000Z",
+        "snippet": "text-to-image · minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-harness-hub/Qwen3.8-27B-pi-adapted",
+        "section": "models",
+        "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "score": 636,
+        "score_label": "636 likes · 377 downloads",
+        "author": "harness-hub",
+        "published": "2026-11-16T06:52:31.000Z",
+        "snippet": "image-text-to-text · peft",
+        "extra_link": null
+      },
+      {
+        "id": "model-apple/FastFrames-L",
+        "section": "models",
+        "title": "apple/FastFrames-L",
+        "url": "https://huggingface.co/apple/FastFrames-L",
+        "score": 240,
+        "score_label": "240 likes · 0 downloads",
+        "author": "apple",
+        "published": "2026-11-16T17:21:04.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      },
+      {
+        "id": "model-n4ze3m/tiny-voca",
+        "section": "models",
+        "title": "n4ze3m/tiny-voca",
+        "url": "https://huggingface.co/n4ze3m/tiny-voca",
+        "score": 303,
+        "score_label": "303 likes · 4,430 downloads",
+        "author": "n4ze3m",
+        "published": "2026-11-14T15:46:27.000Z",
+        "snippet": "text-to-speech",
+        "extra_link": null
+      },
+      {
+        "id": "model-meituan-longcat/LongCat-Video-Avatar-1.6",
+        "section": "models",
+        "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
+        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+        "score": 282,
+        "score_label": "282 likes · 1,226 downloads",
+        "author": "meituan-longcat",
+        "published": "2026-11-13T02:45:33.000Z",
+        "snippet": "longcat-video-avatar-1.6",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 12643,
+        "score_label": "12,643 likes · 2,871,190 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-maxwell-model/Maxwell-V1-Flash",
+        "section": "models",
+        "title": "maxwell-model/Maxwell-V1-Flash",
+        "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
+        "score": 245,
+        "score_label": "245 likes · 1,052 downloads",
+        "author": "maxwell-model",
+        "published": "2026-10-13T07:53:39.000Z",
+        "snippet": "text-generation",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-19T07:07:43+00:00",
+        "snippet": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+        "section": "newsletters",
+        "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+        "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-18T10:19:04+00:00",
+        "snippet": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/cloudflare/",
+        "section": "newsletters",
+        "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+        "url": "https://latent.space/p/cloudflare/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-17T15:00:00+00:00",
+        "snippet": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+        "section": "newsletters",
+        "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+        "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-17T09:24:56+00:00",
+        "snippet": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/bfl/",
+        "section": "newsletters",
+        "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+        "url": "https://latent.space/p/bfl/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-16T21:38:03+00:00",
+        "snippet": "Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
+        "extra_link": null
+      }
+    ]
+  }
+}

@@ -1,7 +1,41 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-18T08:40:02.757702+00:00",
+  "fetched_at": "2026-11-19T08:55:24.299714+00:00",
   "items": [
+    {
+      "id": "a6b90d3d083f5cc8",
+      "company": "Linq",
+      "company_url": "https://startups.gallery/companies/linq",
+      "amount": "$90M",
+      "round": "Series B",
+      "date": "2026-11-18",
+      "investor": "a16z",
+      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
+      "source_url": "https://a16z.com/announcement/investing-in-linq/",
+      "logo_url": "https://framerusercontent.com/images/GMtTg4VyLAN2ZXdkmwgloXcg2II.jpg?width=400&height=400",
+      "logo": "static/startups/images/5ffb2b3d6b5986b67bb0.jpg",
+      "description": "Linq: Messaging infrastructure for agents. Founded in 2019. See Linq’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/8b02c6c7191973c53697.webp",
+      "image_url": "https://framerusercontent.com/images/OZI5cdZCniZ2dS3CXqHr9zeKBU8.webp?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
+    {
+      "id": "8e21d216a03b62b1",
+      "company": "Sequel.io",
+      "company_url": "https://startups.gallery/companies/sequel-io",
+      "amount": "$15M",
+      "round": "Venture",
+      "date": "2026-11-18",
+      "investor": "Sorenson Capital",
+      "investor_url": "https://startups.gallery/investors/sorenson-capital",
+      "source_url": "https://www.finsmes.com/2026/11/sequel-io-raises-15m-in-funding.html",
+      "logo_url": "https://framerusercontent.com/images/nU6auwOLGZi73Ls3ldxpPQa4.jpeg?width=200&height=200",
+      "logo": "static/startups/images/e32ce4fe7800dab97186.jpg",
+      "description": "Sequel.io: Host webinars right on your website. Founded in 2021. See Sequel.io’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/2af86db7e4a45db8c754.jpg",
+      "image_url": "https://framerusercontent.com/images/4u4i5yho1rN65YdctlJjLnUV60w.jpg?width=1024&height=683",
+      "image_kind": "company artwork"
+    },
     {
       "id": "665d589b3e843497",
       "company": "Codex",
@@ -13,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/pantera-capital",
       "source_url": "https://www.linkedin.com/posts/codexfx_today-were-excited-to-announce-our-30m-activity-7528474578382356480-L-8Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAVW6K4BmlBkZifhsLVjLJJRFyrJJsrdIAc",
       "logo_url": "https://framerusercontent.com/images/OhRBsrhvjAvV2xOE7vOs0YTLU.webp?width=400&height=400",
-      "logo": "static/startups/images/5c22d419b0419b02de0e.webp",
-      "description": "Codex: Stablecoin-based cross-border payments. Founded in 2024. See Codex’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/b6b21d240e7244168c73.webp",
       "image_url": "https://framerusercontent.com/images/gDrUfiL15nJhf3Sclw3DycMUAbI.webp?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Codex: Stablecoin-based cross-border payments. Founded in 2024. See Codex’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/5c22d419b0419b02de0e.webp"
     },
     {
       "id": "7dbd0bb6063e5312",
@@ -30,11 +64,11 @@
       "investor_url": "https://startups.gallery/investors/lux-capital",
       "source_url": "https://lnkd.in/p/gud2iujQ",
       "logo_url": "https://framerusercontent.com/images/bD2D0PgiOM4efE7eyLdE1EZT3Y.jpeg?width=200&height=200",
-      "logo": "static/startups/images/687a21c906b616d84f10.jpg",
-      "description": "General Flash: Mass-producing critical metals. Founded in 2025. See General Flash’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/5721df5fed65858e9aba.png",
       "image_url": "https://framerusercontent.com/images/BrRbmlAucYymp8NCL6hCbLTKXo.png?width=1610&height=890",
-      "image_kind": "company artwork"
+      "description": "General Flash: Mass-producing critical metals. Founded in 2025. See General Flash’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/687a21c906b616d84f10.jpg"
     },
     {
       "id": "011cf9163b820254",
@@ -47,11 +81,11 @@
       "investor_url": "https://startups.gallery/investors/khosla-ventures",
       "source_url": "https://science.xyz/news/series-d/",
       "logo_url": "https://framerusercontent.com/images/8XQZUrJxIs4TCUWErSp9JfbBDKc.webp?width=200&height=200",
-      "logo": "static/startups/images/3f18d9fcdc442f05c638.webp",
-      "description": "Science: A brighter tomorrow enabled by neural engineering. Founded in 2021. See Science’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/f32073a147cdc4d5d33b.webp",
       "image_url": "https://framerusercontent.com/images/drgHJjEzhY6bTrg6mlr3TI7rOk.webp?width=1600&height=836",
-      "image_kind": "company artwork"
+      "description": "Science: A brighter tomorrow enabled by neural engineering. Founded in 2021. See Science’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/3f18d9fcdc442f05c638.webp"
     },
     {
       "id": "8aea9fe7b93c266c",
@@ -64,11 +98,11 @@
       "investor_url": "https://startups.gallery/investors/khosla-ventures",
       "source_url": "https://www.genesis.ai/news/humanitys-next-frontier",
       "logo_url": "https://framerusercontent.com/images/WluyxtLy4Rsry0sPiFRErnJLp4.jpeg?width=200&height=200",
-      "logo": "static/startups/images/0b102e7f3b08b1c1f1ad.jpg",
-      "description": "Genesis AI: A generalist robotics company. Founded in 2025. See Genesis AI’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/ccf9b130c94130146524.avif",
       "image_url": "https://framerusercontent.com/images/WdDY6BH58kvRPgKHLbNzmf6KY9s.avif?width=1931&height=1083",
-      "image_kind": "company artwork"
+      "description": "Genesis AI: A generalist robotics company. Founded in 2025. See Genesis AI’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/0b102e7f3b08b1c1f1ad.jpg"
     },
     {
       "id": "c5c9bcca760d61eb",
@@ -81,11 +115,11 @@
       "investor_url": "https://startups.gallery/investors/general-atlantic",
       "source_url": "https://modelml.com/articles/model-ml-raises-250-million-at-1.5-billion-valuation-18-months-after-launching-from-stealth",
       "logo_url": "https://framerusercontent.com/images/10ULdPNd7coV8wecHlRlnK0.jpeg?width=200&height=200",
-      "logo": "static/startups/images/aae59f855f0631fe325f.jpg",
-      "description": "Model ML: Building digital teammates for finance. Founded in 2023. See Model ML’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/f6442cdadf27e7f4de3f.webp",
       "image_url": "https://framerusercontent.com/images/ysakb9d9MSMR6qTn7NX7bWaNxU.webp?width=2109&height=1332",
-      "image_kind": "company artwork"
+      "description": "Model ML: Building digital teammates for finance. Founded in 2023. See Model ML’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/aae59f855f0631fe325f.jpg"
     },
     {
       "id": "286d62a7687b7746",
@@ -98,11 +132,11 @@
       "investor_url": "https://startups.gallery/investors/together-fund",
       "source_url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
       "logo_url": "https://framerusercontent.com/images/2vjm2Gf2PYwSes2MwGiTUmH4Z6U.jpeg?width=200&height=200",
-      "logo": "static/startups/images/b328de508e78577aad29.jpg",
-      "description": "Dreamteam: AI-native CRM. Founded in 2025. See Dreamteam’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/c4818663ac8badbb1616.webp",
       "image_url": "https://framerusercontent.com/images/CJG04pcaEqjPT5M2cDAknuaYYgg.webp?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Dreamteam: AI-native CRM. Founded in 2025. See Dreamteam’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/b328de508e78577aad29.jpg"
     },
     {
       "id": "e8fc0097f40489da",
@@ -378,7 +412,7 @@
     },
     {
       "id": "cf3a96a65e5b8ceb",
-      "company": "Applied Compute",
+      "company": "Applied Compute (acquired by Palo Alto Networks)",
       "company_url": "https://startups.gallery/companies/applied-compute",
       "amount": "$350M",
       "round": "Series C",
@@ -477,40 +511,6 @@
       "description": "Collective: All-in-one financial platform for solopreneurs. Founded in 2020. See Collective’s funding rounds, investors and open jobs.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/fe26b59dfbaac4654831.jpg"
-    },
-    {
-      "id": "af02f7fe5de3497e",
-      "company": "Hyphenate",
-      "company_url": "https://startups.gallery/companies/hyphenate",
-      "amount": "$45M",
-      "round": "Series A",
-      "date": "2026-10-28",
-      "investor": "Nexus Venture Partners",
-      "investor_url": "https://startups.gallery/investors/nexus-venture-partners",
-      "source_url": "https://hyphenate.ai/press/hyphenate-series-a-fundraise",
-      "logo_url": "https://framerusercontent.com/images/4mOBUMFlLRMDUJP3re5NkE4Vdk.jpeg?width=200&height=200",
-      "image": "static/startups/images/9428c9382e44d8957a9a.avif",
-      "image_url": "https://framerusercontent.com/images/OcBmzek2ScuJKjWbABM0ebus.avif?width=1200&height=627",
-      "description": "Hyphenate: The autonomous finance platform. Find top early-stage startups backed by leading investors. Find startup jobs and funding news.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/ee2b0c59fdb858b411ee.jpg"
-    },
-    {
-      "id": "1f1e586ec34c2764",
-      "company": "Machenta",
-      "company_url": "https://startups.gallery/companies/machenta",
-      "amount": "$40M",
-      "round": "Seed",
-      "date": "2026-10-27",
-      "investor": "Creandum",
-      "investor_url": "https://startups.gallery/investors/creandum",
-      "source_url": "https://www.imperial.ac.uk/news/articles/2026/imperial-ai-spinout-machenta-raises-40-million-to-make-robots-instant-learners/",
-      "logo_url": "https://framerusercontent.com/images/vW9iqA8TEwnS3TNAsE7RpXdlgzY.jpeg?width=200&height=200",
-      "image": "static/startups/images/60fa29ad35524c268ce3.jpg",
-      "image_url": "https://framerusercontent.com/images/l0EDa785xyva3Lo2Somg84Vh0cg.jpeg?width=1200&height=630",
-      "description": "Machenta: Instant robot learning. Founded in 2025. See Machenta’s funding rounds, investors and open jobs.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/5c977d94cd790365ce5f.jpg"
     }
   ]
 }
