@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-19T08:55:24.299714+00:00",
+  "fetched_at": "2026-11-20T08:42:21.454743+00:00",
   "items": [
+    {
+      "id": "5ea15b868940d4b8",
+      "company": "Pulley",
+      "company_url": "https://startups.gallery/companies/pulley",
+      "amount": "$41M",
+      "round": "Series B",
+      "date": "2026-11-19",
+      "investor": "Jump Capital",
+      "investor_url": "https://startups.gallery/investors/jump-capital",
+      "source_url": "https://www.withpulley.com/resources/pulley-next-chapter",
+      "logo_url": "https://framerusercontent.com/images/oqJu8502G6jPXmxXRkYKx8MznQ.jpeg?width=200&height=200",
+      "logo": "static/startups/images/a8c07e37650fdb8f0e97.jpg",
+      "description": "Pulley: The fastest path to permit approval. Founded in 2021. See Pulley’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/dd7cb5aa0d519aabab2d.jpg",
+      "image_url": "https://framerusercontent.com/images/RsQXogtSK2Yj58IOsVyDvmcoIog.jpg?width=1200&height=630",
+      "image_kind": "company artwork"
+    },
     {
       "id": "a6b90d3d083f5cc8",
       "company": "Linq",
@@ -13,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://a16z.com/announcement/investing-in-linq/",
       "logo_url": "https://framerusercontent.com/images/GMtTg4VyLAN2ZXdkmwgloXcg2II.jpg?width=400&height=400",
-      "logo": "static/startups/images/5ffb2b3d6b5986b67bb0.jpg",
-      "description": "Linq: Messaging infrastructure for agents. Founded in 2019. See Linq’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/8b02c6c7191973c53697.webp",
       "image_url": "https://framerusercontent.com/images/OZI5cdZCniZ2dS3CXqHr9zeKBU8.webp?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Linq: Messaging infrastructure for agents. Founded in 2019. See Linq’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/5ffb2b3d6b5986b67bb0.jpg"
     },
     {
       "id": "8e21d216a03b62b1",
@@ -30,11 +47,11 @@
       "investor_url": "https://startups.gallery/investors/sorenson-capital",
       "source_url": "https://www.finsmes.com/2026/11/sequel-io-raises-15m-in-funding.html",
       "logo_url": "https://framerusercontent.com/images/nU6auwOLGZi73Ls3ldxpPQa4.jpeg?width=200&height=200",
-      "logo": "static/startups/images/e32ce4fe7800dab97186.jpg",
-      "description": "Sequel.io: Host webinars right on your website. Founded in 2021. See Sequel.io’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/2af86db7e4a45db8c754.jpg",
       "image_url": "https://framerusercontent.com/images/4u4i5yho1rN65YdctlJjLnUV60w.jpg?width=1024&height=683",
-      "image_kind": "company artwork"
+      "description": "Sequel.io: Host webinars right on your website. Founded in 2021. See Sequel.io’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/e32ce4fe7800dab97186.jpg"
     },
     {
       "id": "665d589b3e843497",
@@ -494,23 +511,6 @@
       "description": "Wabi: The AI assistant you use together. Founded in 2025. See Wabi’s funding rounds, investors and open jobs.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/55733450e8e21e983659.webp"
-    },
-    {
-      "id": "c348dd6acd4d993d",
-      "company": "Collective",
-      "company_url": "https://startups.gallery/companies/collective",
-      "amount": "$100M",
-      "round": "Series B",
-      "date": "2026-10-29",
-      "investor": "General Catalyst",
-      "investor_url": "https://startups.gallery/investors/general-catalyst",
-      "source_url": "https://www.collective.com/blog/collective-raises-100m",
-      "logo_url": "https://framerusercontent.com/images/MOycM3f56UGLwPWtLd2mAC7LeYY.jpeg?width=200&height=200",
-      "image": "static/startups/images/16f5b74e6d8ecb0a1b51.webp",
-      "image_url": "https://framerusercontent.com/images/Npi5QRn2bHuO9gL2hZBN2cuuVo.webp?width=1200&height=630",
-      "description": "Collective: All-in-one financial platform for solopreneurs. Founded in 2020. See Collective’s funding rounds, investors and open jobs.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/fe26b59dfbaac4654831.jpg"
     }
   ]
 }
