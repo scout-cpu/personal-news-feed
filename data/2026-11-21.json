@@ -1,0 +1,486 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T08:23:30.325815+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50572503",
+        "section": "hackernews",
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "score": 642,
+        "score_label": "642 points",
+        "author": "shioyama",
+        "published": "2026-11-20T10:01:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50572503"
+        }
+      },
+      {
+        "id": "hn-50572348",
+        "section": "hackernews",
+        "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "score": 546,
+        "score_label": "546 points",
+        "author": "dotcoma",
+        "published": "2026-11-20T09:42:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50572348"
+        }
+      },
+      {
+        "id": "hn-50577901",
+        "section": "hackernews",
+        "title": "Google workers tell their employer not to punish schools that don't want AI",
+        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+        "score": 276,
+        "score_label": "276 points",
+        "author": "cdrnsf",
+        "published": "2026-11-20T16:59:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50577901"
+        }
+      },
+      {
+        "id": "hn-50574383",
+        "section": "hackernews",
+        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "score": 276,
+        "score_label": "276 points",
+        "author": "cdrnsf",
+        "published": "2026-11-20T13:29:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50574383"
+        }
+      },
+      {
+        "id": "hn-50577872",
+        "section": "hackernews",
+        "title": "AI is giving everyone the same advice",
+        "url": "https://a90.com/experiments/same-advice/",
+        "score": 83,
+        "score_label": "83 points",
+        "author": "amin",
+        "published": "2026-11-20T16:58:05+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50577872"
+        }
+      },
+      {
+        "id": "hn-50573681",
+        "section": "hackernews",
+        "title": "Epic Games Turns to AI Coding for the Unreal Engine",
+        "url": "https://spectrum.ieee.org/epic-games-unreal-engine-ai",
+        "score": 58,
+        "score_label": "58 points",
+        "author": "rbanffy",
+        "published": "2026-11-20T12:16:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50573681"
+        }
+      },
+      {
+        "id": "hn-50582280",
+        "section": "hackernews",
+        "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+        "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+        "score": 54,
+        "score_label": "54 points",
+        "author": "qlte",
+        "published": "2026-11-20T21:18:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50582280"
+        }
+      },
+      {
+        "id": "hn-50582629",
+        "section": "hackernews",
+        "title": "A few hours ago Google DeepMind created a math horizon repo",
+        "url": "https://github.com/google-deepmind/math-horizon",
+        "score": 44,
+        "score_label": "44 points",
+        "author": "RubenLtke",
+        "published": "2026-11-20T21:42:21+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50582629"
+        }
+      },
+      {
+        "id": "hn-50586292",
+        "section": "hackernews",
+        "title": "ClawDOS – An AI coding agent for DOS",
+        "url": "http://ricapar.net/ClawDOS/",
+        "score": 39,
+        "score_label": "39 points",
+        "author": "Ricapar",
+        "published": "2026-11-21T05:38:01+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50586292"
+        }
+      },
+      {
+        "id": "hn-50583117",
+        "section": "hackernews",
+        "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+        "score": 39,
+        "score_label": "39 points",
+        "author": "undefinedmethod",
+        "published": "2026-11-20T22:18:20+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50583117"
+        }
+      },
+      {
+        "id": "hn-50583445",
+        "section": "hackernews",
+        "title": "AI may have solved the most important problem in mathematics",
+        "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "vinni2",
+        "published": "2026-11-20T22:46:59+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50583445"
+        }
+      },
+      {
+        "id": "hn-50574772",
+        "section": "hackernews",
+        "title": "Llms.txt and MCP didn't move the needle",
+        "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "moebrowne",
+        "published": "2026-11-20T14:00:23+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50574772"
+        }
+      },
+      {
+        "id": "hn-50579237",
+        "section": "hackernews",
+        "title": "European rights court bars Romanian lawyer for 2 years over AI citations",
+        "url": "https://www.echr.coe.int/w/romanian-lawyer-barred-for-two-years-from-representing-applicants-before-the-court-over-unverified-ai-generated-citations",
+        "score": 24,
+        "score_label": "24 points",
+        "author": "giuliomagnifico",
+        "published": "2026-11-20T18:11:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50579237"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.26590",
+        "section": "papers",
+        "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+        "url": "https://huggingface.co/papers/2611.26590",
+        "score": 41,
+        "score_label": "41 upvotes",
+        "author": "Jiahao Huang, Jun Wang",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26590"
+        }
+      },
+      {
+        "id": "paper-2611.26603",
+        "section": "papers",
+        "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+        "url": "https://huggingface.co/papers/2611.26603",
+        "score": 28,
+        "score_label": "28 upvotes",
+        "author": "Peiyun Hu, Marko Mihajlovic, Lyndon Duong et al.",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal cons…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26603"
+        }
+      },
+      {
+        "id": "paper-2611.26107",
+        "section": "papers",
+        "title": "HiUni: Harmonizing Understanding and Generation in Shared Visual Space",
+        "url": "https://huggingface.co/papers/2611.26107",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Jiahao Hu, Jingdong Du, Yichen Zhang et al.",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "Unified multimodal models aim to support visual understanding and generation within a single framework. However, prevailing approaches often separate their visual representations or backbone computation to accommodate t…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26107"
+        }
+      },
+      {
+        "id": "paper-2611.26073",
+        "section": "papers",
+        "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+        "url": "https://huggingface.co/papers/2611.26073",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Nagham Omar, Rotem Dror, Almog Gueta et al.",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "Large language models (LLMs) are increasingly used as judges and graders to replace human annotators, raising the question of when such replacement is statistically justified. To support such decisions, the Alternative…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26073"
+        }
+      },
+      {
+        "id": "paper-2611.26592",
+        "section": "papers",
+        "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+        "url": "https://arxiv.org/abs/2611.26592",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Terence D. Agbeyegbe, Toneukarin G. Agbeyegbe",
+        "published": "2026-11-19T18:47:51Z",
+        "snippet": "Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and stops when an anytime-valid e-process crosses a threshold, guaranteeing finite-sample Type I error co…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.26588",
+        "section": "papers",
+        "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards",
+        "url": "https://arxiv.org/abs/2611.26588",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Ana E. Sanchez Villalobos, Michael D. Quinn, Aakash Tyagi et al.",
+        "published": "2026-11-19T18:45:54Z",
+        "snippet": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it meets the specification. Bugs that pass every test yet violate the specification, termed scoreboard es…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-thinkingmachines/Inkling-2-Mini",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-2-Mini",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "score": 1020,
+        "score_label": "1,020 likes · 136 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-11-17T00:26:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-higurashi-ai/Haru-4B",
+        "section": "models",
+        "title": "higurashi-ai/Haru-4B",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "score": 5708,
+        "score_label": "5,708 likes · 7,323 downloads",
+        "author": "higurashi-ai",
+        "published": "2026-11-12T11:05:59.000Z",
+        "snippet": "audio-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-harness-hub/Qwen3.8-27B-pi-adapted",
+        "section": "models",
+        "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "score": 833,
+        "score_label": "833 likes · 1,874 downloads",
+        "author": "harness-hub",
+        "published": "2026-11-16T06:52:31.000Z",
+        "snippet": "image-text-to-text · peft",
+        "extra_link": null
+      },
+      {
+        "id": "model-Sentinel7/h3",
+        "section": "models",
+        "title": "Sentinel7/h3",
+        "url": "https://huggingface.co/Sentinel7/h3",
+        "score": 511,
+        "score_label": "511 likes · 0 downloads",
+        "author": "Sentinel7",
+        "published": "2026-08-06T04:13:52.000Z",
+        "snippet": "",
+        "extra_link": null
+      },
+      {
+        "id": "model-tencent/Hy4-flash",
+        "section": "models",
+        "title": "tencent/Hy4-flash",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "score": 558,
+        "score_label": "558 likes · 3,949 downloads",
+        "author": "tencent",
+        "published": "2026-11-17T03:44:46.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 12838,
+        "score_label": "12,838 likes · 2,964,523 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Inkling-2-Mini-GGUF",
+        "section": "models",
+        "title": "unsloth/Inkling-2-Mini-GGUF",
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "score": 339,
+        "score_label": "339 likes · 0 downloads",
+        "author": "unsloth",
+        "published": "2026-11-20T13:09:48.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-meituan-longcat/LongCat-Video-Avatar-1.6",
+        "section": "models",
+        "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
+        "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+        "score": 398,
+        "score_label": "398 likes · 2,568 downloads",
+        "author": "meituan-longcat",
+        "published": "2026-11-13T02:45:33.000Z",
+        "snippet": "longcat-video-avatar-1.6",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 20828,
+        "score_label": "20,828 likes · 6,454,419 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-sensenova/SenseNova-Loop-9B",
+        "section": "models",
+        "title": "sensenova/SenseNova-Loop-9B",
+        "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+        "score": 454,
+        "score_label": "454 likes · 1,631 downloads",
+        "author": "sensenova",
+        "published": "2026-11-17T10:16:41.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "section": "newsletters",
+        "title": "[AINews] Riemann Hypothesis proved...twice independently",
+        "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-21T05:02:13+00:00",
+        "snippet": "November 20 2026 —",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/formal-verification/",
+        "section": "newsletters",
+        "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+        "url": "https://latent.space/p/formal-verification/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-20T21:18:41+00:00",
+        "snippet": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+        "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-20T07:12:24+00:00",
+        "snippet": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/linear-scaling/",
+        "section": "newsletters",
+        "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+        "url": "https://latent.space/p/linear-scaling/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-19T23:58:21+00:00",
+        "snippet": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-19T07:07:43+00:00",
+        "snippet": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+        "section": "newsletters",
+        "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+        "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-18T10:19:04+00:00",
+        "snippet": "November 17, 2026 — GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+        "extra_link": null
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-20T08:42:21.454743+00:00",
+  "fetched_at": "2026-11-21T08:23:34.216410+00:00",
   "items": [
     {
       "id": "5ea15b868940d4b8",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/jump-capital",
       "source_url": "https://www.withpulley.com/resources/pulley-next-chapter",
       "logo_url": "https://framerusercontent.com/images/oqJu8502G6jPXmxXRkYKx8MznQ.jpeg?width=200&height=200",
-      "logo": "static/startups/images/a8c07e37650fdb8f0e97.jpg",
-      "description": "Pulley: The fastest path to permit approval. Founded in 2021. See Pulley’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/dd7cb5aa0d519aabab2d.jpg",
       "image_url": "https://framerusercontent.com/images/RsQXogtSK2Yj58IOsVyDvmcoIog.jpg?width=1200&height=630",
-      "image_kind": "company artwork"
+      "description": "Pulley: The fastest path to permit approval. Founded in 2021. See Pulley’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/a8c07e37650fdb8f0e97.jpg"
     },
     {
       "id": "a6b90d3d083f5cc8",
