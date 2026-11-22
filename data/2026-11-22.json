@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T08:15:35.151503+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50593481",
+        "section": "hackernews",
+        "title": "Pandex – Official European Law for AI Agents, over MCP",
+        "url": "https://www.pandex.io",
+        "score": 76,
+        "score_label": "76 points",
+        "author": "vasie",
+        "published": "2026-11-21T20:47:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50593481"
+        }
+      },
+      {
+        "id": "hn-50596511",
+        "section": "hackernews",
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "score": 69,
+        "score_label": "69 points",
+        "author": "kristianp",
+        "published": "2026-11-22T05:11:43+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50596511"
+        }
+      },
+      {
+        "id": "hn-50595537",
+        "section": "hackernews",
+        "title": "The Mythology of Conscious AI",
+        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+        "score": 47,
+        "score_label": "47 points",
+        "author": "Anon84",
+        "published": "2026-11-22T02:10:02+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50595537"
+        }
+      },
+      {
+        "id": "hn-50588647",
+        "section": "hackernews",
+        "title": "Anthropic's IPO bank closed position meant to stabilize stock",
+        "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
+        "score": 33,
+        "score_label": "33 points",
+        "author": "anon373839",
+        "published": "2026-11-21T12:43:24+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50588647"
+        }
+      },
+      {
+        "id": "hn-50595812",
+        "section": "hackernews",
+        "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "score": 31,
+        "score_label": "31 points",
+        "author": "droidjj",
+        "published": "2026-11-22T03:06:35+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50595812"
+        }
+      },
+      {
+        "id": "hn-50595816",
+        "section": "hackernews",
+        "title": "Together.ai: Prompt Leakage for Requests",
+        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "Fe2O3",
+        "published": "2026-11-22T03:07:27+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50595816"
+        }
+      }
+    ],
+    "papers": [],
+    "models": [
+      {
+        "id": "model-thinkingmachines/Inkling-2-Mini",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-2-Mini",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "score": 3328,
+        "score_label": "3,328 likes · 7,944 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-11-17T00:26:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Inkling-2-Mini-GGUF",
+        "section": "models",
+        "title": "unsloth/Inkling-2-Mini-GGUF",
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "score": 705,
+        "score_label": "705 likes · 238,152 downloads",
+        "author": "unsloth",
+        "published": "2026-11-20T13:09:48.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-tencent/Hy4-flash",
+        "section": "models",
+        "title": "tencent/Hy4-flash",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "score": 562,
+        "score_label": "562 likes · 5,588 downloads",
+        "author": "tencent",
+        "published": "2026-11-17T03:44:46.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-inworld/voice-isolator",
+        "section": "models",
+        "title": "inworld/voice-isolator",
+        "url": "https://huggingface.co/inworld/voice-isolator",
+        "score": 540,
+        "score_label": "540 likes · 0 downloads",
+        "author": "inworld",
+        "published": "2026-11-14T02:14:35.000Z",
+        "snippet": "audio-to-audio · inworld-voice-isolation",
+        "extra_link": null
+      },
+      {
+        "id": "model-apple/FastFrames-L",
+        "section": "models",
+        "title": "apple/FastFrames-L",
+        "url": "https://huggingface.co/apple/FastFrames-L",
+        "score": 501,
+        "score_label": "501 likes · 0 downloads",
+        "author": "apple",
+        "published": "2026-11-16T17:21:04.000Z",
+        "snippet": "text-to-video",
+        "extra_link": null
+      },
+      {
+        "id": "model-harness-hub/Qwen3.8-27B-pi-adapted",
+        "section": "models",
+        "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "score": 945,
+        "score_label": "945 likes · 2,383 downloads",
+        "author": "harness-hub",
+        "published": "2026-11-16T06:52:31.000Z",
+        "snippet": "image-text-to-text · peft",
+        "extra_link": null
+      },
+      {
+        "id": "model-higurashi-ai/Haru-4B",
+        "section": "models",
+        "title": "higurashi-ai/Haru-4B",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "score": 846,
+        "score_label": "846 likes · 8,120 downloads",
+        "author": "higurashi-ai",
+        "published": "2026-11-12T11:05:59.000Z",
+        "snippet": "audio-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 20828,
+        "score_label": "20,828 likes · 6,298,190 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "section": "models",
+        "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "score": 304,
+        "score_label": "304 likes · 9,540 downloads",
+        "author": "AtomicChat",
+        "published": "2026-11-20T20:42:23.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-sensenova/SenseNova-Loop-9B",
+        "section": "models",
+        "title": "sensenova/SenseNova-Loop-9B",
+        "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+        "score": 468,
+        "score_label": "468 likes · 1,745 downloads",
+        "author": "sensenova",
+        "published": "2026-11-17T10:16:41.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "section": "newsletters",
+        "title": "[AINews] Riemann Hypothesis proved...twice independently",
+        "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-21T05:02:13+00:00",
+        "snippet": "November 20 2026 —",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/formal-verification/",
+        "section": "newsletters",
+        "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+        "url": "https://latent.space/p/formal-verification/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-20T21:18:41+00:00",
+        "snippet": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "section": "newsletters",
+        "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+        "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-20T07:12:24+00:00",
+        "snippet": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/linear-scaling/",
+        "section": "newsletters",
+        "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+        "url": "https://latent.space/p/linear-scaling/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-19T23:58:21+00:00",
+        "snippet": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+        "extra_link": null
+      }
+    ]
+  }
+}
