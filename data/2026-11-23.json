@@ -1,0 +1,495 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T09:15:45.707677+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50603845",
+        "section": "hackernews",
+        "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "score": 487,
+        "score_label": "487 points",
+        "author": "Retell15",
+        "published": "2026-11-22T21:01:16+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50603845"
+        }
+      },
+      {
+        "id": "hn-50599762",
+        "section": "hackernews",
+        "title": "Show HN: I built a game where you are an LLM's subagent",
+        "url": "https://github.com/gulivan/worker755",
+        "score": 314,
+        "score_label": "314 points",
+        "author": "ivantgam",
+        "published": "2026-11-22T13:56:58+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50599762"
+        }
+      },
+      {
+        "id": "hn-50604314",
+        "section": "hackernews",
+        "title": "Agent swarm trying to solve P vs. NP",
+        "url": "https://pequalnp.com/",
+        "score": 144,
+        "score_label": "144 points",
+        "author": "bananaflag",
+        "published": "2026-11-22T21:53:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50604314"
+        }
+      },
+      {
+        "id": "hn-50598961",
+        "section": "hackernews",
+        "title": "AI is becoming a disaster for the climate",
+        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+        "score": 123,
+        "score_label": "123 points",
+        "author": "Brajeshwar",
+        "published": "2026-11-22T12:19:46+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50598961"
+        }
+      },
+      {
+        "id": "hn-50597743",
+        "section": "hackernews",
+        "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+        "url": "https://arxiv.org/abs/2606.14068",
+        "score": 93,
+        "score_label": "93 points",
+        "author": "rzk",
+        "published": "2026-11-22T09:18:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50597743"
+        }
+      },
+      {
+        "id": "hn-50597959",
+        "section": "hackernews",
+        "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "url": "https://simonwillison.net/2026/Nov/21/muru/",
+        "score": 75,
+        "score_label": "75 points",
+        "author": "joshcsimmons",
+        "published": "2026-11-22T09:57:01+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50597959"
+        }
+      },
+      {
+        "id": "hn-50602153",
+        "section": "hackernews",
+        "title": "Harvard CS 2881R AI Safety",
+        "url": "https://boazbk.github.io/mltheoryseminar/",
+        "score": 66,
+        "score_label": "66 points",
+        "author": "enjoyyourlife",
+        "published": "2026-11-22T18:01:54+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50602153"
+        }
+      },
+      {
+        "id": "hn-50605445",
+        "section": "hackernews",
+        "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "url": "https://0rwx.com/",
+        "score": 52,
+        "score_label": "52 points",
+        "author": "misswaterfairy",
+        "published": "2026-11-22T23:53:00+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50605445"
+        }
+      },
+      {
+        "id": "hn-50603219",
+        "section": "hackernews",
+        "title": "What Happened in Fall 2026: AI and P vs. NP",
+        "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+        "score": 26,
+        "score_label": "26 points",
+        "author": "abelanger",
+        "published": "2026-11-22T19:50:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50603219"
+        }
+      },
+      {
+        "id": "hn-50598277",
+        "section": "hackernews",
+        "title": "AI People Are Extremely Rich",
+        "url": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
+        "score": 26,
+        "score_label": "26 points",
+        "author": "A_D_E_P_T",
+        "published": "2026-11-22T10:35:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50598277"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.27193",
+        "section": "papers",
+        "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+        "url": "https://huggingface.co/papers/2611.27193",
+        "score": 56,
+        "score_label": "56 upvotes",
+        "author": "Haowei He, Ziwen Zhao, Chenshuo Pan et al.",
+        "published": "2026-11-19T19:00:00.000Z",
+        "snippet": "Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doub…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.27193"
+        }
+      },
+      {
+        "id": "paper-2611.27963",
+        "section": "papers",
+        "title": "Non-penetrating World Models",
+        "url": "https://huggingface.co/papers/2611.27963",
+        "score": 39,
+        "score_label": "39 upvotes",
+        "author": "Yuhang Dai, Yinwei Wu, Ziyue Lin et al.",
+        "published": "2026-11-19T19:00:00.000Z",
+        "snippet": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to ph…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.27963"
+        }
+      },
+      {
+        "id": "paper-2611.24636",
+        "section": "papers",
+        "title": "Clover-35B-A3B-Preview Technical Report",
+        "url": "https://huggingface.co/papers/2611.24636",
+        "score": 32,
+        "score_label": "32 upvotes",
+        "author": "DiffuSpace Technical Team",
+        "published": "2026-11-17T19:00:00.000Z",
+        "snippet": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated D…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.24636"
+        }
+      },
+      {
+        "id": "paper-2611.26414",
+        "section": "papers",
+        "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+        "url": "https://huggingface.co/papers/2611.26414",
+        "score": 22,
+        "score_label": "22 upvotes",
+        "author": "Zixuan Huang, Yang Zhou, Guli Zhang et al.",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "Representative vision-language navigation (VLN) methods typically couple a vision-language model (VLM) brain with a learnable action head and fine-tune the VLM brain on navigation-domain data to predict geometric goals.…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.26414"
+        }
+      },
+      {
+        "id": "paper-2611.25773",
+        "section": "papers",
+        "title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
+        "url": "https://huggingface.co/papers/2611.25773",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Chiyu Chen, Pengzhou Cheng, Yuezhao Ma et al.",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency: timely tool invoca…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.25773"
+        }
+      },
+      {
+        "id": "paper-2611.21885",
+        "section": "papers",
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://huggingface.co/papers/2611.21885",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Jiajun Fan, Neil He, Changyi Yang et al.",
+        "published": "2026-11-15T19:00:00.000Z",
+        "snippet": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been sho…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.21885"
+        }
+      },
+      {
+        "id": "paper-2611.27983",
+        "section": "papers",
+        "title": "Optimal Linear Regression Without a Variance",
+        "url": "https://arxiv.org/abs/2611.27983",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Artin Tajdini, Jasper C. H. Lee, Jonathan Scarlett et al.",
+        "published": "2026-11-20T18:58:45Z",
+        "snippet": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.27978",
+        "section": "papers",
+        "title": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+        "url": "https://arxiv.org/abs/2611.27978",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Hari Sitaula, Joseph Opitz",
+        "published": "2026-11-20T18:57:15Z",
+        "snippet": "This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. We benchmark three…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.27970",
+        "section": "papers",
+        "title": "On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
+        "url": "https://arxiv.org/abs/2611.27970",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Javier Sanchis, Álvaro Navarro, Jorge García-Carrasco et al.",
+        "published": "2026-11-20T18:51:08Z",
+        "snippet": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and adolescents perform…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.27962",
+        "section": "papers",
+        "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
+        "url": "https://arxiv.org/abs/2611.27962",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Kaden Zheng, Pratyusha Sharma",
+        "published": "2026-11-20T18:41:39Z",
+        "snippet": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer, in the same order…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.27959",
+        "section": "papers",
+        "title": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization",
+        "url": "https://arxiv.org/abs/2611.27959",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Mamoona Tasadduq, Maryam Bashir",
+        "published": "2026-11-20T18:35:28Z",
+        "snippet": "Hyperparameter optimization (HPO) is essential for high predictive performance, but its computational cost becomes prohibitive when candidate configurations require repeated training on large datasets. This paper propos…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.27951",
+        "section": "papers",
+        "title": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed",
+        "url": "https://arxiv.org/abs/2611.27951",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Dylan Forde",
+        "published": "2026-11-20T18:23:42Z",
+        "snippet": "Long-context models use sparse or structured attention to avoid quadratic cost, yet retrieving a small set of relevant facts embedded among hundreds of thousands of distractors degrades as normalization mass disperses w…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.27946",
+        "section": "papers",
+        "title": "The Optimal Sample Complexity of Agnostic PAC Learning for Partial Concept Classes",
+        "url": "https://arxiv.org/abs/2611.27946",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Liang-Yu Zou",
+        "published": "2026-11-20T18:18:09Z",
+        "snippet": "Let $\\mathcal H\\subseteq\\{-1,+1,\\star\\}^{\\mathcal X}$ be a partial concept class of finite VC dimension $d$. We construct a deterministic agnostic PAC learner that, for every $\\varepsilon,δ\\in(0,1)$, uses $O((d+\\log(1/δ…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.27924",
+        "section": "papers",
+        "title": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+        "url": "https://arxiv.org/abs/2611.27924",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Michael Gastegger, Adam E. Foster, José Jiménez-Luna et al.",
+        "published": "2026-11-20T17:58:47Z",
+        "snippet": "Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central challenge. We introduce BioEmu2, a generative model for atomically resol…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-thinkingmachines/Inkling-2-Mini",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-2-Mini",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "score": 5189,
+        "score_label": "5,189 likes · 23,543 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-11-17T00:26:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Inkling-2-Mini-GGUF",
+        "section": "models",
+        "title": "unsloth/Inkling-2-Mini-GGUF",
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "score": 957,
+        "score_label": "957 likes · 805,993 downloads",
+        "author": "unsloth",
+        "published": "2026-11-20T13:09:48.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-inworld/voice-isolator",
+        "section": "models",
+        "title": "inworld/voice-isolator",
+        "url": "https://huggingface.co/inworld/voice-isolator",
+        "score": 668,
+        "score_label": "668 likes · 0 downloads",
+        "author": "inworld",
+        "published": "2026-11-14T02:14:35.000Z",
+        "snippet": "audio-to-audio · inworld-voice-isolation",
+        "extra_link": null
+      },
+      {
+        "id": "model-tencent/Hy4-flash",
+        "section": "models",
+        "title": "tencent/Hy4-flash",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "score": 630,
+        "score_label": "630 likes · 6,617 downloads",
+        "author": "tencent",
+        "published": "2026-11-17T03:44:46.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-harness-hub/Qwen3.8-27B-pi-adapted",
+        "section": "models",
+        "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "score": 1005,
+        "score_label": "1,005 likes · 2,831 downloads",
+        "author": "harness-hub",
+        "published": "2026-11-16T06:52:31.000Z",
+        "snippet": "image-text-to-text · peft",
+        "extra_link": null
+      },
+      {
+        "id": "model-AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "section": "models",
+        "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "score": 550,
+        "score_label": "550 likes · 129,693 downloads",
+        "author": "AtomicChat",
+        "published": "2026-11-20T20:42:23.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-apple/DepthPro2",
+        "section": "models",
+        "title": "apple/DepthPro2",
+        "url": "https://huggingface.co/apple/DepthPro2",
+        "score": 1072,
+        "score_label": "1,072 likes · 0 downloads",
+        "author": "apple",
+        "published": "2026-11-03T16:55:03.000Z",
+        "snippet": "depth-estimation · depth-pro-2",
+        "extra_link": null
+      },
+      {
+        "id": "model-higurashi-ai/Haru-4B",
+        "section": "models",
+        "title": "higurashi-ai/Haru-4B",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "score": 910,
+        "score_label": "910 likes · 8,608 downloads",
+        "author": "higurashi-ai",
+        "published": "2026-11-12T11:05:59.000Z",
+        "snippet": "audio-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-Qwen/Qwen3.8-27B",
+        "section": "models",
+        "title": "Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "score": 21625,
+        "score_label": "21,625 likes · 6,297,396 downloads",
+        "author": "Qwen",
+        "published": "2026-08-05T08:22:59.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-sensenova/SenseNova-Loop-9B",
+        "section": "models",
+        "title": "sensenova/SenseNova-Loop-9B",
+        "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+        "score": 585,
+        "score_label": "585 likes · 1,863 downloads",
+        "author": "sensenova",
+        "published": "2026-11-17T10:16:41.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "section": "newsletters",
+        "title": "[AINews] Riemann Hypothesis proved...twice independently",
+        "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-21T05:02:13+00:00",
+        "snippet": "November 20 2026 —",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/formal-verification/",
+        "section": "newsletters",
+        "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+        "url": "https://latent.space/p/formal-verification/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-20T21:18:41+00:00",
+        "snippet": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+        "extra_link": null
+      }
+    ]
+  }
+}
