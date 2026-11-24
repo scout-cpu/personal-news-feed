@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-23T09:15:50.433590+00:00",
+  "fetched_at": "2026-11-24T11:09:36.440192+00:00",
   "items": [
+    {
+      "id": "e3ccc57d0e193e10",
+      "company": "Marlowe",
+      "company_url": "https://startups.gallery/companies/marlowe",
+      "amount": "$277M",
+      "round": "Seed",
+      "date": "2026-11-23",
+      "investor": "Accel",
+      "investor_url": "https://startups.gallery/investors/accel",
+      "source_url": "https://www.marlowecompute.ai/introducing-marlowe.html",
+      "logo_url": "https://framerusercontent.com/images/FepQWEwRZ7JeRoCTzlULkrhY.jpeg?width=200&height=200",
+      "logo": "static/startups/images/9b188bb4680e3097473e.jpg",
+      "description": "Marlowe: The multi-silicon AI factory. Founded in 2026. See Marlowe’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/e7f452b1829794568f4c.jpg",
+      "image_url": "https://framerusercontent.com/images/AvtwpbXlkPaPAugJF87CthEmM.jpeg?width=1708&height=921",
+      "image_kind": "company artwork"
+    },
     {
       "id": "5ea15b868940d4b8",
       "company": "Pulley",
@@ -52,6 +69,23 @@
       "description": "Sequel.io: Host webinars right on your website. Founded in 2021. See Sequel.io’s funding rounds, investors and open jobs.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/e32ce4fe7800dab97186.jpg"
+    },
+    {
+      "id": "516cd39408ed9a1b",
+      "company": "Compute Desk",
+      "company_url": "https://startups.gallery/companies/compute-desk",
+      "amount": "$45M",
+      "round": "Seed",
+      "date": "2026-11-17",
+      "investor": "Lightspeed",
+      "investor_url": "https://startups.gallery/investors/lightspeed-venture-partners",
+      "source_url": "https://www.computedesk.com/media-insights/press-release-compute-desk-raises-45m",
+      "logo_url": "https://framerusercontent.com/images/p6GopUSOKc3hE8IVzOjJrgWgtE.jpeg?width=200&height=200",
+      "logo": "static/startups/images/13bf1c8ca45148b8b30a.jpg",
+      "description": "Compute Desk: Trade, clear & hedge compute. Founded in 2025. See Compute Desk’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/9ba8a4e79f13d9430bb0.jpg",
+      "image_url": "https://framerusercontent.com/images/YkI7flAcWU725KWNHOlgL9E62M.jpeg?width=1500&height=500",
+      "image_kind": "company artwork"
     },
     {
       "id": "665d589b3e843497",
@@ -113,7 +147,7 @@
       "date": "2026-11-17",
       "investor": "Khosla Ventures",
       "investor_url": "https://startups.gallery/investors/khosla-ventures",
-      "source_url": "https://www.genesis.ai/news/humanitys-next-frontier",
+      "source_url": "https://www.genesis.ai/news/genesis-raises-dollar500m-series-a-to-fund-its-next-chapter",
       "logo_url": "https://framerusercontent.com/images/WluyxtLy4Rsry0sPiFRErnJLp4.jpeg?width=200&height=200",
       "image": "static/startups/images/ccf9b130c94130146524.avif",
       "image_url": "https://framerusercontent.com/images/WdDY6BH58kvRPgKHLbNzmf6KY9s.avif?width=1931&height=1083",
@@ -477,40 +511,6 @@
       "description": "Upwind: Cloud security happens at runtime. Founded in 2022. See Upwind’s funding rounds, investors and open jobs.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/80d4b96973be69c635cc.webp"
-    },
-    {
-      "id": "6a1bd69ad9d07568",
-      "company": "Serval",
-      "company_url": "https://startups.gallery/companies/serval",
-      "amount": "$150M",
-      "round": "Series C",
-      "date": "2026-10-29",
-      "investor": "Sequoia",
-      "investor_url": "https://startups.gallery/investors/sequoia-capital",
-      "source_url": "https://lnkd.in/p/g4uUGbhE",
-      "logo_url": "https://framerusercontent.com/images/fAbrmLbpJxFFqImnWuEs4QU.webp?width=200&height=200",
-      "image": "static/startups/images/69e6ee3373ab5ae920a5.png",
-      "image_url": "https://framerusercontent.com/images/plBHmSq3OgY4GO3pDCjQgovxkU.png?width=1200&height=630",
-      "description": "Serval: AI agents for IT. Founded in 2024. See Serval’s funding rounds, investors and open jobs.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/5b79530a4a2cb7a2fc53.webp"
-    },
-    {
-      "id": "60c6560c1cd25db6",
-      "company": "Wabi",
-      "company_url": "https://startups.gallery/companies/wabi",
-      "amount": "$55M",
-      "round": "Series A",
-      "date": "2026-10-29",
-      "investor": "IVP",
-      "investor_url": "https://startups.gallery/investors/ivp",
-      "source_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "logo_url": "https://framerusercontent.com/images/EcQcS3YrFktFIOUu60kUEVeEgBw.webp?width=400&height=400",
-      "image": "static/startups/images/293289c6b33ce1167804.jpg",
-      "image_url": "https://framerusercontent.com/images/64zXubJ0bFrfp4luFqsmrElJYw.jpeg?width=1500&height=500",
-      "description": "Wabi: The AI assistant you use together. Founded in 2025. See Wabi’s funding rounds, investors and open jobs.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/55733450e8e21e983659.webp"
     }
   ]
 }
