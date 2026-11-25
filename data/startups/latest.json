@@ -1,7 +1,24 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-24T11:09:36.440192+00:00",
+  "fetched_at": "2026-11-25T09:56:39.415243+00:00",
   "items": [
+    {
+      "id": "4974bea43f3ec31c",
+      "company": "Embo",
+      "company_url": "https://startups.gallery/companies/embo",
+      "amount": "$110M",
+      "round": "Seed",
+      "date": "2026-11-23",
+      "investor": "a16z",
+      "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
+      "source_url": "https://embo.com/introducing-embo",
+      "logo_url": "https://framerusercontent.com/images/oZOGoMEdo8Z70wZlXu6rWXqSPd4.jpeg?width=200&height=200",
+      "logo": "static/startups/images/6e2776129c0959b80ce5.jpg",
+      "description": "Embo: Building the brain for intelligent robots. Founded in 2026. See Embo’s funding rounds, investors and open jobs.",
+      "image": "static/startups/images/06e6395c9a046b0fcf94.jpg",
+      "image_url": "https://framerusercontent.com/images/oCQZazArNx12jwHTbU5CMlE4kQ.jpeg?width=1500&height=500",
+      "image_kind": "company artwork"
+    },
     {
       "id": "e3ccc57d0e193e10",
       "company": "Marlowe",
@@ -13,11 +30,11 @@
       "investor_url": "https://startups.gallery/investors/accel",
       "source_url": "https://www.marlowecompute.ai/introducing-marlowe.html",
       "logo_url": "https://framerusercontent.com/images/FepQWEwRZ7JeRoCTzlULkrhY.jpeg?width=200&height=200",
-      "logo": "static/startups/images/9b188bb4680e3097473e.jpg",
-      "description": "Marlowe: The multi-silicon AI factory. Founded in 2026. See Marlowe’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/e7f452b1829794568f4c.jpg",
       "image_url": "https://framerusercontent.com/images/AvtwpbXlkPaPAugJF87CthEmM.jpeg?width=1708&height=921",
-      "image_kind": "company artwork"
+      "description": "Marlowe: The multi-silicon AI factory. Founded in 2026. See Marlowe’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/9b188bb4680e3097473e.jpg"
     },
     {
       "id": "5ea15b868940d4b8",
@@ -81,11 +98,11 @@
       "investor_url": "https://startups.gallery/investors/lightspeed-venture-partners",
       "source_url": "https://www.computedesk.com/media-insights/press-release-compute-desk-raises-45m",
       "logo_url": "https://framerusercontent.com/images/p6GopUSOKc3hE8IVzOjJrgWgtE.jpeg?width=200&height=200",
-      "logo": "static/startups/images/13bf1c8ca45148b8b30a.jpg",
-      "description": "Compute Desk: Trade, clear & hedge compute. Founded in 2025. See Compute Desk’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/9ba8a4e79f13d9430bb0.jpg",
       "image_url": "https://framerusercontent.com/images/YkI7flAcWU725KWNHOlgL9E62M.jpeg?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Compute Desk: Trade, clear & hedge compute. Founded in 2025. See Compute Desk’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/13bf1c8ca45148b8b30a.jpg"
     },
     {
       "id": "665d589b3e843497",
@@ -494,23 +511,6 @@
       "description": "Northwood: Take space missions further, faster. Founded in 2022. See Northwood’s funding rounds, investors and open jobs.",
       "image_kind": "company artwork",
       "logo": "static/startups/images/3d423b7956127f2e322f.png"
-    },
-    {
-      "id": "043d7909b9840df6",
-      "company": "Upwind",
-      "company_url": "https://startups.gallery/companies/upwind",
-      "amount": "$400M",
-      "round": "Series C",
-      "date": "2026-10-29",
-      "investor": "Bessemer Venture Partners",
-      "investor_url": "https://startups.gallery/investors/bessemer-venture-partners",
-      "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-      "logo_url": "https://framerusercontent.com/images/odNPtsnjAgzJESdrJEqRwerxOUs.webp?width=200&height=200",
-      "image": "static/startups/images/dbeb7aadb1f2670dc905.webp",
-      "image_url": "https://framerusercontent.com/images/qfSw3q6liop9zdJmnnvh5btIcP8.webp?width=1024&height=576",
-      "description": "Upwind: Cloud security happens at runtime. Founded in 2022. See Upwind’s funding rounds, investors and open jobs.",
-      "image_kind": "company artwork",
-      "logo": "static/startups/images/80d4b96973be69c635cc.webp"
     }
   ]
 }

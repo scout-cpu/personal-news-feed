@@ -1,0 +1,660 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T09:56:34.764527+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50627340",
+        "section": "hackernews",
+        "title": "LLM agents work for their parent companies, not for you",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "score": 973,
+        "score_label": "973 points",
+        "author": "surprisetalk",
+        "published": "2026-11-24T12:40:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50627340"
+        }
+      },
+      {
+        "id": "hn-50627836",
+        "section": "hackernews",
+        "title": "Anthropic breaks below $83 IPO price",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+        "score": 394,
+        "score_label": "394 points",
+        "author": "Betelbuddy",
+        "published": "2026-11-24T13:23:47+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50627836"
+        }
+      },
+      {
+        "id": "hn-50630309",
+        "section": "hackernews",
+        "title": "Tidal bans AI-generated music",
+        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+        "score": 327,
+        "score_label": "327 points",
+        "author": "theanonymousone",
+        "published": "2026-11-24T16:12:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50630309"
+        }
+      },
+      {
+        "id": "hn-50630809",
+        "section": "hackernews",
+        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "score": 279,
+        "score_label": "279 points",
+        "author": "weli",
+        "published": "2026-11-24T16:45:44+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50630809"
+        }
+      },
+      {
+        "id": "hn-50634658",
+        "section": "hackernews",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+        "score": 264,
+        "score_label": "264 points",
+        "author": "acossta",
+        "published": "2026-11-24T21:02:22+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50634658"
+        }
+      },
+      {
+        "id": "hn-50637056",
+        "section": "hackernews",
+        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+        "score": 247,
+        "score_label": "247 points",
+        "author": "smusamashah",
+        "published": "2026-11-25T00:54:49+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50637056"
+        }
+      },
+      {
+        "id": "hn-50631210",
+        "section": "hackernews",
+        "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+        "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+        "score": 217,
+        "score_label": "217 points",
+        "author": "mikhael",
+        "published": "2026-11-24T17:10:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50631210"
+        }
+      },
+      {
+        "id": "hn-50638320",
+        "section": "hackernews",
+        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+        "score": 178,
+        "score_label": "178 points",
+        "author": "hoodied",
+        "published": "2026-11-25T04:03:33+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50638320"
+        }
+      },
+      {
+        "id": "hn-50628932",
+        "section": "hackernews",
+        "title": "Anthropic is below its IPO price",
+        "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+        "score": 129,
+        "score_label": "129 points",
+        "author": "novaRom",
+        "published": "2026-11-24T14:41:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50628932"
+        }
+      },
+      {
+        "id": "hn-50638220",
+        "section": "hackernews",
+        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+        "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+        "score": 111,
+        "score_label": "111 points",
+        "author": "Curiositry",
+        "published": "2026-11-25T03:47:42+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50638220"
+        }
+      },
+      {
+        "id": "hn-50632756",
+        "section": "hackernews",
+        "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+        "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+        "score": 91,
+        "score_label": "91 points",
+        "author": "iamronaldo",
+        "published": "2026-11-24T18:55:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50632756"
+        }
+      },
+      {
+        "id": "hn-50634734",
+        "section": "hackernews",
+        "title": "Working with AI",
+        "url": "https://www.anthropic.com/research/working-with-ai",
+        "score": 70,
+        "score_label": "70 points",
+        "author": "kagaherk",
+        "published": "2026-11-24T21:07:38+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50634734"
+        }
+      },
+      {
+        "id": "hn-50637871",
+        "section": "hackernews",
+        "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+        "url": "https://www.proofatlas.ai/open-problems/",
+        "score": 51,
+        "score_label": "51 points",
+        "author": "ijidak",
+        "published": "2026-11-25T03:01:36+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50637871"
+        }
+      },
+      {
+        "id": "hn-50635706",
+        "section": "hackernews",
+        "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo/",
+        "score": 45,
+        "score_label": "45 points",
+        "author": "Betelbuddy",
+        "published": "2026-11-24T22:27:19+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50635706"
+        }
+      },
+      {
+        "id": "hn-50627131",
+        "section": "hackernews",
+        "title": "Quit Internet Videos Before AI Perfects Them",
+        "url": "https://nomagicpill.substack.com/p/quit-internet-videos-before-ai-perfects",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "surprisetalk",
+        "published": "2026-11-24T12:20:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50627131"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.30634",
+        "section": "papers",
+        "title": "Rewirable Circuits in Transformers with Loom Attention",
+        "url": "https://huggingface.co/papers/2611.30634",
+        "score": 57,
+        "score_label": "57 upvotes",
+        "author": "Da Xiao, Qingye Meng, Shengping Li et al.",
+        "published": "2026-11-22T19:00:00.000Z",
+        "snippet": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its query, key and value)…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.30634"
+        }
+      },
+      {
+        "id": "paper-2611.31205",
+        "section": "papers",
+        "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+        "url": "https://huggingface.co/papers/2611.31205",
+        "score": 54,
+        "score_label": "54 upvotes",
+        "author": "Zexin He, Rui Li, Yushi Lan et al.",
+        "published": "2026-11-22T19:00:00.000Z",
+        "snippet": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchro…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.31205"
+        }
+      },
+      {
+        "id": "paper-2611.32884",
+        "section": "papers",
+        "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+        "url": "https://huggingface.co/papers/2611.32884",
+        "score": 45,
+        "score_label": "45 upvotes",
+        "author": "Richmond Sin Jing Xuan, Peilin Feng, Wenbin Wang et al.",
+        "published": "2026-11-23T19:00:00.000Z",
+        "snippet": "AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possi…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.32884"
+        }
+      },
+      {
+        "id": "paper-2611.25403",
+        "section": "papers",
+        "title": "Antom 3-in-1 Transformer: A Payment Foundation Model",
+        "url": "https://huggingface.co/papers/2611.25403",
+        "score": 45,
+        "score_label": "45 upvotes",
+        "author": "Weiyu Han, Haoyu Jiang, Jie Sheng et al.",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "We report the development of Antom 3-in-1 Transformer, a payment foundation model that integrates sequence, tabular, and graph representations for payment risk detection. The model contains approximately 7B parameters,…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.25403"
+        }
+      },
+      {
+        "id": "paper-2611.28947",
+        "section": "papers",
+        "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+        "url": "https://huggingface.co/papers/2611.28947",
+        "score": 39,
+        "score_label": "39 upvotes",
+        "author": "Jiaqi Su, Jie-Jing Shao, Yichen Liu et al.",
+        "published": "2026-11-20T19:00:00.000Z",
+        "snippet": "Computer-use agents (CUAs) built on vision-language models are increasingly entrusted with long-horizon tasks in live desktop, web, and mobile environments, where the screen keeps changing on its own. However, current C…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.28947"
+        }
+      },
+      {
+        "id": "paper-2611.30962",
+        "section": "papers",
+        "title": "Self-Evolving Evaluation Environments for Computer-Use Agents",
+        "url": "https://huggingface.co/papers/2611.30962",
+        "score": 34,
+        "score_label": "34 upvotes",
+        "author": "Wenhao Wang, Panrong Tong, Quyu Kong et al.",
+        "published": "2026-11-22T19:00:00.000Z",
+        "snippet": "Computer-use agents (CUAs) are rapidly improving, yet their evaluation remains largely static. Existing benchmarks provide a strong foundation, but fixed difficulty ceilings, limited feature coverage, and coarse aggrega…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.30962"
+        }
+      },
+      {
+        "id": "paper-2611.28649",
+        "section": "papers",
+        "title": "S-Mind: Internalizing Multi-View Geometry for Spatial Intelligence",
+        "url": "https://huggingface.co/papers/2611.28649",
+        "score": 32,
+        "score_label": "32 upvotes",
+        "author": "Muxin Fu, Peike Yu, Guibin Zhang et al.",
+        "published": "2026-11-20T19:00:00.000Z",
+        "snippet": "Spatial intelligence, the ability to reason about 3D space from visual observations, becomes essential as multimodal large language models (MLLMs) move into the physical world. Beyond perceiving each view, it rests on t…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.28649"
+        }
+      },
+      {
+        "id": "paper-2611.25509",
+        "section": "papers",
+        "title": "LingSante MedGuard Technical Report",
+        "url": "https://huggingface.co/papers/2611.25509",
+        "score": 31,
+        "score_label": "31 upvotes",
+        "author": "LingSante MedGuard Team",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "As medical AI is increasingly used for patient consultation and clinical decision support, identifying harmful, non-compliant, or ethically problematic responses is essential for responsible deployment. Assessing these…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.25509"
+        }
+      },
+      {
+        "id": "paper-2611.32554",
+        "section": "papers",
+        "title": "PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement",
+        "url": "https://huggingface.co/papers/2611.32554",
+        "score": 29,
+        "score_label": "29 upvotes",
+        "author": "Yang Cao, Zhe Zhu, Yiheng Zhang et al.",
+        "published": "2026-11-23T19:00:00.000Z",
+        "snippet": "Segmenting a 3D object into semantically meaningful parts requires joint reasoning about geometric structure and semantic context. Pretrained 3D experts provide spatially grounded region proposals, while 2D experts prov…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.32554"
+        }
+      },
+      {
+        "id": "paper-2611.33010",
+        "section": "papers",
+        "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
+        "url": "https://huggingface.co/papers/2611.33010",
+        "score": 25,
+        "score_label": "25 upvotes",
+        "author": "Xuanchen Liu, Hejun Zhang, Boxuan Dong et al.",
+        "published": "2026-11-23T19:00:00.000Z",
+        "snippet": "Can a simple mirror expose the limitations of today's robotic manipulation policies? Inspired by the mirror self-recognition test in animal cognition, we investigate whether robot policies can reliably manipulate physic…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.33010"
+        }
+      },
+      {
+        "id": "paper-2611.25848",
+        "section": "papers",
+        "title": "Interpretable Prototype-Conditioned Adaptation for Weather Forecasting",
+        "url": "https://huggingface.co/papers/2611.25848",
+        "score": 23,
+        "score_label": "23 upvotes",
+        "author": "Zhixuan Li, Hao Jiang, Chen Hui et al.",
+        "published": "2026-11-18T19:00:00.000Z",
+        "snippet": "Data-driven weather forecasting requires distinguishing local states and their temporal evolution. However, learned patterns remain implicit in neural forecasters, making their influence difficult to interpret. Failing…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.25848"
+        }
+      },
+      {
+        "id": "paper-2611.32183",
+        "section": "papers",
+        "title": "ThinkMorph-SSL: Scaling Interleaved Multimodal Reasoning with Pretext Tasks",
+        "url": "https://huggingface.co/papers/2611.32183",
+        "score": 19,
+        "score_label": "19 upvotes",
+        "author": "Jiawei Gu, Linjie Li, Yiming Liu et al.",
+        "published": "2026-11-23T19:00:00.000Z",
+        "snippet": "People reason with pictures as well as words. Interleaved multimodal reasoning gives models a similar way to solve problems by creating intermediate images and using them to guide further reasoning. Training models with…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.32183"
+        }
+      },
+      {
+        "id": "paper-2611.33158",
+        "section": "papers",
+        "title": "OmniAct: One Policy, One Million Embodiments",
+        "url": "https://arxiv.org/abs/2611.33158",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Xiang Fan, Yuheng Wang, Jiayuan Yan et al.",
+        "published": "2026-11-24T18:59:58Z",
+        "snippet": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared act…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.33153",
+        "section": "papers",
+        "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+        "url": "https://arxiv.org/abs/2611.33153",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Binfei Ji, Zhiwen Cao, Anqi Yang et al.",
+        "published": "2026-11-24T18:59:08Z",
+        "snippet": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.33151",
+        "section": "papers",
+        "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+        "url": "https://arxiv.org/abs/2611.33151",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yuwei Yang, Xiaoxiao Sun, Alejandro Lozano et al.",
+        "published": "2026-11-24T18:59:04Z",
+        "snippet": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.33141",
+        "section": "papers",
+        "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
+        "url": "https://arxiv.org/abs/2611.33141",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Vansh Kapoor, Max Sobol Mark, Sreyas Venkataraman et al.",
+        "published": "2026-11-24T18:56:04Z",
+        "snippet": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is expensive for real-tim…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.33135",
+        "section": "papers",
+        "title": "BriConstrain: Geometrically Constrained Decoding for Autoregressive Brick Assembly Generation",
+        "url": "https://arxiv.org/abs/2611.33135",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Nadav Magar, Amir Hertz, Ariel Shamir et al.",
+        "published": "2026-11-24T18:54:38Z",
+        "snippet": "Language models can generate LEGO$^\\circledR$ assemblies from text, but their builds often contain parts that collide or attach to nothing. The usual approach of rejecting and resampling invalid placements discards deco…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.33133",
+        "section": "papers",
+        "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+        "url": "https://arxiv.org/abs/2611.33133",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Hussamuddin Syed",
+        "published": "2026-11-24T18:53:22Z",
+        "snippet": "Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra edi…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.33130",
+        "section": "papers",
+        "title": "Exploratory Midtraining for Robot Policies",
+        "url": "https://arxiv.org/abs/2611.33130",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Kshitiz, Zheyuan Hu, Robyn Wu et al.",
+        "published": "2026-11-24T18:52:34Z",
+        "snippet": "Robot policies predominantly learn from human-collected data emphasizing competent behavior, limiting coverage of the low-level behaviors needed to support autonomous improvement. We study how a form of midtraining can…",
+        "extra_link": null
+      },
+      {
+        "id": "paper-2611.33124",
+        "section": "papers",
+        "title": "SAG-Mem-1.0 Technical Report",
+        "url": "https://arxiv.org/abs/2611.33124",
+        "score": null,
+        "score_label": "new on arXiv",
+        "author": "Yuchao Wu, XingCheng Liang, Xuanze Wang et al.",
+        "published": "2026-11-24T18:51:29Z",
+        "snippet": "Long-term conversational memory requires retrieving complementary facts scattered across dialogue sessions, including intermediate evidence with limited similarity to the original question. Existing approaches often rel…",
+        "extra_link": null
+      }
+    ],
+    "models": [
+      {
+        "id": "model-thinkingmachines/Inkling-2-Mini",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-2-Mini",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "score": 5868,
+        "score_label": "5,868 likes · 69,042 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-11-17T00:26:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Inkling-2-Mini-GGUF",
+        "section": "models",
+        "title": "unsloth/Inkling-2-Mini-GGUF",
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "score": 1293,
+        "score_label": "1,293 likes · 1,913,407 downloads",
+        "author": "unsloth",
+        "published": "2026-11-20T13:09:48.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-inworld/voice-isolator",
+        "section": "models",
+        "title": "inworld/voice-isolator",
+        "url": "https://huggingface.co/inworld/voice-isolator",
+        "score": 843,
+        "score_label": "843 likes · 12,733 downloads",
+        "author": "inworld",
+        "published": "2026-11-14T02:14:35.000Z",
+        "snippet": "audio-to-audio · inworld-voice-isolation",
+        "extra_link": null
+      },
+      {
+        "id": "model-AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "section": "models",
+        "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "score": 780,
+        "score_label": "780 likes · 573,775 downloads",
+        "author": "AtomicChat",
+        "published": "2026-11-20T20:42:23.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-SulphurAI/Sulphur-3",
+        "section": "models",
+        "title": "SulphurAI/Sulphur-3",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+        "score": 962,
+        "score_label": "962 likes · 160,965 downloads",
+        "author": "SulphurAI",
+        "published": "2026-10-31T20:31:01.000Z",
+        "snippet": "minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-harness-hub/Qwen3.8-27B-pi-adapted",
+        "section": "models",
+        "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+        "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+        "score": 1082,
+        "score_label": "1,082 likes · 3,529 downloads",
+        "author": "harness-hub",
+        "published": "2026-11-16T06:52:31.000Z",
+        "snippet": "image-text-to-text · peft",
+        "extra_link": null
+      },
+      {
+        "id": "model-higurashi-ai/Haru-4B",
+        "section": "models",
+        "title": "higurashi-ai/Haru-4B",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "score": 983,
+        "score_label": "983 likes · 9,575 downloads",
+        "author": "higurashi-ai",
+        "published": "2026-11-12T11:05:59.000Z",
+        "snippet": "audio-to-audio",
+        "extra_link": null
+      },
+      {
+        "id": "model-apple/DepthPro2",
+        "section": "models",
+        "title": "apple/DepthPro2",
+        "url": "https://huggingface.co/apple/DepthPro2",
+        "score": 1209,
+        "score_label": "1,209 likes · 0 downloads",
+        "author": "apple",
+        "published": "2026-11-03T16:55:03.000Z",
+        "snippet": "depth-estimation · depth-pro-2",
+        "extra_link": null
+      },
+      {
+        "id": "model-prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "section": "models",
+        "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "score": 194,
+        "score_label": "194 likes · 0 downloads",
+        "author": "prism-ml",
+        "published": "2026-11-24T16:32:20.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-tencent/Hy4-flash",
+        "section": "models",
+        "title": "tencent/Hy4-flash",
+        "url": "https://huggingface.co/tencent/Hy4-flash",
+        "score": 684,
+        "score_label": "684 likes · 9,167 downloads",
+        "author": "tencent",
+        "published": "2026-11-17T03:44:46.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-25T04:29:07+00:00",
+        "snippet": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+        "section": "newsletters",
+        "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+        "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-24T04:14:16+00:00",
+        "snippet": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+        "extra_link": null
+      }
+    ]
+  }
+}
