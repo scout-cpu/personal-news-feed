@@ -1,6 +1,6 @@
 {
   "source": "https://startups.gallery/news",
-  "fetched_at": "2026-11-25T09:56:39.415243+00:00",
+  "fetched_at": "2026-11-26T09:41:01.805939+00:00",
   "items": [
     {
       "id": "4974bea43f3ec31c",
@@ -13,11 +13,11 @@
       "investor_url": "https://startups.gallery/investors/andreessen-horowitz",
       "source_url": "https://embo.com/introducing-embo",
       "logo_url": "https://framerusercontent.com/images/oZOGoMEdo8Z70wZlXu6rWXqSPd4.jpeg?width=200&height=200",
-      "logo": "static/startups/images/6e2776129c0959b80ce5.jpg",
-      "description": "Embo: Building the brain for intelligent robots. Founded in 2026. See Embo’s funding rounds, investors and open jobs.",
       "image": "static/startups/images/06e6395c9a046b0fcf94.jpg",
       "image_url": "https://framerusercontent.com/images/oCQZazArNx12jwHTbU5CMlE4kQ.jpeg?width=1500&height=500",
-      "image_kind": "company artwork"
+      "description": "Embo: Building the brain for intelligent robots. Founded in 2026. See Embo’s funding rounds, investors and open jobs.",
+      "image_kind": "company artwork",
+      "logo": "static/startups/images/6e2776129c0959b80ce5.jpg"
     },
     {
       "id": "e3ccc57d0e193e10",
