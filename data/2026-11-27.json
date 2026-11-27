@@ -1,0 +1,543 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T09:46:30.530384+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50660180",
+        "section": "hackernews",
+        "title": "AI made self-hosting fun again",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "score": 681,
+        "score_label": "681 points",
+        "author": "jlelse",
+        "published": "2026-11-26T21:47:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50660180"
+        }
+      },
+      {
+        "id": "hn-50657265",
+        "section": "hackernews",
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "score": 356,
+        "score_label": "356 points",
+        "author": "julianlam",
+        "published": "2026-11-26T17:11:29+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50657265"
+        }
+      },
+      {
+        "id": "hn-50657307",
+        "section": "hackernews",
+        "title": "Tracking Diseases Cured by AI",
+        "url": "https://diseasescuredbyai.com/",
+        "score": 310,
+        "score_label": "310 points",
+        "author": "spoofyroot",
+        "published": "2026-11-26T17:16:41+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50657307"
+        }
+      },
+      {
+        "id": "hn-50663595",
+        "section": "hackernews",
+        "title": "The group chat where your AI talks behind your back",
+        "url": "https://construct22.com/",
+        "score": 216,
+        "score_label": "216 points",
+        "author": "utiiiD",
+        "published": "2026-11-27T06:44:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50663595"
+        }
+      },
+      {
+        "id": "hn-50662933",
+        "section": "hackernews",
+        "title": "\"What's Claude's Fursona?\" and Other Questions",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "score": 84,
+        "score_label": "84 points",
+        "author": "Mond_",
+        "published": "2026-11-27T04:56:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50662933"
+        }
+      },
+      {
+        "id": "hn-50658498",
+        "section": "hackernews",
+        "title": "An introduction to uncertainty in machine learning",
+        "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+        "score": 79,
+        "score_label": "79 points",
+        "author": "chrhenning",
+        "published": "2026-11-26T19:04:50+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50658498"
+        }
+      },
+      {
+        "id": "hn-50657110",
+        "section": "hackernews",
+        "title": "One guy is doing a hunger strike outside Anthropic, currently in his 3rd day",
+        "url": "https://twitter.com/ElliotC1/status/2125689373337489419",
+        "score": 59,
+        "score_label": "59 points",
+        "author": "binyu",
+        "published": "2026-11-26T16:55:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50657110"
+        }
+      },
+      {
+        "id": "hn-50658093",
+        "section": "hackernews",
+        "title": "Notion's official MCP inject hidden upsell instructions into agent context",
+        "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+        "score": 55,
+        "score_label": "55 points",
+        "author": "czottmann",
+        "published": "2026-11-26T18:28:30+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50658093"
+        }
+      },
+      {
+        "id": "hn-50661218",
+        "section": "hackernews",
+        "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "score": 54,
+        "score_label": "54 points",
+        "author": "geox",
+        "published": "2026-11-27T00:03:18+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50661218"
+        }
+      },
+      {
+        "id": "hn-50658910",
+        "section": "hackernews",
+        "title": "Top-cited AI scientists at four US companies compared",
+        "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "kkk4seis",
+        "published": "2026-11-26T19:44:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50658910"
+        }
+      },
+      {
+        "id": "hn-50655798",
+        "section": "hackernews",
+        "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
+        "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+        "score": 41,
+        "score_label": "41 points",
+        "author": "goatley",
+        "published": "2026-11-26T14:38:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50655798"
+        }
+      },
+      {
+        "id": "hn-50664325",
+        "section": "hackernews",
+        "title": "Claude sabotaging SOTA ML research tasks",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "baobabKoodaa",
+        "published": "2026-11-27T08:28:08+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50664325"
+        }
+      },
+      {
+        "id": "hn-50657452",
+        "section": "hackernews",
+        "title": "'AI' might be the end of our careers",
+        "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+        "score": 35,
+        "score_label": "35 points",
+        "author": "tosbourn",
+        "published": "2026-11-26T17:29:28+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50657452"
+        }
+      },
+      {
+        "id": "hn-50662153",
+        "section": "hackernews",
+        "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+        "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+        "score": 32,
+        "score_label": "32 points",
+        "author": "nreece",
+        "published": "2026-11-27T02:44:12+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50662153"
+        }
+      },
+      {
+        "id": "hn-50657724",
+        "section": "hackernews",
+        "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
+        "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
+        "score": 27,
+        "score_label": "27 points",
+        "author": "flessio",
+        "published": "2026-11-26T17:55:10+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50657724"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.34051",
+        "section": "papers",
+        "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+        "url": "https://huggingface.co/papers/2611.34051",
+        "score": 100,
+        "score_label": "100 upvotes",
+        "author": "Xichong Zhang, Xixuan Hao, Zhichen Liu et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writi…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34051"
+        }
+      },
+      {
+        "id": "paper-2611.34232",
+        "section": "papers",
+        "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+        "url": "https://huggingface.co/papers/2611.34232",
+        "score": 92,
+        "score_label": "92 upvotes",
+        "author": "Hui Shen, Yunta Hsieh, Jianing Ma et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34232"
+        }
+      },
+      {
+        "id": "paper-2611.34457",
+        "section": "papers",
+        "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+        "url": "https://huggingface.co/papers/2611.34457",
+        "score": 35,
+        "score_label": "35 upvotes",
+        "author": "Zhenchen Tang, Haolin Lu, Songlin Yang et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "Recent video generators produce realistic videos, yet controlling how scenes unfold remains challenging. Structural proxies, such as animated 3D blockouts, guide generation by specifying scene layout, motion, camera beh…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34457"
+        }
+      },
+      {
+        "id": "paper-2611.31619",
+        "section": "papers",
+        "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+        "url": "https://huggingface.co/papers/2611.31619",
+        "score": 34,
+        "score_label": "34 upvotes",
+        "author": "Arya Sikder, Sriram Pillutla",
+        "published": "2026-11-22T19:00:00.000Z",
+        "snippet": "A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few public leaderboard…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.31619"
+        }
+      },
+      {
+        "id": "paper-2611.28732",
+        "section": "papers",
+        "title": "Entangle: Scaling Human-Video In-Context World-Action Models across Unseen Tasks and Contexts",
+        "url": "https://huggingface.co/papers/2611.28732",
+        "score": 28,
+        "score_label": "28 upvotes",
+        "author": "Chendong Xiang, Chengwen Zhang, Ruowen Zhao et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "In-context learning (ICL) enables foundation models to perform unseen tasks from context without parameter updates. In robotic manipulation, a human video provides the context that specifies how a task should be perform…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.28732"
+        }
+      },
+      {
+        "id": "paper-2611.34290",
+        "section": "papers",
+        "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+        "url": "https://huggingface.co/papers/2611.34290",
+        "score": 23,
+        "score_label": "23 upvotes",
+        "author": "Modi Jin, Xuying Zhang, Yijing Guo et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflows face these challe…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34290"
+        }
+      },
+      {
+        "id": "paper-2611.34852",
+        "section": "papers",
+        "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+        "url": "https://huggingface.co/papers/2611.34852",
+        "score": 22,
+        "score_label": "22 upvotes",
+        "author": "Han Huang, Yuchen Yan, Xingyu Wu et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated kno…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34852"
+        }
+      },
+      {
+        "id": "paper-2611.33457",
+        "section": "papers",
+        "title": "Playfulness as Feedback for Agentic Game Development",
+        "url": "https://huggingface.co/papers/2611.33457",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Weijia Mao, Kevin Qinghong Lin, Zhen Fang et al.",
+        "published": "2026-11-23T19:00:00.000Z",
+        "snippet": "Coding agents can generate runnable games from natural-language descriptions. However, a runnable game does not guarantee an excellent gameplay experience for players. In our view, a playful game should provide 1) relia…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.33457"
+        }
+      },
+      {
+        "id": "paper-2611.34466",
+        "section": "papers",
+        "title": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
+        "url": "https://huggingface.co/papers/2611.34466",
+        "score": 20,
+        "score_label": "20 upvotes",
+        "author": "Yurun Chen, Biao Yi, Qihang Yu et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "AI wearables, such as smart glasses, extend the context available to agents beyond digital environments to users' physical surroundings. With these devices, computer tasks can originate from users' ongoing activities ra…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34466"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-thinkingmachines/Inkling-2-Mini",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-2-Mini",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "score": 6342,
+        "score_label": "6,342 likes · 96,527 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-11-17T00:26:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Inkling-2-Mini-GGUF",
+        "section": "models",
+        "title": "unsloth/Inkling-2-Mini-GGUF",
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "score": 1526,
+        "score_label": "1,526 likes · 2,445,633 downloads",
+        "author": "unsloth",
+        "published": "2026-11-20T13:09:48.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-SulphurAI/Sulphur-3",
+        "section": "models",
+        "title": "SulphurAI/Sulphur-3",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+        "score": 1275,
+        "score_label": "1,275 likes · 189,735 downloads",
+        "author": "SulphurAI",
+        "published": "2026-10-31T20:31:01.000Z",
+        "snippet": "minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "section": "models",
+        "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "score": 961,
+        "score_label": "961 likes · 762,491 downloads",
+        "author": "AtomicChat",
+        "published": "2026-11-20T20:42:23.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "section": "models",
+        "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "score": 568,
+        "score_label": "568 likes · 59,366 downloads",
+        "author": "prism-ml",
+        "published": "2026-11-24T16:32:20.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-inworld/voice-isolator",
+        "section": "models",
+        "title": "inworld/voice-isolator",
+        "url": "https://huggingface.co/inworld/voice-isolator",
+        "score": 975,
+        "score_label": "975 likes · 15,244 downloads",
+        "author": "inworld",
+        "published": "2026-11-14T02:14:35.000Z",
+        "snippet": "audio-to-audio · inworld-voice-isolation",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 13623,
+        "score_label": "13,623 likes · 3,041,405 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/Nemotron-Labs-Image-30B-A3B",
+        "section": "models",
+        "title": "nvidia/Nemotron-Labs-Image-30B-A3B",
+        "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+        "score": 294,
+        "score_label": "294 likes · 218 downloads",
+        "author": "nvidia",
+        "published": "2026-09-24T21:13:25.000Z",
+        "snippet": "text-to-image · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-llamaindex/OCRia-nano-1",
+        "section": "models",
+        "title": "llamaindex/OCRia-nano-1",
+        "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+        "score": 292,
+        "score_label": "292 likes · 126 downloads",
+        "author": "llamaindex",
+        "published": "2026-11-03T21:44:40.000Z",
+        "snippet": "image-to-text · liteparse",
+        "extra_link": null
+      },
+      {
+        "id": "model-apple/DepthPro2",
+        "section": "models",
+        "title": "apple/DepthPro2",
+        "url": "https://huggingface.co/apple/DepthPro2",
+        "score": 1327,
+        "score_label": "1,327 likes · 0 downloads",
+        "author": "apple",
+        "published": "2026-11-03T16:55:03.000Z",
+        "snippet": "depth-estimation · depth-pro-2",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+        "section": "newsletters",
+        "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+        "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-26T23:02:48+00:00",
+        "snippet": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+        "section": "newsletters",
+        "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+        "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-25T22:28:01+00:00",
+        "snippet": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game,…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+        "section": "newsletters",
+        "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+        "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-25T22:23:41+00:00",
+        "snippet": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "section": "newsletters",
+        "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-25T04:29:07+00:00",
+        "snippet": "November 24, 2026 — Neon beats Astra and Fable on LiveBench and cuts Theo’s TS Rust benchmark runtime by 48.6%.",
+        "extra_link": null
+      }
+    ]
+  }
+}
