@@ -1,0 +1,420 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T08:58:47.186052+00:00",
+  "errors": [],
+  "sections": {
+    "hackernews": [
+      {
+        "id": "hn-50670757",
+        "section": "hackernews",
+        "title": "Michael Nielsen took down his book on neural nets",
+        "url": "https://neuralnetworksanddeeplearning.com/",
+        "score": 518,
+        "score_label": "518 points",
+        "author": "brandonb",
+        "published": "2026-11-27T19:31:01+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50670757"
+        }
+      },
+      {
+        "id": "hn-50669561",
+        "section": "hackernews",
+        "title": "I'm Scared of AI",
+        "url": "https://thesoapbox.email/archive/3",
+        "score": 211,
+        "score_label": "211 points",
+        "author": "mgirkins",
+        "published": "2026-11-27T17:45:31+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50669561"
+        }
+      },
+      {
+        "id": "hn-50673521",
+        "section": "hackernews",
+        "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "score": 167,
+        "score_label": "167 points",
+        "author": "Tiwariparth6165",
+        "published": "2026-11-28T01:32:56+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50673521"
+        }
+      },
+      {
+        "id": "hn-50667744",
+        "section": "hackernews",
+        "title": "GPT 6.2 Astra solves a historical mystery",
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "score": 167,
+        "score_label": "167 points",
+        "author": "bookofjoe",
+        "published": "2026-11-27T15:03:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50667744"
+        }
+      },
+      {
+        "id": "hn-50665488",
+        "section": "hackernews",
+        "title": "AI on brink of making online security useless, mathematicians fear",
+        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+        "score": 119,
+        "score_label": "119 points",
+        "author": "conradqh",
+        "published": "2026-11-27T11:09:04+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50665488"
+        }
+      },
+      {
+        "id": "hn-50671275",
+        "section": "hackernews",
+        "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "url": "https://github.com/skeeto/prospero",
+        "score": 67,
+        "score_label": "67 points",
+        "author": "ingve",
+        "published": "2026-11-27T20:23:14+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50671275"
+        }
+      },
+      {
+        "id": "hn-50671651",
+        "section": "hackernews",
+        "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+        "url": "https://sessiongraph.ai/",
+        "score": 52,
+        "score_label": "52 points",
+        "author": "arvindell",
+        "published": "2026-11-27T21:07:34+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50671651"
+        }
+      },
+      {
+        "id": "hn-50671559",
+        "section": "hackernews",
+        "title": "Banks look to dump AI debt",
+        "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+        "score": 38,
+        "score_label": "38 points",
+        "author": "Fricken",
+        "published": "2026-11-27T20:56:17+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50671559"
+        }
+      },
+      {
+        "id": "hn-50674489",
+        "section": "hackernews",
+        "title": "Claude silently added rules to ignore users skintone preferences in our app",
+        "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+        "score": 36,
+        "score_label": "36 points",
+        "author": "doctoboggan",
+        "published": "2026-11-28T03:55:15+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50674489"
+        }
+      },
+      {
+        "id": "hn-50667664",
+        "section": "hackernews",
+        "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+        "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+        "score": 23,
+        "score_label": "23 points",
+        "author": "thunderbong",
+        "published": "2026-11-27T14:55:57+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50667664"
+        }
+      },
+      {
+        "id": "hn-50669073",
+        "section": "hackernews",
+        "title": "Dungeons and Dragons maker will pass AI settlement money to authors",
+        "url": "https://www.seattletimes.com/business/dungeons-dragons-maker-will-pass-ai-settlement-money-to-authors/",
+        "score": 21,
+        "score_label": "21 points",
+        "author": "doctorzook",
+        "published": "2026-11-27T17:05:45+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50669073"
+        }
+      },
+      {
+        "id": "hn-50665732",
+        "section": "hackernews",
+        "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+        "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+        "score": 20,
+        "score_label": "20 points",
+        "author": "6LLvveMx2koXfwn",
+        "published": "2026-11-27T11:41:11+00:00",
+        "snippet": "",
+        "extra_link": {
+          "label": "HN discussion",
+          "url": "https://news.ycombinator.com/item?id=50665732"
+        }
+      }
+    ],
+    "papers": [
+      {
+        "id": "paper-2611.34813",
+        "section": "papers",
+        "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+        "url": "https://huggingface.co/papers/2611.34813",
+        "score": 61,
+        "score_label": "61 upvotes",
+        "author": "Dezhi Luo, Fengyuan Yu, Haotian Zhang et al.",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is cons…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34813"
+        }
+      },
+      {
+        "id": "paper-2611.31237",
+        "section": "papers",
+        "title": "Let Vision-Language Models Generate Images through Their Representations",
+        "url": "https://huggingface.co/papers/2611.31237",
+        "score": 27,
+        "score_label": "27 upvotes",
+        "author": "JB Kim, Byungwoo Jeon, Kyungmin Lee et al.",
+        "published": "2026-11-22T19:00:00.000Z",
+        "snippet": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language mode…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.31237"
+        }
+      },
+      {
+        "id": "paper-2611.34693",
+        "section": "papers",
+        "title": "ShowNow: Fine-Grained Speculative Streaming for Responsive World Models",
+        "url": "https://huggingface.co/papers/2611.34693",
+        "score": 21,
+        "score_label": "21 upvotes",
+        "author": "Yiren Song, Guian Fang, Mike Zheng Shou",
+        "published": "2026-11-24T19:00:00.000Z",
+        "snippet": "Interactive world models must generate video continuously while responding promptly to user actions. Real-time throughput alone leaves input latency unresolved: coarse generation blocks delay action updates, and generat…",
+        "extra_link": {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2611.34693"
+        }
+      }
+    ],
+    "models": [
+      {
+        "id": "model-thinkingmachines/Inkling-2-Mini",
+        "section": "models",
+        "title": "thinkingmachines/Inkling-2-Mini",
+        "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+        "score": 6514,
+        "score_label": "6,514 likes · 155,741 downloads",
+        "author": "thinkingmachines",
+        "published": "2026-11-17T00:26:57.000Z",
+        "snippet": "image-text-to-text · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-unsloth/Inkling-2-Mini-GGUF",
+        "section": "models",
+        "title": "unsloth/Inkling-2-Mini-GGUF",
+        "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+        "score": 1626,
+        "score_label": "1,626 likes · 3,302,340 downloads",
+        "author": "unsloth",
+        "published": "2026-11-20T13:09:48.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-SulphurAI/Sulphur-3",
+        "section": "models",
+        "title": "SulphurAI/Sulphur-3",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-3",
+        "score": 1392,
+        "score_label": "1,392 likes · 539,421 downloads",
+        "author": "SulphurAI",
+        "published": "2026-10-31T20:31:01.000Z",
+        "snippet": "minimax-h3",
+        "extra_link": null
+      },
+      {
+        "id": "model-prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "section": "models",
+        "title": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+        "score": 655,
+        "score_label": "655 likes · 382,546 downloads",
+        "author": "prism-ml",
+        "published": "2026-11-24T16:32:20.000Z",
+        "snippet": "text-generation · llama.cpp",
+        "extra_link": null
+      },
+      {
+        "id": "model-AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "section": "models",
+        "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+        "score": 1049,
+        "score_label": "1,049 likes · 1,059,763 downloads",
+        "author": "AtomicChat",
+        "published": "2026-11-20T20:42:23.000Z",
+        "snippet": "image-text-to-text",
+        "extra_link": null
+      },
+      {
+        "id": "model-inworld/voice-isolator",
+        "section": "models",
+        "title": "inworld/voice-isolator",
+        "url": "https://huggingface.co/inworld/voice-isolator",
+        "score": 1018,
+        "score_label": "1,018 likes · 20,510 downloads",
+        "author": "inworld",
+        "published": "2026-11-14T02:14:35.000Z",
+        "snippet": "audio-to-audio · inworld-voice-isolation",
+        "extra_link": null
+      },
+      {
+        "id": "model-Lightricks/LTX-2.5",
+        "section": "models",
+        "title": "Lightricks/LTX-2.5",
+        "url": "https://huggingface.co/Lightricks/LTX-2.5",
+        "score": 13758,
+        "score_label": "13,758 likes · 3,080,701 downloads",
+        "author": "Lightricks",
+        "published": "2026-07-23T07:55:24.000Z",
+        "snippet": "image-to-video · diffusion-single-file",
+        "extra_link": null
+      },
+      {
+        "id": "model-llamaindex/OCRia-nano-1",
+        "section": "models",
+        "title": "llamaindex/OCRia-nano-1",
+        "url": "https://huggingface.co/llamaindex/OCRia-nano-1",
+        "score": 371,
+        "score_label": "371 likes · 626 downloads",
+        "author": "llamaindex",
+        "published": "2026-11-03T21:44:40.000Z",
+        "snippet": "image-to-text · liteparse",
+        "extra_link": null
+      },
+      {
+        "id": "model-nvidia/Nemotron-Labs-Image-30B-A3B",
+        "section": "models",
+        "title": "nvidia/Nemotron-Labs-Image-30B-A3B",
+        "url": "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+        "score": 348,
+        "score_label": "348 likes · 1,692 downloads",
+        "author": "nvidia",
+        "published": "2026-09-24T21:13:25.000Z",
+        "snippet": "text-to-image · transformers",
+        "extra_link": null
+      },
+      {
+        "id": "model-ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+        "section": "models",
+        "title": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+        "url": "https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
+        "score": 297,
+        "score_label": "297 likes · 24,931 downloads",
+        "author": "ISTA-DASLab",
+        "published": "2026-11-26T13:01:01.000Z",
+        "snippet": "text-generation · gguf",
+        "extra_link": null
+      }
+    ],
+    "newsletters": [
+      {
+        "id": "nl-https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+        "section": "newsletters",
+        "title": "[AINews] Inside the exploding Coding Data Market",
+        "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-28T03:45:59+00:00",
+        "snippet": "November 27, 2026 — How frontier labs buy training data.",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+        "section": "newsletters",
+        "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+        "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-27T22:19:18+00:00",
+        "snippet": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how sm…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+        "section": "newsletters",
+        "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+        "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-26T23:02:48+00:00",
+        "snippet": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+        "section": "newsletters",
+        "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+        "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-25T22:28:01+00:00",
+        "snippet": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game,…",
+        "extra_link": null
+      },
+      {
+        "id": "nl-https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+        "section": "newsletters",
+        "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+        "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+        "score": null,
+        "score_label": "Latent Space",
+        "author": "Latent Space",
+        "published": "2026-11-25T22:23:41+00:00",
+        "snippet": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
+        "extra_link": null
+      }
+    ]
+  }
+}
